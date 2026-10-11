@@ -1,6 +1,70 @@
 {
-  "generated": "2026-10-11T05:56:06.237Z",
+  "generated": "2026-10-11T13:00:18.219Z",
   "items": [
+    {
+      "title": "Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux",
+      "url": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "title": "The artist who died alongside Scott",
+      "url": "https://eclecticlight.co/2026/10/11/the-artist-who-died-alongside-scott/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-11T11:30:00.000Z"
+    },
+    {
+      "title": "I tested the Lenovo Googlebook 15 — here’s why it’s my favorite",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13a051RV9lUUh0OXZ6aFlwQlM1TGlhVkJwY21XNGxZZDhoX3RTeXRwM3JhRUNtaS1mVkpkbVRveXd1RFZXWDdyR1ByTUF2MFViVFJQNWdCbzFUNkdmd2JSOFU0UnBaeHVBamN2RXpTbTdJYUg1MFZtSnRoRQ?oc=5",
+      "source": "Tom's Guide",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-11T10:30:00.000Z"
+    },
+    {
+      "title": "Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results",
+      "url": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-11T10:18:00.000Z"
+    },
+    {
+      "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
+      "url": "https://www.phoronix.com/news/Drgn-0.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-11T10:07:17.000Z"
+    },
+    {
+      "title": "Corsair Novablade Pro & 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7",
+      "url": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-11T09:58:19.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: When is it safe to upgrade macOS?",
+      "url": "https://eclecticlight.co/2026/10/11/last-week-on-my-mac-when-is-it-safe-to-upgrade-macos/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-11T07:00:00.000Z"
+    },
+    {
+      "title": "Googlebook OS now runs on Apple Silicon Macs in an unofficial VM",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5",
+      "source": "The Gadgeteer",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-11T06:24:13.000Z"
+    },
     {
       "title": "Googlebook OS now runs on Mac – well, unofficially",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5",
@@ -250,44 +314,12 @@
       "date": "2026-10-09T13:01:10.000Z"
     },
     {
-      "title": "Faster Zswap With Patches To Batch The Writeback I/O",
-      "url": "https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T11:34:56.000Z"
-    },
-    {
       "title": "Thomas Fearnley the brief Wanderer",
       "url": "https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-09T11:30:00.000Z"
-    },
-    {
-      "title": "Linux Patches Finally Make Hibernation Possible In Secure Boot / Lockdown Mode",
-      "url": "https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T10:27:04.000Z"
-    },
-    {
-      "title": "Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development",
-      "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T10:06:04.000Z"
-    },
-    {
-      "title": "AMD Caps Off Linux 7.4 Graphics Driver Development With More HDMI 2.1 Fixes",
-      "url": "https://www.phoronix.com/news/Linux-7.4-AMDGPU-Final",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T09:54:00.000Z"
     },
     {
       "title": "Struggling to pair your phone with Googlebook? Google says a fix is rolling out now",
@@ -426,22 +458,6 @@
       "date": "2026-10-07T15:25:00.000Z"
     },
     {
-      "title": "The Galaxy Tab S12 is so good it makes Googlebook look dead on arrival",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZDZDdRY1RoVmRnWXR3SUhhZTQ2emd3MzVzUnAtam93NVA3YmhxV1k2N3J4NGpjT01ZbElnSl9fOUdHUHkwOGJvaWVnVDdVZEJGcDVHRWs5ektUUVBIVzFGRjVnaXJVZGdISWdsd05qektFMnM0SlFpaEo2RTNiU0hpcmtzMDZDWjZyOHpCWmtyckFFRDFBUDhUbnFMUQ?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-07T15:00:10.000Z"
-    },
-    {
-      "title": "Justice League all over again; Henry Cavill’s mustache vanishes in new Googlebook promo [Video]",
-      "url": "https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-07T13:30:00.000Z"
-    },
-    {
       "title": "Painting a good story: Multi-frame",
       "url": "https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/",
       "source": "Eclectic Light",
@@ -480,22 +496,6 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-06T18:27:16.000Z"
-    },
-    {
-      "title": "Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27",
-      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-06T18:17:43.000Z"
-    },
-    {
-      "title": "Apple has just released an update to XProtect for all macOS",
-      "url": "https://eclecticlight.co/2026/10/06/apple-has-just-released-an-update-to-xprotect-for-all-macos-22/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-06T18:16:53.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",

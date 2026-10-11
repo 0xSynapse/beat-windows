@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:00:18 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux</title>
+      <link>https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The artist who died alongside Scott</title>
+      <link>https://eclecticlight.co/2026/10/11/the-artist-who-died-alongside-scott/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/11/the-artist-who-died-alongside-scott/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 11 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tested the Lenovo Googlebook 15 — here’s why it’s my favorite</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE13a051RV9lUUh0OXZ6aFlwQlM1TGlhVkJwY21XNGxZZDhoX3RTeXRwM3JhRUNtaS1mVkpkbVRveXd1RFZXWDdyR1ByTUF2MFViVFJQNWdCbzFUNkdmd2JSOFU0UnBaeHVBamN2RXpTbTdJYUg1MFZtSnRoRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE13a051RV9lUUh0OXZ6aFlwQlM1TGlhVkJwY21XNGxZZDhoX3RTeXRwM3JhRUNtaS1mVkpkbVRveXd1RFZXWDdyR1ByTUF2MFViVFJQNWdCbzFUNkdmd2JSOFU0UnBaeHVBamN2RXpTbTdJYUg1MFZtSnRoRQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Tom's Guide</source>
+      <pubDate>Sun, 11 Oct 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results</title>
+      <link>https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 11 Oct 2026 10:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drgn 0.3 Released For This &quot;Natural&quot; Programmable Debugger From Meta</title>
+      <link>https://www.phoronix.com/news/Drgn-0.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Drgn-0.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 11 Oct 2026 10:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Corsair Novablade Pro &amp; 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7</title>
+      <link>https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 11 Oct 2026 09:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Week on My Mac: When is it safe to upgrade macOS?</title>
+      <link>https://eclecticlight.co/2026/10/11/last-week-on-my-mac-when-is-it-safe-to-upgrade-macos/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/11/last-week-on-my-mac-when-is-it-safe-to-upgrade-macos/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS now runs on Apple Silicon Macs in an unofficial VM</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">The Gadgeteer</source>
+      <pubDate>Sun, 11 Oct 2026 06:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook OS now runs on Mac – well, unofficially</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5</link>
@@ -256,44 +320,12 @@
       <pubDate>Fri, 09 Oct 2026 13:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>Faster Zswap With Patches To Batch The Writeback I/O</title>
-      <link>https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 11:34:56 GMT</pubDate>
-    </item>
-    <item>
       <title>Thomas Fearnley the brief Wanderer</title>
       <link>https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 09 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Patches Finally Make Hibernation Possible In Secure Boot / Lockdown Mode</title>
-      <link>https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 10:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 10:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Caps Off Linux 7.4 Graphics Driver Development With More HDMI 2.1 Fixes</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-AMDGPU-Final</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-AMDGPU-Final</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 09:54:00 GMT</pubDate>
     </item>
     <item>
       <title>Struggling to pair your phone with Googlebook? Google says a fix is rolling out now</title>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Thu, 08 Oct 2026 16:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can now run Googlebook OS on your Mac, unofficially of course</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Thu, 08 Oct 2026 13:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting with impaired vision: Introduction</title>
-      <link>https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 08 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What controls access to files?</title>
-      <link>https://eclecticlight.co/2026/10/08/what-controls-access-to-files/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/08/what-controls-access-to-files/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 08 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jaguar Type 01</title>
-      <link>https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</link>
-      <guid isPermaLink="true">https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 07 Oct 2026 23:22:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
