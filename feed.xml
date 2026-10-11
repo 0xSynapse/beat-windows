@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 23:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:56:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Googlebook OS now runs on Mac – well, unofficially</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Trusted Reviews</source>
+      <pubDate>Sun, 11 Oct 2026 01:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out</title>
+      <link>https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Sun, 11 Oct 2026 00:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNGLWFqbjVnd3ROcXk0bDVNay1UVU5uRko5QnBqLVhIWTBMSEU4T1JXZDdsWFdBcDcza3pQdEhtck1sMmNrLW5nSkhDT0E1UWl5X2lGV2YxSnlnMjFnQUFXcWJGMmtsWUllN1lBTXoteFZNNEd0ekd4U1pDSkhfbnFMQ0x1ckhZYnpZZE5aRjhreHB2WTc0Z1J3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNGLWFqbjVnd3ROcXk0bDVNay1UVU5uRko5QnBqLVhIWTBMSEU4T1JXZDdsWFdBcDcza3pQdEhtck1sMmNrLW5nSkhDT0E1UWl5X2lGV2YxSnlnMjFnQUFXcWJGMmtsWUllN1lBTXoteFZNNEd0ekd4U1pDSkhfbnFMQ0x1ckhZYnpZZE5aRjhreHB2WTc0Z1J3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Sun, 11 Oct 2026 00:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>I've Been Testing Googlebooks for a Week. So Far, They're Just for Android Superfans</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXdRclZjVGdVV3FUYzBINWNPVjUyOHlJbmxOb0NQWTI1MUU2dExGWktXTUVZUnlBd2ZBRnJxNVFwMHd3OGtRYWNxTGFNcC1FSjhmeWlkN3RCVXBOSmFNTGlDLWlGUXp0dFlnZl9sbElkcVdZRld6anRWVTJ3aVI2TmNLbnJBQVhFWWhqYlM4SE81OWtNY0NScFpEbWx0U2YweHVn?oc=5</link>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 07 Oct 2026 23:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 07 Oct 2026 22:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung Googlebook Geekbench Listing: Confirmed vs Rumor</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gadget Hacks</source>
-      <pubDate>Wed, 07 Oct 2026 18:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture</title>
-      <link>https://9to5google.com/2026/10/07/googlebook-glowbar/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/07/googlebook-glowbar/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Wed, 07 Oct 2026 15:25:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
