@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-11T18:08:25.543Z",
+  "generated": "2026-10-11T22:04:25.142Z",
   "items": [
+    {
+      "title": "Tello's GameSir T1d controller as a Linux Xbox controller",
+      "url": "https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-11T22:01:59.000Z"
+    },
+    {
+      "title": "★ X Once Again Marks the Spot",
+      "url": "https://daringfireball.net/2026/10/x_once_again_marks_the_spot",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-11T21:05:33.000Z"
+    },
+    {
+      "title": "Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago",
+      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-11T19:02:38.000Z"
+    },
     {
       "title": "Stable kernels 7.2.10 and 6.18.56",
       "url": "https://lwn.net/Articles/1099764/",
@@ -298,14 +322,6 @@
       "date": "2026-10-09T14:38:27.000Z"
     },
     {
-      "title": "Let's Encrypt moving to 64-day certificate lifetimes in 2027",
-      "url": "https://lwn.net/Articles/1099588/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-09T14:02:44.000Z"
-    },
-    {
       "title": "A week with Googlebooks: four notes from our testing so far",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
       "source": "The Verge",
@@ -474,28 +490,12 @@
       "date": "2026-10-07T07:05:27.000Z"
     },
     {
-      "title": "Explainer: Keychains",
-      "url": "https://eclecticlight.co/2026/10/07/explainer-keychains/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-07T06:30:00.000Z"
-    },
-    {
       "title": "New laptops and OpenBSD: HP Envy 17-DA0013dx",
       "url": "https://undeadly.org/cgi?action=article;sid=20261007053155",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-10-07T05:31:55.000Z"
-    },
-    {
-      "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
-      "url": "https://github.com/4evy/pared",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-06T18:27:16.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",

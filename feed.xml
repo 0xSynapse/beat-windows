@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 18:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:04:25 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tello's GameSir T1d controller as a Linux Xbox controller</title>
+      <link>https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/</link>
+      <guid isPermaLink="true">https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 11 Oct 2026 22:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ X Once Again Marks the Spot</title>
+      <link>https://daringfireball.net/2026/10/x_once_again_marks_the_spot</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/x_once_again_marks_the_spot</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 11 Oct 2026 21:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago</title>
+      <link>https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 11 Oct 2026 19:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>Stable kernels 7.2.10 and 6.18.56</title>
       <link>https://lwn.net/Articles/1099764/</link>
@@ -304,14 +328,6 @@
       <pubDate>Fri, 09 Oct 2026 14:38:27 GMT</pubDate>
     </item>
     <item>
-      <title>Let's Encrypt moving to 64-day certificate lifetimes in 2027</title>
-      <link>https://lwn.net/Articles/1099588/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099588/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 09 Oct 2026 14:02:44 GMT</pubDate>
-    </item>
-    <item>
       <title>A week with Googlebooks: four notes from our testing so far</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 08 Oct 2026 19:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October</title>
-      <link>https://x.com/gregjoz/status/2108226096407994858</link>
-      <guid isPermaLink="true">https://x.com/gregjoz/status/2108226096407994858</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 08 Oct 2026 19:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Logitech brings its mouse &amp; keyboard controller to Googlebook, supports Magic Pointer</title>
-      <link>https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Thu, 08 Oct 2026 17:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
