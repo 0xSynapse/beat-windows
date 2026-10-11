@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-11T13:00:18.219Z",
+  "generated": "2026-10-11T18:08:25.543Z",
   "items": [
+    {
+      "title": "Stable kernels 7.2.10 and 6.18.56",
+      "url": "https://lwn.net/Articles/1099764/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-11T14:35:57.000Z"
+    },
+    {
+      "title": "Google Begins Fixing its Googlebook Mess",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUm50ZUE5RzVQcjJWRURQMzVOVkdta3dKbzJvMVVkX0g5WnRJT0lvMHlib2ZTT1JwczcwbjdZQnJEMkVET2hyMElWTklKRkM2UmV3aVktbDJCTllMdWM3clE4LXR3eFJneXQ5NWhkM0NueGJYOG1CQ3cxbDJSUHNVX3dlVEJjTFF5YUVGazdCcDdCempmdGVIUWNJeUJ3V1RabUE?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-11T13:43:25.000Z"
+    },
+    {
+      "title": "Linux Landing Kernel Workaround For AMD TLBI Erratum #1718",
+      "url": "https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-11T13:20:00.000Z"
+    },
     {
       "title": "Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux",
       "url": "https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU",
@@ -282,28 +306,12 @@
       "date": "2026-10-09T14:02:44.000Z"
     },
     {
-      "title": "Ubuntu 26.10 Sticks To Using GCC 15 By Default",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T13:38:58.000Z"
-    },
-    {
       "title": "A week with Googlebooks: four notes from our testing so far",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
       "source": "The Verge",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-09T13:36:02.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1099587/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-09T13:08:14.000Z"
     },
     {
       "title": "I thought the Acer Googlebook's Magic Pointer would annoy me. It didn't",
@@ -448,14 +456,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-07T18:01:55.000Z"
-    },
-    {
-      "title": "Googlebook Glowbar doesn’t have the ‘knock-knock’ Chromebook Pixel battery gesture",
-      "url": "https://9to5google.com/2026/10/07/googlebook-glowbar/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-07T15:25:00.000Z"
     },
     {
       "title": "Painting a good story: Multi-frame",

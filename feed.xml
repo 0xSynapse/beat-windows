@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:08:25 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stable kernels 7.2.10 and 6.18.56</title>
+      <link>https://lwn.net/Articles/1099764/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099764/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sun, 11 Oct 2026 14:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Begins Fixing its Googlebook Mess</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQUm50ZUE5RzVQcjJWRURQMzVOVkdta3dKbzJvMVVkX0g5WnRJT0lvMHlib2ZTT1JwczcwbjdZQnJEMkVET2hyMElWTklKRkM2UmV3aVktbDJCTllMdWM3clE4LXR3eFJneXQ5NWhkM0NueGJYOG1CQ3cxbDJSUHNVX3dlVEJjTFF5YUVGazdCcDdCempmdGVIUWNJeUJ3V1RabUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxQUm50ZUE5RzVQcjJWRURQMzVOVkdta3dKbzJvMVVkX0g5WnRJT0lvMHlib2ZTT1JwczcwbjdZQnJEMkVET2hyMElWTklKRkM2UmV3aVktbDJCTllMdWM3clE4LXR3eFJneXQ5NWhkM0NueGJYOG1CQ3cxbDJSUHNVX3dlVEJjTFF5YUVGazdCcDdCempmdGVIUWNJeUJ3V1RabUE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Thurrott.com</source>
+      <pubDate>Sun, 11 Oct 2026 13:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Landing Kernel Workaround For AMD TLBI Erratum #1718</title>
+      <link>https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 11 Oct 2026 13:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux</title>
       <link>https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU</link>
@@ -288,28 +312,12 @@
       <pubDate>Fri, 09 Oct 2026 14:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.10 Sticks To Using GCC 15 By Default</title>
-      <link>https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 13:38:58 GMT</pubDate>
-    </item>
-    <item>
       <title>A week with Googlebooks: four notes from our testing so far</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">The Verge</source>
       <pubDate>Fri, 09 Oct 2026 13:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1099587/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099587/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 09 Oct 2026 13:08:14 GMT</pubDate>
     </item>
     <item>
       <title>I thought the Acer Googlebook's Magic Pointer would annoy me. It didn't</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 08 Oct 2026 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Someone got Googlebook OS running on an Apple Silicon Mac</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Thu, 08 Oct 2026 16:53:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
