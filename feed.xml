@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 22:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:23:22 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
+      <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 12 Oct 2026 00:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modder Boots Googlebook OS on Apple Silicon Macs</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">TechPowerUp</source>
+      <pubDate>Mon, 12 Oct 2026 00:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">TweakTown</source>
+      <pubDate>Sun, 11 Oct 2026 22:26:15 GMT</pubDate>
+    </item>
     <item>
       <title>Tello's GameSir T1d controller as a Linux Xbox controller</title>
       <link>https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/</link>
@@ -54,6 +78,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sun, 11 Oct 2026 13:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acer Googlebook 14 Review: The Lowest-Cost Ticket Into Google’s New Era</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRnIyYW5wellkdGNSLV83aFBPVnRpNXY2OFRMVUVOMEZncEhaemdRbERxNU01OG4xUm1NVnozU0tzNWdTVFBCOGtTRVUwMmV1MmtDaFUwMzJHeTRo?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRnIyYW5wellkdGNSLV83aFBPVnRpNXY2OFRMVUVOMEZncEhaemdRbERxNU01OG4xUm1NVnozU0tzNWdTVFBCOGtTRVUwMmV1MmtDaFUwMzJHeTRo?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Sun, 11 Oct 2026 13:00:13 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux</title>
@@ -320,14 +352,6 @@
       <pubDate>Fri, 09 Oct 2026 14:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI</title>
-      <link>https://www.phoronix.com/review/amd-perfopt-prior-gen</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-perfopt-prior-gen</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 14:38:27 GMT</pubDate>
-    </item>
-    <item>
       <title>A week with Googlebooks: four notes from our testing so far</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5</guid>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Police</source>
       <pubDate>Fri, 09 Oct 2026 05:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let’s Check In on Trump’s Blog</title>
-      <link>https://truthsocial.com/@realDonaldTrump/posts/117406176604364910</link>
-      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117406176604364910</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 08 Oct 2026 22:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Developer Ports Googlebook OS to Apple Silicon Mac Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEdVSE1sbG05SlF4MU9XdTFoQ0NSNHo0TDBkYXJRTEg1bEZPVktmNnRmR190MzJIaEJnUUVsLWdoZ3VWZm1nUTg5Q0lSZDNhN2JYaDc3RHIzSkRQQjhGSVBVRzY0V3JEMUJxTHN0WmdCLTV2Wmp5SHVqb0hFZVQ3SkZSY2s3RUE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEdVSE1sbG05SlF4MU9XdTFoQ0NSNHo0TDBkYXJRTEg1bEZPVktmNnRmR190MzJIaEJnUUVsLWdoZ3VWZm1nUTg5Q0lSZDNhN2JYaDc3RHIzSkRQQjhGSVBVRzY0V3JEMUJxTHN0WmdCLTV2Wmp5SHVqb0hFZVQ3SkZSY2s3RUE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Technetbook</source>
-      <pubDate>Thu, 08 Oct 2026 22:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Is Slow-Rolling iOS 27 Adoption, So Far</title>
-      <link>https://mastodon.social/@_Davidsmith/117355154519434137</link>
-      <guid isPermaLink="true">https://mastodon.social/@_Davidsmith/117355154519434137</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 08 Oct 2026 19:30:36 GMT</pubDate>
     </item>
   </channel>
 </rss>

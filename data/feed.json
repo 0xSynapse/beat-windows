@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-11T22:04:25.142Z",
+  "generated": "2026-10-12T01:23:22.548Z",
   "items": [
+    {
+      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T00:16:25.000Z"
+    },
+    {
+      "title": "Modder Boots Googlebook OS on Apple Silicon Macs",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5",
+      "source": "TechPowerUp",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T00:05:56.000Z"
+    },
+    {
+      "title": "Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5",
+      "source": "TweakTown",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-11T22:26:15.000Z"
+    },
     {
       "title": "Tello's GameSir T1d controller as a Linux Xbox controller",
       "url": "https://blog.jacq.cc/guides/gamesir-t1d-linux-gamepad/",
@@ -48,6 +72,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-11T13:20:00.000Z"
+    },
+    {
+      "title": "Acer Googlebook 14 Review: The Lowest-Cost Ticket Into Google’s New Era",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRnIyYW5wellkdGNSLV83aFBPVnRpNXY2OFRMVUVOMEZncEhaemdRbERxNU01OG4xUm1NVnozU0tzNWdTVFBCOGtTRVUwMmV1MmtDaFUwMzJHeTRo?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-11T13:00:13.000Z"
     },
     {
       "title": "Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux",
@@ -314,14 +346,6 @@
       "date": "2026-10-09T14:58:00.000Z"
     },
     {
-      "title": "AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI",
-      "url": "https://www.phoronix.com/review/amd-perfopt-prior-gen",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T14:38:27.000Z"
-    },
-    {
       "title": "A week with Googlebooks: four notes from our testing so far",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
       "source": "The Verge",
@@ -418,22 +442,6 @@
       "date": "2026-10-08T17:35:00.000Z"
     },
     {
-      "title": "Someone got Googlebook OS running on an Apple Silicon Mac",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUp3dzVqcC1EQTlBRVF4ZzNXdEhkd3ZCQzRxU2RwNTVtdmxaMGt4emNFc3lqSGFRQWpKeTRiRWxhU3NWdnpUc1BqTS1GbjJpSkJURTRLTVV4SXFPWklYY3pZVlpPdlpHbmt4b3lxVjNnSE04ckFEa09qeWtMbEZ1SG5DUDdFTUlRazZ5OQ?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-08T16:53:22.000Z"
-    },
-    {
-      "title": "You can now run Googlebook OS on your Mac, unofficially of course",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNTY2Q3dlVaZnF0S1dTNVlZc3BDWFpHVU9xT3l1NFdTU0xWaGVPTTh5b0J5TVB6bExLYnVsVmtmaUZCOFVia1ktcnAzdnA4cHdYQkItN1hqOUdGZHhBYkZiYTRVd01jVFVaZzJJN3ZGZVRwRGdXTklJdWZ3N3lpZkVyeVV5a2lE?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-08T13:01:00.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Introduction",
       "url": "https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/",
       "source": "Eclectic Light",
@@ -464,14 +472,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-07T22:02:43.000Z"
-    },
-    {
-      "title": "Samsung Googlebook Geekbench Listing: Confirmed vs Rumor",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW04bFdlUVVOcUR1QW9FYWYwLV9kaXQ2SVZ6dzFzMmZjV1JpU0VZVmNKSFNmcnRveDlicGJXanlHd1g0VnQtTG1qZkRmX1dPeVl3Rl93U2VMdm5oUXUwN0NyendCbjRPMUdrTGpuWWFqbERLZnNRQzNTN2Ntc3BZa3NRN0NhWmtyQkFfX0s0NmtpekpCWDFrMw?oc=5",
-      "source": "Gadget Hacks",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-07T18:01:55.000Z"
     },
     {
       "title": "Painting a good story: Multi-frame",
