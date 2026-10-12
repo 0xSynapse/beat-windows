@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 01:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:20:45 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I’ve had a bad 48 hours using Googlebooks, but there’s one saving grace</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOakhLTGZtdk8wLWJXLTV0UDhnVnU3aEN4eGFTSFdIUUZLcW50M2dHYUI4ZTM3ODBUMDh6bmdQc1dsVkh5U0YzdzFxVmtUY1dIb2lUY0NjN2x0S2FJQzhDMG5VLWp4NW55VC1sY1JJQ2RZODFSdExwdjdiR0RKUWpSUWJHejB6Zw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxOakhLTGZtdk8wLWJXLTV0UDhnVnU3aEN4eGFTSFdIUUZLcW50M2dHYUI4ZTM3ODBUMDh6bmdQc1dsVkh5U0YzdzFxVmtUY1dIb2lUY0NjN2x0S2FJQzhDMG5VLWp4NW55VC1sY1JJQ2RZODFSdExwdjdiR0RKUWpSUWJHejB6Zw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-rc7-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-rc7-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 12 Oct 2026 08:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solutions to Saturday Mac riddles 381</title>
+      <link>https://eclecticlight.co/2026/10/12/solutions-to-saturday-mac-riddles-381/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/12/solutions-to-saturday-mac-riddles-381/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When to expect updates to macOS 27 Golden Gate</title>
+      <link>https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3-2-1 Backup Strategy with restic and Backblaze B2</title>
+      <link>https://chuck.is/paranoid/</link>
+      <guid isPermaLink="true">https://chuck.is/paranoid/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 12 Oct 2026 04:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernel prepatch 7.3-rc7</title>
+      <link>https://lwn.net/Articles/1099798/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099798/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 12 Oct 2026 03:31:34 GMT</pubDate>
+    </item>
     <item>
       <title>Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code</title>
       <link>https://www.phoronix.com/news/Linus-Torvalds-Claude-Code</link>
@@ -320,36 +368,12 @@
       <pubDate>Fri, 09 Oct 2026 17:15:44 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Adding kernel control-flow-integrity checking to GCC</title>
-      <link>https://lwn.net/Articles/1098670/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098670/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 09 Oct 2026 17:06:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it</title>
       <link>https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Fri, 09 Oct 2026 15:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] The state of systemd: 2026 edition</title>
-      <link>https://lwn.net/Articles/1099024/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099024/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 09 Oct 2026 14:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.15 Released With Experimental JIT Compiler Running Faster</title>
-      <link>https://www.phoronix.com/news/Python-3.15-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Python-3.15-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 09 Oct 2026 14:58:00 GMT</pubDate>
     </item>
     <item>
       <title>A week with Googlebooks: four notes from our testing so far</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Fri, 09 Oct 2026 08:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deeper dive: Keyboard differences between Windows and Macs</title>
-      <link>https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Fri, 09 Oct 2026 06:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>How the macOS System has changed over 7 years</title>
-      <link>https://eclecticlight.co/2026/10/09/how-the-macos-system-has-changed-over-7-years/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/09/how-the-macos-system-has-changed-over-7-years/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 09 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook is now available on Mac through a clever virtual machine workaround</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxORGxISHZnSGRlVEpOYTVpWGxfWXZVOWhrWjM2UHVRQXZ5cFF0cVFVS2VnUGJnNVVXdVJTc21lV0RYT1pWYUhLTzFSYm9ZVmhYeDBWOWVLTTlRT0pONWd2Z1JVZ09YczZQeTg4bVlHR25tWXNEUHRMVTNoOGNLX1FhN3dxbWNPV0hTLVNKVmt5Mm12MXJFVWo2bGpmb0l5QQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxORGxISHZnSGRlVEpOYTVpWGxfWXZVOWhrWjM2UHVRQXZ5cFF0cVFVS2VnUGJnNVVXdVJTc21lV0RYT1pWYUhLTzFSYm9ZVmhYeDBWOWVLTTlRT0pONWd2Z1JVZ09YczZQeTg4bVlHR25tWXNEUHRMVTNoOGNLX1FhN3dxbWNPV0hTLVNKVmt5Mm12MXJFVWo2bGpmb0l5QQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Fri, 09 Oct 2026 05:57:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

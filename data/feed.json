@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-12T01:23:22.548Z",
+  "generated": "2026-10-12T09:20:45.583Z",
   "items": [
+    {
+      "title": "I’ve had a bad 48 hours using Googlebooks, but there’s one saving grace",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOakhLTGZtdk8wLWJXLTV0UDhnVnU3aEN4eGFTSFdIUUZLcW50M2dHYUI4ZTM3ODBUMDh6bmdQc1dsVkh5U0YzdzFxVmtUY1dIb2lUY0NjN2x0S2FJQzhDMG5VLWp4NW55VC1sY1JJQ2RZODFSdExwdjdiR0RKUWpSUWJHejB6Zw?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T09:00:00.000Z"
+    },
+    {
+      "title": "Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc7-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T08:44:15.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 381",
+      "url": "https://eclecticlight.co/2026/10/12/solutions-to-saturday-mac-riddles-381/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-12T08:00:00.000Z"
+    },
+    {
+      "title": "When to expect updates to macOS 27 Golden Gate",
+      "url": "https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-12T06:30:00.000Z"
+    },
+    {
+      "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
+      "url": "https://chuck.is/paranoid/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-12T04:21:09.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.3-rc7",
+      "url": "https://lwn.net/Articles/1099798/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-12T03:31:34.000Z"
+    },
     {
       "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
       "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
@@ -314,36 +362,12 @@
       "date": "2026-10-09T17:15:44.000Z"
     },
     {
-      "title": "[$] Adding kernel control-flow-integrity checking to GCC",
-      "url": "https://lwn.net/Articles/1098670/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-09T17:06:12.000Z"
-    },
-    {
       "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
       "url": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-09T15:55:00.000Z"
-    },
-    {
-      "title": "[$] The state of systemd: 2026 edition",
-      "url": "https://lwn.net/Articles/1099024/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-09T14:58:15.000Z"
-    },
-    {
-      "title": "Python 3.15 Released With Experimental JIT Compiler Running Faster",
-      "url": "https://www.phoronix.com/news/Python-3.15-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T14:58:00.000Z"
     },
     {
       "title": "A week with Googlebooks: four notes from our testing so far",
@@ -434,14 +458,6 @@
       "date": "2026-10-08T19:00:09.000Z"
     },
     {
-      "title": "Logitech brings its mouse & keyboard controller to Googlebook, supports Magic Pointer",
-      "url": "https://9to5google.com/2026/10/08/logitech-brings-its-mouse-keyboard-controller-to-googlebook-supports-magic-pointer/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-08T17:35:00.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Introduction",
       "url": "https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/",
       "source": "Eclectic Light",
@@ -464,22 +480,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-07T23:22:28.000Z"
-    },
-    {
-      "title": "Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-07T22:02:43.000Z"
-    },
-    {
-      "title": "Painting a good story: Multi-frame",
-      "url": "https://eclecticlight.co/2026/10/07/painting-a-good-story-multi-frame/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-07T11:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
