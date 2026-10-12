@@ -1,6 +1,142 @@
 {
-  "generated": "2026-10-12T09:20:45.583Z",
+  "generated": "2026-10-12T19:51:08.665Z",
   "items": [
+    {
+      "title": "First Impressions: Dell XPS Googlebook and the Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5",
+      "source": "John Scalzi's Whatever",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T18:20:37.000Z"
+    },
+    {
+      "title": "Ubuntu's Myna Speech-To-Text Now Available In Tech Preview",
+      "url": "https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T17:31:59.000Z"
+    },
+    {
+      "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-12T16:43:46.000Z"
+    },
+    {
+      "title": "ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo",
+      "url": "https://www.phoronix.com/review/rocm-10-opencl-rusticl",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T16:32:24.000Z"
+    },
+    {
+      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
+      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-12T16:00:00.000Z"
+    },
+    {
+      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnYmlYMXUwZER2VlBmZlJQdG9CdmVuTklBT0MwWndSRzJObW1zb1BCTEkzODNUN0RKbTRWaURaN05hZVA4MjVGZ19wcWtaSkp5S0ZIa0JsWWFnNjZFSnlHcXlqTjladw?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T16:00:00.000Z"
+    },
+    {
+      "title": "[$] The 2026 Maintainers Summit",
+      "url": "https://lwn.net/Articles/1099594/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-12T15:27:27.000Z"
+    },
+    {
+      "title": "LineageOS 24 released",
+      "url": "https://lwn.net/Articles/1099950/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-12T13:13:57.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1099949/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-12T13:00:41.000Z"
+    },
+    {
+      "title": "Firefox 158 Now Available With JPEG-XL Support By Default",
+      "url": "https://www.phoronix.com/news/Firefox-158-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T12:25:00.000Z"
+    },
+    {
+      "title": "Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T12:00:10.000Z"
+    },
+    {
+      "title": "Google’s new kind of laptop blends Android and Chromebook",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RWZ3VyTHl5WEhmUnNrWnBxS1lIM2NNRlY5VjBjQnA0WXdtSjF4RlB6RkRlbThzYTBfa0UyejZtQl9lSFotM0pZdUZ3QlZBMVRKSl9yd1U5eXZXdnh2dUxZMHQtQmtOVk5USGN1OHYzMkJqek1ZZ19QNnVsZ1N0eVA4cFU3QdIBiwFBVV95cUxPNmNJSlUwTnpFU003aUhGQXBpSko5X0Y3WFowS252SU9hNUdGQ3dIOUFSRU9weVFYODhrQVB5QkwtSzRHMk4tV3hJRjJHdEZqbjFMNHhTa1BTdkt3dTUyeHd6VmZMLVdxaDhzSFU0ZU1nNldkSGJoQ3dXb3lvU0ZvYlFFQXFXNHJYaEpv?oc=5",
+      "source": "KTLA",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T11:36:05.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Orpheus in the underworld",
+      "url": "https://eclecticlight.co/2026/10/12/hero-or-hooligan-orpheus-in-the-underworld/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-12T11:30:00.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Upstream Support For Three Snapdragon X2 Elite Laptops",
+      "url": "https://www.phoronix.com/news/ASUS-UX3407NA-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T11:16:13.000Z"
+    },
+    {
+      "title": "Linus Torvalds \"Did What I Preach\", Used AI To Make Code Decipherable & Uncovered More Bugs",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T10:03:00.000Z"
+    },
+    {
+      "title": "Intel Posts Updated Linux Driver Code For HDMI 2.1 FRL On Meteor Lake & Newer",
+      "url": "https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T09:44:00.000Z"
+    },
+    {
+      "title": "EXT4 Introducing IOmap Buffered I/O Path With Some Performance Gains",
+      "url": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T09:27:52.000Z"
+    },
     {
       "title": "I’ve had a bad 48 hours using Googlebooks, but there’s one saving grace",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOakhLTGZtdk8wLWJXLTV0UDhnVnU3aEN4eGFTSFdIUUZLcW50M2dHYUI4ZTM3ODBUMDh6bmdQc1dsVkh5U0YzdzFxVmtUY1dIb2lUY0NjN2x0S2FJQzhDMG5VLWp4NW55VC1sY1JJQ2RZODFSdExwdjdiR0RKUWpSUWJHejB6Zw?oc=5",
@@ -170,14 +306,6 @@
       "date": "2026-10-11T10:07:17.000Z"
     },
     {
-      "title": "Corsair Novablade Pro & 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7",
-      "url": "https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-11T09:58:19.000Z"
-    },
-    {
       "title": "Last Week on My Mac: When is it safe to upgrade macOS?",
       "url": "https://eclecticlight.co/2026/10/11/last-week-on-my-mac-when-is-it-safe-to-upgrade-macos/",
       "source": "Eclectic Light",
@@ -250,52 +378,12 @@
       "date": "2026-10-10T16:06:17.000Z"
     },
     {
-      "title": "Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?",
-      "url": "https://www.phoronix.com/news/Rolling-Releases-GenAI-Era",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T15:27:12.000Z"
-    },
-    {
-      "title": "Many Laptop & Gaming Handheld Support Improvements Coming For Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Laptops-Handhelds",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T13:40:51.000Z"
-    },
-    {
       "title": "The artist who died crossing Australia",
       "url": "https://eclecticlight.co/2026/10/10/the-artist-who-died-crossing-australia/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-10T11:30:00.000Z"
-    },
-    {
-      "title": "KNOD Progressing For Linux In-Kernel GPU Offloading For Network Packet Processing",
-      "url": "https://www.phoronix.com/news/KNOD-2026-GPU-Network-Process",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T10:25:00.000Z"
-    },
-    {
-      "title": "Linux Networking Diverts 50+ Fixes To Next Kernel, Still Bombarded With AI Fueled Churn",
-      "url": "https://www.phoronix.com/news/Linux-7.3-rc7-Networking",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T10:11:36.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.8 Ready For Release Next Week, Sees Last Minute NVIDIA Fix",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Next-Week",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T10:00:51.000Z"
     },
     {
       "title": "Saturday Mac riddles 381",
@@ -314,14 +402,6 @@
       "date": "2026-10-10T07:00:00.000Z"
     },
     {
-      "title": "SQLite 3.54 Released With Faster Performance, Drops Windows XP Support",
-      "url": "https://www.phoronix.com/news/SQLite-3.54-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-10T00:41:04.000Z"
-    },
-    {
       "title": "Googlebook’s app situation is a mess, and not just because things are missing",
       "url": "https://9to5google.com/2026/10/09/googlebook-app-situation-messy/",
       "source": "9to5Google · Googlebook",
@@ -338,30 +418,6 @@
       "date": "2026-10-09T18:45:00.000Z"
     },
     {
-      "title": "Ubuntu 26.10 To Include Desktop Images For RISC-V",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T17:59:00.000Z"
-    },
-    {
-      "title": "Valve's Proton 11.0-2e Released To Fix EA App Issues",
-      "url": "https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-09T17:56:40.000Z"
-    },
-    {
-      "title": "Python 3.15 released",
-      "url": "https://lwn.net/Articles/1099602/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-09T17:15:44.000Z"
-    },
-    {
       "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
       "url": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
       "source": "9to5Google · Googlebook",
@@ -370,36 +426,12 @@
       "date": "2026-10-09T15:55:00.000Z"
     },
     {
-      "title": "A week with Googlebooks: four notes from our testing so far",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFFHejJHMHhXYWV0OThYemV3VnVrUHRvcXE1QjVWR09ya3FyUFRaa1JHY2JyT0NKcTBXYVB1NzJiakw1MFlaR2dOdUlXdVRiamhnQVFka250X3owemI5Uklpd1ZEVXlaVDMtYlBBNzEzdjNvTER5cnB5U3ZER1hWZHN6dndkdTlMS1BMR2pKME1DTHM?oc=5",
-      "source": "The Verge",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-09T13:36:02.000Z"
-    },
-    {
-      "title": "I thought the Acer Googlebook's Magic Pointer would annoy me. It didn't",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92dHp0cHY2aHdLVmdzMDlZT0w1d0c1TGFOTlpHR1l5SFdnWGFVSGtPX0txLUlVc1BKWmFoczZ5VGs4LS1YTGgxOEkxTGxlQ2dtWnlVYUlMWER1WGhUNEVGUUFiNGNMal83bVRhcWk0aVFjOVROaXc?oc=5",
-      "source": "PCWorld",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-09T13:01:10.000Z"
-    },
-    {
       "title": "Thomas Fearnley the brief Wanderer",
       "url": "https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-09T11:30:00.000Z"
-    },
-    {
-      "title": "Struggling to pair your phone with Googlebook? Google says a fix is rolling out now",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGlUVkJsSHJHWFhHb18zUFhzTXJ1VU5zV29tci1EN1RIbWQwalNncXJYeUZKRHRNZEhiOFltMkNqRXd3Z0ZLMXZQMUMzNENmWmw4b1hqOWM1TnZ4UU5HSkpndG4zak5FMXBkOGRMNzJvb1I5STB0WFRlcE9fNS1TQkdsdEFNYmZGRHhaYkhB?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-09T08:56:00.000Z"
     },
     {
       "title": "Deeper dive: Keyboard differences between Windows and Macs",
@@ -418,28 +450,12 @@
       "date": "2026-10-09T06:30:00.000Z"
     },
     {
-      "title": "Googlebook is now available on Mac through a clever virtual machine workaround",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGxISHZnSGRlVEpOYTVpWGxfWXZVOWhrWjM2UHVRQXZ5cFF0cVFVS2VnUGJnNVVXdVJTc21lV0RYT1pWYUhLTzFSYm9ZVmhYeDBWOWVLTTlRT0pONWd2Z1JVZ09YczZQeTg4bVlHR25tWXNEUHRMVTNoOGNLX1FhN3dxbWNPV0hTLVNKVmt5Mm12MXJFVWo2bGpmb0l5QQ?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-09T05:57:20.000Z"
-    },
-    {
       "title": "Let’s Check In on Trump’s Blog",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-08T22:52:35.000Z"
-    },
-    {
-      "title": "Developer Ports Googlebook OS to Apple Silicon Mac Hardware",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaEdVSE1sbG05SlF4MU9XdTFoQ0NSNHo0TDBkYXJRTEg1bEZPVktmNnRmR190MzJIaEJnUUVsLWdoZ3VWZm1nUTg5Q0lSZDNhN2JYaDc3RHIzSkRQQjhGSVBVRzY0V3JEMUJxTHN0WmdCLTV2Wmp5SHVqb0hFZVQ3SkZSY2s3RUE?oc=5",
-      "source": "Technetbook",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-08T22:44:00.000Z"
     },
     {
       "title": "Apple Is Slow-Rolling iOS 27 Adoption, So Far",
@@ -464,22 +480,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-08T11:30:00.000Z"
-    },
-    {
-      "title": "What controls access to files?",
-      "url": "https://eclecticlight.co/2026/10/08/what-controls-access-to-files/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-08T06:30:00.000Z"
-    },
-    {
-      "title": "Jaguar Type 01",
-      "url": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-07T23:22:28.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
