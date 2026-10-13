@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 02:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:30:45 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pin files in iCloud Drive</title>
+      <link>https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag Middle East</source>
+      <pubDate>Tue, 13 Oct 2026 04:10:35 GMT</pubDate>
+    </item>
     <item>
       <title>FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5</title>
       <link>https://www.phoronix.com/news/FreeType-2.15-Released</link>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 10 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 381</title>
-      <link>https://eclecticlight.co/2026/10/10/saturday-mac-riddles-381/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/10/saturday-mac-riddles-381/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Try on-device AI with fm</title>
-      <link>https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 10 Oct 2026 07:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

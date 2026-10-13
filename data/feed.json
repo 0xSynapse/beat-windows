@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-13T02:04:41.479Z",
+  "generated": "2026-10-13T09:30:45.073Z",
   "items": [
+    {
+      "title": "Pin files in iCloud Drive",
+      "url": "https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-13T06:30:00.000Z"
+    },
+    {
+      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5",
+      "source": "PCMag Middle East",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-13T04:10:35.000Z"
+    },
     {
       "title": "FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5",
       "url": "https://www.phoronix.com/news/FreeType-2.15-Released",
@@ -418,14 +434,6 @@
       "date": "2026-10-09T18:45:00.000Z"
     },
     {
-      "title": "Googlebook’s hidden ‘Glowbar Disco’ turns your laptop’s lid into a light show — how to find it",
-      "url": "https://9to5google.com/2026/10/09/googlebook-glowbar-disco-app/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-09T15:55:00.000Z"
-    },
-    {
       "title": "Thomas Fearnley the brief Wanderer",
       "url": "https://eclecticlight.co/2026/10/09/thomas-fearnley-the-brief-wanderer/",
       "source": "Eclectic Light",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-08T19:00:09.000Z"
-    },
-    {
-      "title": "Painting with impaired vision: Introduction",
-      "url": "https://eclecticlight.co/2026/10/08/painting-with-impaired-vision-introduction/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-08T11:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
