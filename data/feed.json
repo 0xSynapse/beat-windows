@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-12T19:51:08.665Z",
+  "generated": "2026-10-13T02:04:41.479Z",
   "items": [
+    {
+      "title": "FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5",
+      "url": "https://www.phoronix.com/news/FreeType-2.15-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-13T00:24:04.000Z"
+    },
+    {
+      "title": "Intel Announces The GPU D Series For Crescent Island",
+      "url": "https://www.phoronix.com/news/Intel-GPU-D-Series",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-12T20:53:30.000Z"
+    },
     {
       "title": "First Impressions: Dell XPS Googlebook and the Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5",
@@ -288,22 +304,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-11T10:30:00.000Z"
-    },
-    {
-      "title": "Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results",
-      "url": "https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-11T10:18:00.000Z"
-    },
-    {
-      "title": "Drgn 0.3 Released For This \"Natural\" Programmable Debugger From Meta",
-      "url": "https://www.phoronix.com/news/Drgn-0.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-11T10:07:17.000Z"
     },
     {
       "title": "Last Week on My Mac: When is it safe to upgrade macOS?",

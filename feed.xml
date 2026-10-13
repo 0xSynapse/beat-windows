@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:04:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5</title>
+      <link>https://www.phoronix.com/news/FreeType-2.15-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeType-2.15-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 13 Oct 2026 00:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Announces The GPU D Series For Crescent Island</title>
+      <link>https://www.phoronix.com/news/Intel-GPU-D-Series</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-GPU-D-Series</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 12 Oct 2026 20:53:30 GMT</pubDate>
+    </item>
     <item>
       <title>First Impressions: Dell XPS Googlebook and the Googlebook OS</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</link>
@@ -294,22 +310,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Tom's Guide</source>
       <pubDate>Sun, 11 Oct 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results</title>
-      <link>https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 11 Oct 2026 10:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drgn 0.3 Released For This &quot;Natural&quot; Programmable Debugger From Meta</title>
-      <link>https://www.phoronix.com/news/Drgn-0.3-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Drgn-0.3-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 11 Oct 2026 10:07:17 GMT</pubDate>
     </item>
     <item>
       <title>Last Week on My Mac: When is it safe to upgrade macOS?</title>
