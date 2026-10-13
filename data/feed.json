@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-13T17:38:14.470Z",
+  "generated": "2026-10-13T22:51:27.087Z",
   "items": [
+    {
+      "title": "The 2026 Maintainers Summit",
+      "url": "https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-13T22:25:00.000Z"
+    },
+    {
+      "title": "Apple has just released an update to XProtect for all macOS",
+      "url": "https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-13T21:02:48.000Z"
+    },
+    {
+      "title": "Intel ISPC 1.32 Released With AVX10.2 & APX Support, Even AMD Zen 6 Too",
+      "url": "https://www.phoronix.com/news/Intel-ISPC-1.32-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-13T20:57:52.000Z"
+    },
+    {
+      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-13T18:46:32.000Z"
+    },
     {
       "title": "[$] KDE Linux at two",
       "url": "https://lwn.net/Articles/1099486/",
@@ -242,22 +274,6 @@
       "date": "2026-10-12T16:00:00.000Z"
     },
     {
-      "title": "[$] The 2026 Maintainers Summit",
-      "url": "https://lwn.net/Articles/1099594/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-12T15:27:27.000Z"
-    },
-    {
-      "title": "LineageOS 24 released",
-      "url": "https://lwn.net/Articles/1099950/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-12T13:13:57.000Z"
-    },
-    {
       "title": "Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5",
       "source": "Android Police",
@@ -402,14 +418,6 @@
       "date": "2026-10-11T00:35:00.000Z"
     },
     {
-      "title": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTNGLWFqbjVnd3ROcXk0bDVNay1UVU5uRko5QnBqLVhIWTBMSEU4T1JXZDdsWFdBcDcza3pQdEhtck1sMmNrLW5nSkhDT0E1UWl5X2lGV2YxSnlnMjFnQUFXcWJGMmtsWUllN1lBTXoteFZNNEd0ekd4U1pDSkhfbnFMQ0x1ckhZYnpZZE5aRjhreHB2WTc0Z1J3?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T00:35:00.000Z"
-    },
-    {
       "title": "Sunnny",
       "url": "https://sunnny.com/",
       "source": "Daring Fireball",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-09T06:30:00.000Z"
-    },
-    {
-      "title": "Let’s Check In on Trump’s Blog",
-      "url": "https://truthsocial.com/@realDonaldTrump/posts/117406176604364910",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-08T22:52:35.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

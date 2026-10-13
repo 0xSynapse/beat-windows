@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:51:27 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The 2026 Maintainers Summit</title>
+      <link>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</link>
+      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 13 Oct 2026 22:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has just released an update to XProtect for all macOS</title>
+      <link>https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 13 Oct 2026 21:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel ISPC 1.32 Released With AVX10.2 &amp; APX Support, Even AMD Zen 6 Too</title>
+      <link>https://www.phoronix.com/news/Intel-ISPC-1.32-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-ISPC-1.32-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 13 Oct 2026 20:57:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Tue, 13 Oct 2026 18:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>[$] KDE Linux at two</title>
       <link>https://lwn.net/Articles/1099486/</link>
@@ -248,22 +280,6 @@
       <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[$] The 2026 Maintainers Summit</title>
-      <link>https://lwn.net/Articles/1099594/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099594/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 12 Oct 2026 15:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>LineageOS 24 released</title>
-      <link>https://lwn.net/Articles/1099950/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099950/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 12 Oct 2026 13:13:57 GMT</pubDate>
-    </item>
-    <item>
       <title>Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">The Gadgeteer</source>
       <pubDate>Sun, 11 Oct 2026 06:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS now runs on Mac – well, unofficially</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Trusted Reviews</source>
-      <pubDate>Sun, 11 Oct 2026 01:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out</title>
-      <link>https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Sun, 11 Oct 2026 00:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
