@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-14T01:57:36.116Z",
+  "generated": "2026-10-14T07:44:03.893Z",
   "items": [
+    {
+      "title": "Googlebook OS just fixed one of its biggest early app annoyances",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV29aS3JRQ2NKWVBxc2RPU0RXWjBkMUtDVEFsdFN6bWVjbXdjTl9wZjlvQUZKRmJTUDM1YmRHcHM1UTNoTm04Y2ZyTkdNamVWcXJXLVZ1ME1EZlk2N3ktVWxYNlBxVm1OUFRaMEpHbjM2QXJLNlRBajFRNzlic2NrUHhFMEdlVE9JNlphUzkxVEpJOEJuNGc?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T06:41:00.000Z"
+    },
+    {
+      "title": "Where to look for Mac help: Tips or AI?",
+      "url": "https://eclecticlight.co/2026/10/14/where-to-look-for-mac-help-tips-or-ai/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-14T06:30:00.000Z"
+    },
     {
       "title": "Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch",
       "url": "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch",
@@ -410,14 +426,6 @@
       "date": "2026-10-11T06:24:13.000Z"
     },
     {
-      "title": "Googlebook OS now runs on Mac – well, unofficially",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU5kMElJSUk5c1ZfRUFQODdiaVNwbHR4anZjUHNWTGNkSWNDNE0tX2JzOVRQRV9BSDEteW1ZS1h5RVlwYkpfc1FVNlJJTEViWFJsRHRDM3lhSVBzYnZTcC1UZXp1b0Y5UzZ3WEpRNk93SW9YaTBleGZmRUZLdGhOWU9SRHBVdXQxZHVr?oc=5",
-      "source": "Trusted Reviews",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T01:17:53.000Z"
-    },
-    {
       "title": "Sunnny",
       "url": "https://sunnny.com/",
       "source": "Daring Fireball",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-09T06:51:52.000Z"
-    },
-    {
-      "title": "How the macOS System has changed over 7 years",
-      "url": "https://eclecticlight.co/2026/10/09/how-the-macos-system-has-changed-over-7-years/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-09T06:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
