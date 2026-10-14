@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-14T13:48:04.801Z",
+  "generated": "2026-10-14T18:41:36.894Z",
   "items": [
+    {
+      "title": "Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5",
+      "source": "Gizmodo",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T15:45:37.000Z"
+    },
+    {
+      "title": "Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF",
+      "url": "https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T15:39:04.000Z"
+    },
+    {
+      "title": "What I Self-Host | Aspirational Self Hosting Guide",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-14T15:32:48.000Z"
+    },
+    {
+      "title": "Awesome Gaming on Linux Without Cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-14T15:13:26.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC",
+      "url": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T14:16:17.000Z"
+    },
+    {
+      "title": "[$] Collaborating with out-of-tree tracers",
+      "url": "https://lwn.net/Articles/1099300/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-14T13:56:50.000Z"
+    },
+    {
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "url": "https://lwn.net/Articles/1100449/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-14T13:50:29.000Z"
+    },
     {
       "title": "KDE Plasma 6.8 released",
       "url": "https://lwn.net/Articles/1100429/",
@@ -186,52 +242,12 @@
       "date": "2026-10-13T21:02:48.000Z"
     },
     {
-      "title": "Intel ISPC 1.32 Released With AVX10.2 & APX Support, Even AMD Zen 6 Too",
-      "url": "https://www.phoronix.com/news/Intel-ISPC-1.32-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T20:57:52.000Z"
-    },
-    {
-      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-13T18:46:32.000Z"
-    },
-    {
-      "title": "[$] KDE Linux at two",
-      "url": "https://lwn.net/Articles/1099486/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T17:21:14.000Z"
-    },
-    {
-      "title": "Nix and Lix local root-privilege-escalation vulnerabilities",
-      "url": "https://lwn.net/Articles/1100247/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T16:13:24.000Z"
-    },
-    {
       "title": "Googlebook will improve support for Linux apps eventually, but it’s all about AI for now",
       "url": "https://9to5google.com/2026/10/13/googlebook-linux-app-support/",
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-13T15:35:00.000Z"
-    },
-    {
-      "title": "Framework Laptop 12 Offers Improved Performance & Efficiency With Intel Core 3 Wildcat Lake",
-      "url": "https://www.phoronix.com/review/framework-laptop-12-wildcat-lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T15:00:00.000Z"
     },
     {
       "title": "Apple HomeView",
@@ -248,22 +264,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-13T14:22:17.000Z"
-    },
-    {
-      "title": "[$] Owning C types from Rust code",
-      "url": "https://lwn.net/Articles/1099015/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T13:33:13.000Z"
-    },
-    {
-      "title": "Linux Kernel Developers Plan To Remove \"Assisted-By\" Tag Requirement For AI/LLM Usage",
-      "url": "https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T13:28:54.000Z"
     },
     {
       "title": "Samsung Galaxy phones now work perfectly with Googlebook OS",
@@ -312,6 +312,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-12T16:43:46.000Z"
+    },
+    {
+      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T16:31:27.000Z"
     },
     {
       "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
@@ -392,14 +400,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-12T00:05:56.000Z"
-    },
-    {
-      "title": "Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5",
-      "source": "TweakTown",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T22:26:15.000Z"
     },
     {
       "title": "★ X Once Again Marks the Spot",

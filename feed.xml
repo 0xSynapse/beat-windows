@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:41:36 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Gizmodo</source>
+      <pubDate>Wed, 14 Oct 2026 15:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service &amp; eBPF</title>
+      <link>https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 14 Oct 2026 15:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Self-Host | Aspirational Self Hosting Guide</title>
+      <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
+      <guid isPermaLink="true">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 14 Oct 2026 15:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Awesome Gaming on Linux Without Cheating</title>
+      <link>https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2</link>
+      <guid isPermaLink="true">https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 14 Oct 2026 15:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC</title>
+      <link>https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 14 Oct 2026 14:16:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Collaborating with out-of-tree tracers</title>
+      <link>https://lwn.net/Articles/1099300/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099300/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 14 Oct 2026 13:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linus Torvalds's first LLM-assisted patch series</title>
+      <link>https://lwn.net/Articles/1100449/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100449/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 14 Oct 2026 13:50:29 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.8 released</title>
       <link>https://lwn.net/Articles/1100429/</link>
@@ -192,52 +248,12 @@
       <pubDate>Tue, 13 Oct 2026 21:02:48 GMT</pubDate>
     </item>
     <item>
-      <title>Intel ISPC 1.32 Released With AVX10.2 &amp; APX Support, Even AMD Zen 6 Too</title>
-      <link>https://www.phoronix.com/news/Intel-ISPC-1.32-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-ISPC-1.32-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 13 Oct 2026 20:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Tue, 13 Oct 2026 18:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] KDE Linux at two</title>
-      <link>https://lwn.net/Articles/1099486/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099486/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 13 Oct 2026 17:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nix and Lix local root-privilege-escalation vulnerabilities</title>
-      <link>https://lwn.net/Articles/1100247/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100247/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 13 Oct 2026 16:13:24 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook will improve support for Linux apps eventually, but it’s all about AI for now</title>
       <link>https://9to5google.com/2026/10/13/googlebook-linux-app-support/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/13/googlebook-linux-app-support/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Tue, 13 Oct 2026 15:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework Laptop 12 Offers Improved Performance &amp; Efficiency With Intel Core 3 Wildcat Lake</title>
-      <link>https://www.phoronix.com/review/framework-laptop-12-wildcat-lake</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/framework-laptop-12-wildcat-lake</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Apple HomeView</title>
@@ -254,22 +270,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Tue, 13 Oct 2026 14:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Owning C types from Rust code</title>
-      <link>https://lwn.net/Articles/1099015/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099015/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 13 Oct 2026 13:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Developers Plan To Remove &quot;Assisted-By&quot; Tag Requirement For AI/LLM Usage</title>
-      <link>https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Dropping-Assisted-By-Req</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 13 Oct 2026 13:28:54 GMT</pubDate>
     </item>
     <item>
       <title>Samsung Galaxy phones now work perfectly with Googlebook OS</title>
@@ -318,6 +318,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 12 Oct 2026 16:43:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Mon, 12 Oct 2026 16:31:27 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook OS review: A post-smartphone PC, if Google can keep it</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">TechPowerUp</source>
       <pubDate>Mon, 12 Oct 2026 00:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS is already running on Apple Silicon Macs thanks to a new open-source project</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjNvMGZMMDJDa1YxQmFtSmg0TGhRWjNqekpNQWJadFRfUnJiQUtfdngyQ3NkSWlhOW5GYmE1U1dYb0JIUUtZY29sdUZLOHJtNmRSWGhvUUh0cDlwWE9tVE5rSHZOVGQyd2dZcDZiLWhRUkNDSzFsd2pBdVhUdjluY1VZcVFiR0pKWGxYbnlNVWlfSVhmdzI1Y0xqejNXRnptY1REazJIQ3RTTHNJb0RSWThJMDFueFdiMG9vSk1KbDlRSTFkM2dkQkpGOUpnOWFWVDVicjhB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">TweakTown</source>
-      <pubDate>Sun, 11 Oct 2026 22:26:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
