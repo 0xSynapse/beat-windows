@@ -1,6 +1,142 @@
 {
-  "generated": "2026-10-14T07:44:03.893Z",
+  "generated": "2026-10-14T13:48:04.801Z",
   "items": [
+    {
+      "title": "KDE Plasma 6.8 released",
+      "url": "https://lwn.net/Articles/1100429/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-14T13:41:09.000Z"
+    },
+    {
+      "title": "[$] GCC development with large-language models",
+      "url": "https://lwn.net/Articles/1098672/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-14T13:13:53.000Z"
+    },
+    {
+      "title": "HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches",
+      "url": "https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T13:10:14.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1100426/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-14T13:02:10.000Z"
+    },
+    {
+      "title": "How to share files between a Googlebook and Android phone using Quick Share",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T12:00:13.000Z"
+    },
+    {
+      "title": "Linux Finally Making It Easier To Answer The Question: \"Is This RISC-V System RVA23?\"",
+      "url": "https://www.phoronix.com/news/Linux-Answering-RVA23-Question",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T11:47:39.000Z"
+    },
+    {
+      "title": "BeOS-Inspired Haiku Landed More Hardware Improvements & Other Changes In September",
+      "url": "https://www.phoronix.com/news/Haiku-September-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T11:34:14.000Z"
+    },
+    {
+      "title": "Painting a good story: Polymythic",
+      "url": "https://eclecticlight.co/2026/10/14/painting-a-good-story-polymythic/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-14T11:30:00.000Z"
+    },
+    {
+      "title": "Plasma 6.8 released (KDE's 30th birthday)",
+      "url": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-14T11:29:51.000Z"
+    },
+    {
+      "title": "yet another place where a linux man page is inaccurate",
+      "url": "https://sebsite.pw/w/20261014-initstate.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-14T11:18:09.000Z"
+    },
+    {
+      "title": "Asus Googlebook 14 testing: Googlebook OS has compatibility issues in some games",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXl6MmJrSWFxQnlkNUg2bWpKMk9RS3ZNV0V6bjNlZ1RqdFl2eVl1STVaN3M5clFvUk1wbE1EaXZyYjd3Q0pSMV9oMnJrRmdxUmxSYmlfdnNJTFZHOVVBSk9zcHUzUFlmSUlOXzZSSDcxbi1IT1MtaU10dVhMMUZnS09Ja3VVS0pNdXBPSE1TQ2MyUy1ObXI5VjhBam0tNFNvUXRRS2czNy1xLWlqX1IxbURfREQ2cTZsV2JJaG5IZmFDdw?oc=5",
+      "source": "Notebookcheck",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T11:02:00.000Z"
+    },
+    {
+      "title": "Cloud Hypervisor 54 Released With Live Migration Improvements",
+      "url": "https://www.phoronix.com/news/Cloud-Hypervisor-54",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T10:17:59.000Z"
+    },
+    {
+      "title": "Rustls 0.23.46 Released With Four Security Fixes",
+      "url": "https://www.phoronix.com/news/Rustls-0.23.46-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T10:05:34.000Z"
+    },
+    {
+      "title": "I tried gaming on a Googlebook — here's the good (and bad) news",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVpMVE1KQUdkdEJhUURibnZabFNUWGtnSGZLMWl2SzJTQ0VHS2FwdlZZSXBBZ2NCcjdoS3kxS1lUTjFKV2RYYzBZTExOaU8yNTAzMzBBdHh5Ri1qRWFSZW5jQjRmYnItalpoQzNfWFkyVW53MnZ0cHZHeERWYlN3WGh0RUY?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T09:30:00.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.8 Released, Marks 30 Years Of The KDE Project",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T09:15:37.000Z"
+    },
+    {
+      "title": "Linux Lockdown and Hibernation (again)",
+      "url": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-14T08:52:30.000Z"
+    },
+    {
+      "title": "Googlebook OS Magisk demo shows root access could be much easier than first thought",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adlNrUEp4SjVfZGNNS3lPR3BLWExFTGMyZ044bVVWQU5LeUFtSkcxUWFQNjE5cWNhd05YMmozTGJvaHFtOWRPV1B0NWo5WVRxUTRORXkxa2FwTnl3LUhON1dmcTNTdVYzTW1rSG5tSGFJVmQ4RzM1bHcySUc?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-14T07:59:00.000Z"
+    },
     {
       "title": "Googlebook OS just fixed one of its biggest early app annoyances",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV29aS3JRQ2NKWVBxc2RPU0RXWjBkMUtDVEFsdFN6bWVjbXdjTl9wZjlvQUZKRmJTUDM1YmRHcHM1UTNoTm04Y2ZyTkdNamVWcXJXLVZ1ME1EZlk2N3ktVWxYNlBxVm1OUFRaMEpHbjM2QXJLNlRBajFRNzlic2NrUHhFMEdlVE9JNlphUzkxVEpJOEJuNGc?oc=5",
@@ -130,36 +266,12 @@
       "date": "2026-10-13T13:28:54.000Z"
     },
     {
-      "title": "Eisentraut: The reverts will continue until morale improves",
-      "url": "https://lwn.net/Articles/1100182/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T13:21:34.000Z"
-    },
-    {
       "title": "Samsung Galaxy phones now work perfectly with Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTVhNE5LYVE4Vk96WkpBSDlfbFZydDNmTlE0dnlfVGlmSVJzMndfazBFV2I0b29WeHF4OEhvQU10Ul9SWUZWeGNKMTJPaTV3WDJRMFVhU2lLUjZpbTc1cXRjQmZwRXpIcGpvQjhMQm1TV29yZ2JudUw4Rm9QejNtOXFIbFRHb2w1ODZOTVQ2V24taThidGExNw?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-13T13:19:28.000Z"
-    },
-    {
-      "title": "Firefox 159 Beta Released With Fix For Tabs On Wayland",
-      "url": "https://www.phoronix.com/news/Firefox-159-Beta",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T13:14:11.000Z"
-    },
-    {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1100181/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T13:10:55.000Z"
     },
     {
       "title": "If a Chromebook wasn’t for you, Googlebook isn’t either",
@@ -170,60 +282,12 @@
       "date": "2026-10-13T13:05:00.000Z"
     },
     {
-      "title": "Asterinas 0.19.0 released",
-      "url": "https://lwn.net/Articles/1100055/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-13T12:55:20.000Z"
-    },
-    {
-      "title": "Linux Mint 27 Continues Working Toward Christmas Release With Many Features",
-      "url": "https://www.phoronix.com/news/Linux-Mint-27-Many-Features",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T11:58:21.000Z"
-    },
-    {
-      "title": "ONLYOFFICE 10.0 Released With AI Features, 1,000+ Bug Fixes",
-      "url": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T11:43:23.000Z"
-    },
-    {
       "title": "Portraits of trees: Klimt’s forests",
       "url": "https://eclecticlight.co/2026/10/13/portraits-of-trees-klimts-forests/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-13T11:30:00.000Z"
-    },
-    {
-      "title": "NVIDIA's Nova Driver Continues Leading The Way For Linux Rust GPU Drivers",
-      "url": "https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T10:28:11.000Z"
-    },
-    {
-      "title": "Asterinas 0.19.0 Brings Up X.Org & Other Improvements To This Rust-Written OS",
-      "url": "https://www.phoronix.com/news/Asterinas-0.19-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T10:14:11.000Z"
-    },
-    {
-      "title": "IREE 3.12 Introduces Rolls Out Rewritten Vulkan Driver, Experimental AMD HSA HAL",
-      "url": "https://www.phoronix.com/news/IREE-3.12-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T10:00:22.000Z"
     },
     {
       "title": "Pin files in iCloud Drive",
@@ -240,30 +304,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-13T04:10:35.000Z"
-    },
-    {
-      "title": "FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5",
-      "url": "https://www.phoronix.com/news/FreeType-2.15-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-13T00:24:04.000Z"
-    },
-    {
-      "title": "Intel Announces The GPU D Series For Crescent Island",
-      "url": "https://www.phoronix.com/news/Intel-GPU-D-Series",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-12T20:53:30.000Z"
-    },
-    {
-      "title": "Ubuntu's Myna Speech-To-Text Now Available In Tech Preview",
-      "url": "https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-12T17:31:59.000Z"
     },
     {
       "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
@@ -378,22 +418,6 @@
       "date": "2026-10-11T19:02:38.000Z"
     },
     {
-      "title": "Google Begins Fixing its Googlebook Mess",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUm50ZUE5RzVQcjJWRURQMzVOVkdta3dKbzJvMVVkX0g5WnRJT0lvMHlib2ZTT1JwczcwbjdZQnJEMkVET2hyMElWTklKRkM2UmV3aVktbDJCTllMdWM3clE4LXR3eFJneXQ5NWhkM0NueGJYOG1CQ3cxbDJSUHNVX3dlVEJjTFF5YUVGazdCcDdCempmdGVIUWNJeUJ3V1RabUE?oc=5",
-      "source": "Thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T13:43:25.000Z"
-    },
-    {
-      "title": "Acer Googlebook 14 Review: The Lowest-Cost Ticket Into Google’s New Era",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRnIyYW5wellkdGNSLV83aFBPVnRpNXY2OFRMVUVOMEZncEhaemdRbERxNU01OG4xUm1NVnozU0tzNWdTVFBCOGtTRVUwMmV1MmtDaFUwMzJHeTRo?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T13:00:13.000Z"
-    },
-    {
       "title": "The artist who died alongside Scott",
       "url": "https://eclecticlight.co/2026/10/11/the-artist-who-died-alongside-scott/",
       "source": "Eclectic Light",
@@ -402,28 +426,12 @@
       "date": "2026-10-11T11:30:00.000Z"
     },
     {
-      "title": "I tested the Lenovo Googlebook 15 — here’s why it’s my favorite",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13a051RV9lUUh0OXZ6aFlwQlM1TGlhVkJwY21XNGxZZDhoX3RTeXRwM3JhRUNtaS1mVkpkbVRveXd1RFZXWDdyR1ByTUF2MFViVFJQNWdCbzFUNkdmd2JSOFU0UnBaeHVBamN2RXpTbTdJYUg1MFZtSnRoRQ?oc=5",
-      "source": "Tom's Guide",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T10:30:00.000Z"
-    },
-    {
       "title": "Last Week on My Mac: When is it safe to upgrade macOS?",
       "url": "https://eclecticlight.co/2026/10/11/last-week-on-my-mac-when-is-it-safe-to-upgrade-macos/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-11T07:00:00.000Z"
-    },
-    {
-      "title": "Googlebook OS now runs on Apple Silicon Macs in an unofficial VM",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5",
-      "source": "The Gadgeteer",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-11T06:24:13.000Z"
     },
     {
       "title": "Sunnny",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-09T11:30:00.000Z"
-    },
-    {
-      "title": "Deeper dive: Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-09T06:51:52.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
