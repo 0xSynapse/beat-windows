@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-13T22:51:27.087Z",
+  "generated": "2026-10-14T01:57:36.116Z",
   "items": [
+    {
+      "title": "Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch",
+      "url": "https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-14T00:54:50.000Z"
+    },
+    {
+      "title": "Chrome 155 for Googlebook brings expanded web app installs, integration",
+      "url": "https://9to5google.com/2026/10/13/chrome-155-googlebooks/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-13T23:39:19.000Z"
+    },
     {
       "title": "The 2026 Maintainers Summit",
       "url": "https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/",
@@ -226,14 +242,6 @@
       "date": "2026-10-12T20:53:30.000Z"
     },
     {
-      "title": "First Impressions: Dell XPS Googlebook and the Googlebook OS",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5",
-      "source": "John Scalzi's Whatever",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-12T18:20:37.000Z"
-    },
-    {
       "title": "Ubuntu's Myna Speech-To-Text Now Available In Tech Preview",
       "url": "https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview",
       "source": "Phoronix",
@@ -250,14 +258,6 @@
       "date": "2026-10-12T16:43:46.000Z"
     },
     {
-      "title": "ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo",
-      "url": "https://www.phoronix.com/review/rocm-10-opencl-rusticl",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-12T16:32:24.000Z"
-    },
-    {
       "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
       "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
       "source": "9to5Google · Googlebook",
@@ -272,6 +272,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-12T16:00:00.000Z"
+    },
+    {
+      "title": "First Impressions: Dell XPS Googlebook and the Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5",
+      "source": "John Scalzi's Whatever",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-12T12:45:33.000Z"
     },
     {
       "title": "Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it",
@@ -408,14 +416,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-11T01:17:53.000Z"
-    },
-    {
-      "title": "Googlebook improving ‘Better Together’ Android sync features, Samsung support rolling out",
-      "url": "https://9to5google.com/2026/10/10/googlebook-android-sync-updates-samsung-support-rolling-out/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-11T00:35:00.000Z"
     },
     {
       "title": "Sunnny",

@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:57:36 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch</title>
+      <link>https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 14 Oct 2026 00:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 155 for Googlebook brings expanded web app installs, integration</title>
+      <link>https://9to5google.com/2026/10/13/chrome-155-googlebooks/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/13/chrome-155-googlebooks/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Tue, 13 Oct 2026 23:39:19 GMT</pubDate>
+    </item>
     <item>
       <title>The 2026 Maintainers Summit</title>
       <link>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</link>
@@ -232,14 +248,6 @@
       <pubDate>Mon, 12 Oct 2026 20:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>First Impressions: Dell XPS Googlebook and the Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">John Scalzi's Whatever</source>
-      <pubDate>Mon, 12 Oct 2026 18:20:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Ubuntu's Myna Speech-To-Text Now Available In Tech Preview</title>
       <link>https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview</guid>
@@ -256,14 +264,6 @@
       <pubDate>Mon, 12 Oct 2026 16:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo</title>
-      <link>https://www.phoronix.com/review/rocm-10-opencl-rusticl</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/rocm-10-opencl-rusticl</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 12 Oct 2026 16:32:24 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook OS review: A post-smartphone PC, if Google can keep it</title>
       <link>https://9to5google.com/2026/10/12/googlebook-os-review/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/12/googlebook-os-review/</guid>
@@ -278,6 +278,14 @@
       <category>android</category>
       <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Impressions: Dell XPS Googlebook and the Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">John Scalzi's Whatever</source>
+      <pubDate>Mon, 12 Oct 2026 12:45:33 GMT</pubDate>
     </item>
     <item>
       <title>Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 11 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS now runs on Apple Silicon Macs in an unofficial VM</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZiUlhwUzBrOVRfRUxnd2lyd3N2WlRwU3JQRDRHdUswdkxYeF85aklaUktWZ2lNR2xqV1hETnFpb2stU1U3d2xXcmx2R0dncFJXOW4zc0JfLVM5T1gwSjdNSS1kMlU3Z0hPakNIWGNvcnZ4dWdQZTVINVdKV3hIZVk4YmR6RVhoQnkydFJSWlhtQmVfdHdsbXk2NzRTS1QtQUlqWQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">The Gadgeteer</source>
-      <pubDate>Sun, 11 Oct 2026 06:24:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
