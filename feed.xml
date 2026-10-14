@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:41:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:20:43 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title>
+      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 14 Oct 2026 21:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room</title>
+      <link>https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</link>
+      <guid isPermaLink="true">https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 14 Oct 2026 20:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framework Computers Triples Their Financial Support To CachyOS</title>
+      <link>https://www.phoronix.com/news/Framework-More-CachyOS</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-More-CachyOS</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 14 Oct 2026 19:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</title>
+      <link>https://www.phoronix.com/news/Apple-Clang-SSAF-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Apple-Clang-SSAF-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 14 Oct 2026 18:45:29 GMT</pubDate>
+    </item>
     <item>
       <title>Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5</link>
@@ -216,28 +248,12 @@
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch</title>
-      <link>https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 14 Oct 2026 00:54:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Chrome 155 for Googlebook brings expanded web app installs, integration</title>
       <link>https://9to5google.com/2026/10/13/chrome-155-googlebooks/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/10/13/chrome-155-googlebooks/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Tue, 13 Oct 2026 23:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>The 2026 Maintainers Summit</title>
-      <link>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</link>
-      <guid isPermaLink="true">https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 13 Oct 2026 22:25:00 GMT</pubDate>
     </item>
     <item>
       <title>Apple has just released an update to XProtect for all macOS</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>When to expect updates to macOS 27 Golden Gate</title>
-      <link>https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modder Boots Googlebook OS on Apple Silicon Macs</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">TechPowerUp</source>
-      <pubDate>Mon, 12 Oct 2026 00:05:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
