@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-15T01:32:10.956Z",
+  "generated": "2026-10-15T07:31:45.377Z",
   "items": [
+    {
+      "title": "Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1pQcUdPSWszV1RDR0lwYzJVN0JzT0VsVXhoUzVkQlg1X0RKajFyVzBGYjNDeGZEMy1QODJvM2dlV2FkZUhXNTBNaU1oVXp6SDJXQWxCbmFMLUtMc0hNd29ZSmJsd3pLb3ZreElvMjJ0MFJWRW1CdU5sU25PQTA?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-15T07:14:00.000Z"
+    },
+    {
+      "title": "Cirrus 1.17: an update for this unique iCloud Drive utility",
+      "url": "https://eclecticlight.co/2026/10/15/cirrus-1-17-an-update-for-this-unique-icloud-drive-utility/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-15T06:30:00.000Z"
+    },
     {
       "title": "[$] LWN.net Weekly Edition for October 15, 2026",
       "url": "https://lwn.net/Articles/1099247/",
@@ -394,14 +410,6 @@
       "date": "2026-10-12T11:30:00.000Z"
     },
     {
-      "title": "I’ve had a bad 48 hours using Googlebooks, but there’s one saving grace",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOakhLTGZtdk8wLWJXLTV0UDhnVnU3aEN4eGFTSFdIUUZLcW50M2dHYUI4ZTM3ODBUMDh6bmdQc1dsVkh5U0YzdzFxVmtUY1dIb2lUY0NjN2x0S2FJQzhDMG5VLWp4NW55VC1sY1JJQ2RZODFSdExwdjdiR0RKUWpSUWJHejB6Zw?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-12T09:00:00.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 381",
       "url": "https://eclecticlight.co/2026/10/12/solutions-to-saturday-mac-riddles-381/",
       "source": "Eclectic Light",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-10T11:30:00.000Z"
-    },
-    {
-      "title": "Saturday Mac riddles 381",
-      "url": "https://eclecticlight.co/2026/10/10/saturday-mac-riddles-381/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-10T08:00:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
