@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-15T18:21:33.930Z",
+  "generated": "2026-10-15T22:24:53.678Z",
   "items": [
+    {
+      "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
+      "url": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T22:08:08.000Z"
+    },
+    {
+      "title": "Intel Nova Lake S & Nova Lake P To Support SR-IOV With Xe Graphics",
+      "url": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T21:04:27.000Z"
+    },
+    {
+      "title": "How to take a screenshot on Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-15T20:00:16.000Z"
+    },
+    {
+      "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
+      "url": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T19:02:37.000Z"
+    },
     {
       "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
       "url": "https://www.phoronix.com/news/memtest86-Plus-9.0",
@@ -202,30 +234,6 @@
       "date": "2026-10-14T15:39:04.000Z"
     },
     {
-      "title": "What I Self-Host | Aspirational Self Hosting Guide",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-14T15:32:48.000Z"
-    },
-    {
-      "title": "Awesome Gaming on Linux Without Cheating",
-      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-14T15:13:26.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T14:16:17.000Z"
-    },
-    {
       "title": "How to share files between a Googlebook and Android phone using Quick Share",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5",
       "source": "How-To Geek",
@@ -408,14 +416,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-12T12:00:10.000Z"
-    },
-    {
-      "title": "Google’s new kind of laptop blends Android and Chromebook",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RWZ3VyTHl5WEhmUnNrWnBxS1lIM2NNRlY5VjBjQnA0WXdtSjF4RlB6RkRlbThzYTBfa0UyejZtQl9lSFotM0pZdUZ3QlZBMVRKSl9yd1U5eXZXdnh2dUxZMHQtQmtOVk5USGN1OHYzMkJqek1ZZ19QNnVsZ1N0eVA4cFU3QdIBiwFBVV95cUxPNmNJSlUwTnpFU003aUhGQXBpSko5X0Y3WFowS252SU9hNUdGQ3dIOUFSRU9weVFYODhrQVB5QkwtSzRHMk4tV3hJRjJHdEZqbjFMNHhTa1BTdkt3dTUyeHd6VmZMLVdxaDhzSFU0ZU1nNldkSGJoQ3dXb3lvU0ZvYlFFQXFXNHJYaEpv?oc=5",
-      "source": "KTLA",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-12T11:36:05.000Z"
     },
     {
       "title": "Hero or hooligan: Orpheus in the underworld",

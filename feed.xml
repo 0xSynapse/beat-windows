@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:24:53 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Today's Steam Beta Makes The Linux Client A 64-bit App</title>
+      <link>https://www.phoronix.com/news/Steam-Linux-Beta-64-bit</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Linux-Beta-64-bit</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 22:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Nova Lake S &amp; Nova Lake P To Support SR-IOV With Xe Graphics</title>
+      <link>https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 21:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to take a screenshot on Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Thu, 15 Oct 2026 20:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops</title>
+      <link>https://www.phoronix.com/review/lpddr5-5467-6400-7467</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/lpddr5-5467-6400-7467</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 19:02:37 GMT</pubDate>
+    </item>
     <item>
       <title>Memtest86+ v9.00 Released With Support For ARM64 Memory Testing</title>
       <link>https://www.phoronix.com/news/memtest86-Plus-9.0</link>
@@ -208,30 +240,6 @@
       <pubDate>Wed, 14 Oct 2026 15:39:04 GMT</pubDate>
     </item>
     <item>
-      <title>What I Self-Host | Aspirational Self Hosting Guide</title>
-      <link>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</link>
-      <guid isPermaLink="true">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 14 Oct 2026 15:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Awesome Gaming on Linux Without Cheating</title>
-      <link>https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2</link>
-      <guid isPermaLink="true">https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 14 Oct 2026 15:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC</title>
-      <link>https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 14 Oct 2026 14:16:17 GMT</pubDate>
-    </item>
-    <item>
       <title>How to share files between a Googlebook and Android phone using Quick Share</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>First Impressions: Dell XPS Googlebook and the Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0pkc2ZmUDNkcW5GVWNIMHYtUzNtNjJqMmZYOTd4R3EteGRWNFhmeVVqdFpKcDFWaV9jbG10MGYzdmZyY2o5b3hpZVFvT09fbklLOUlWWWd1Ym5ZVmVtN2ZhX2NxQXU3eUpib05SN01vRXczQXl0LWoza1VTZWtXdHJuMXRDRmp1V085Uml1U1JFOUFaV25mZ2g1WDJlcUND?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">John Scalzi's Whatever</source>
-      <pubDate>Mon, 12 Oct 2026 12:45:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
