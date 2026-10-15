@@ -1,6 +1,86 @@
 {
-  "generated": "2026-10-15T07:31:45.377Z",
+  "generated": "2026-10-15T13:29:59.366Z",
   "items": [
+    {
+      "title": "KDE releases documentary",
+      "url": "https://lwn.net/Articles/1100787/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-15T13:24:31.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 released",
+      "url": "https://lwn.net/Articles/1100786/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-15T13:19:23.000Z"
+    },
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1100785/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-15T13:09:44.000Z"
+    },
+    {
+      "title": "Seven stable kernels for Thursday with fix for critical vulnerability",
+      "url": "https://lwn.net/Articles/1100611/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-15T13:01:31.000Z"
+    },
+    {
+      "title": "Painting with impaired vision: Edgar Degas",
+      "url": "https://eclecticlight.co/2026/10/15/painting-with-impaired-vision-edgar-degas/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-15T11:30:00.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T11:19:06.000Z"
+    },
+    {
+      "title": "Huawei Proposes Enabling CPU Boost By Default For ACPI CPPC Linux Driver",
+      "url": "https://www.phoronix.com/news/Huawei-Proposes-Boost-Default",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T10:24:24.000Z"
+    },
+    {
+      "title": "GNOME Mutter Improves Damage Tracking For Secondary GPU Copy Buffers",
+      "url": "https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T10:12:29.000Z"
+    },
+    {
+      "title": "Microsoft Defender for Linux",
+      "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-15T10:04:47.000Z"
+    },
+    {
+      "title": "Microsoft Releases Microsoft Defender For The Linux Desktop",
+      "url": "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-15T09:52:45.000Z"
+    },
     {
       "title": "Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1pQcUdPSWszV1RDR0lwYzJVN0JzT0VsVXhoUzVkQlg1X0RKajFyVzBGYjNDeGZEMy1QODJvM2dlV2FkZUhXNTBNaU1oVXp6SDJXQWxCbmFMLUtMc0hNd29ZSmJsd3pLb3ZreElvMjJ0MFJWRW1CdU5sU25PQTA?oc=5",
@@ -138,44 +218,12 @@
       "date": "2026-10-14T13:13:53.000Z"
     },
     {
-      "title": "HP EliteBook 6 G1q Powered By Snapdragon X1 Plus Sees Linux Patches",
-      "url": "https://www.phoronix.com/news/HP-EliteBook-6-Q1q-Linux-Patch",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T13:10:14.000Z"
-    },
-    {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1100426/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-14T13:02:10.000Z"
-    },
-    {
       "title": "How to share files between a Googlebook and Android phone using Quick Share",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-14T12:00:13.000Z"
-    },
-    {
-      "title": "Linux Finally Making It Easier To Answer The Question: \"Is This RISC-V System RVA23?\"",
-      "url": "https://www.phoronix.com/news/Linux-Answering-RVA23-Question",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T11:47:39.000Z"
-    },
-    {
-      "title": "BeOS-Inspired Haiku Landed More Hardware Improvements & Other Changes In September",
-      "url": "https://www.phoronix.com/news/Haiku-September-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T11:34:14.000Z"
     },
     {
       "title": "Painting a good story: Polymythic",
@@ -186,22 +234,6 @@
       "date": "2026-10-14T11:30:00.000Z"
     },
     {
-      "title": "Plasma 6.8 released (KDE's 30th birthday)",
-      "url": "https://kde.org/announcements/plasma/6/6.8.0/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-14T11:29:51.000Z"
-    },
-    {
-      "title": "yet another place where a linux man page is inaccurate",
-      "url": "https://sebsite.pw/w/20261014-initstate.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-14T11:18:09.000Z"
-    },
-    {
       "title": "Asus Googlebook 14 testing: Googlebook OS has compatibility issues in some games",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXl6MmJrSWFxQnlkNUg2bWpKMk9RS3ZNV0V6bjNlZ1RqdFl2eVl1STVaN3M5clFvUk1wbE1EaXZyYjd3Q0pSMV9oMnJrRmdxUmxSYmlfdnNJTFZHOVVBSk9zcHUzUFlmSUlOXzZSSDcxbi1IT1MtaU10dVhMMUZnS09Ja3VVS0pNdXBPSE1TQ2MyUy1ObXI5VjhBam0tNFNvUXRRS2czNy1xLWlqX1IxbURfREQ2cTZsV2JJaG5IZmFDdw?oc=5",
       "source": "Notebookcheck",
@@ -210,36 +242,12 @@
       "date": "2026-10-14T11:02:00.000Z"
     },
     {
-      "title": "Cloud Hypervisor 54 Released With Live Migration Improvements",
-      "url": "https://www.phoronix.com/news/Cloud-Hypervisor-54",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T10:17:59.000Z"
-    },
-    {
-      "title": "Rustls 0.23.46 Released With Four Security Fixes",
-      "url": "https://www.phoronix.com/news/Rustls-0.23.46-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T10:05:34.000Z"
-    },
-    {
       "title": "I tried gaming on a Googlebook — here's the good (and bad) news",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVpMVE1KQUdkdEJhUURibnZabFNUWGtnSGZLMWl2SzJTQ0VHS2FwdlZZSXBBZ2NCcjdoS3kxS1lUTjFKV2RYYzBZTExOaU8yNTAzMzBBdHh5Ri1qRWFSZW5jQjRmYnItalpoQzNfWFkyVW53MnZ0cHZHeERWYlN3WGh0RUY?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-14T09:30:00.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.8 Released, Marks 30 Years Of The KDE Project",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-14T09:15:37.000Z"
     },
     {
       "title": "Googlebook OS Magisk demo shows root access could be much easier than first thought",
@@ -474,14 +482,6 @@
       "date": "2026-10-10T16:06:17.000Z"
     },
     {
-      "title": "The artist who died crossing Australia",
-      "url": "https://eclecticlight.co/2026/10/10/the-artist-who-died-crossing-australia/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-10T11:30:00.000Z"
-    },
-    {
       "title": "Headers Up! What's New in httpd and relayd",
       "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
       "source": "Lobsters · openbsd",
@@ -576,14 +576,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-15T17:21:47.000Z"
-    },
-    {
-      "title": "Deshittification as a Service: Reclaiming Privacy and Performance with OpenBSD pf and Unbound",
-      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-09-15T13:14:36.000Z"
     }
   ]
 }
