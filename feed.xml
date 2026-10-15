@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:21:33 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Memtest86+ v9.00 Released With Support For ARM64 Memory Testing</title>
+      <link>https://www.phoronix.com/news/memtest86-Plus-9.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/memtest86-Plus-9.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 17:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
+      <link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 15 Oct 2026 16:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Vendor hooks in the Android kernel</title>
+      <link>https://lwn.net/Articles/1098493/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098493/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 15 Oct 2026 15:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T</title>
+      <link>https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 14:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support</title>
+      <link>https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 15 Oct 2026 14:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>KDE releases documentary</title>
       <link>https://lwn.net/Articles/1100787/</link>
@@ -192,38 +232,6 @@
       <pubDate>Wed, 14 Oct 2026 14:16:17 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Collaborating with out-of-tree tracers</title>
-      <link>https://lwn.net/Articles/1099300/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099300/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 14 Oct 2026 13:56:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds's first LLM-assisted patch series</title>
-      <link>https://lwn.net/Articles/1100449/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100449/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 14 Oct 2026 13:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.8 released</title>
-      <link>https://lwn.net/Articles/1100429/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100429/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 14 Oct 2026 13:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] GCC development with large-language models</title>
-      <link>https://lwn.net/Articles/1098672/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098672/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 14 Oct 2026 13:13:53 GMT</pubDate>
-    </item>
-    <item>
       <title>How to share files between a Googlebook and Android phone using Quick Share</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">John Scalzi's Whatever</source>
       <pubDate>Mon, 12 Oct 2026 12:45:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google's 10-year Googlebook update policy sounds amazing, but the reality completely ruins it</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXNIbGZmY2prVHNwcVFSZFhla0s2RkJia05nODhydzNfWHJJV1pnTDByYVg0bEh6X2NsclNZdF9XSGdMSWozWE1EYUVzeWxQZjlqcmdlN1F1ZFhqdkZERVIxUVZScmRlOERIdWctOUNBcVBPQ1lab3hKWEpIaUpDdl96VW1XQlpJbWt1MnpSUFJmSHIzMG91OEFOcVFSOVBTRHR3VEF3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Mon, 12 Oct 2026 12:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
