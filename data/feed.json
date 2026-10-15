@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-14T22:20:43.272Z",
+  "generated": "2026-10-15T01:32:10.956Z",
   "items": [
+    {
+      "title": "[$] LWN.net Weekly Edition for October 15, 2026",
+      "url": "https://lwn.net/Articles/1099247/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-15T00:04:00.000Z"
+    },
+    {
+      "title": "How to find your downloaded files in Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZE9iSDZFY05lQ1ZMandzYlBYOUh2ZmQxVWhjYW9rVUoyZnY3RGFnOFoyYVRLTGt1bEV4aGpYR2cyMG5WOW0xNUNsNXNONF9XRXVzelloSi1EWmRvX3p3M3otb2R6OS1icDBhRFE3OWNPRkctTEpPNzlEQmY1RVJOamhkMA?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-15T00:00:00.000Z"
+    },
     {
       "title": "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
       "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
@@ -210,14 +226,6 @@
       "date": "2026-10-14T09:15:37.000Z"
     },
     {
-      "title": "Linux Lockdown and Hibernation (again)",
-      "url": "https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-14T08:52:30.000Z"
-    },
-    {
       "title": "Googlebook OS Magisk demo shows root access could be much easier than first thought",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adlNrUEp4SjVfZGNNS3lPR3BLWExFTGMyZ044bVVWQU5LeUFtSkcxUWFQNjE5cWNhd05YMmozTGJvaHFtOWRPV1B0NWo5WVRxUTRORXkxa2FwTnl3LUhON1dmcTNTdVYzTW1rSG5tSGFJVmQ4RzM1bHcySUc?oc=5",
       "source": "Android Authority",
@@ -408,14 +416,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-12T06:30:00.000Z"
-    },
-    {
-      "title": "Modder Boots Googlebook OS on Apple Silicon Macs",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZzlrLWRlQTBxN2lpdGtaZEN5Qk5ZVmdsWFlqbGtRd3hOcDNBWWVjYmg0X3RnZURzZ1dOWVdXWEJ5S3JfLU8wUnNxWS1BNHNCVTh1aWtoVVVpVkJkOWh1RWI0MWVVNG9kODhhWkFTY1pwZk9LOWgtSzJnQVY1QzEtUkdMTlhLWnpEOUpB0gGQAUFVX3lxTE1xMEVnVWlZa0NVeEpKX3RZMmc1TnhKdzNlN1l3VUxMZW5DeHFlb1FkTWZtVjE2MzFwUmVNVGtNbGtublJYVlBlQ25pRWZxYVZxZnlsWEk1RjB2Y3d2VFhMdy16SkJmX1RxVHhjSzhILVF3S3E2RWxSRDBRTDRLN2JlSGt1WVFaak0xSE9UNXd3Nw?oc=5",
-      "source": "TechPowerUp",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-12T00:05:56.000Z"
     },
     {
       "title": "★ X Once Again Marks the Spot",
