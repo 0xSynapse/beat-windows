@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:26:43 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
+      <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 01:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Epic's EAC2 v2 seems fairly easily bypassable</title>
+      <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
+      <guid isPermaLink="true">https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 15 Oct 2026 22:48:19 GMT</pubDate>
+    </item>
     <item>
       <title>Today's Steam Beta Makes The Linux Client A 64-bit App</title>
       <link>https://www.phoronix.com/news/Steam-Linux-Beta-64-bit</link>
@@ -208,6 +224,14 @@
       <pubDate>Wed, 14 Oct 2026 20:58:01 GMT</pubDate>
     </item>
     <item>
+      <title>A user has installed Googlebook OS onto a Chromebook Plus, and it runs great</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Wed, 14 Oct 2026 20:30:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Framework Computers Triples Their Financial Support To CachyOS</title>
       <link>https://www.phoronix.com/news/Framework-More-CachyOS</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/Framework-More-CachyOS</guid>
@@ -230,14 +254,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Gizmodo</source>
       <pubDate>Wed, 14 Oct 2026 15:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service &amp; eBPF</title>
-      <link>https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 14 Oct 2026 15:39:04 GMT</pubDate>
     </item>
     <item>
       <title>How to share files between a Googlebook and Android phone using Quick Share</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">PCMag</source>
       <pubDate>Mon, 12 Oct 2026 16:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS review: A post-smartphone PC, if Google can keep it</title>
-      <link>https://9to5google.com/2026/10/12/googlebook-os-review/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/12/googlebook-os-review/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS review: A post-smartphone PC, if Google can keep it</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnYmlYMXUwZER2VlBmZlJQdG9CdmVuTklBT0MwWndSRzJObW1zb1BCTEkzODNUN0RKbTRWaURaN05hZVA4MjVGZ19wcWtaSkp5S0ZIa0JsWWFnNjZFSnlHcXlqTjladw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnYmlYMXUwZER2VlBmZlJQdG9CdmVuTklBT0MwWndSRzJObW1zb1BCTEkzODNUN0RKbTRWaURaN05hZVA4MjVGZ19wcWtaSkp5S0ZIa0JsWWFnNjZFSnlHcXlqTjladw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Mon, 12 Oct 2026 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
