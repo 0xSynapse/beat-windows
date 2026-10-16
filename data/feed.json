@@ -1,6 +1,86 @@
 {
-  "generated": "2026-10-16T17:29:53.450Z",
+  "generated": "2026-10-16T21:18:02.844Z",
   "items": [
+    {
+      "title": "How They Got Duo Support in NetNewsWire",
+      "url": "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T20:53:42.000Z"
+    },
+    {
+      "title": "★ Real Artists Ship, Tesla Edition",
+      "url": "https://daringfireball.net/2026/10/real_artists_ship_tesla_edition",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T20:11:23.000Z"
+    },
+    {
+      "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
+      "url": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T19:20:39.000Z"
+    },
+    {
+      "title": "Introducing GNOME OS Preview",
+      "url": "https://lwn.net/Articles/1101057/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-16T19:05:57.000Z"
+    },
+    {
+      "title": "GNOME OS Preview Announced In Road Toward A Stable Release",
+      "url": "https://www.phoronix.com/news/GNOME-OS-Preview",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T18:37:11.000Z"
+    },
+    {
+      "title": "[$] Safe self-referential data structures in kernel Rust",
+      "url": "https://lwn.net/Articles/1099224/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-16T18:30:00.000Z"
+    },
+    {
+      "title": "Introducing GNOME OS Preview",
+      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-16T18:25:15.000Z"
+    },
+    {
+      "title": "The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve",
+      "url": "https://www.phoronix.com/news/Linux-7.3-Best-Features",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T18:17:47.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 (Stonking Stingray) released",
+      "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-16T18:01:39.000Z"
+    },
+    {
+      "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-16T17:45:13.000Z"
+    },
     {
       "title": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
       "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
@@ -8,6 +88,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-16T17:01:22.000Z"
+    },
+    {
+      "title": "Dell XPS Googlebook Review: The Prettiest and Most Portable Android Laptop So Far",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McnBOc3VkdWdMWUl5NGJNNUF2d3VVUVZhM2NwMzkzZlRYNGY1NXdaaEtjVVNSeTE4V0FKNDlQQnlpZkJtMjMzLVR2R2thdWxaOVlhUlpyN3RzOHpTQ0E?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-16T17:00:32.000Z"
     },
     {
       "title": "Thirty Years of KDE",
@@ -159,31 +247,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-10-16T05:33:47.000Z"
-    },
-    {
-      "title": "My self-hosted infrastructure with Incus OS",
-      "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-16T03:25:49.000Z"
-    },
-    {
-      "title": "Linus Torvalds on AI-assisted kernel contributions",
-      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-16T02:50:33.000Z"
-    },
-    {
-      "title": "Fedora 45 Will Not Be Released Next Week",
-      "url": "https://www.phoronix.com/news/Fedora-45-First-No-Go",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T01:50:44.000Z"
+      "date": "2026-10-16T05:30:00.000Z"
     },
     {
       "title": "★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2",
@@ -194,44 +258,12 @@
       "date": "2026-10-16T01:18:29.000Z"
     },
     {
-      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
-      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-15T22:48:19.000Z"
-    },
-    {
-      "title": "Today's Steam Beta Makes The Linux Client A 64-bit App",
-      "url": "https://www.phoronix.com/news/Steam-Linux-Beta-64-bit",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T22:08:08.000Z"
-    },
-    {
-      "title": "Intel Nova Lake S & Nova Lake P To Support SR-IOV With Xe Graphics",
-      "url": "https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T21:04:27.000Z"
-    },
-    {
       "title": "How to take a screenshot on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T20:00:16.000Z"
-    },
-    {
-      "title": "LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops",
-      "url": "https://www.phoronix.com/review/lpddr5-5467-6400-7467",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T19:02:37.000Z"
     },
     {
       "title": "Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each",
@@ -442,14 +474,6 @@
       "date": "2026-10-13T06:30:00.000Z"
     },
     {
-      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5",
-      "source": "PCMag Middle East",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-13T04:10:35.000Z"
-    },
-    {
       "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
       "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
       "source": "Daring Fireball",
@@ -458,36 +482,12 @@
       "date": "2026-10-12T16:43:46.000Z"
     },
     {
-      "title": "Googlebook OS on MacBooks? Modders Already Got It Working",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-12T16:31:27.000Z"
-    },
-    {
       "title": "Hero or hooligan: Orpheus in the underworld",
       "url": "https://eclecticlight.co/2026/10/12/hero-or-hooligan-orpheus-in-the-underworld/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-12T11:30:00.000Z"
-    },
-    {
-      "title": "Solutions to Saturday Mac riddles 381",
-      "url": "https://eclecticlight.co/2026/10/12/solutions-to-saturday-mac-riddles-381/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-12T08:00:00.000Z"
-    },
-    {
-      "title": "When to expect updates to macOS 27 Golden Gate",
-      "url": "https://eclecticlight.co/2026/10/12/when-to-expect-updates-to-macos-27-golden-gate/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-12T06:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

@@ -5,8 +5,88 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:18:02 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How They Got Duo Support in NetNewsWire</title>
+      <link>https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</link>
+      <guid isPermaLink="true">https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 20:53:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ Real Artists Ship, Tesla Edition</title>
+      <link>https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 20:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>17 More Security Vulnerabilities Made Public For X.Org Libraries</title>
+      <link>https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 19:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing GNOME OS Preview</title>
+      <link>https://lwn.net/Articles/1101057/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101057/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 16 Oct 2026 19:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNOME OS Preview Announced In Road Toward A Stable Release</title>
+      <link>https://www.phoronix.com/news/GNOME-OS-Preview</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-OS-Preview</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 18:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Safe self-referential data structures in kernel Rust</title>
+      <link>https://lwn.net/Articles/1099224/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099224/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 16 Oct 2026 18:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing GNOME OS Preview</title>
+      <link>https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/</link>
+      <guid isPermaLink="true">https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 16 Oct 2026 18:25:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Best-Features</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Best-Features</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 18:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 (Stonking Stingray) released</title>
+      <link>https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html</link>
+      <guid isPermaLink="true">https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 16 Oct 2026 18:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Fri, 16 Oct 2026 17:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
       <link>https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</link>
@@ -14,6 +94,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 16 Oct 2026 17:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell XPS Googlebook Review: The Prettiest and Most Portable Android Laptop So Far</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McnBOc3VkdWdMWUl5NGJNNUF2d3VVUVZhM2NwMzkzZlRYNGY1NXdaaEtjVVNSeTE4V0FKNDlQQnlpZkJtMjMzLVR2R2thdWxaOVlhUlpyN3RzOHpTQ0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McnBOc3VkdWdMWUl5NGJNNUF2d3VVUVZhM2NwMzkzZlRYNGY1NXdaaEtjVVNSeTE4V0FKNDlQQnlpZkJtMjMzLVR2R2thdWxaOVlhUlpyN3RzOHpTQ0E?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Fri, 16 Oct 2026 17:00:32 GMT</pubDate>
     </item>
     <item>
       <title>Thirty Years of KDE</title>
@@ -165,31 +253,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Fri, 16 Oct 2026 05:33:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>My self-hosted infrastructure with Incus OS</title>
-      <link>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</link>
-      <guid isPermaLink="true">https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 16 Oct 2026 03:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds on AI-assisted kernel contributions</title>
-      <link>https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/</link>
-      <guid isPermaLink="true">https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 16 Oct 2026 02:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora 45 Will Not Be Released Next Week</title>
-      <link>https://www.phoronix.com/news/Fedora-45-First-No-Go</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-First-No-Go</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 01:50:44 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:30:00 GMT</pubDate>
     </item>
     <item>
       <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
@@ -200,44 +264,12 @@
       <pubDate>Fri, 16 Oct 2026 01:18:29 GMT</pubDate>
     </item>
     <item>
-      <title>Epic's EAC2 v2 seems fairly easily bypassable</title>
-      <link>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</link>
-      <guid isPermaLink="true">https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 15 Oct 2026 22:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Today's Steam Beta Makes The Linux Client A 64-bit App</title>
-      <link>https://www.phoronix.com/news/Steam-Linux-Beta-64-bit</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Linux-Beta-64-bit</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 22:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel Nova Lake S &amp; Nova Lake P To Support SR-IOV With Xe Graphics</title>
-      <link>https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 21:04:27 GMT</pubDate>
-    </item>
-    <item>
       <title>How to take a screenshot on Googlebook OS</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Thu, 15 Oct 2026 20:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops</title>
-      <link>https://www.phoronix.com/review/lpddr5-5467-6400-7467</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/lpddr5-5467-6400-7467</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 19:02:37 GMT</pubDate>
     </item>
     <item>
       <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 155 for Googlebook brings expanded web app installs, integration</title>
-      <link>https://9to5google.com/2026/10/13/chrome-155-googlebooks/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/13/chrome-155-googlebooks/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 13 Oct 2026 23:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released an update to XProtect for all macOS</title>
-      <link>https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 13 Oct 2026 21:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook will improve support for Linux apps eventually, but it’s all about AI for now</title>
-      <link>https://9to5google.com/2026/10/13/googlebook-linux-app-support/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/13/googlebook-linux-app-support/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 13 Oct 2026 15:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple HomeView</title>
-      <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 13 Oct 2026 14:52:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
