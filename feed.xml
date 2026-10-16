@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:16:48 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Changing developer certificates might affect installers next year</title>
+      <link>https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 16 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tested the Dell XPS Googlebook — and it's an Android fan's dream laptop</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Tom's Guide</source>
+      <pubDate>Fri, 16 Oct 2026 05:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>My self-hosted infrastructure with Incus OS</title>
+      <link>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</link>
+      <guid isPermaLink="true">https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 16 Oct 2026 03:25:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linus Torvalds on AI-assisted kernel contributions</title>
+      <link>https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/</link>
+      <guid isPermaLink="true">https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 16 Oct 2026 02:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora 45 Will Not Be Released Next Week</title>
+      <link>https://www.phoronix.com/news/Fedora-45-First-No-Go</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-First-No-Go</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 01:50:44 GMT</pubDate>
+    </item>
     <item>
       <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
       <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
@@ -70,6 +110,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 15 Oct 2026 16:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>A new affordable wave of Snapdragon-powered Googlebooks is in the works</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHd0VjFiM1hHb3p2WS1LM1c4ajJpMVE5cmdzVV9LTTBGMk5iZ2I0YmtDLWpVeUtsVEF3U2dxeXVERDdpcDUxQVBMUlpwdXpHSU5vc3JoOGNNOUNENnpaWlZEem5LTXlNdUFPbVdCTnBHaVRrSG9tZHFrTGpITWd6TzRZSmp5TnNSd1NlMFA5R29rMTVyMks3eGVVZ2NUOWM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHd0VjFiM1hHb3p2WS1LM1c4ajJpMVE5cmdzVV9LTTBGMk5iZ2I0YmtDLWpVeUtsVEF3U2dxeXVERDdpcDUxQVBMUlpwdXpHSU5vc3JoOGNNOUNENnpaWlZEem5LTXlNdUFPbVdCTnBHaVRrSG9tZHFrTGpITWd6TzRZSmp5TnNSd1NlMFA5R29rMTVyMks3eGVVZ2NUOWM?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Thu, 15 Oct 2026 15:35:41 GMT</pubDate>
     </item>
     <item>
       <title>[$] Vendor hooks in the Android kernel</title>
@@ -192,14 +240,6 @@
       <pubDate>Thu, 15 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>[$] LWN.net Weekly Edition for October 15, 2026</title>
-      <link>https://lwn.net/Articles/1099247/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099247/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 00:04:00 GMT</pubDate>
-    </item>
-    <item>
       <title>How to find your downloaded files in Googlebook OS</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOZE9iSDZFY05lQ1ZMandzYlBYOUh2ZmQxVWhjYW9rVUoyZnY3RGFnOFoyYVRLTGt1bEV4aGpYR2cyMG5WOW0xNUNsNXNONF9XRXVzelloSi1EWmRvX3p3M3otb2R6OS1icDBhRFE3OWNPRkctTEpPNzlEQmY1RVJOamhkMA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOZE9iSDZFY05lQ1ZMandzYlBYOUh2ZmQxVWhjYW9rVUoyZnY3RGFnOFoyYVRLTGt1bEV4aGpYR2cyMG5WOW0xNUNsNXNONF9XRXVzelloSi1EWmRvX3p3M3otb2R6OS1icDBhRFE3OWNPRkctTEpPNzlEQmY1RVJOamhkMA?oc=5</guid>
@@ -230,22 +270,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Wed, 14 Oct 2026 20:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework Computers Triples Their Financial Support To CachyOS</title>
-      <link>https://www.phoronix.com/news/Framework-More-CachyOS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-More-CachyOS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 14 Oct 2026 19:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations</title>
-      <link>https://www.phoronix.com/news/Apple-Clang-SSAF-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Apple-Clang-SSAF-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 14 Oct 2026 18:45:29 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlRfdnNONnRmd3NPY1E4Sld1VWNmeWdSYVBGTnlqdGd3V2tUQ2kweVlKeHhsT1dxbmtWanczUjlLaG1JUlF4ek9mMDJCXzUzQU1PWk4tNnJsUE5oeTRMZXYyekFwT1NWdzY1dnZZekhFRk96S1Q2c2FLaldTbEdMWktCMk9DQ2dWd1hVZVFzT2ZHbVZMRTJUVjJ3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag Middle East</source>
-      <pubDate>Tue, 13 Oct 2026 04:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mark Stephens, a.k.a. Robert X. Cringely, Died at 73</title>
-      <link>https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</link>
-      <guid isPermaLink="true">https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 12 Oct 2026 16:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS on MacBooks? Modders Already Got It Working</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXFxZ3BTVFprVmFBelNISXVmMjR2LTZ4NmJGTFpUWGJNcWtFOWkwci1BeXRtUHhxdXFWaXBnYy1hMVlqR3VuT2lrTW8xNWFaUDFNdnZGSEFDRFVxbk5idjdTTkxJb3VqYVA5MlM1eU1FRF9GbEVqUDBvdGFKWGRZWDAzNW5mVWc2ZmdZ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Mon, 12 Oct 2026 16:31:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
