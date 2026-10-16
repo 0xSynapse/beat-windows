@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:33:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Masaccio’s six years</title>
+      <link>https://eclecticlight.co/2026/10/16/masaccios-six-years/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/masaccios-six-years/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 16 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver</title>
+      <link>https://www.phoronix.com/news/LLVMpipe-AVX-512-MR</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/LLVMpipe-AVX-512-MR</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 10:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks</title>
+      <link>https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 10:13:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook review: Android on a laptop is still Android</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Ars Technica</source>
+      <pubDate>Fri, 16 Oct 2026 10:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 09:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements</title>
+      <link>https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 09:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video</title>
+      <link>https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 08:54:45 GMT</pubDate>
+    </item>
     <item>
       <title>Changing developer certificates might affect installers next year</title>
       <link>https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</link>
@@ -21,7 +77,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Fri, 16 Oct 2026 05:33:47 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:30:00 GMT</pubDate>
     </item>
     <item>
       <title>My self-hosted infrastructure with Incus OS</title>
@@ -182,46 +238,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 15 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete</title>
-      <link>https://www.phoronix.com/news/Ubuntu-26.10-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 11:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huawei Proposes Enabling CPU Boost By Default For ACPI CPPC Linux Driver</title>
-      <link>https://www.phoronix.com/news/Huawei-Proposes-Boost-Default</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Huawei-Proposes-Boost-Default</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 10:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNOME Mutter Improves Damage Tracking For Secondary GPU Copy Buffers</title>
-      <link>https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 10:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Defender for Linux</title>
-      <link>https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822</link>
-      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 15 Oct 2026 10:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Releases Microsoft Defender For The Linux Desktop</title>
-      <link>https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 09:52:45 GMT</pubDate>
     </item>
     <item>
       <title>Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Tue, 13 Oct 2026 13:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portraits of trees: Klimt’s forests</title>
-      <link>https://eclecticlight.co/2026/10/13/portraits-of-trees-klimts-forests/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/13/portraits-of-trees-klimts-forests/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 13 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pin files in iCloud Drive</title>
-      <link>https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

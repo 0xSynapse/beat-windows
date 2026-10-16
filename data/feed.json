@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-16T07:16:48.826Z",
+  "generated": "2026-10-16T12:33:30.268Z",
   "items": [
+    {
+      "title": "Masaccio’s six years",
+      "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-16T11:30:00.000Z"
+    },
+    {
+      "title": "AI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver",
+      "url": "https://www.phoronix.com/news/LLVMpipe-AVX-512-MR",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T10:28:51.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks",
+      "url": "https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T10:13:51.000Z"
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5",
+      "source": "Ars Technica",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-16T10:00:32.000Z"
+    },
+    {
+      "title": "Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX",
+      "url": "https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T09:22:01.000Z"
+    },
+    {
+      "title": "Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements",
+      "url": "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T09:04:22.000Z"
+    },
+    {
+      "title": "Mesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video",
+      "url": "https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T08:54:45.000Z"
+    },
     {
       "title": "Changing developer certificates might affect installers next year",
       "url": "https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/",
@@ -15,7 +71,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-10-16T05:33:47.000Z"
+      "date": "2026-10-16T05:30:00.000Z"
     },
     {
       "title": "My self-hosted infrastructure with Incus OS",
@@ -176,46 +232,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-15T11:30:00.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 Released With Linux 7.3 + GNOME 51, Rust Coreutils Migration Complete",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T11:19:06.000Z"
-    },
-    {
-      "title": "Huawei Proposes Enabling CPU Boost By Default For ACPI CPPC Linux Driver",
-      "url": "https://www.phoronix.com/news/Huawei-Proposes-Boost-Default",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T10:24:24.000Z"
-    },
-    {
-      "title": "GNOME Mutter Improves Damage Tracking For Secondary GPU Copy Buffers",
-      "url": "https://www.phoronix.com/news/Mutter-2nd-GPU-Damage-Track",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T10:12:29.000Z"
-    },
-    {
-      "title": "Microsoft Defender for Linux",
-      "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-15T10:04:47.000Z"
-    },
-    {
-      "title": "Microsoft Releases Microsoft Defender For The Linux Desktop",
-      "url": "https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T09:52:45.000Z"
     },
     {
       "title": "Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth",
@@ -426,14 +442,6 @@
       "date": "2026-10-12T16:31:27.000Z"
     },
     {
-      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
-      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-12T16:00:00.000Z"
-    },
-    {
       "title": "Hero or hooligan: Orpheus in the underworld",
       "url": "https://eclecticlight.co/2026/10/12/hero-or-hooligan-orpheus-in-the-underworld/",
       "source": "Eclectic Light",
@@ -472,14 +480,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-11T19:02:38.000Z"
-    },
-    {
-      "title": "The artist who died alongside Scott",
-      "url": "https://eclecticlight.co/2026/10/11/the-artist-who-died-alongside-scott/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-11T11:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
@@ -560,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-16T16:55:24.000Z"
-    },
-    {
-      "title": "From Report to Patch, the OpenBSD Errata Process",
-      "url": "https://exquisite.tube/w/sDafcZjdEQpR83aogPSx9j",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-09-16T11:20:06.000Z"
     }
   ]
 }
