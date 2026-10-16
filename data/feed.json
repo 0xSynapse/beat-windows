@@ -1,6 +1,94 @@
 {
-  "generated": "2026-10-16T12:33:30.268Z",
+  "generated": "2026-10-16T17:29:53.450Z",
   "items": [
+    {
+      "title": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
+      "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T17:01:22.000Z"
+    },
+    {
+      "title": "Thirty Years of KDE",
+      "url": "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-16T16:49:07.000Z"
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-10-16T15:41:08.000Z"
+    },
+    {
+      "title": "After 23 Years, Longtime Linux Developer To \"Step Back For A While\"",
+      "url": "https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T15:40:27.000Z"
+    },
+    {
+      "title": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T15:19:28.000Z"
+    },
+    {
+      "title": "[$] Recent and future changes to the Linux NFS server",
+      "url": "https://lwn.net/Articles/1098611/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-16T14:26:57.000Z"
+    },
+    {
+      "title": "Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year",
+      "url": "https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T14:24:33.000Z"
+    },
+    {
+      "title": "Results from the 2026 TAB election",
+      "url": "https://lwn.net/Articles/1101020/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-16T14:09:20.000Z"
+    },
+    {
+      "title": "AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite",
+      "url": "https://www.phoronix.com/news/AI-Starling-Desktop-Office",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T13:20:22.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1101015/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-16T13:17:44.000Z"
+    },
+    {
+      "title": "Fedora 46 Looking At Moving To RPM v6 Package Format",
+      "url": "https://www.phoronix.com/news/Fedora-46-RPM-v6",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-16T13:03:26.000Z"
+    },
     {
       "title": "Masaccio’s six years",
       "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
@@ -71,7 +159,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-10-16T05:30:00.000Z"
+      "date": "2026-10-16T05:33:47.000Z"
     },
     {
       "title": "My self-hosted infrastructure with Incus OS",
@@ -146,14 +234,6 @@
       "date": "2026-10-15T19:02:37.000Z"
     },
     {
-      "title": "Memtest86+ v9.00 Released With Support For ARM64 Memory Testing",
-      "url": "https://www.phoronix.com/news/memtest86-Plus-9.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T17:58:00.000Z"
-    },
-    {
       "title": "Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each",
       "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/",
       "source": "Daring Fireball",
@@ -168,62 +248,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T15:35:41.000Z"
-    },
-    {
-      "title": "[$] Vendor hooks in the Android kernel",
-      "url": "https://lwn.net/Articles/1098493/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-15T15:09:15.000Z"
-    },
-    {
-      "title": "3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T",
-      "url": "https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T14:56:51.000Z"
-    },
-    {
-      "title": "Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support",
-      "url": "https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-15T14:29:06.000Z"
-    },
-    {
-      "title": "KDE releases documentary",
-      "url": "https://lwn.net/Articles/1100787/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-15T13:24:31.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 released",
-      "url": "https://lwn.net/Articles/1100786/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-15T13:19:23.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1100785/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-15T13:09:44.000Z"
-    },
-    {
-      "title": "Seven stable kernels for Thursday with fix for critical vulnerability",
-      "url": "https://lwn.net/Articles/1100611/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-15T13:01:31.000Z"
     },
     {
       "title": "Painting with impaired vision: Edgar Degas",
@@ -466,22 +490,6 @@
       "date": "2026-10-12T06:30:00.000Z"
     },
     {
-      "title": "★ X Once Again Marks the Spot",
-      "url": "https://daringfireball.net/2026/10/x_once_again_marks_the_spot",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-11T21:05:33.000Z"
-    },
-    {
-      "title": "Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago",
-      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-11T19:02:38.000Z"
-    },
-    {
       "title": "Headers Up! What's New in httpd and relayd",
       "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
       "source": "Lobsters · openbsd",
@@ -552,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-18T19:46:10.000Z"
-    },
-    {
-      "title": "Gothub lists",
-      "url": "https://gothub.org/lists.html",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-09-16T16:55:24.000Z"
     }
   ]
 }

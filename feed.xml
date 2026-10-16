@@ -5,8 +5,96 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:29:53 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
+      <link>https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 17:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thirty Years of KDE</title>
+      <link>https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html</link>
+      <guid isPermaLink="true">https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 16 Oct 2026 16:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</title>
+      <link>https://calif.io/research/big-fish</link>
+      <guid isPermaLink="true">https://calif.io/research/big-fish</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Fri, 16 Oct 2026 15:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>After 23 Years, Longtime Linux Developer To &quot;Step Back For A While&quot;</title>
+      <link>https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 15:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January</title>
+      <link>https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 15:19:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Recent and future changes to the Linux NFS server</title>
+      <link>https://lwn.net/Articles/1098611/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1098611/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 16 Oct 2026 14:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year</title>
+      <link>https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 14:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Results from the 2026 TAB election</title>
+      <link>https://lwn.net/Articles/1101020/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101020/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 16 Oct 2026 14:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite</title>
+      <link>https://www.phoronix.com/news/AI-Starling-Desktop-Office</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AI-Starling-Desktop-Office</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 13:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1101015/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101015/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 16 Oct 2026 13:17:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora 46 Looking At Moving To RPM v6 Package Format</title>
+      <link>https://www.phoronix.com/news/Fedora-46-RPM-v6</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-46-RPM-v6</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 16 Oct 2026 13:03:26 GMT</pubDate>
+    </item>
     <item>
       <title>Masaccio’s six years</title>
       <link>https://eclecticlight.co/2026/10/16/masaccios-six-years/</link>
@@ -77,7 +165,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Fri, 16 Oct 2026 05:30:00 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 05:33:47 GMT</pubDate>
     </item>
     <item>
       <title>My self-hosted infrastructure with Incus OS</title>
@@ -152,14 +240,6 @@
       <pubDate>Thu, 15 Oct 2026 19:02:37 GMT</pubDate>
     </item>
     <item>
-      <title>Memtest86+ v9.00 Released With Support For ARM64 Memory Testing</title>
-      <link>https://www.phoronix.com/news/memtest86-Plus-9.0</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/memtest86-Plus-9.0</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 17:58:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
       <link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</link>
       <guid isPermaLink="true">https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</guid>
@@ -174,62 +254,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Thu, 15 Oct 2026 15:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Vendor hooks in the Android kernel</title>
-      <link>https://lwn.net/Articles/1098493/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098493/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 15:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>3mdeb Releases Updated Dasharo/Coreboot Firmware For ASRock Rack SPC741D8-2L2T</title>
-      <link>https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Dasharo-0.9-ASRock-SPC741D8</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 14:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code / AI Shows Potential For Reverse-Engineering Hardware For Linux Support</title>
-      <link>https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 15 Oct 2026 14:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE releases documentary</title>
-      <link>https://lwn.net/Articles/1100787/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100787/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 13:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 released</title>
-      <link>https://lwn.net/Articles/1100786/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100786/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 13:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1100785/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100785/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 13:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seven stable kernels for Thursday with fix for critical vulnerability</title>
-      <link>https://lwn.net/Articles/1100611/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100611/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 15 Oct 2026 13:01:31 GMT</pubDate>
     </item>
     <item>
       <title>Painting with impaired vision: Edgar Degas</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 13 Oct 2026 14:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>One of my biggest Googlebook gripes is the overly-basic Virtual Desks feature</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExTZ1d6RkRmUm9HajQxYl9HMDJkSWlKMFp4ZHNJTkdTMTB6dXZWNlBDT1pUdm9kbXMxdGpkSXBWemcwMWRXT1ZyTGV3d0gtbTNzclJveVF2UDRRY21UN3V3dmRmUTRBcTlmRHpVbC1pRWp5OHktU001RW9KUkU4dExVelZuUVdCcXN2c3dxenl6T1YzVmlaVkFmSkZ0VTBtR0p2YjBQNA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExTZ1d6RkRmUm9HajQxYl9HMDJkSWlKMFp4ZHNJTkdTMTB6dXZWNlBDT1pUdm9kbXMxdGpkSXBWemcwMWRXT1ZyTGV3d0gtbTNzclJveVF2UDRRY21UN3V3dmRmUTRBcTlmRHpVbC1pRWp5OHktU001RW9KUkU4dExVelZuUVdCcXN2c3dxenl6T1YzVmlaVkFmSkZ0VTBtR0p2YjBQNA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 13 Oct 2026 14:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung Galaxy phones now work perfectly with Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTVhNE5LYVE4Vk96WkpBSDlfbFZydDNmTlE0dnlfVGlmSVJzMndfazBFV2I0b29WeHF4OEhvQU10Ul9SWUZWeGNKMTJPaTV3WDJRMFVhU2lLUjZpbTc1cXRjQmZwRXpIcGpvQjhMQm1TV29yZ2JudUw4Rm9QejNtOXFIbFRHb2w1ODZOTVQ2V24taThidGExNw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTVhNE5LYVE4Vk96WkpBSDlfbFZydDNmTlE0dnlfVGlmSVJzMndfazBFV2I0b29WeHF4OEhvQU10Ul9SWUZWeGNKMTJPaTV3WDJRMFVhU2lLUjZpbTc1cXRjQmZwRXpIcGpvQjhMQm1TV29yZ2JudUw4Rm9QejNtOXFIbFRHb2w1ODZOTVQ2V24taThidGExNw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 13 Oct 2026 13:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>If a Chromebook wasn’t for you, Googlebook isn’t either</title>
-      <link>https://9to5google.com/2026/10/13/googlebook-chromebook-not-for-you/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/13/googlebook-chromebook-not-for-you/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Tue, 13 Oct 2026 13:05:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
