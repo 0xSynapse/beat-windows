@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-17T20:41:22.025Z",
+  "generated": "2026-10-17T23:10:47.693Z",
   "items": [
+    {
+      "title": "ReactOS Can Now Be Installed & Used With Its NTFS Driver",
+      "url": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T22:01:16.000Z"
+    },
     {
       "title": "How to reset a Googlebook to factory settings",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5",
@@ -320,14 +328,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-16T14:24:33.000Z"
-    },
-    {
-      "title": "Results from the 2026 TAB election",
-      "url": "https://lwn.net/Articles/1101020/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-16T14:09:20.000Z"
     },
     {
       "title": "Masaccio’s six years",

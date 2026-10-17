@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:10:47 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ReactOS Can Now Be Installed &amp; Used With Its NTFS Driver</title>
+      <link>https://www.phoronix.com/news/ReactOS-NTFS-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-NTFS-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 22:01:16 GMT</pubDate>
+    </item>
     <item>
       <title>How to reset a Googlebook to factory settings</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5</link>
@@ -326,14 +334,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Fri, 16 Oct 2026 14:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Results from the 2026 TAB election</title>
-      <link>https://lwn.net/Articles/1101020/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101020/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 16 Oct 2026 14:09:20 GMT</pubDate>
     </item>
     <item>
       <title>Masaccio’s six years</title>
