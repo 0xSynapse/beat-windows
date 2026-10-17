@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-17T17:18:16.288Z",
+  "generated": "2026-10-17T20:41:22.025Z",
   "items": [
+    {
+      "title": "How to reset a Googlebook to factory settings",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-17T20:00:17.000Z"
+    },
+    {
+      "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+      "url": "https://pwn.ai/blog/pwnescape",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-17T18:24:39.000Z"
+    },
+    {
+      "title": "★ HomeView Thoughts and Observations",
+      "url": "https://daringfireball.net/2026/10/homeview_thoughts_and_observations",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-17T17:25:13.000Z"
+    },
     {
       "title": "MeshXFS: AI Adapts XFS Into A Clustered File-System",
       "url": "https://www.phoronix.com/news/MeshXFS-XFS-Clustered",
@@ -306,14 +330,6 @@
       "date": "2026-10-16T14:09:20.000Z"
     },
     {
-      "title": "AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite",
-      "url": "https://www.phoronix.com/news/AI-Starling-Desktop-Office",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T13:20:22.000Z"
-    },
-    {
       "title": "Masaccio’s six years",
       "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
       "source": "Eclectic Light",
@@ -410,14 +426,6 @@
       "date": "2026-10-14T21:03:43.000Z"
     },
     {
-      "title": "The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room",
-      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-14T20:58:01.000Z"
-    },
-    {
       "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5",
       "source": "Chrome Unboxed",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-13T23:39:19.000Z"
-    },
-    {
-      "title": "Googlebook will improve support for Linux apps eventually, but it’s all about AI for now",
-      "url": "https://9to5google.com/2026/10/13/googlebook-linux-app-support/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-13T15:35:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

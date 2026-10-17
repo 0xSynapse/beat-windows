@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:41:22 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to reset a Googlebook to factory settings</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Sat, 17 Oct 2026 20:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
+      <link>https://pwn.ai/blog/pwnescape</link>
+      <guid isPermaLink="true">https://pwn.ai/blog/pwnescape</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 17 Oct 2026 18:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ HomeView Thoughts and Observations</title>
+      <link>https://daringfireball.net/2026/10/homeview_thoughts_and_observations</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/homeview_thoughts_and_observations</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 17 Oct 2026 17:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>MeshXFS: AI Adapts XFS Into A Clustered File-System</title>
       <link>https://www.phoronix.com/news/MeshXFS-XFS-Clustered</link>
@@ -312,14 +336,6 @@
       <pubDate>Fri, 16 Oct 2026 14:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite</title>
-      <link>https://www.phoronix.com/news/AI-Starling-Desktop-Office</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AI-Starling-Desktop-Office</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 13:20:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Masaccio’s six years</title>
       <link>https://eclecticlight.co/2026/10/16/masaccios-six-years/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/masaccios-six-years/</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Thu, 15 Oct 2026 07:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cirrus 1.17: an update for this unique iCloud Drive utility</title>
-      <link>https://eclecticlight.co/2026/10/15/cirrus-1-17-an-update-for-this-unique-icloud-drive-utility/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/15/cirrus-1-17-an-update-for-this-unique-icloud-drive-utility/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 15 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to find your downloaded files in Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOZE9iSDZFY05lQ1ZMandzYlBYOUh2ZmQxVWhjYW9rVUoyZnY3RGFnOFoyYVRLTGt1bEV4aGpYR2cyMG5WOW0xNUNsNXNONF9XRXVzelloSi1EWmRvX3p3M3otb2R6OS1icDBhRFE3OWNPRkctTEpPNzlEQmY1RVJOamhkMA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOZE9iSDZFY05lQ1ZMandzYlBYOUh2ZmQxVWhjYW9rVUoyZnY3RGFnOFoyYVRLTGt1bEV4aGpYR2cyMG5WOW0xNUNsNXNONF9XRXVzelloSi1EWmRvX3p3M3otb2R6OS1icDBhRFE3OWNPRkctTEpPNzlEQmY1RVJOamhkMA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
