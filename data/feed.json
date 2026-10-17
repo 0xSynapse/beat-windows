@@ -1,13 +1,37 @@
 {
-  "generated": "2026-10-17T00:32:40.152Z",
+  "generated": "2026-10-17T05:38:44.797Z",
   "items": [
+    {
+      "title": "The Late Charlie Munger on Elon Musk and Tesla",
+      "url": "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-17T01:22:34.000Z"
+    },
     {
       "title": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
       "url": "https://developer.apple.com/news/?id=vvzx6cul",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-10-16T23:40:59.000Z"
+      "date": "2026-10-17T01:00:00.000Z"
+    },
+    {
+      "title": "Wine 11.20 Released With CD-ROM Support Change",
+      "url": "https://www.phoronix.com/news/Wine-11.20-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T00:44:06.000Z"
+    },
+    {
+      "title": "Apple TV Started at $69 in 2015",
+      "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-17T00:37:01.000Z"
     },
     {
       "title": "Strange Times Make for Strange Bedfellows",
@@ -23,6 +47,14 @@
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-16T23:30:00.000Z"
+    },
+    {
+      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
       "date": "2026-10-16T23:30:00.000Z"
     },
     {
@@ -258,14 +290,6 @@
       "date": "2026-10-16T09:04:22.000Z"
     },
     {
-      "title": "Mesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video",
-      "url": "https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T08:54:45.000Z"
-    },
-    {
       "title": "Changing developer certificates might affect installers next year",
       "url": "https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/",
       "source": "Eclectic Light",
@@ -464,30 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-13T14:22:17.000Z"
-    },
-    {
-      "title": "Samsung Galaxy phones now work perfectly with Googlebook OS",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTVhNE5LYVE4Vk96WkpBSDlfbFZydDNmTlE0dnlfVGlmSVJzMndfazBFV2I0b29WeHF4OEhvQU10Ul9SWUZWeGNKMTJPaTV3WDJRMFVhU2lLUjZpbTc1cXRjQmZwRXpIcGpvQjhMQm1TV29yZ2JudUw4Rm9QejNtOXFIbFRHb2w1ODZOTVQ2V24taThidGExNw?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-13T13:19:28.000Z"
-    },
-    {
-      "title": "Portraits of trees: Klimt’s forests",
-      "url": "https://eclecticlight.co/2026/10/13/portraits-of-trees-klimts-forests/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-13T11:30:00.000Z"
-    },
-    {
-      "title": "Pin files in iCloud Drive",
-      "url": "https://eclecticlight.co/2026/10/13/pin-files-in-icloud-drive/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-13T06:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

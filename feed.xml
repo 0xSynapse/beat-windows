@@ -5,15 +5,39 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 00:32:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:38:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Late Charlie Munger on Elon Musk and Tesla</title>
+      <link>https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 17 Oct 2026 01:22:34 GMT</pubDate>
+    </item>
     <item>
       <title>Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’</title>
       <link>https://developer.apple.com/news/?id=vvzx6cul</link>
       <guid isPermaLink="true">https://developer.apple.com/news/?id=vvzx6cul</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 16 Oct 2026 23:40:59 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 11.20 Released With CD-ROM Support Change</title>
+      <link>https://www.phoronix.com/news/Wine-11.20-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.20-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 00:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple TV Started at $69 in 2015</title>
+      <link>https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 17 Oct 2026 00:37:01 GMT</pubDate>
     </item>
     <item>
       <title>Strange Times Make for Strange Bedfellows</title>
@@ -29,6 +53,14 @@
       <guid isPermaLink="true">https://9to5google.com/2026/10/16/hp-googlebook-14-review/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HP Googlebook 14 Review: Great laptop, shame about the OS</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
     </item>
     <item>
@@ -264,14 +296,6 @@
       <pubDate>Fri, 16 Oct 2026 09:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa's Zink Now Offers VA-API Video Acceleration Atop Vulkan Video</title>
-      <link>https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 08:54:45 GMT</pubDate>
-    </item>
-    <item>
       <title>Changing developer certificates might affect installers next year</title>
       <link>https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</guid>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Wed, 14 Oct 2026 12:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting a good story: Polymythic</title>
-      <link>https://eclecticlight.co/2026/10/14/painting-a-good-story-polymythic/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/14/painting-a-good-story-polymythic/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 14 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asus Googlebook 14 testing: Googlebook OS has compatibility issues in some games</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXl6MmJrSWFxQnlkNUg2bWpKMk9RS3ZNV0V6bjNlZ1RqdFl2eVl1STVaN3M5clFvUk1wbE1EaXZyYjd3Q0pSMV9oMnJrRmdxUmxSYmlfdnNJTFZHOVVBSk9zcHUzUFlmSUlOXzZSSDcxbi1IT1MtaU10dVhMMUZnS09Ja3VVS0pNdXBPSE1TQ2MyUy1ObXI5VjhBam0tNFNvUXRRS2czNy1xLWlqX1IxbURfREQ2cTZsV2JJaG5IZmFDdw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXl6MmJrSWFxQnlkNUg2bWpKMk9RS3ZNV0V6bjNlZ1RqdFl2eVl1STVaN3M5clFvUk1wbE1EaXZyYjd3Q0pSMV9oMnJrRmdxUmxSYmlfdnNJTFZHOVVBSk9zcHUzUFlmSUlOXzZSSDcxbi1IT1MtaU10dVhMMUZnS09Ja3VVS0pNdXBPSE1TQ2MyUy1ObXI5VjhBam0tNFNvUXRRS2czNy1xLWlqX1IxbURfREQ2cTZsV2JJaG5IZmFDdw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Notebookcheck</source>
-      <pubDate>Wed, 14 Oct 2026 11:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I tried gaming on a Googlebook — here's the good (and bad) news</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVpMVE1KQUdkdEJhUURibnZabFNUWGtnSGZLMWl2SzJTQ0VHS2FwdlZZSXBBZ2NCcjdoS3kxS1lUTjFKV2RYYzBZTExOaU8yNTAzMzBBdHh5Ri1qRWFSZW5jQjRmYnItalpoQzNfWFkyVW53MnZ0cHZHeERWYlN3WGh0RUY?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVpMVE1KQUdkdEJhUURibnZabFNUWGtnSGZLMWl2SzJTQ0VHS2FwdlZZSXBBZ2NCcjdoS3kxS1lUTjFKV2RYYzBZTExOaU8yNTAzMzBBdHh5Ri1qRWFSZW5jQjRmYnItalpoQzNfWFkyVW53MnZ0cHZHeERWYlN3WGh0RUY?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Wed, 14 Oct 2026 09:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
