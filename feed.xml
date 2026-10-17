@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:52:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GNOME's New Local/Cloud AI Chat App Gains More Features</title>
+      <link>https://www.phoronix.com/news/GNOME-Moose-0.6-AI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Moose-0.6-AI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 10:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO &amp; 990 EVO Plus SSDs</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 10:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.9 To Debut New Weather Widget &amp; On-Screen Keyboard</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 10:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Touch 24.04-2.1 Brings New Hardware Support &amp; Important Security Fix</title>
+      <link>https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 09:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 382</title>
+      <link>https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Ask Siri constructs and uses context</title>
+      <link>https://eclecticlight.co/2026/10/17/how-ask-siri-constructs-and-uses-context/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/how-ask-siri-constructs-and-uses-context/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>The Late Charlie Munger on Elon Musk and Tesla</title>
       <link>https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</link>
@@ -256,44 +304,12 @@
       <pubDate>Fri, 16 Oct 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver</title>
-      <link>https://www.phoronix.com/news/LLVMpipe-AVX-512-MR</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LLVMpipe-AVX-512-MR</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 10:28:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks</title>
-      <link>https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 10:13:51 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook review: Android on a laptop is still Android</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Ars Technica</source>
       <pubDate>Fri, 16 Oct 2026 10:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 09:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements</title>
-      <link>https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 09:04:22 GMT</pubDate>
     </item>
     <item>
       <title>Changing developer certificates might affect installers next year</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Wed, 14 Oct 2026 20:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gizmodo</source>
-      <pubDate>Wed, 14 Oct 2026 15:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to share files between a Googlebook and Android phone using Quick Share</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Wed, 14 Oct 2026 12:00:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

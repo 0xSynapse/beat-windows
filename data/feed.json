@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-17T05:38:44.797Z",
+  "generated": "2026-10-17T10:52:30.655Z",
   "items": [
+    {
+      "title": "GNOME's New Local/Cloud AI Chat App Gains More Features",
+      "url": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T10:39:25.000Z"
+    },
+    {
+      "title": "Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO & 990 EVO Plus SSDs",
+      "url": "https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T10:15:12.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.9 To Debut New Weather Widget & On-Screen Keyboard",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T10:01:15.000Z"
+    },
+    {
+      "title": "Ubuntu Touch 24.04-2.1 Brings New Hardware Support & Important Security Fix",
+      "url": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T09:49:26.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 382",
+      "url": "https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-17T08:00:00.000Z"
+    },
+    {
+      "title": "How Ask Siri constructs and uses context",
+      "url": "https://eclecticlight.co/2026/10/17/how-ask-siri-constructs-and-uses-context/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-17T07:00:00.000Z"
+    },
     {
       "title": "The Late Charlie Munger on Elon Musk and Tesla",
       "url": "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html",
@@ -250,44 +298,12 @@
       "date": "2026-10-16T11:30:00.000Z"
     },
     {
-      "title": "AI Resurrects AVX-512 Support For Mesa's LLVMpipe Software Driver",
-      "url": "https://www.phoronix.com/news/LLVMpipe-AVX-512-MR",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T10:28:51.000Z"
-    },
-    {
-      "title": "Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks",
-      "url": "https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T10:13:51.000Z"
-    },
-    {
       "title": "Googlebook review: Android on a laptop is still Android",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5",
       "source": "Ars Technica",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-16T10:00:32.000Z"
-    },
-    {
-      "title": "Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX",
-      "url": "https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T09:22:01.000Z"
-    },
-    {
-      "title": "Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements",
-      "url": "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T09:04:22.000Z"
     },
     {
       "title": "Changing developer certificates might affect installers next year",
@@ -458,28 +474,12 @@
       "date": "2026-10-13T23:39:19.000Z"
     },
     {
-      "title": "Apple has just released an update to XProtect for all macOS",
-      "url": "https://eclecticlight.co/2026/10/13/apple-has-just-released-an-update-to-xprotect-for-all-macos-23/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-13T21:02:48.000Z"
-    },
-    {
       "title": "Googlebook will improve support for Linux apps eventually, but it’s all about AI for now",
       "url": "https://9to5google.com/2026/10/13/googlebook-linux-app-support/",
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-13T15:35:00.000Z"
-    },
-    {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-13T14:52:24.000Z"
     },
     {
       "title": "One of my biggest Googlebook gripes is the overly-basic Virtual Desks feature",
