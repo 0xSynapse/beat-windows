@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-17T10:52:30.655Z",
+  "generated": "2026-10-17T14:14:35.749Z",
   "items": [
+    {
+      "title": "Apple TV Price History, Charted",
+      "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-17T14:06:18.000Z"
+    },
+    {
+      "title": "Paintings of gales 1",
+      "url": "https://eclecticlight.co/2026/10/17/paintings-of-gales-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-17T11:30:00.000Z"
+    },
+    {
+      "title": "The Asus Googlebook 14 packs power and Android love in a small package",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5",
+      "source": "MakeUseOf",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-17T11:15:17.000Z"
+    },
+    {
+      "title": "Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024",
+      "url": "https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T10:54:33.000Z"
+    },
     {
       "title": "GNOME's New Local/Cloud AI Chat App Gains More Features",
       "url": "https://www.phoronix.com/news/GNOME-Moose-0.6-AI",
@@ -282,14 +314,6 @@
       "date": "2026-10-16T13:17:44.000Z"
     },
     {
-      "title": "Fedora 46 Looking At Moving To RPM v6 Package Format",
-      "url": "https://www.phoronix.com/news/Fedora-46-RPM-v6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T13:03:26.000Z"
-    },
-    {
       "title": "Masaccio’s six years",
       "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
       "source": "Eclectic Light",
@@ -418,14 +442,6 @@
       "date": "2026-10-14T12:00:13.000Z"
     },
     {
-      "title": "Painting a good story: Polymythic",
-      "url": "https://eclecticlight.co/2026/10/14/painting-a-good-story-polymythic/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-14T11:30:00.000Z"
-    },
-    {
       "title": "Asus Googlebook 14 testing: Googlebook OS has compatibility issues in some games",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXl6MmJrSWFxQnlkNUg2bWpKMk9RS3ZNV0V6bjNlZ1RqdFl2eVl1STVaN3M5clFvUk1wbE1EaXZyYjd3Q0pSMV9oMnJrRmdxUmxSYmlfdnNJTFZHOVVBSk9zcHUzUFlmSUlOXzZSSDcxbi1IT1MtaU10dVhMMUZnS09Ja3VVS0pNdXBPSE1TQ2MyUy1ObXI5VjhBam0tNFNvUXRRS2czNy1xLWlqX1IxbURfREQ2cTZsV2JJaG5IZmFDdw?oc=5",
       "source": "Notebookcheck",
@@ -458,14 +474,6 @@
       "date": "2026-10-14T06:41:00.000Z"
     },
     {
-      "title": "Where to look for Mac help: Tips or AI?",
-      "url": "https://eclecticlight.co/2026/10/14/where-to-look-for-mac-help-tips-or-ai/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-14T06:30:00.000Z"
-    },
-    {
       "title": "Chrome 155 for Googlebook brings expanded web app installs, integration",
       "url": "https://9to5google.com/2026/10/13/chrome-155-googlebooks/",
       "source": "9to5Google · Googlebook",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-13T15:35:00.000Z"
-    },
-    {
-      "title": "One of my biggest Googlebook gripes is the overly-basic Virtual Desks feature",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExTZ1d6RkRmUm9HajQxYl9HMDJkSWlKMFp4ZHNJTkdTMTB6dXZWNlBDT1pUdm9kbXMxdGpkSXBWemcwMWRXT1ZyTGV3d0gtbTNzclJveVF2UDRRY21UN3V3dmRmUTRBcTlmRHpVbC1pRWp5OHktU001RW9KUkU4dExVelZuUVdCcXN2c3dxenl6T1YzVmlaVkFmSkZ0VTBtR0p2YjBQNA?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-13T14:22:17.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:14:35 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple TV Price History, Charted</title>
+      <link>https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</link>
+      <guid isPermaLink="true">https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 17 Oct 2026 14:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paintings of gales 1</title>
+      <link>https://eclecticlight.co/2026/10/17/paintings-of-gales-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/paintings-of-gales-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 17 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Asus Googlebook 14 packs power and Android love in a small package</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">MakeUseOf</source>
+      <pubDate>Sat, 17 Oct 2026 11:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 10:54:33 GMT</pubDate>
+    </item>
     <item>
       <title>GNOME's New Local/Cloud AI Chat App Gains More Features</title>
       <link>https://www.phoronix.com/news/GNOME-Moose-0.6-AI</link>
@@ -288,14 +320,6 @@
       <pubDate>Fri, 16 Oct 2026 13:17:44 GMT</pubDate>
     </item>
     <item>
-      <title>Fedora 46 Looking At Moving To RPM v6 Package Format</title>
-      <link>https://www.phoronix.com/news/Fedora-46-RPM-v6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-46-RPM-v6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 13:03:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Masaccio’s six years</title>
       <link>https://eclecticlight.co/2026/10/16/masaccios-six-years/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/masaccios-six-years/</guid>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title>
-      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 14 Oct 2026 21:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room</title>
-      <link>https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</link>
-      <guid isPermaLink="true">https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 14 Oct 2026 20:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>A user has installed Googlebook OS onto a Chromebook Plus, and it runs great</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Wed, 14 Oct 2026 20:30:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
