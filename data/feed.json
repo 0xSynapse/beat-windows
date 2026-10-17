@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-16T21:18:02.844Z",
+  "generated": "2026-10-17T00:32:40.152Z",
   "items": [
+    {
+      "title": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T23:40:59.000Z"
+    },
+    {
+      "title": "Strange Times Make for Strange Bedfellows",
+      "url": "https://x.com/finkd/status/2110778025629347999",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-16T23:34:03.000Z"
+    },
+    {
+      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
+      "url": "https://9to5google.com/2026/10/16/hp-googlebook-14-review/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-16T23:30:00.000Z"
+    },
+    {
+      "title": "I tested the Dell XPS Googlebook and it's an Android fan's dream laptop",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5",
+      "source": "Tom's Guide",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-16T23:07:39.000Z"
+    },
     {
       "title": "How They Got Duo Support in NetNewsWire",
       "url": "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html",
@@ -242,14 +274,6 @@
       "date": "2026-10-16T06:30:00.000Z"
     },
     {
-      "title": "I tested the Dell XPS Googlebook — and it's an Android fan's dream laptop",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5",
-      "source": "Tom's Guide",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-16T05:30:00.000Z"
-    },
-    {
       "title": "★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2",
       "url": "https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2",
       "source": "Daring Fireball",
@@ -450,14 +474,6 @@
       "date": "2026-10-13T13:19:28.000Z"
     },
     {
-      "title": "If a Chromebook wasn’t for you, Googlebook isn’t either",
-      "url": "https://9to5google.com/2026/10/13/googlebook-chromebook-not-for-you/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-13T13:05:00.000Z"
-    },
-    {
       "title": "Portraits of trees: Klimt’s forests",
       "url": "https://eclecticlight.co/2026/10/13/portraits-of-trees-klimts-forests/",
       "source": "Eclectic Light",
@@ -472,22 +488,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-13T06:30:00.000Z"
-    },
-    {
-      "title": "Mark Stephens, a.k.a. Robert X. Cringely, Died at 73",
-      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-12T16:43:46.000Z"
-    },
-    {
-      "title": "Hero or hooligan: Orpheus in the underworld",
-      "url": "https://eclecticlight.co/2026/10/12/hero-or-hooligan-orpheus-in-the-underworld/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-12T11:30:00.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

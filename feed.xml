@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:32:40 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’</title>
+      <link>https://developer.apple.com/news/?id=vvzx6cul</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=vvzx6cul</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 23:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strange Times Make for Strange Bedfellows</title>
+      <link>https://x.com/finkd/status/2110778025629347999</link>
+      <guid isPermaLink="true">https://x.com/finkd/status/2110778025629347999</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 16 Oct 2026 23:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>HP Googlebook 14 Review: Great laptop, shame about the OS</title>
+      <link>https://9to5google.com/2026/10/16/hp-googlebook-14-review/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/16/hp-googlebook-14-review/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tested the Dell XPS Googlebook and it's an Android fan's dream laptop</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Tom's Guide</source>
+      <pubDate>Fri, 16 Oct 2026 23:07:39 GMT</pubDate>
+    </item>
     <item>
       <title>How They Got Duo Support in NetNewsWire</title>
       <link>https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</link>
@@ -248,14 +280,6 @@
       <pubDate>Fri, 16 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>I tested the Dell XPS Googlebook — and it's an Android fan's dream laptop</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Fri, 16 Oct 2026 05:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
       <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Wed, 14 Oct 2026 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS Magisk demo shows root access could be much easier than first thought</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5adlNrUEp4SjVfZGNNS3lPR3BLWExFTGMyZ044bVVWQU5LeUFtSkcxUWFQNjE5cWNhd05YMmozTGJvaHFtOWRPV1B0NWo5WVRxUTRORXkxa2FwTnl3LUhON1dmcTNTdVYzTW1rSG5tSGFJVmQ4RzM1bHcySUc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE5adlNrUEp4SjVfZGNNS3lPR3BLWExFTGMyZ044bVVWQU5LeUFtSkcxUWFQNjE5cWNhd05YMmozTGJvaHFtOWRPV1B0NWo5WVRxUTRORXkxa2FwTnl3LUhON1dmcTNTdVYzTW1rSG5tSGFJVmQ4RzM1bHcySUc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Wed, 14 Oct 2026 07:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS just fixed one of its biggest early app annoyances</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPV29aS3JRQ2NKWVBxc2RPU0RXWjBkMUtDVEFsdFN6bWVjbXdjTl9wZjlvQUZKRmJTUDM1YmRHcHM1UTNoTm04Y2ZyTkdNamVWcXJXLVZ1ME1EZlk2N3ktVWxYNlBxVm1OUFRaMEpHbjM2QXJLNlRBajFRNzlic2NrUHhFMEdlVE9JNlphUzkxVEpJOEJuNGc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxPV29aS3JRQ2NKWVBxc2RPU0RXWjBkMUtDVEFsdFN6bWVjbXdjTl9wZjlvQUZKRmJTUDM1YmRHcHM1UTNoTm04Y2ZyTkdNamVWcXJXLVZ1ME1EZlk2N3ktVWxYNlBxVm1OUFRaMEpHbjM2QXJLNlRBajFRNzlic2NrUHhFMEdlVE9JNlphUzkxVEpJOEJuNGc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Wed, 14 Oct 2026 06:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Where to look for Mac help: Tips or AI?</title>
-      <link>https://eclecticlight.co/2026/10/14/where-to-look-for-mac-help-tips-or-ai/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/14/where-to-look-for-mac-help-tips-or-ai/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
