@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:18:16 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MeshXFS: AI Adapts XFS Into A Clustered File-System</title>
+      <link>https://www.phoronix.com/news/MeshXFS-XFS-Clustered</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/MeshXFS-XFS-Clustered</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 17 Oct 2026 17:02:40 GMT</pubDate>
+    </item>
     <item>
       <title>Apple TV Price History, Charted</title>
       <link>https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</link>
@@ -310,14 +318,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Fri, 16 Oct 2026 13:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1101015/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101015/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 16 Oct 2026 13:17:44 GMT</pubDate>
     </item>
     <item>
       <title>Masaccio’s six years</title>

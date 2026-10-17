@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-17T14:14:35.749Z",
+  "generated": "2026-10-17T17:18:16.288Z",
   "items": [
+    {
+      "title": "MeshXFS: AI Adapts XFS Into A Clustered File-System",
+      "url": "https://www.phoronix.com/news/MeshXFS-XFS-Clustered",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-17T17:02:40.000Z"
+    },
     {
       "title": "Apple TV Price History, Charted",
       "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
@@ -304,14 +312,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-16T13:20:22.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1101015/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-16T13:17:44.000Z"
     },
     {
       "title": "Masaccio’s six years",
