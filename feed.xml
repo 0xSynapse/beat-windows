@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 01:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:59:55 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Does moving a GPU server's request loop into the kernel save CPU?</title>
+      <link>https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/</link>
+      <guid isPermaLink="true">https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 18 Oct 2026 03:18:29 GMT</pubDate>
+    </item>
     <item>
       <title>Whatever You Say Bounces Off Me and Sticks to You</title>
       <link>https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</link>
@@ -334,14 +342,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 16 Oct 2026 15:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Recent and future changes to the Linux NFS server</title>
-      <link>https://lwn.net/Articles/1098611/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1098611/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 16 Oct 2026 14:26:57 GMT</pubDate>
     </item>
     <item>
       <title>Masaccio’s six years</title>
