@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-18T20:51:30.345Z",
+  "generated": "2026-10-18T23:19:34.064Z",
   "items": [
+    {
+      "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
+      "url": "https://tomthedancingbug.com/the-inner-hive/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T22:53:00.000Z"
+    },
+    {
+      "title": "WorkOS AuthKit",
+      "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T22:45:00.000Z"
+    },
+    {
+      "title": "Verizon Is Going to Charge $10/Month for iPhone Handoff",
+      "url": "https://www.verizon.com/about/news/iphone-duo-verizon-offers",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T22:20:06.000Z"
+    },
+    {
+      "title": "Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T21:58:33.000Z"
+    },
+    {
+      "title": "Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’",
+      "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T21:26:32.000Z"
+    },
+    {
+      "title": "How to install and use Linux apps on Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-18T21:00:16.000Z"
+    },
     {
       "title": "Apple Issues Statement on Duo Demand Far Outstripping Supply",
       "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
@@ -298,14 +346,6 @@
       "date": "2026-10-17T01:22:34.000Z"
     },
     {
-      "title": "Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’",
-      "url": "https://developer.apple.com/news/?id=vvzx6cul",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-17T01:00:00.000Z"
-    },
-    {
       "title": "Wine 11.20 Released With CD-ROM Support Change",
       "url": "https://www.phoronix.com/news/Wine-11.20-Released",
       "source": "Phoronix",
@@ -362,14 +402,6 @@
       "date": "2026-10-16T20:53:42.000Z"
     },
     {
-      "title": "★ Real Artists Ship, Tesla Edition",
-      "url": "https://daringfireball.net/2026/10/real_artists_ship_tesla_edition",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-16T20:11:23.000Z"
-    },
-    {
       "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
       "url": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
       "source": "Phoronix",
@@ -410,14 +442,6 @@
       "date": "2026-10-16T17:45:13.000Z"
     },
     {
-      "title": "Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer",
-      "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-16T17:01:22.000Z"
-    },
-    {
       "title": "Dell XPS Googlebook Review: The Prettiest and Most Portable Android Laptop So Far",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McnBOc3VkdWdMWUl5NGJNNUF2d3VVUVZhM2NwMzkzZlRYNGY1NXdaaEtjVVNSeTE4V0FKNDlQQnlpZkJtMjMzLVR2R2thdWxaOVlhUlpyN3RzOHpTQ0E?oc=5",
       "source": "PCMag",
@@ -432,22 +456,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-16T15:41:08.000Z"
-    },
-    {
-      "title": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-16T15:19:28.000Z"
-    },
-    {
-      "title": "Masaccio’s six years",
-      "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-16T11:30:00.000Z"
     },
     {
       "title": "Googlebook review: Android on a laptop is still Android",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-14T20:30:41.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15 Review: The Costs of Being an Early Adopter",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UMDk5aEdOc2dZa0MyeXV2T05fdmdZUUgxZGMybXp4WV8wN0VjM0NvNXh3Uno2QTBKd1YwelhhM0hZX19ZYWZOTVRmRnNXdnBKeHFtZEozVWl3Qml1YjhqNnU1MVhmSDJKN1E?oc=5",
-      "source": "Gizmodo",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T15:45:37.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
