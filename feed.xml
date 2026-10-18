@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:08:56 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Whatever You Say Bounces Off Me and Sticks to You</title>
+      <link>https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 18 Oct 2026 00:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synchronous Queues For VirtIO-FS Show Huge Performance Potential</title>
+      <link>https://www.phoronix.com/news/Synchronous-VirtIO-FS</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Synchronous-VirtIO-FS</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 00:55:35 GMT</pubDate>
+    </item>
     <item>
       <title>ReactOS Can Now Be Installed &amp; Used With Its NTFS Driver</title>
       <link>https://www.phoronix.com/news/ReactOS-NTFS-Driver</link>
@@ -328,14 +344,6 @@
       <pubDate>Fri, 16 Oct 2026 14:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year</title>
-      <link>https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 14:24:33 GMT</pubDate>
-    </item>
-    <item>
       <title>Masaccio’s six years</title>
       <link>https://eclecticlight.co/2026/10/16/masaccios-six-years/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/masaccios-six-years/</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 15 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1pQcUdPSWszV1RDR0lwYzJVN0JzT0VsVXhoUzVkQlg1X0RKajFyVzBGYjNDeGZEMy1QODJvM2dlV2FkZUhXNTBNaU1oVXp6SDJXQWxCbmFMLUtMc0hNd29ZSmJsd3pLb3ZreElvMjJ0MFJWRW1CdU5sU25PQTA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1pQcUdPSWszV1RDR0lwYzJVN0JzT0VsVXhoUzVkQlg1X0RKajFyVzBGYjNDeGZEMy1QODJvM2dlV2FkZUhXNTBNaU1oVXp6SDJXQWxCbmFMLUtMc0hNd29ZSmJsd3pLb3ZreElvMjJ0MFJWRW1CdU5sU25PQTA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Thu, 15 Oct 2026 07:14:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

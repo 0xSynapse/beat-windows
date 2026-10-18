@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-17T23:10:47.693Z",
+  "generated": "2026-10-18T01:08:56.948Z",
   "items": [
+    {
+      "title": "Whatever You Say Bounces Off Me and Sticks to You",
+      "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T00:55:42.000Z"
+    },
+    {
+      "title": "Synchronous Queues For VirtIO-FS Show Huge Performance Potential",
+      "url": "https://www.phoronix.com/news/Synchronous-VirtIO-FS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-18T00:55:35.000Z"
+    },
     {
       "title": "ReactOS Can Now Be Installed & Used With Its NTFS Driver",
       "url": "https://www.phoronix.com/news/ReactOS-NTFS-Driver",
@@ -322,14 +338,6 @@
       "date": "2026-10-16T14:26:57.000Z"
     },
     {
-      "title": "Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year",
-      "url": "https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T14:24:33.000Z"
-    },
-    {
       "title": "Masaccio’s six years",
       "url": "https://eclecticlight.co/2026/10/16/masaccios-six-years/",
       "source": "Eclectic Light",
@@ -416,14 +424,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users",
-      "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-14T21:03:43.000Z"
     },
     {
       "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great",
