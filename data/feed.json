@@ -1,6 +1,54 @@
 {
-  "generated": "2026-10-18T11:17:10.956Z",
+  "generated": "2026-10-18T14:40:53.709Z",
   "items": [
+    {
+      "title": "It Turns Out Intel TDX Doesn't Need So Much Cache Flushing",
+      "url": "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-18T13:53:24.000Z"
+    },
+    {
+      "title": "After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3N5YVJwQ3ZfNEJYUFhIYlVqNDNQWXM4R1p0UHgxQTJYTFFZTU1JWXJ3UVVuRzdBOEpIMTJhY1VaOW1SZ0dzZUZQamdEWl80LTYwQjZmSkE4a2dfNmNTaFd3UFlBcnMzclVJRWc4NnNRbm1GbjRheEVEUG83SXpyZW0wWUxCa2VjZC1JRTVaVTVWYi1RU1BIaTViUXc3UE4xenl1aG5oMER0WHZQZUF1RlQtOTFUQ2NfcXc?oc=5",
+      "source": "XDA",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-18T13:00:19.000Z"
+    },
+    {
+      "title": "The biggest reason not to buy a Googlebook is all about timing",
+      "url": "https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "title": "I Wanted Googlebook OS to Win Me Over. It's Just Not Ready",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5",
+      "source": "PCMag Australia",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "title": "The biggest reason not to buy a Googlebook is all about timing",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "title": "Paintings of gales 2",
+      "url": "https://eclecticlight.co/2026/10/18/paintings-of-gales-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-18T11:30:00.000Z"
+    },
     {
       "title": "Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4",
       "url": "https://www.phoronix.com/news/Linux-7.4-Features-Preview",
@@ -306,14 +354,6 @@
       "date": "2026-10-16T18:25:15.000Z"
     },
     {
-      "title": "The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve",
-      "url": "https://www.phoronix.com/news/Linux-7.3-Best-Features",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T18:17:47.000Z"
-    },
-    {
       "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5",
       "source": "Android Police",
@@ -410,14 +450,6 @@
       "date": "2026-10-15T15:35:41.000Z"
     },
     {
-      "title": "Painting with impaired vision: Edgar Degas",
-      "url": "https://eclecticlight.co/2026/10/15/painting-with-impaired-vision-edgar-degas/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-15T11:30:00.000Z"
-    },
-    {
       "title": "Someone got Googlebook OS running on a Chromebook, and it's surprisingly smooth",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1T1pQcUdPSWszV1RDR0lwYzJVN0JzT0VsVXhoUzVkQlg1X0RKajFyVzBGYjNDeGZEMy1QODJvM2dlV2FkZUhXNTBNaU1oVXp6SDJXQWxCbmFMLUtMc0hNd29ZSmJsd3pLb3ZreElvMjJ0MFJWRW1CdU5sU25PQTA?oc=5",
       "source": "Android Authority",
@@ -464,38 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-14T11:02:00.000Z"
-    },
-    {
-      "title": "I tried gaming on a Googlebook — here's the good (and bad) news",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVpMVE1KQUdkdEJhUURibnZabFNUWGtnSGZLMWl2SzJTQ0VHS2FwdlZZSXBBZ2NCcjdoS3kxS1lUTjFKV2RYYzBZTExOaU8yNTAzMzBBdHh5Ri1qRWFSZW5jQjRmYnItalpoQzNfWFkyVW53MnZ0cHZHeERWYlN3WGh0RUY?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T09:30:00.000Z"
-    },
-    {
-      "title": "Googlebook OS Magisk demo shows root access could be much easier than first thought",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adlNrUEp4SjVfZGNNS3lPR3BLWExFTGMyZ044bVVWQU5LeUFtSkcxUWFQNjE5cWNhd05YMmozTGJvaHFtOWRPV1B0NWo5WVRxUTRORXkxa2FwTnl3LUhON1dmcTNTdVYzTW1rSG5tSGFJVmQ4RzM1bHcySUc?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T07:59:00.000Z"
-    },
-    {
-      "title": "Googlebook OS just fixed one of its biggest early app annoyances",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV29aS3JRQ2NKWVBxc2RPU0RXWjBkMUtDVEFsdFN6bWVjbXdjTl9wZjlvQUZKRmJTUDM1YmRHcHM1UTNoTm04Y2ZyTkdNamVWcXJXLVZ1ME1EZlk2N3ktVWxYNlBxVm1OUFRaMEpHbjM2QXJLNlRBajFRNzlic2NrUHhFMEdlVE9JNlphUzkxVEpJOEJuNGc?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T06:41:00.000Z"
-    },
-    {
-      "title": "Chrome 155 for Googlebook brings expanded web app installs, integration",
-      "url": "https://9to5google.com/2026/10/13/chrome-155-googlebooks/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-13T23:39:19.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

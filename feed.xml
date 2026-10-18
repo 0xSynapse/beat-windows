@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:40:53 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>It Turns Out Intel TDX Doesn't Need So Much Cache Flushing</title>
+      <link>https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 13:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3N5YVJwQ3ZfNEJYUFhIYlVqNDNQWXM4R1p0UHgxQTJYTFFZTU1JWXJ3UVVuRzdBOEpIMTJhY1VaOW1SZ0dzZUZQamdEWl80LTYwQjZmSkE4a2dfNmNTaFd3UFlBcnMzclVJRWc4NnNRbm1GbjRheEVEUG83SXpyZW0wWUxCa2VjZC1JRTVaVTVWYi1RU1BIaTViUXc3UE4xenl1aG5oMER0WHZQZUF1RlQtOTFUQ2NfcXc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3N5YVJwQ3ZfNEJYUFhIYlVqNDNQWXM4R1p0UHgxQTJYTFFZTU1JWXJ3UVVuRzdBOEpIMTJhY1VaOW1SZ0dzZUZQamdEWl80LTYwQjZmSkE4a2dfNmNTaFd3UFlBcnMzclVJRWc4NnNRbm1GbjRheEVEUG83SXpyZW0wWUxCa2VjZC1JRTVaVTVWYi1RU1BIaTViUXc3UE4xenl1aG5oMER0WHZQZUF1RlQtOTFUQ2NfcXc?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">XDA</source>
+      <pubDate>Sun, 18 Oct 2026 13:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The biggest reason not to buy a Googlebook is all about timing</title>
+      <link>https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Wanted Googlebook OS to Win Me Over. It's Just Not Ready</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag Australia</source>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The biggest reason not to buy a Googlebook is all about timing</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paintings of gales 2</title>
+      <link>https://eclecticlight.co/2026/10/18/paintings-of-gales-2/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/18/paintings-of-gales-2/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 18 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Features-Preview</link>
@@ -312,14 +360,6 @@
       <pubDate>Fri, 16 Oct 2026 18:25:15 GMT</pubDate>
     </item>
     <item>
-      <title>The Best Features Of Linux 7.3: Performance Improvements, Lots From Valve</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Best-Features</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Best-Features</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 18:17:47 GMT</pubDate>
-    </item>
-    <item>
       <title>I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</guid>
@@ -366,46 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 16 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook review: Android on a laptop is still Android</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Ars Technica</source>
-      <pubDate>Fri, 16 Oct 2026 10:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Changing developer certificates might affect installers next year</title>
-      <link>https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 16 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
-      <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 16 Oct 2026 01:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to take a screenshot on Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Thu, 15 Oct 2026 20:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
-      <link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 15 Oct 2026 16:11:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
