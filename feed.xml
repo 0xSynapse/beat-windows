@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:17:10 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Features-Preview</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Features-Preview</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 10:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead</title>
+      <link>https://www.phoronix.com/news/Omarchy-Faster-Web-Browser</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Omarchy-Faster-Web-Browser</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 10:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups</title>
+      <link>https://www.phoronix.com/news/Servo-0.6-Changes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Servo-0.6-Changes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 10:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Un-hanging the HP Envy 17-DA0013dx for OpenBSD</title>
+      <link>https://darwinsys.com/blog/20260925-hp-envy-17/</link>
+      <guid isPermaLink="true">https://darwinsys.com/blog/20260925-hp-envy-17/</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Sun, 18 Oct 2026 07:42:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Week on My Mac: Selection and focus in Golden Gate</title>
+      <link>https://eclecticlight.co/2026/10/18/last-week-on-my-mac-selection-and-focus-in-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/18/last-week-on-my-mac-selection-and-focus-in-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Does moving a GPU server's request loop into the kernel save CPU?</title>
       <link>https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/</link>
@@ -280,14 +320,6 @@
       <pubDate>Fri, 16 Oct 2026 18:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.10 (Stonking Stingray) released</title>
-      <link>https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html</link>
-      <guid isPermaLink="true">https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 16 Oct 2026 18:01:39 GMT</pubDate>
-    </item>
-    <item>
       <title>I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5</guid>
@@ -312,28 +344,12 @@
       <pubDate>Fri, 16 Oct 2026 17:00:32 GMT</pubDate>
     </item>
     <item>
-      <title>Thirty Years of KDE</title>
-      <link>https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html</link>
-      <guid isPermaLink="true">https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 16 Oct 2026 16:49:07 GMT</pubDate>
-    </item>
-    <item>
       <title>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</title>
       <link>https://calif.io/research/big-fish</link>
       <guid isPermaLink="true">https://calif.io/research/big-fish</guid>
       <category>bsd</category>
       <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
       <pubDate>Fri, 16 Oct 2026 15:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>After 23 Years, Longtime Linux Developer To &quot;Step Back For A While&quot;</title>
-      <link>https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 16 Oct 2026 15:40:27 GMT</pubDate>
     </item>
     <item>
       <title>iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 15 Oct 2026 16:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>A new affordable wave of Snapdragon-powered Googlebooks is in the works</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHd0VjFiM1hHb3p2WS1LM1c4ajJpMVE5cmdzVV9LTTBGMk5iZ2I0YmtDLWpVeUtsVEF3U2dxeXVERDdpcDUxQVBMUlpwdXpHSU5vc3JoOGNNOUNENnpaWlZEem5LTXlNdUFPbVdCTnBHaVRrSG9tZHFrTGpITWd6TzRZSmp5TnNSd1NlMFA5R29rMTVyMks3eGVVZ2NUOWM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHd0VjFiM1hHb3p2WS1LM1c4ajJpMVE5cmdzVV9LTTBGMk5iZ2I0YmtDLWpVeUtsVEF3U2dxeXVERDdpcDUxQVBMUlpwdXpHSU5vc3JoOGNNOUNENnpaWlZEem5LTXlNdUFPbVdCTnBHaVRrSG9tZHFrTGpITWd6TzRZSmp5TnNSd1NlMFA5R29rMTVyMks3eGVVZ2NUOWM?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Thu, 15 Oct 2026 15:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting with impaired vision: Edgar Degas</title>
-      <link>https://eclecticlight.co/2026/10/15/painting-with-impaired-vision-edgar-degas/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/15/painting-with-impaired-vision-edgar-degas/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 15 Oct 2026 11:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

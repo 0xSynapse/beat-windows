@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-18T05:59:55.313Z",
+  "generated": "2026-10-18T11:17:10.956Z",
   "items": [
+    {
+      "title": "Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Features-Preview",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-18T10:50:00.000Z"
+    },
+    {
+      "title": "Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead",
+      "url": "https://www.phoronix.com/news/Omarchy-Faster-Web-Browser",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-18T10:23:00.000Z"
+    },
+    {
+      "title": "Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups",
+      "url": "https://www.phoronix.com/news/Servo-0.6-Changes",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-18T10:05:40.000Z"
+    },
+    {
+      "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
+      "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-10-18T07:42:41.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: Selection and focus in Golden Gate",
+      "url": "https://eclecticlight.co/2026/10/18/last-week-on-my-mac-selection-and-focus-in-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-18T07:00:00.000Z"
+    },
     {
       "title": "Does moving a GPU server's request loop into the kernel save CPU?",
       "url": "https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/",
@@ -274,14 +314,6 @@
       "date": "2026-10-16T18:17:47.000Z"
     },
     {
-      "title": "Ubuntu 26.10 (Stonking Stingray) released",
-      "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-16T18:01:39.000Z"
-    },
-    {
       "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5",
       "source": "Android Police",
@@ -306,28 +338,12 @@
       "date": "2026-10-16T17:00:32.000Z"
     },
     {
-      "title": "Thirty Years of KDE",
-      "url": "https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-16T16:49:07.000Z"
-    },
-    {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "url": "https://calif.io/research/big-fish",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-16T15:41:08.000Z"
-    },
-    {
-      "title": "After 23 Years, Longtime Linux Developer To \"Step Back For A While\"",
-      "url": "https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T15:40:27.000Z"
     },
     {
       "title": "iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January",
@@ -408,14 +424,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T07:14:00.000Z"
-    },
-    {
-      "title": "Cirrus 1.17: an update for this unique iCloud Drive utility",
-      "url": "https://eclecticlight.co/2026/10/15/cirrus-1-17-an-update-for-this-unique-icloud-drive-utility/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-15T06:30:00.000Z"
     },
     {
       "title": "How to find your downloaded files in Googlebook OS",
