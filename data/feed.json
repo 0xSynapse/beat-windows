@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-18T18:11:15.590Z",
+  "generated": "2026-10-18T20:51:30.345Z",
   "items": [
+    {
+      "title": "Apple Issues Statement on Duo Demand Far Outstripping Supply",
+      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T20:04:44.000Z"
+    },
+    {
+      "title": "Introducing uncm(4)",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261018200218",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-18T20:02:18.000Z"
+    },
+    {
+      "title": "Real-time Software On Linux: How Hard Can It Be?",
+      "url": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-18T19:45:33.000Z"
+    },
+    {
+      "title": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
+      "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T19:34:45.000Z"
+    },
+    {
+      "title": "Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances",
+      "url": "https://x.com/AbdulElSayed/status/2111627277578731885",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-18T19:17:01.000Z"
+    },
     {
       "title": "It Turns Out Intel TDX Doesn't Need So Much Cache Flushing",
       "url": "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing",
@@ -31,6 +71,14 @@
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "title": "I Wanted Googlebook OS to Win Me Over. It's Just Not Ready",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjQwWXBRbWhrVVlVV0d3SjBqWkxsOGNTMEpQd3NJT1VzNlJrVEtuZDVCQ1dyV0JUd0dMbDRqQWFfQkJiM1ZSQmNiQUpGbHJMMXlaSHNyZy1KMzBCeHN0Umk1cDFzbnhsOThOc3llT2JXUm9hNWM5UkhDZWhxTXlFTkdFc1dGQzA4anFBSmxrNzM4UzJpcUFR?oc=5",
+      "source": "PCMag UK",
+      "tag": "android",
+      "site": "https://news.google.com/",
       "date": "2026-10-18T13:00:00.000Z"
     },
     {
@@ -354,14 +402,6 @@
       "date": "2026-10-16T18:30:00.000Z"
     },
     {
-      "title": "Introducing GNOME OS Preview",
-      "url": "https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-16T18:25:15.000Z"
-    },
-    {
       "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5",
       "source": "Android Police",
@@ -418,36 +458,12 @@
       "date": "2026-10-16T10:00:32.000Z"
     },
     {
-      "title": "Changing developer certificates might affect installers next year",
-      "url": "https://eclecticlight.co/2026/10/16/changing-developer-certificates-might-affect-installers-next-year/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-16T06:30:00.000Z"
-    },
-    {
-      "title": "★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2",
-      "url": "https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-16T01:18:29.000Z"
-    },
-    {
       "title": "How to take a screenshot on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85OFh1LXFkVTdDekQ2ZGFoVWQ3R0FVbDZsOEpXZDFLc1BodkdZaFpnSEh3UzVJQ0ZUQkl6dnhZS1V6SUxwOUh6SXNNUGhEeklHOWV3czlhckdKcWs2ZnBXcXEtTnVNZmRoc2tYRVlRZ01rMGFCX2hR?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T20:00:16.000Z"
-    },
-    {
-      "title": "Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each",
-      "url": "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-15T16:11:12.000Z"
     },
     {
       "title": "A new affordable wave of Snapdragon-powered Googlebooks is in the works",
@@ -490,28 +506,12 @@
       "date": "2026-10-14T15:45:37.000Z"
     },
     {
-      "title": "How to share files between a Googlebook and Android phone using Quick Share",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWVRVUVXaUFtcFduYWx2U1NBNTBMYmhySU5IcGV1dW9qSlpQQWFzVlhRbnNtUkowNE9xbGo5Y0hBS0czd21tTjdFZVVMZ0IxVk9zYy1JT1RWdjBDdkxlaWUwQUNJQm1tSnpvdUNxTXhwZ0J3WURaYm84bThpNU04dC1Qbnp3aHpQaHpKZ0QxZlZEMFF4bERQNElFT3ZjRnZSek01cQ?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T12:00:13.000Z"
-    },
-    {
       "title": "Headers Up! What's New in httpd and relayd",
       "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-07T07:05:27.000Z"
-    },
-    {
-      "title": "New laptops and OpenBSD: HP Envy 17-DA0013dx",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261007053155",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-07T05:31:55.000Z"
     },
     {
       "title": "OpenBSD Developers Reject Uutils Coreutils",
@@ -560,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-21T11:00:40.000Z"
-    },
-    {
-      "title": "The Bikeshed email — PHKs Bikeshed",
-      "url": "https://phk.freebsd.dk/sagas/bikeshed/",
-      "source": "Lobsters · freebsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/freebsd",
-      "date": "2026-09-18T19:46:10.000Z"
     }
   ]
 }
