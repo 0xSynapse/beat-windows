@@ -1,8 +1,72 @@
 {
-  "generated": "2026-10-19T04:50:09.608Z",
+  "generated": "2026-10-19T10:51:44.765Z",
   "items": [
     {
-      "title": "A response to claims about flatpak being insecure",
+      "title": "I decoded the Play Store's five Googlebook app labels, but only two are good news",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV1pxcmZHQWZvSTIta21kQmhzbGp0S0hHNUtpbE5XS2gtWFBHd0N4RjhXTGZyM00tdkdaUTFfLUtYeXNhNHRCdkZ6VHItSFIyX2xSbDdtZnh3UlQ0OXNITkZQUFdYZ3hNNG1OYlJvRklXaFRqZzdDcg?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-19T10:30:13.000Z"
+    },
+    {
+      "title": "BeamFS Sent Out As Newest File-System Proposal For Linux",
+      "url": "https://www.phoronix.com/news/Linux-BeamFS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T10:16:14.000Z"
+    },
+    {
+      "title": "Linux 7.4 Removing Its Broken & Rarely Touched Code For ARM64 Big Endian",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T10:01:00.000Z"
+    },
+    {
+      "title": "RADV Promotes VK_EXT_host_image_copy To Enabled By Default For RDNA1 GPUs",
+      "url": "https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T09:48:43.000Z"
+    },
+    {
+      "title": "TAINT_FORCED_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack",
+      "url": "https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T09:37:16.000Z"
+    },
+    {
+      "title": "Game of Trees 0.130 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261019090259",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-19T09:02:59.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 382",
+      "url": "https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-19T08:00:00.000Z"
+    },
+    {
+      "title": "Can I browse log entries from 2 weeks ago?",
+      "url": "https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-19T06:30:00.000Z"
+    },
+    {
+      "title": "A response to claims about flatpak being insecure (2023)",
       "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
       "source": "Lobsters · linux",
       "tag": "linux",
@@ -88,14 +152,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-18T20:04:44.000Z"
-    },
-    {
-      "title": "Introducing uncm(4)",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261018200218",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-18T20:02:18.000Z"
     },
     {
       "title": "Real-time Software On Linux: How Hard Can It Be?",
@@ -338,22 +394,6 @@
       "date": "2026-10-17T10:15:12.000Z"
     },
     {
-      "title": "KDE Plasma 6.9 To Debut New Weather Widget & On-Screen Keyboard",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-17T10:01:15.000Z"
-    },
-    {
-      "title": "Ubuntu Touch 24.04-2.1 Brings New Hardware Support & Important Security Fix",
-      "url": "https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-17T09:49:26.000Z"
-    },
-    {
       "title": "Saturday Mac riddles 382",
       "url": "https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/",
       "source": "Eclectic Light",
@@ -378,30 +418,6 @@
       "date": "2026-10-17T01:22:34.000Z"
     },
     {
-      "title": "Wine 11.20 Released With CD-ROM Support Change",
-      "url": "https://www.phoronix.com/news/Wine-11.20-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-17T00:44:06.000Z"
-    },
-    {
-      "title": "Apple TV Started at $69 in 2015",
-      "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-17T00:37:01.000Z"
-    },
-    {
-      "title": "Strange Times Make for Strange Bedfellows",
-      "url": "https://x.com/finkd/status/2110778025629347999",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-16T23:34:03.000Z"
-    },
-    {
       "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
       "url": "https://9to5google.com/2026/10/16/hp-googlebook-14-review/",
       "source": "9to5Google · Googlebook",
@@ -424,14 +440,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-16T23:07:39.000Z"
-    },
-    {
-      "title": "17 More Security Vulnerabilities Made Public For X.Org Libraries",
-      "url": "https://www.phoronix.com/news/17-Vulnerabilities-Xorg-Libs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-16T19:20:39.000Z"
     },
     {
       "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFg0QkRScU0wa1Fia3RxSU5vcHNuOV9VYTdFdnM2b2hDMjdiQ0RoV242MU0tSWxRNE9WUTZ5Sm5RNFFFQmZ5LUdZMzByTl9sNUxrUGZRNVk1Z0ZWOUdaaWRXVnJVZGFGenFjOFBUUWI3OWs2c0tNSk9JRDNnUUp5bXo0bVFGeERyblJGcDhqTkF1b19ZN2pSbFhETVppZkZBNUhMbg?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-14T20:30:41.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",

@@ -5,10 +5,74 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:51:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>A response to claims about flatpak being insecure</title>
+      <title>I decoded the Play Store's five Googlebook app labels, but only two are good news</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV1pxcmZHQWZvSTIta21kQmhzbGp0S0hHNUtpbE5XS2gtWFBHd0N4RjhXTGZyM00tdkdaUTFfLUtYeXNhNHRCdkZ6VHItSFIyX2xSbDdtZnh3UlQ0OXNITkZQUFdYZ3hNNG1OYlJvRklXaFRqZzdDcg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV1pxcmZHQWZvSTIta21kQmhzbGp0S0hHNUtpbE5XS2gtWFBHd0N4RjhXTGZyM00tdkdaUTFfLUtYeXNhNHRCdkZ6VHItSFIyX2xSbDdtZnh3UlQ0OXNITkZQUFdYZ3hNNG1OYlJvRklXaFRqZzdDcg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Mon, 19 Oct 2026 10:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>BeamFS Sent Out As Newest File-System Proposal For Linux</title>
+      <link>https://www.phoronix.com/news/Linux-BeamFS</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-BeamFS</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 10:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Removing Its Broken &amp; Rarely Touched Code For ARM64 Big Endian</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 10:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RADV Promotes VK_EXT_host_image_copy To Enabled By Default For RDNA1 GPUs</title>
+      <link>https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 09:48:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>TAINT_FORCED_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 09:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Game of Trees 0.130 released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261019090259</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261019090259</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Mon, 19 Oct 2026 09:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solutions to Saturday Mac riddles 382</title>
+      <link>https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can I browse log entries from 2 weeks ago?</title>
+      <link>https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 19 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A response to claims about flatpak being insecure (2023)</title>
       <link>https://oro.gay/posts/flatpak-an-insecurity-nightmare/</link>
       <guid isPermaLink="true">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</guid>
       <category>linux</category>
@@ -94,14 +158,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 18 Oct 2026 20:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing uncm(4)</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261018200218</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261018200218</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sun, 18 Oct 2026 20:02:18 GMT</pubDate>
     </item>
     <item>
       <title>Real-time Software On Linux: How Hard Can It Be?</title>
@@ -344,68 +400,12 @@
       <pubDate>Sat, 17 Oct 2026 10:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.9 To Debut New Weather Widget &amp; On-Screen Keyboard</title>
-      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 10:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu Touch 24.04-2.1 Brings New Hardware Support &amp; Important Security Fix</title>
-      <link>https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 09:49:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Saturday Mac riddles 382</title>
       <link>https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Ask Siri constructs and uses context</title>
-      <link>https://eclecticlight.co/2026/10/17/how-ask-siri-constructs-and-uses-context/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/how-ask-siri-constructs-and-uses-context/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 17 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Late Charlie Munger on Elon Musk and Tesla</title>
-      <link>https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 17 Oct 2026 01:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.20 Released With CD-ROM Support Change</title>
-      <link>https://www.phoronix.com/news/Wine-11.20-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.20-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 00:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV Started at $69 in 2015</title>
-      <link>https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 17 Oct 2026 00:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strange Times Make for Strange Bedfellows</title>
-      <link>https://x.com/finkd/status/2110778025629347999</link>
-      <guid isPermaLink="true">https://x.com/finkd/status/2110778025629347999</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 16 Oct 2026 23:34:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
