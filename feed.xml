@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:50:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A response to claims about flatpak being insecure</title>
+      <link>https://oro.gay/posts/flatpak-an-insecurity-nightmare/</link>
+      <guid isPermaLink="true">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 19 Oct 2026 04:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>What the heck is /pkg?</title>
+      <link>https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</link>
+      <guid isPermaLink="true">https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Mon, 19 Oct 2026 03:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 7.3 kernel has been released</title>
+      <link>https://lwn.net/Articles/1101143/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101143/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sun, 18 Oct 2026 23:45:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.3 Released With Faster I/O Performance, AMD Zen 6 Preparations &amp; More</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 18 Oct 2026 23:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
       <link>https://tomthedancingbug.com/the-inner-hive/</link>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 16 Oct 2026 23:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP Googlebook 14 Review: Great laptop, shame about the OS</title>
-      <link>https://9to5google.com/2026/10/16/hp-googlebook-14-review/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/16/hp-googlebook-14-review/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP Googlebook 14 Review: Great laptop, shame about the OS</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Fri, 16 Oct 2026 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I tested the Dell XPS Googlebook and it's an Android fan's dream laptop</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Fri, 16 Oct 2026 23:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>How They Got Duo Support in NetNewsWire</title>
-      <link>https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</link>
-      <guid isPermaLink="true">https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 16 Oct 2026 20:53:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
