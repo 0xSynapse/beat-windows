@@ -5,8 +5,144 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:32:23 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)</title>
+      <link>https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 17:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix Lays Off 6 Percent of Staff</title>
+      <link>https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</link>
+      <guid isPermaLink="true">https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 16:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code</title>
+      <link>https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 16:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finding a home amidst the wreckage</title>
+      <link>https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/</link>
+      <guid isPermaLink="true">https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 19 Oct 2026 16:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell XPS Googlebook and Googlebook OS Review</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZTNDV1ZaMHFKNGw0V2xpY2Yzdm90WHJwZVZqTFVMV2p4UHhPdW03Ul9OLVE2aWNVY1phMm4zYVdoUlhKY0wzTjM4MnJZUUUwRmhheXViVkFkUDFLOVFLZXgtQWtraEpBdUhfYUY5anF2RUpuejdUTGM5eG9HZTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZTNDV1ZaMHFKNGw0V2xpY2Yzdm90WHJwZVZqTFVMV2p4UHhPdW03Ul9OLVE2aWNVY1phMm4zYVdoUlhKY0wzTjM4MnJZUUUwRmhheXViVkFkUDFLOVFLZXgtQWtraEpBdUhfYUY5anF2RUpuejdUTGM5eG9HZTQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Techaeris</source>
+      <pubDate>Mon, 19 Oct 2026 16:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks are incredible phone companions, but they left too much of ChromeOS behind</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlo1b1ZaOGJ0NHZwSHhhYUhMM1l0QTVLdHBQRllpTmJ3NXd4YWlzOWZ6bUFIdVgyaXhhZHVuamVzVldySThuUTd4T2lJLXpaekFkbkV0aWU2YTNRMVhSZHE3dHRPSUJZWmoyVDl4eTUta0R0Sm1lSHNEMUhkUmYtSDgzNGNvZ0g2US12MDcyd05NZHNiTGNhVURtVFBleExlTUxya25CV3ltcnZtbDlkTlJn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlo1b1ZaOGJ0NHZwSHhhYUhMM1l0QTVLdHBQRllpTmJ3NXd4YWlzOWZ6bUFIdVgyaXhhZHVuamVzVldySThuUTd4T2lJLXpaekFkbkV0aWU2YTNRMVhSZHE3dHRPSUJZWmoyVDl4eTUta0R0Sm1lSHNEMUhkUmYtSDgzNGNvZ0g2US12MDcyd05NZHNiTGNhVURtVFBleExlTUxya25CV3ltcnZtbDlkTlJn?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 19 Oct 2026 16:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Time Magazine Profiles John Ternus</title>
+      <link>https://time.com/collection/best-inventions/2026/apple-iphone-duo/</link>
+      <guid isPermaLink="true">https://time.com/collection/best-inventions/2026/apple-iphone-duo/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 16:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux In 2026 Continues Improving Support For Benefiting Old Atari &amp; Amiga Hardware</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-m68k</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-m68k</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 15:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Development statistics for the 7.3 kernel</title>
+      <link>https://lwn.net/Articles/1100241/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100241/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 19 Oct 2026 15:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine ported to OpenBSD</title>
+      <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
+      <guid isPermaLink="true">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Mon, 19 Oct 2026 14:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Cross-crate forward declarations in Rust</title>
+      <link>https://lwn.net/Articles/1099596/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1099596/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 19 Oct 2026 13:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canonical's Multipass 1.17 Adds Direct Support For Non-Ubuntu Linux Distros</title>
+      <link>https://www.phoronix.com/news/Multipass-1.17</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Multipass-1.17</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 13:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Monday</title>
+      <link>https://lwn.net/Articles/1101421/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101421/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 19 Oct 2026 13:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNU Linux-libre 7.3-gnu Removes More Firmware Blobs</title>
+      <link>https://www.phoronix.com/news/GNU-Linux-Libre-7.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Linux-Libre-7.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 12:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNOME Mutter Lands Improvement For Reducing GPU Work While In Power Savings Mode</title>
+      <link>https://www.phoronix.com/news/GNOME-Power-Savings-GPU</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Power-Savings-GPU</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 12:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpacemiT Announces The V100 Server-Class RISC-V Processor</title>
+      <link>https://www.phoronix.com/news/SpacemiT-V100</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SpacemiT-V100</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hero or hooligan: Death of Orpheus</title>
+      <link>https://eclecticlight.co/2026/10/19/hero-or-hooligan-death-of-orpheus/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/19/hero-or-hooligan-death-of-orpheus/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 19 Oct 2026 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>I decoded the Play Store's five Googlebook app labels, but only two are good news</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV1pxcmZHQWZvSTIta21kQmhzbGp0S0hHNUtpbE5XS2gtWFBHd0N4RjhXTGZyM00tdkdaUTFfLUtYeXNhNHRCdkZ6VHItSFIyX2xSbDdtZnh3UlQ0OXNITkZQUFdYZ3hNNG1OYlJvRklXaFRqZzdDcg?oc=5</link>
@@ -248,30 +384,6 @@
       <pubDate>Sun, 18 Oct 2026 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Features Very Exciting With Radeon HDMI 2.1 By Default, AMD PerfOpt, Apple M4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Features-Preview</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Features-Preview</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 10:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omarchy Gets The Web Browser Launching Faster By Avoiding XDG Overhead</title>
-      <link>https://www.phoronix.com/news/Omarchy-Faster-Web-Browser</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Omarchy-Faster-Web-Browser</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 10:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Servo Gets CSS Grid Working, Threadboost Offering Big Speed-Ups</title>
-      <link>https://www.phoronix.com/news/Servo-0.6-Changes</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Servo-0.6-Changes</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 10:05:40 GMT</pubDate>
-    </item>
-    <item>
       <title>Un-hanging the HP Envy 17-DA0013dx for OpenBSD</title>
       <link>https://darwinsys.com/blog/20260925-hp-envy-17/</link>
       <guid isPermaLink="true">https://darwinsys.com/blog/20260925-hp-envy-17/</guid>
@@ -288,124 +400,12 @@
       <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Does moving a GPU server's request loop into the kernel save CPU?</title>
-      <link>https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/</link>
-      <guid isPermaLink="true">https://eunomia.dev/blog/2026/10/17/bpf-gpu-server/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 18 Oct 2026 03:18:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Whatever You Say Bounces Off Me and Sticks to You</title>
       <link>https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</link>
       <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 18 Oct 2026 00:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synchronous Queues For VirtIO-FS Show Huge Performance Potential</title>
-      <link>https://www.phoronix.com/news/Synchronous-VirtIO-FS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Synchronous-VirtIO-FS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 00:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReactOS Can Now Be Installed &amp; Used With Its NTFS Driver</title>
-      <link>https://www.phoronix.com/news/ReactOS-NTFS-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-NTFS-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 22:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to reset a Googlebook to factory settings</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Sat, 17 Oct 2026 20:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
-      <link>https://pwn.ai/blog/pwnescape</link>
-      <guid isPermaLink="true">https://pwn.ai/blog/pwnescape</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sat, 17 Oct 2026 18:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ HomeView Thoughts and Observations</title>
-      <link>https://daringfireball.net/2026/10/homeview_thoughts_and_observations</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/homeview_thoughts_and_observations</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 17 Oct 2026 17:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>MeshXFS: AI Adapts XFS Into A Clustered File-System</title>
-      <link>https://www.phoronix.com/news/MeshXFS-XFS-Clustered</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/MeshXFS-XFS-Clustered</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 17:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV Price History, Charted</title>
-      <link>https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</link>
-      <guid isPermaLink="true">https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 17 Oct 2026 14:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paintings of gales 1</title>
-      <link>https://eclecticlight.co/2026/10/17/paintings-of-gales-1/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/paintings-of-gales-1/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 17 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Asus Googlebook 14 packs power and Android love in a small package</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">MakeUseOf</source>
-      <pubDate>Sat, 17 Oct 2026 11:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 10:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNOME's New Local/Cloud AI Chat App Gains More Features</title>
-      <link>https://www.phoronix.com/news/GNOME-Moose-0.6-AI</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Moose-0.6-AI</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 10:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO &amp; 990 EVO Plus SSDs</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 17 Oct 2026 10:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 382</title>
-      <link>https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/17/saturday-mac-riddles-382/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 17 Oct 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
