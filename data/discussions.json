@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-19T17:32:23.868Z",
-  "repo": "https://github.com/0xaicrypto/beat-windows",
-  "newUrl": "https://github.com/0xaicrypto/beat-windows/discussions/new",
+  "generated": "2026-10-19T22:25:48.179Z",
+  "repo": "https://github.com/0xSynapse/beat-windows",
+  "newUrl": "https://github.com/0xSynapse/beat-windows/discussions/new",
   "categories": [
     {
       "name": "General",
@@ -28,24 +28,24 @@
     {
       "number": 2,
       "title": "Another linux distribution? again?",
-      "url": "https://github.com/0xaicrypto/beat-windows/discussions/2",
+      "url": "https://github.com/0xSynapse/beat-windows/discussions/2",
       "date": "2026-09-23T15:10:02Z",
       "created": "2026-09-23T15:10:02Z",
       "comments": 0,
       "category": "Ideas",
       "categorySlug": "ideas",
-      "author": "0xaicrypto"
+      "author": "0xSynapse"
     },
     {
       "number": 1,
       "title": "What are you running? — Linux / BSD / macOS roll call",
-      "url": "https://github.com/0xaicrypto/beat-windows/discussions/1",
+      "url": "https://github.com/0xSynapse/beat-windows/discussions/1",
       "date": "2026-09-23T14:27:57Z",
       "created": "2026-09-23T14:27:57Z",
       "comments": 0,
       "category": "General",
       "categorySlug": "general",
-      "author": "0xaicrypto"
+      "author": "0xSynapse"
     }
   ]
 }

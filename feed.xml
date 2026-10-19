@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:25:47 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos</title>
+      <link>https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 22:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Sunsetting Old EDAC Drivers Due To &quot;AI Generated Fixes Frenzy&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-EDAC</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-EDAC</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix Shitcanned Film Chief Dan Lin Too</title>
+      <link>https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</link>
+      <guid isPermaLink="true">https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 21:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
+      <link>https://bsd.network/@brynet/117407035545900963</link>
+      <guid isPermaLink="true">https://bsd.network/@brynet/117407035545900963</guid>
+      <category>bsd</category>
+      <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
+      <pubDate>Mon, 19 Oct 2026 21:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
+      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
+      <guid isPermaLink="true">https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 19 Oct 2026 20:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Plumbers Conference videos now available</title>
+      <link>https://lwn.net/Articles/1101483/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101483/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 19 Oct 2026 19:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Btrfs Brings More Performance Improvements For Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Btrfs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Btrfs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 19 Oct 2026 18:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ex-Apple Employee Fred Potter on HomeView</title>
+      <link>https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</link>
+      <guid isPermaLink="true">https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 18:05:38 GMT</pubDate>
+    </item>
     <item>
       <title>Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)</title>
       <link>https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton</link>
@@ -224,22 +288,6 @@
       <pubDate>Mon, 19 Oct 2026 03:26:51 GMT</pubDate>
     </item>
     <item>
-      <title>The 7.3 kernel has been released</title>
-      <link>https://lwn.net/Articles/1101143/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101143/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Sun, 18 Oct 2026 23:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 Released With Faster I/O Performance, AMD Zen 6 Preparations &amp; More</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 23:28:09 GMT</pubDate>
-    </item>
-    <item>
       <title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
       <link>https://tomthedancingbug.com/the-inner-hive/</link>
       <guid isPermaLink="true">https://tomthedancingbug.com/the-inner-hive/</guid>
@@ -296,14 +344,6 @@
       <pubDate>Sun, 18 Oct 2026 20:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>Real-time Software On Linux: How Hard Can It Be?</title>
-      <link>https://www.youtube.com/watch?v=-0D0rFdU6HY</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=-0D0rFdU6HY</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 18 Oct 2026 19:45:33 GMT</pubDate>
-    </item>
-    <item>
       <title>Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base</title>
       <link>https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</link>
       <guid isPermaLink="true">https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</guid>
@@ -318,14 +358,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 18 Oct 2026 19:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>It Turns Out Intel TDX Doesn't Need So Much Cache Flushing</title>
-      <link>https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 18 Oct 2026 13:53:24 GMT</pubDate>
     </item>
     <item>
       <title>After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop</title>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">PCMag Australia</source>
       <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paintings of gales 2</title>
-      <link>https://eclecticlight.co/2026/10/18/paintings-of-gales-2/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/18/paintings-of-gales-2/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 18 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Un-hanging the HP Envy 17-DA0013dx for OpenBSD</title>
-      <link>https://darwinsys.com/blog/20260925-hp-envy-17/</link>
-      <guid isPermaLink="true">https://darwinsys.com/blog/20260925-hp-envy-17/</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Sun, 18 Oct 2026 07:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Week on My Mac: Selection and focus in Golden Gate</title>
-      <link>https://eclecticlight.co/2026/10/18/last-week-on-my-mac-selection-and-focus-in-golden-gate/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/18/last-week-on-my-mac-selection-and-focus-in-golden-gate/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 18 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whatever You Say Bounces Off Me and Sticks to You</title>
-      <link>https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 18 Oct 2026 00:55:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

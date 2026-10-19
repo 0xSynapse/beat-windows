@@ -1,6 +1,70 @@
 {
-  "generated": "2026-10-19T17:32:23.328Z",
+  "generated": "2026-10-19T22:25:47.628Z",
   "items": [
+    {
+      "title": "★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos",
+      "url": "https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-19T22:04:04.000Z"
+    },
+    {
+      "title": "Linux 7.4 Sunsetting Old EDAC Drivers Due To \"AI Generated Fixes Frenzy\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-EDAC",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T21:38:28.000Z"
+    },
+    {
+      "title": "Netflix Shitcanned Film Chief Dan Lin Too",
+      "url": "https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-19T21:15:57.000Z"
+    },
+    {
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "source": "HN · OpenBSD",
+      "tag": "bsd",
+      "site": "https://news.ycombinator.com/",
+      "date": "2026-10-19T21:11:45.000Z"
+    },
+    {
+      "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+      "url": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-19T20:10:46.000Z"
+    },
+    {
+      "title": "Linux Plumbers Conference videos now available",
+      "url": "https://lwn.net/Articles/1101483/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-19T19:04:55.000Z"
+    },
+    {
+      "title": "Btrfs Brings More Performance Improvements For Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Btrfs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-19T18:17:17.000Z"
+    },
+    {
+      "title": "Ex-Apple Employee Fred Potter on HomeView",
+      "url": "https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-19T18:05:38.000Z"
+    },
     {
       "title": "Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)",
       "url": "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton",
@@ -218,22 +282,6 @@
       "date": "2026-10-19T03:26:51.000Z"
     },
     {
-      "title": "The 7.3 kernel has been released",
-      "url": "https://lwn.net/Articles/1101143/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-18T23:45:23.000Z"
-    },
-    {
-      "title": "Linux 7.3 Released With Faster I/O Performance, AMD Zen 6 Preparations & More",
-      "url": "https://www.phoronix.com/news/Linux-7.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-18T23:28:09.000Z"
-    },
-    {
       "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
       "url": "https://tomthedancingbug.com/the-inner-hive/",
       "source": "Daring Fireball",
@@ -290,14 +338,6 @@
       "date": "2026-10-18T20:04:44.000Z"
     },
     {
-      "title": "Real-time Software On Linux: How Hard Can It Be?",
-      "url": "https://www.youtube.com/watch?v=-0D0rFdU6HY",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-18T19:45:33.000Z"
-    },
-    {
       "title": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
       "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
       "source": "Daring Fireball",
@@ -312,14 +352,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-18T19:17:01.000Z"
-    },
-    {
-      "title": "It Turns Out Intel TDX Doesn't Need So Much Cache Flushing",
-      "url": "https://www.phoronix.com/news/Intel-TDX-Less-Cache-Flushing",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-18T13:53:24.000Z"
     },
     {
       "title": "After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop",
@@ -408,30 +440,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-17T20:00:17.000Z"
-    },
-    {
-      "title": "★ HomeView Thoughts and Observations",
-      "url": "https://daringfireball.net/2026/10/homeview_thoughts_and_observations",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-17T17:25:13.000Z"
-    },
-    {
-      "title": "Apple TV Price History, Charted",
-      "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-17T14:06:18.000Z"
-    },
-    {
-      "title": "Paintings of gales 1",
-      "url": "https://eclecticlight.co/2026/10/17/paintings-of-gales-1/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-17T11:30:00.000Z"
     },
     {
       "title": "The Asus Googlebook 14 packs power and Android love in a small package",
