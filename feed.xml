@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:41:15 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Googlebook owners finally get an explanation for the missing Find Hub app</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Tue, 20 Oct 2026 06:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Spotlight indexes in Golden Gate</title>
+      <link>https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook review: Google’s new laptops are woefully underbaked</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">The Guardian</source>
+      <pubDate>Tue, 20 Oct 2026 06:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD 8.0 Released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261020021401</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261020021401</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Tue, 20 Oct 2026 02:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD 8.0: released</title>
+      <link>https://marc.info/?l=openbsd-announce&amp;m=179245843570316&amp;w=2</link>
+      <guid isPermaLink="true">https://marc.info/?l=openbsd-announce&amp;m=179245843570316&amp;w=2</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Tue, 20 Oct 2026 01:57:39 GMT</pubDate>
+    </item>
     <item>
       <title>OpenBSD 8.0</title>
       <link>https://www.openbsd.org/80.html</link>
@@ -192,14 +232,6 @@
       <pubDate>Mon, 19 Oct 2026 15:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>Wine ported to OpenBSD</title>
-      <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
-      <guid isPermaLink="true">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Mon, 19 Oct 2026 14:44:02 GMT</pubDate>
-    </item>
-    <item>
       <title>[$] Cross-crate forward declarations in Rust</title>
       <link>https://lwn.net/Articles/1099596/</link>
       <guid isPermaLink="true">https://lwn.net/Articles/1099596/</guid>
@@ -304,14 +336,6 @@
       <pubDate>Mon, 19 Oct 2026 09:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>Game of Trees 0.130 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261019090259</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261019090259</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Mon, 19 Oct 2026 09:02:59 GMT</pubDate>
-    </item>
-    <item>
       <title>Solutions to Saturday Mac riddles 382</title>
       <link>https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/</guid>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Sun, 18 Oct 2026 21:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Issues Statement on Duo Demand Far Outstripping Supply</title>
-      <link>https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 18 Oct 2026 20:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base</title>
-      <link>https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</link>
-      <guid isPermaLink="true">https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 18 Oct 2026 19:34:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances</title>
-      <link>https://x.com/AbdulElSayed/status/2111627277578731885</link>
-      <guid isPermaLink="true">https://x.com/AbdulElSayed/status/2111627277578731885</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 18 Oct 2026 19:17:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

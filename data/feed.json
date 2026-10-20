@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-20T01:53:11.797Z",
+  "generated": "2026-10-20T07:41:15.264Z",
   "items": [
+    {
+      "title": "Googlebook owners finally get an explanation for the missing Find Hub app",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T06:42:00.000Z"
+    },
+    {
+      "title": "How Spotlight indexes in Golden Gate",
+      "url": "https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-20T06:30:00.000Z"
+    },
+    {
+      "title": "Googlebook review: Google’s new laptops are woefully underbaked",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5",
+      "source": "The Guardian",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T06:01:00.000Z"
+    },
+    {
+      "title": "OpenBSD 8.0 Released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261020021401",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-20T02:14:01.000Z"
+    },
+    {
+      "title": "OpenBSD 8.0: released",
+      "url": "https://marc.info/?l=openbsd-announce&m=179245843570316&w=2",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-10-20T01:57:39.000Z"
+    },
     {
       "title": "OpenBSD 8.0",
       "url": "https://www.openbsd.org/80.html",
@@ -186,14 +226,6 @@
       "date": "2026-10-19T15:45:16.000Z"
     },
     {
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-19T14:44:02.000Z"
-    },
-    {
       "title": "[$] Cross-crate forward declarations in Rust",
       "url": "https://lwn.net/Articles/1099596/",
       "source": "LWN",
@@ -298,14 +330,6 @@
       "date": "2026-10-19T09:37:16.000Z"
     },
     {
-      "title": "Game of Trees 0.130 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261019090259",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-19T09:02:59.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 382",
       "url": "https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/",
       "source": "Eclectic Light",
@@ -392,14 +416,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-18T19:34:45.000Z"
-    },
-    {
-      "title": "Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances",
-      "url": "https://x.com/AbdulElSayed/status/2111627277578731885",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T19:17:01.000Z"
     },
     {
       "title": "After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop",
@@ -506,28 +522,12 @@
       "date": "2026-10-16T17:45:13.000Z"
     },
     {
-      "title": "Dell XPS Googlebook Review: The Prettiest and Most Portable Android Laptop So Far",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5McnBOc3VkdWdMWUl5NGJNNUF2d3VVUVZhM2NwMzkzZlRYNGY1NXdaaEtjVVNSeTE4V0FKNDlQQnlpZkJtMjMzLVR2R2thdWxaOVlhUlpyN3RzOHpTQ0E?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-16T17:00:32.000Z"
-    },
-    {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "url": "https://calif.io/research/big-fish",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-16T15:41:08.000Z"
-    },
-    {
-      "title": "Googlebook review: Android on a laptop is still Android",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmRhV08wWFh1RUljM3o5XzdNSkV0SWtUR0tUajNtMHNwVGMwZGxKR1RVZWpLdXFSbFUyQUFPRTNwX1RnVEx4VGhtMW14SVNZemo1QzJMRnhGc2ZRdG5XV09jMzJwZDREUk1WVXdsRFV1WldEcEJ1a2ZDdTRXYU1heXpXOHBHSjJDR2x0ZTBhMEdPM1RodFJHLVVDZw?oc=5",
-      "source": "Ars Technica",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-16T10:00:32.000Z"
     },
     {
       "title": "Headers Up! What's New in httpd and relayd",
