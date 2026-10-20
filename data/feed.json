@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-20T13:37:21.063Z",
+  "generated": "2026-10-20T18:30:47.304Z",
   "items": [
+    {
+      "title": "Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T17:05:28.000Z"
+    },
+    {
+      "title": "LogUI 1.2 fixes selection and focus in macOS 27",
+      "url": "https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-20T17:00:00.000Z"
+    },
+    {
+      "title": "Intel & AMD Now Collaborating On Software Optimizations With PyTorch/oneDNN",
+      "url": "https://www.phoronix.com/news/Intel-AMD-oneDNN-Optimize",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T16:50:52.000Z"
+    },
+    {
+      "title": "[$] Discussing a rewrite of XArray",
+      "url": "https://lwn.net/Articles/1100520/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T15:46:37.000Z"
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://lwn.net/Articles/1101643/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T14:56:23.000Z"
+    },
+    {
+      "title": "I went back to a Chromebook and was shocked by how much I missed Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T14:26:13.000Z"
+    },
+    {
+      "title": "Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10",
+      "url": "https://www.phoronix.com/review/ubuntu-2610-arrow-lake",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T14:25:12.000Z"
+    },
     {
       "title": "Linux Foundation Estimates 25% Of New Pull Requests To Be Low-Quality AI Slop",
       "url": "https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop",
@@ -258,36 +314,12 @@
       "date": "2026-10-19T18:05:38.000Z"
     },
     {
-      "title": "Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)",
-      "url": "https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T17:00:49.000Z"
-    },
-    {
       "title": "Netflix Lays Off 6 Percent of Staff",
       "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&reflink=desktopwebshare_permalink",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-19T16:32:06.000Z"
-    },
-    {
-      "title": "Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code",
-      "url": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T16:32:00.000Z"
-    },
-    {
-      "title": "Finding a home amidst the wreckage",
-      "url": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-19T16:30:36.000Z"
     },
     {
       "title": "Dell XPS Googlebook and Googlebook OS Review",
@@ -312,22 +344,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-19T16:17:14.000Z"
-    },
-    {
-      "title": "Linux In 2026 Continues Improving Support For Benefiting Old Atari & Amiga Hardware",
-      "url": "https://www.phoronix.com/news/Linux-7.4-m68k",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T15:55:47.000Z"
-    },
-    {
-      "title": "[$] Development statistics for the 7.3 kernel",
-      "url": "https://lwn.net/Articles/1100241/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-19T15:45:24.000Z"
     },
     {
       "title": "I tested Lenovo's Googlebook 15, and it's an easy laptop to like",
@@ -418,14 +434,6 @@
       "date": "2026-10-18T22:20:06.000Z"
     },
     {
-      "title": "Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T21:58:33.000Z"
-    },
-    {
       "title": "How to install and use Linux apps on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
       "source": "How-To Geek",
@@ -511,14 +519,6 @@
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-16T23:30:00.000Z"
-    },
-    {
-      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFdxLTRqMU1iSnBHS1pCb05ZNkhPOEpBNUR0WXUzWjhLVDRSVnZpV2hfeGlKMXFYZ043TElDTHlTRWg0TVhtcHN3b1B5OTQ1eFVzZy0wQWZVbmJtRFFYX2xEalJQWThiT2c?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
       "date": "2026-10-16T23:30:00.000Z"
     },
     {

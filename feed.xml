@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:30:47 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Improved Performance &amp; Resource Usage For XFS Checksumming With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 20 Oct 2026 17:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>LogUI 1.2 fixes selection and focus in macOS 27</title>
+      <link>https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel &amp; AMD Now Collaborating On Software Optimizations With PyTorch/oneDNN</title>
+      <link>https://www.phoronix.com/news/Intel-AMD-oneDNN-Optimize</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-AMD-oneDNN-Optimize</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 20 Oct 2026 16:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Discussing a rewrite of XArray</title>
+      <link>https://lwn.net/Articles/1100520/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100520/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 20 Oct 2026 15:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>eMudhra intermediate CA compromise</title>
+      <link>https://lwn.net/Articles/1101643/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101643/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 20 Oct 2026 14:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>I went back to a Chromebook and was shocked by how much I missed Googlebook</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Tue, 20 Oct 2026 14:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10</title>
+      <link>https://www.phoronix.com/review/ubuntu-2610-arrow-lake</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-arrow-lake</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 20 Oct 2026 14:25:12 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Foundation Estimates 25% Of New Pull Requests To Be Low-Quality AI Slop</title>
       <link>https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop</link>
@@ -264,36 +320,12 @@
       <pubDate>Mon, 19 Oct 2026 18:05:38 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Working To Add XMX-Accelerated XeSS To Valve's Steam Play (Proton)</title>
-      <link>https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-XeSS-Steam-Play-Proton</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 19 Oct 2026 17:00:49 GMT</pubDate>
-    </item>
-    <item>
       <title>Netflix Lays Off 6 Percent of Staff</title>
       <link>https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</link>
       <guid isPermaLink="true">https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 19 Oct 2026 16:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds' AI Code Improved: Huge Performance Wins With Reworked Code</title>
-      <link>https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 19 Oct 2026 16:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finding a home amidst the wreckage</title>
-      <link>https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/</link>
-      <guid isPermaLink="true">https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 19 Oct 2026 16:30:36 GMT</pubDate>
     </item>
     <item>
       <title>Dell XPS Googlebook and Googlebook OS Review</title>
@@ -318,22 +350,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 19 Oct 2026 16:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux In 2026 Continues Improving Support For Benefiting Old Atari &amp; Amiga Hardware</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-m68k</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-m68k</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 19 Oct 2026 15:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Development statistics for the 7.3 kernel</title>
-      <link>https://lwn.net/Articles/1100241/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100241/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 19 Oct 2026 15:45:24 GMT</pubDate>
     </item>
     <item>
       <title>I tested Lenovo's Googlebook 15, and it's an easy laptop to like</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 19 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What the heck is /pkg?</title>
-      <link>https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</link>
-      <guid isPermaLink="true">https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Mon, 19 Oct 2026 03:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
-      <link>https://tomthedancingbug.com/the-inner-hive/</link>
-      <guid isPermaLink="true">https://tomthedancingbug.com/the-inner-hive/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 18 Oct 2026 22:53:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
