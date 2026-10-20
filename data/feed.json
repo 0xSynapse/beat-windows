@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-20T18:30:47.304Z",
+  "generated": "2026-10-20T22:21:29.621Z",
   "items": [
+    {
+      "title": "Critical PHP security update coming",
+      "url": "https://lwn.net/Articles/1101687/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T21:05:19.000Z"
+    },
+    {
+      "title": "Googlebook is trying to be Google's MacBook. It's not there yet.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5",
+      "source": "Yahoo Tech",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T18:46:26.000Z"
+    },
+    {
+      "title": "[$] SUSE's efforts to disable setuid system-wide",
+      "url": "https://lwn.net/Articles/1100257/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T18:36:10.000Z"
+    },
     {
       "title": "Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4",
       "url": "https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming",
@@ -290,22 +314,6 @@
       "date": "2026-10-19T20:10:46.000Z"
     },
     {
-      "title": "Linux Plumbers Conference videos now available",
-      "url": "https://lwn.net/Articles/1101483/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-19T19:04:55.000Z"
-    },
-    {
-      "title": "Btrfs Brings More Performance Improvements For Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Btrfs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T18:17:17.000Z"
-    },
-    {
       "title": "Ex-Apple Employee Fred Potter on HomeView",
       "url": "https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/",
       "source": "Daring Fireball",
@@ -512,14 +520,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-17T11:15:17.000Z"
-    },
-    {
-      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS",
-      "url": "https://9to5google.com/2026/10/16/hp-googlebook-14-review/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-16T23:30:00.000Z"
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",

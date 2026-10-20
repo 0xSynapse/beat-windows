@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:21:29 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Critical PHP security update coming</title>
+      <link>https://lwn.net/Articles/1101687/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101687/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 20 Oct 2026 21:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook is trying to be Google's MacBook. It's not there yet.</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Yahoo Tech</source>
+      <pubDate>Tue, 20 Oct 2026 18:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] SUSE's efforts to disable setuid system-wide</title>
+      <link>https://lwn.net/Articles/1100257/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100257/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 20 Oct 2026 18:36:10 GMT</pubDate>
+    </item>
     <item>
       <title>Improved Performance &amp; Resource Usage For XFS Checksumming With Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming</link>
@@ -296,22 +320,6 @@
       <pubDate>Mon, 19 Oct 2026 20:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>Linux Plumbers Conference videos now available</title>
-      <link>https://lwn.net/Articles/1101483/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101483/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 19 Oct 2026 19:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Btrfs Brings More Performance Improvements For Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Btrfs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Btrfs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 19 Oct 2026 18:17:17 GMT</pubDate>
-    </item>
-    <item>
       <title>Ex-Apple Employee Fred Potter on HomeView</title>
       <link>https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</link>
       <guid isPermaLink="true">https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 19 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can I browse log entries from 2 weeks ago?</title>
-      <link>https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 19 Oct 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
