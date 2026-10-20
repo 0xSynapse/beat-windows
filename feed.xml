@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:53:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenBSD 8.0</title>
+      <link>https://www.openbsd.org/80.html</link>
+      <guid isPermaLink="true">https://www.openbsd.org/80.html</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Tue, 20 Oct 2026 01:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
+      <link>https://x.com/BarackObama/status/2111819687524774170</link>
+      <guid isPermaLink="true">https://x.com/BarackObama/status/2111819687524774170</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 20 Oct 2026 01:12:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI</title>
+      <link>https://www.phoronix.com/news/AMD-GAIA-0.25-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-GAIA-0.25-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 20 Oct 2026 00:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?</title>
+      <link>https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 22:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’</title>
+      <link>https://x.com/gregjoz/status/2112212372182249831</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2112212372182249831</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 19 Oct 2026 22:27:21 GMT</pubDate>
+    </item>
     <item>
       <title>★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos</title>
       <link>https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos</link>
@@ -144,6 +184,14 @@
       <pubDate>Mon, 19 Oct 2026 15:45:24 GMT</pubDate>
     </item>
     <item>
+      <title>I tested Lenovo's Googlebook 15, and it's an easy laptop to like</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUNJa2hmRW1QeTN3anlrdlQtc2NYSkUybE5SRjhNd1pkbE9qZGNqTWZNb1A4SmpibW1oY3BZZ3dtZ05pYk1jLXBaZ190WVBDMldhanlFbEZMSzBkZ0luekJuTDB0VnN1VmE1TmZzSU9ObVR0Q2hTbDhZMXdZWVdZME1SNFpRaGFMbmd0WFVNdGYyZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUNJa2hmRW1QeTN3anlrdlQtc2NYSkUybE5SRjhNd1pkbE9qZGNqTWZNb1A4SmpibW1oY3BZZ3dtZ05pYk1jLXBaZ190WVBDMldhanlFbEZMSzBkZ0luekJuTDB0VnN1VmE1TmZzSU9ObVR0Q2hTbDhZMXdZWVdZME1SNFpRaGFMbmd0WFVNdGYyZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">MakeUseOf</source>
+      <pubDate>Mon, 19 Oct 2026 15:45:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Wine ported to OpenBSD</title>
       <link>https://marc.info/?l=openbsd-ports&amp;m=179236125692175</link>
       <guid isPermaLink="true">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</guid>
@@ -174,6 +222,14 @@
       <category>linux</category>
       <source url="https://lwn.net/">LWN</source>
       <pubDate>Mon, 19 Oct 2026 13:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tested: The Googlebook tries to put Android on the desktop, but is it successful?</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONXNoY0lTWGdzMU84eXNiTGx6TFZwazIxRm01M3JxY01XSm1UckF6bnc3ck9KUE9JU2NHaU1RU3FwWWtIRm1qaDc1a0FJLUlKSkNpcEg1WmV1bGtVVmxwODZMWG9CZkNkZ2w1M2RwOXJqaURWaldHYTRGcmdVZEtjYWkxMm9ib2pqbGZGN3V2aE9haTBQWldrRkhvNmI2LUR1LXZpdE1EMTczUldyV0pIS2ZOMkZEQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxONXNoY0lTWGdzMU84eXNiTGx6TFZwazIxRm01M3JxY01XSm1UckF6bnc3ck9KUE9JU2NHaU1RU3FwWWtIRm1qaDc1a0FJLUlKSkNpcEg1WmV1bGtVVmxwODZMWG9CZkNkZ2w1M2RwOXJqaURWaldHYTRGcmdVZEtjYWkxMm9ib2pqbGZGN3V2aE9haTBQWldrRkhvNmI2LUR1LXZpdE1EMTczUldyV0pIS2ZOMkZEQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Creative Bloq</source>
+      <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GNU Linux-libre 7.3-gnu Removes More Firmware Blobs</title>
@@ -272,14 +328,6 @@
       <pubDate>Mon, 19 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>A response to claims about flatpak being insecure (2023)</title>
-      <link>https://oro.gay/posts/flatpak-an-insecurity-nightmare/</link>
-      <guid isPermaLink="true">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 19 Oct 2026 04:02:34 GMT</pubDate>
-    </item>
-    <item>
       <title>What the heck is /pkg?</title>
       <link>https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</link>
       <guid isPermaLink="true">https://anderegg.ca/2026/10/18/what-the-heck-is-pkg</guid>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 18 Oct 2026 19:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3N5YVJwQ3ZfNEJYUFhIYlVqNDNQWXM4R1p0UHgxQTJYTFFZTU1JWXJ3UVVuRzdBOEpIMTJhY1VaOW1SZ0dzZUZQamdEWl80LTYwQjZmSkE4a2dfNmNTaFd3UFlBcnMzclVJRWc4NnNRbm1GbjRheEVEUG83SXpyZW0wWUxCa2VjZC1JRTVaVTVWYi1RU1BIaTViUXc3UE4xenl1aG5oMER0WHZQZUF1RlQtOTFUQ2NfcXc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3N5YVJwQ3ZfNEJYUFhIYlVqNDNQWXM4R1p0UHgxQTJYTFFZTU1JWXJ3UVVuRzdBOEpIMTJhY1VaOW1SZ0dzZUZQamdEWl80LTYwQjZmSkE4a2dfNmNTaFd3UFlBcnMzclVJRWc4NnNRbm1GbjRheEVEUG83SXpyZW0wWUxCa2VjZC1JRTVaVTVWYi1RU1BIaTViUXc3UE4xenl1aG5oMER0WHZQZUF1RlQtOTFUQ2NfcXc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">XDA</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Wanted Googlebook OS to Win Me Over. It's Just Not Ready</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmdrZzY0UVdjVkpyNEhoRnJSNUVrbmd5MHQ5U3oyWTBoTGM5X0ktNFNzTzhnczVoYXJUcWY2cW5TSmNxaV9yZ2pBUkd2YnlhTlpfQVl5LVRVTU05b01Td2NuajBiTG53UGx0MF9PNGdrdVI4MkFnb25TX2JUaC0xWS1ZeFlkOTUxWFBselIzQ20?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmdrZzY0UVdjVkpyNEhoRnJSNUVrbmd5MHQ5U3oyWTBoTGM5X0ktNFNzTzhnczVoYXJUcWY2cW5TSmNxaV9yZ2pBUkd2YnlhTlpfQVl5LVRVTU05b01Td2NuajBiTG53UGx0MF9PNGdrdVI4MkFnb25TX2JUaC0xWS1ZeFlkOTUxWFBselIzQ20?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>The biggest reason not to buy a Googlebook is all about timing</title>
-      <link>https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Wanted Googlebook OS to Win Me Over. It's Just Not Ready</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjQwWXBRbWhrVVlVV0d3SjBqWkxsOGNTMEpQd3NJT1VzNlJrVEtuZDVCQ1dyV0JUd0dMbDRqQWFfQkJiM1ZSQmNiQUpGbHJMMXlaSHNyZy1KMzBCeHN0Umk1cDFzbnhsOThOc3llT2JXUm9hNWM5UkhDZWhxTXlFTkdFc1dGQzA4anFBSmxrNzM4UzJpcUFR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjQwWXBRbWhrVVlVV0d3SjBqWkxsOGNTMEpQd3NJT1VzNlJrVEtuZDVCQ1dyV0JUd0dMbDRqQWFfQkJiM1ZSQmNiQUpGbHJMMXlaSHNyZy1KMzBCeHN0Umk1cDFzbnhsOThOc3llT2JXUm9hNWM5UkhDZWhxTXlFTkdFc1dGQzA4anFBSmxrNzM4UzJpcUFR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag UK</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The biggest reason not to buy a Googlebook is all about timing</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Wanted Googlebook OS to Win Me Over. It's Just Not Ready</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag Australia</source>
-      <pubDate>Sun, 18 Oct 2026 13:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
