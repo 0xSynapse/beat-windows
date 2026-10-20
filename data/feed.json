@@ -1,6 +1,126 @@
 {
-  "generated": "2026-10-20T07:41:15.264Z",
+  "generated": "2026-10-20T13:37:21.063Z",
   "items": [
+    {
+      "title": "Linux Foundation Estimates 25% Of New Pull Requests To Be Low-Quality AI Slop",
+      "url": "https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T13:18:46.000Z"
+    },
+    {
+      "title": "Linux Coredumps Via Sockets Can Be Much Smaller Now With Sparse Support",
+      "url": "https://www.phoronix.com/news/Linux-Coredump-Sockets-Sparse",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T13:11:11.000Z"
+    },
+    {
+      "title": "[Sponsor] Sunnny",
+      "url": "https://sunnny.com/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-20T13:09:38.000Z"
+    },
+    {
+      "title": "OpenBSD 8.0 released",
+      "url": "https://lwn.net/Articles/1101536/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T13:07:14.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1101617/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-20T13:06:38.000Z"
+    },
+    {
+      "title": "BFS Removed With Linux 7.4 As Old UnixWare File-System",
+      "url": "https://www.phoronix.com/news/BFS-Removed-With-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T12:13:56.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.8.1 Released With Dozens Of Fixes",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T12:04:44.000Z"
+    },
+    {
+      "title": "How to record your screen on Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjR2twVzV0RVRJeWo0WWJJMC1jdlN2OUxMcjV1N0lSVFlNVDAyUFVHY25rZmV0ejU1dkVYRFlYOTdqdnlmeF9rZWliTjB0NElKWERMLUVJQmxseE50bGFaODBNTktXdTcyMWhnY0kzVWt2OXRVbVRhRg?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T12:00:15.000Z"
+    },
+    {
+      "title": "Omarchy 4.5 Expanding To AArch64 World With Snapdragon X & NVIDIA N1X Laptops",
+      "url": "https://www.phoronix.com/news/Omarchy-4.5-RC1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T11:52:00.000Z"
+    },
+    {
+      "title": "Portraits of trees: Palm",
+      "url": "https://eclecticlight.co/2026/10/20/portraits-of-trees-palm/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-20T11:30:00.000Z"
+    },
+    {
+      "title": "Hands on with the new Googlebook: An awkward start with plenty of potential",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY29VV1hhaEl1VTYyejNiUzJXSW52RUhkZkpOaEZPUFFYNzBjZzA0aTVlckFKVmxTR1E2UTNtNld5SG5laHhtQmxMSjZudnlMSGdndmdyN1dxbjhBcjhWMWM5elhWYWxwNVNEY3NkSWgyNS1xX3hkN1k2ajhpOUtfTWQxeGVrR21hYXFlMzJaTHB5aDQtdTZPb0tpWWNxZW9KTUVrR3NibDVHQWJKQWk4?oc=5",
+      "source": "Computerworld",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T11:05:07.000Z"
+    },
+    {
+      "title": "Linux 7.4 Adding New Emulation Function While Some Old CPUs May Soon Be Phased Out",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Two-Byte-CMPXCHG",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T10:32:23.000Z"
+    },
+    {
+      "title": "Setting up SSH keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-20T10:23:58.000Z"
+    },
+    {
+      "title": "17k Lines Of New Rust Kernel Code Heading Into Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Rust",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T10:04:57.000Z"
+    },
+    {
+      "title": "OpenBSD 8.0 Released With Intel Arc A-Series, Other Hardware Improvements",
+      "url": "https://www.phoronix.com/news/OpenBSD-8.0-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-20T09:44:40.000Z"
+    },
     {
       "title": "Googlebook owners finally get an explanation for the missing Find Hub app",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5",
@@ -32,14 +152,6 @@
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-10-20T02:14:01.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0: released",
-      "url": "https://marc.info/?l=openbsd-announce&m=179245843570316&w=2",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-20T01:57:39.000Z"
     },
     {
       "title": "OpenBSD 8.0",
@@ -226,28 +338,12 @@
       "date": "2026-10-19T15:45:16.000Z"
     },
     {
-      "title": "[$] Cross-crate forward declarations in Rust",
-      "url": "https://lwn.net/Articles/1099596/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-19T13:50:49.000Z"
-    },
-    {
-      "title": "Canonical's Multipass 1.17 Adds Direct Support For Non-Ubuntu Linux Distros",
-      "url": "https://www.phoronix.com/news/Multipass-1.17",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T13:17:18.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1101421/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-19T13:10:19.000Z"
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-10-19T14:44:02.000Z"
     },
     {
       "title": "Tested: The Googlebook tries to put Android on the desktop, but is it successful?",
@@ -256,30 +352,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-19T13:00:00.000Z"
-    },
-    {
-      "title": "GNU Linux-libre 7.3-gnu Removes More Firmware Blobs",
-      "url": "https://www.phoronix.com/news/GNU-Linux-Libre-7.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T12:57:58.000Z"
-    },
-    {
-      "title": "GNOME Mutter Lands Improvement For Reducing GPU Work While In Power Savings Mode",
-      "url": "https://www.phoronix.com/news/GNOME-Power-Savings-GPU",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T12:20:09.000Z"
-    },
-    {
-      "title": "SpacemiT Announces The V100 Server-Class RISC-V Processor",
-      "url": "https://www.phoronix.com/news/SpacemiT-V100",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T12:00:00.000Z"
     },
     {
       "title": "Hero or hooligan: Death of Orpheus",
@@ -296,38 +368,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-19T10:30:13.000Z"
-    },
-    {
-      "title": "BeamFS Sent Out As Newest File-System Proposal For Linux",
-      "url": "https://www.phoronix.com/news/Linux-BeamFS",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T10:16:14.000Z"
-    },
-    {
-      "title": "Linux 7.4 Removing Its Broken & Rarely Touched Code For ARM64 Big Endian",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Removes-ARM64-BE",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T10:01:00.000Z"
-    },
-    {
-      "title": "RADV Promotes VK_EXT_host_image_copy To Enabled By Default For RDNA1 GPUs",
-      "url": "https://www.phoronix.com/news/RADV-GFX10-Host-Image-Copy",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T09:48:43.000Z"
-    },
-    {
-      "title": "TAINT_FORCED_BIND Sent In For Linux 7.4 To Deal With Major Fuzzing Attack",
-      "url": "https://www.phoronix.com/news/Linux-7.4-TAINT-FORCED-BIND",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-19T09:37:16.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 382",
@@ -386,36 +426,12 @@
       "date": "2026-10-18T21:58:33.000Z"
     },
     {
-      "title": "Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’",
-      "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T21:26:32.000Z"
-    },
-    {
       "title": "How to install and use Linux apps on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-18T21:00:16.000Z"
-    },
-    {
-      "title": "Apple Issues Statement on Duo Demand Far Outstripping Supply",
-      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T20:04:44.000Z"
-    },
-    {
-      "title": "Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base",
-      "url": "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T19:34:45.000Z"
     },
     {
       "title": "After a week with a Googlebook, I can't shake the feeling I'm using an Android tablet disguised as a laptop",
@@ -504,22 +520,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-16T23:30:00.000Z"
-    },
-    {
-      "title": "I tested the Dell XPS Googlebook and it's an Android fan's dream laptop",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52Z1pnUmdfTy1oazdILUdVQXR0RlU5aW1Cdk1yZFg2XzJyMGJTRXNZOEw0VzJDWTRPNjBZd1R6WWdsRWxSM0xZVDFaTEpUb2tIZUZXZWlUUEZySWhYNkdScDFzQjdWVEREZFgySUhILUxqSk1WTnJjS1p3?oc=5",
-      "source": "Tom's Guide",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-16T23:07:39.000Z"
-    },
-    {
-      "title": "I spent hours testing Googlebook OS on my MacBook; it confirmed my biggest worry",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWowb09uYldzUTFoYXQzZUZBNU5raWxnQnR1T2U2SDh5Tl9oN1JoTmJfSmxGUDd5OWFGdTk4Q1F4b08zQUxYSHFST0RZWFprNkJFYnI5TEo2bUZ3YVRzZXlpSF85N2dueEFjNUpBSGFIcU1uZWlXRmU4cllhOUhtUkRYRGRCOHN6Ry1ONUVwU3hJbkdQT3dkeWtUbUI1Nk0?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-16T17:45:13.000Z"
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
