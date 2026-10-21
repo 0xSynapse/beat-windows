@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:25:24 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linus Torvalds Eliminates Unsafe __get_user() &amp; __put_user() Functions In Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 21 Oct 2026 21:11:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Today's PHP Security Release, and How We're Strengthening PHP Security (PHP Foundation)</title>
+      <link>https://lwn.net/Articles/1102060/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102060/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 21 Oct 2026 20:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 &amp; RISC-V</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Crypto-Library</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Crypto-Library</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 21 Oct 2026 20:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>dbupdate(8) added to -current</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261021191736</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261021191736</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Wed, 21 Oct 2026 19:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>More vulnerabilities in widely deployed software</title>
       <link>https://lwn.net/Articles/1102044/</link>
@@ -200,14 +232,6 @@
       <pubDate>Tue, 20 Oct 2026 22:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>Critical PHP security update coming</title>
-      <link>https://lwn.net/Articles/1101687/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101687/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 20 Oct 2026 21:05:19 GMT</pubDate>
-    </item>
-    <item>
       <title>Chromebook or Googlebook: Which is the better choice?</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</guid>
@@ -222,22 +246,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Yahoo Tech</source>
       <pubDate>Tue, 20 Oct 2026 18:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] SUSE's efforts to disable setuid system-wide</title>
-      <link>https://lwn.net/Articles/1100257/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100257/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 20 Oct 2026 18:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Improved Performance &amp; Resource Usage For XFS Checksumming With Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 20 Oct 2026 17:05:28 GMT</pubDate>
     </item>
     <item>
       <title>LogUI 1.2 fixes selection and focus in macOS 27</title>
@@ -318,14 +326,6 @@
       <category>android</category>
       <source url="https://news.google.com/">The Guardian</source>
       <pubDate>Tue, 20 Oct 2026 06:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD 8.0 Released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261020021401</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261020021401</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Tue, 20 Oct 2026 02:14:01 GMT</pubDate>
     </item>
     <item>
       <title>OpenBSD 8.0</title>

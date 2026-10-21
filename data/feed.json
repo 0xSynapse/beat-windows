@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-21T18:42:45.187Z",
+  "generated": "2026-10-21T22:25:24.866Z",
   "items": [
+    {
+      "title": "Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T21:11:58.000Z"
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security (PHP Foundation)",
+      "url": "https://lwn.net/Articles/1102060/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T20:20:34.000Z"
+    },
+    {
+      "title": "Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 & RISC-V",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Crypto-Library",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T20:11:03.000Z"
+    },
+    {
+      "title": "dbupdate(8) added to -current",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261021191736",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-21T19:17:36.000Z"
+    },
     {
       "title": "More vulnerabilities in widely deployed software",
       "url": "https://lwn.net/Articles/1102044/",
@@ -194,14 +226,6 @@
       "date": "2026-10-20T22:32:12.000Z"
     },
     {
-      "title": "Critical PHP security update coming",
-      "url": "https://lwn.net/Articles/1101687/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T21:05:19.000Z"
-    },
-    {
       "title": "Chromebook or Googlebook: Which is the better choice?",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5",
       "source": "How-To Geek",
@@ -216,22 +240,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-20T18:46:26.000Z"
-    },
-    {
-      "title": "[$] SUSE's efforts to disable setuid system-wide",
-      "url": "https://lwn.net/Articles/1100257/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T18:36:10.000Z"
-    },
-    {
-      "title": "Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T17:05:28.000Z"
     },
     {
       "title": "LogUI 1.2 fixes selection and focus in macOS 27",
@@ -312,14 +320,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-20T06:01:00.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0 Released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261020021401",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-20T02:14:01.000Z"
     },
     {
       "title": "OpenBSD 8.0",
