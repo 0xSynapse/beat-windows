@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-21T01:40:07.994Z",
+  "generated": "2026-10-21T07:45:44.156Z",
   "items": [
+    {
+      "title": "Testing iCloud Drive with Cirrus 1.17",
+      "url": "https://eclecticlight.co/2026/10/21/testing-icloud-drive-with-cirrus-1-17/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-21T06:30:00.000Z"
+    },
     {
       "title": "Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM",
       "url": "https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT",
@@ -24,6 +32,14 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-10-20T21:05:19.000Z"
+    },
+    {
+      "title": "Chromebook or Googlebook: Which is the better choice?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-20T20:00:15.000Z"
     },
     {
       "title": "Googlebook is trying to be Google's MacBook. It's not there yet.",
@@ -434,14 +450,6 @@
       "date": "2026-10-18T22:45:00.000Z"
     },
     {
-      "title": "Verizon Is Going to Charge $10/Month for iPhone Handoff",
-      "url": "https://www.verizon.com/about/news/iphone-duo-verizon-offers",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T22:20:06.000Z"
-    },
-    {
       "title": "How to install and use Linux apps on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
       "source": "How-To Geek",
@@ -512,14 +520,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-17T20:00:17.000Z"
-    },
-    {
-      "title": "The Asus Googlebook 14 packs power and Android love in a small package",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM2RFQzJEcXRxRTJHRTl2c21ZMjVxM0Jfb041N2F2LWVfNTI4MHpfTjdnV0JHVFh2REhCcHk3UEpQa2JKLXZZR1NzSmZMR1NsM21rMENEWnQxck1iWlQzbEh3?oc=5",
-      "source": "MakeUseOf",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-17T11:15:17.000Z"
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
