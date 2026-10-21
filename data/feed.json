@@ -1,6 +1,94 @@
 {
-  "generated": "2026-10-21T07:45:44.156Z",
+  "generated": "2026-10-21T13:53:23.590Z",
   "items": [
+    {
+      "title": "Four stable kernels for Wednesday",
+      "url": "https://lwn.net/Articles/1101758/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T13:24:25.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1102005/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T13:13:58.000Z"
+    },
+    {
+      "title": "AMD Working On Ryzen Overclocking Driver For Linux",
+      "url": "https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T12:24:13.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Close Files Synchronously For close_range, exec & exit",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T11:55:42.000Z"
+    },
+    {
+      "title": "Lenovo didn't ruin this beautiful $1,100 laptop, Googlebook OS did",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YeTk5RHFNU0JUUWVHS3JJYTRzZmNkcXM2cVQ4aDBYQWcwb3UydlFVSEJwemxMZmpQOE8wQ2p3QWpCU3JET1FmNzA3SFFMbW5CMTlvNEVWS0ZLenpILU9naHBUNTc?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T11:31:15.000Z"
+    },
+    {
+      "title": "Painting a good story: References and timing",
+      "url": "https://eclecticlight.co/2026/10/21/painting-a-good-story-references-and-timing/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-21T11:30:00.000Z"
+    },
+    {
+      "title": "Fwupd Working Toward Proper Android Integration",
+      "url": "https://www.phoronix.com/news/Fwupd-To-Android-Integration",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T10:16:13.000Z"
+    },
+    {
+      "title": "I want to love the Googlebook, but Google's privacy defaults make it impossible",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBhSVVDRVRZMWFrUTBTSDdKTVpvdGd1QldHWEkydEliRkJkTFphdlVUbGZ1VjFZMjg3NENJcF85OGJzRTY0c2VXWDhBc1JNX0ozT0k5SFkyN3Y1dk40VUFrVklpWExMZ0lXSTNob2hvdnpUalYwZHJROE5qUl9VeGR4R1g1aEJ3Tzl6YTNyaUhNTkFNWk1MMEpBbW9VbnRyY1IxNWhyb09uZktY?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T10:00:10.000Z"
+    },
+    {
+      "title": "Meta Makes Improvements To Kernfs Scalability With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Kernfs-Scalability",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T09:54:53.000Z"
+    },
+    {
+      "title": "AMD HIPRT 3.2 Released With Medusa APU Support",
+      "url": "https://www.phoronix.com/news/AMD-HIPRT-3.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T09:40:46.000Z"
+    },
+    {
+      "title": "XFS Sees Small Performance Optimizations & Bug Fixes For Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-XFS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T09:30:53.000Z"
+    },
     {
       "title": "Testing iCloud Drive with Cirrus 1.17",
       "url": "https://eclecticlight.co/2026/10/21/testing-icloud-drive-with-cirrus-1-17/",
@@ -146,44 +234,12 @@
       "date": "2026-10-20T13:07:14.000Z"
     },
     {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1101617/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T13:06:38.000Z"
-    },
-    {
-      "title": "BFS Removed With Linux 7.4 As Old UnixWare File-System",
-      "url": "https://www.phoronix.com/news/BFS-Removed-With-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T12:13:56.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.8.1 Released With Dozens Of Fixes",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T12:04:44.000Z"
-    },
-    {
       "title": "How to record your screen on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjR2twVzV0RVRJeWo0WWJJMC1jdlN2OUxMcjV1N0lSVFlNVDAyUFVHY25rZmV0ejU1dkVYRFlYOTdqdnlmeF9rZWliTjB0NElKWERMLUVJQmxseE50bGFaODBNTktXdTcyMWhnY0kzVWt2OXRVbVRhRg?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-20T12:00:15.000Z"
-    },
-    {
-      "title": "Omarchy 4.5 Expanding To AArch64 World With Snapdragon X & NVIDIA N1X Laptops",
-      "url": "https://www.phoronix.com/news/Omarchy-4.5-RC1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T11:52:00.000Z"
     },
     {
       "title": "Portraits of trees: Palm",
@@ -202,36 +258,12 @@
       "date": "2026-10-20T11:05:07.000Z"
     },
     {
-      "title": "Linux 7.4 Adding New Emulation Function While Some Old CPUs May Soon Be Phased Out",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Two-Byte-CMPXCHG",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T10:32:23.000Z"
-    },
-    {
       "title": "Setting up SSH keys on macOS with Touch ID",
       "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-20T10:23:58.000Z"
-    },
-    {
-      "title": "17k Lines Of New Rust Kernel Code Heading Into Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Rust",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T10:04:57.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0 Released With Intel Arc A-Series, Other Hardware Improvements",
-      "url": "https://www.phoronix.com/news/OpenBSD-8.0-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T09:44:40.000Z"
     },
     {
       "title": "Googlebook owners finally get an explanation for the missing Find Hub app",
@@ -280,14 +312,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-20T01:12:26.000Z"
-    },
-    {
-      "title": "AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI",
-      "url": "https://www.phoronix.com/news/AMD-GAIA-0.25-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T00:25:41.000Z"
     },
     {
       "title": "From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?",
@@ -442,14 +466,6 @@
       "date": "2026-10-18T22:53:00.000Z"
     },
     {
-      "title": "WorkOS AuthKit",
-      "url": "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T22:45:00.000Z"
-    },
-    {
       "title": "How to install and use Linux apps on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
       "source": "How-To Geek",
@@ -498,28 +514,12 @@
       "date": "2026-10-18T13:00:00.000Z"
     },
     {
-      "title": "I Wanted Googlebook OS to Win Me Over. It's Just Not Ready",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUlSUHZmWHdURC1EYUNnTjRNTFg3dUtPSzVaRWlZWGYxWGZWOUh0bUVNMHFoZFl5UWhpS2Y4LWJpd0I2SFpNRjd2WU5neEdfQUF6bDFGMVp0Z3c3bFR4bElTZF9Samx6blBMN1l5WVhrQXhWWHduRWt3a29SbWFpQjVzQ1F4WlZxbldxbnNvdkZQV0pyS1NJ?oc=5",
-      "source": "PCMag Australia",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-18T13:00:00.000Z"
-    },
-    {
       "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
       "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-18T07:42:41.000Z"
-    },
-    {
-      "title": "How to reset a Googlebook to factory settings",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OYlE5SjgtUVAxUnhtOWxrOFlzM0NhcWZ1aHh2eldYMXNQc3lGbXRNSl9CRUVpV243c2J6VHVwN1U2T1lpeDB4SEdZRko4TDZISmMxTnNLU3RzblFHajZuNjMxdF9TT0JYREl3VE5iMWpWSm5HMXlFSzNXbms?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-17T20:00:17.000Z"
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
@@ -576,14 +576,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-25T01:17:51.000Z"
-    },
-    {
-      "title": "Overview of AOOSTAR WTR Pro on *BSD",
-      "url": "https://www.tumfatig.net/2026/overview-of-aoostar-wtr-pro-on-bsd/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-09-21T11:00:40.000Z"
     }
   ]
 }
