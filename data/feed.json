@@ -1,6 +1,86 @@
 {
-  "generated": "2026-10-21T13:53:23.590Z",
+  "generated": "2026-10-21T18:42:45.187Z",
   "items": [
+    {
+      "title": "More vulnerabilities in widely deployed software",
+      "url": "https://lwn.net/Articles/1102044/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T17:09:24.000Z"
+    },
+    {
+      "title": "Googlebook deserves a little patience: why early launch quirks don’t define its future",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T16:20:21.000Z"
+    },
+    {
+      "title": "[$] Hash-based module integrity for reproducible distributions",
+      "url": "https://lwn.net/Articles/1100026/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T16:14:55.000Z"
+    },
+    {
+      "title": "Being an early adopter isn't fun anymore, and two weeks with the ASUS Googlebook 14 was all the proof I needed",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T15:30:15.000Z"
+    },
+    {
+      "title": "Upstreaming Tyr: Rust, DRM, and the Linux Kernel (Collabora)",
+      "url": "https://lwn.net/Articles/1102024/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T14:58:56.000Z"
+    },
+    {
+      "title": "Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks",
+      "url": "https://www.phoronix.com/review/snapdragon-x2-linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T14:50:41.000Z"
+    },
+    {
+      "title": "[$] Understanding Nix flakes",
+      "url": "https://lwn.net/Articles/1094226/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T14:33:54.000Z"
+    },
+    {
+      "title": "PHP patches released for two critical RCEs",
+      "url": "https://lwn.net/Articles/1102014/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-21T13:53:18.000Z"
+    },
+    {
+      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T13:51:02.000Z"
+    },
+    {
+      "title": "PHP Updates Released For Two Critical Code Execution Vulnerabilities",
+      "url": "https://www.phoronix.com/news/PHP-New-Critical-CVEs-October",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-21T13:43:31.000Z"
+    },
     {
       "title": "Four stable kernels for Wednesday",
       "url": "https://lwn.net/Articles/1101758/",
@@ -162,30 +242,6 @@
       "date": "2026-10-20T17:00:00.000Z"
     },
     {
-      "title": "Intel & AMD Now Collaborating On Software Optimizations With PyTorch/oneDNN",
-      "url": "https://www.phoronix.com/news/Intel-AMD-oneDNN-Optimize",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T16:50:52.000Z"
-    },
-    {
-      "title": "[$] Discussing a rewrite of XArray",
-      "url": "https://lwn.net/Articles/1100520/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T15:46:37.000Z"
-    },
-    {
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://lwn.net/Articles/1101643/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T14:56:23.000Z"
-    },
-    {
       "title": "I went back to a Chromebook and was shocked by how much I missed Googlebook",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5",
       "source": "Chrome Unboxed",
@@ -194,44 +250,12 @@
       "date": "2026-10-20T14:26:13.000Z"
     },
     {
-      "title": "Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-arrow-lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T14:25:12.000Z"
-    },
-    {
-      "title": "Linux Foundation Estimates 25% Of New Pull Requests To Be Low-Quality AI Slop",
-      "url": "https://www.phoronix.com/news/Linux-Foundation-25p-AI-Slop",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T13:18:46.000Z"
-    },
-    {
-      "title": "Linux Coredumps Via Sockets Can Be Much Smaller Now With Sparse Support",
-      "url": "https://www.phoronix.com/news/Linux-Coredump-Sockets-Sparse",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T13:11:11.000Z"
-    },
-    {
       "title": "[Sponsor] Sunnny",
       "url": "https://sunnny.com/",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-20T13:09:38.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0 released",
-      "url": "https://lwn.net/Articles/1101536/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-20T13:07:14.000Z"
     },
     {
       "title": "How to record your screen on Googlebook OS",
@@ -488,30 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-18T13:00:13.000Z"
-    },
-    {
-      "title": "The biggest reason not to buy a Googlebook is all about timing",
-      "url": "https://9to5google.com/2026/10/18/the-biggest-reason-not-to-buy-a-googlebook-is-all-about-timing/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-18T13:00:00.000Z"
-    },
-    {
-      "title": "I Wanted Googlebook OS to Win Me Over. It's Just Not Ready",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjQwWXBRbWhrVVlVV0d3SjBqWkxsOGNTMEpQd3NJT1VzNlJrVEtuZDVCQ1dyV0JUd0dMbDRqQWFfQkJiM1ZSQmNiQUpGbHJMMXlaSHNyZy1KMzBCeHN0Umk1cDFzbnhsOThOc3llT2JXUm9hNWM5UkhDZWhxTXlFTkdFc1dGQzA4anFBSmxrNzM4UzJpcUFR?oc=5",
-      "source": "PCMag UK",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-18T13:00:00.000Z"
-    },
-    {
-      "title": "The biggest reason not to buy a Googlebook is all about timing",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSThrNzVvMlp1bEhQWnV0S2JRVmpZVWVvY0Vpa0ZpNy16ajBwWTVGZ0k4VkEyaTZTMFB0N3AtZmRNNFlwMDBUeXJfaGt1M2ZRYzlGeEZTa01aeFNyX3BMVEJRY0pvbVl0Nk4tVXNmOHlxTjQ1eWRKUWVLRFlnVGZkckROTVRiU2hGNENrMTk4LWZVXzQtX2daV0t6U1Zydw?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-18T13:00:00.000Z"
     },
     {
       "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
