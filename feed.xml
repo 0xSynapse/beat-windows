@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:40:07 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM</title>
+      <link>https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 21 Oct 2026 00:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling</title>
+      <link>https://www.phoronix.com/news/COSMIC-Epoch-1.11</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/COSMIC-Epoch-1.11</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 20 Oct 2026 22:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>Critical PHP security update coming</title>
       <link>https://lwn.net/Articles/1101687/</link>
@@ -288,14 +304,6 @@
       <pubDate>Mon, 19 Oct 2026 22:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Sunsetting Old EDAC Drivers Due To &quot;AI Generated Fixes Frenzy&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-EDAC</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-EDAC</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 19 Oct 2026 21:38:28 GMT</pubDate>
-    </item>
-    <item>
       <title>Netflix Shitcanned Film Chief Dan Lin Too</title>
       <link>https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</link>
       <guid isPermaLink="true">https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</guid>
@@ -310,14 +318,6 @@
       <category>bsd</category>
       <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
       <pubDate>Mon, 19 Oct 2026 21:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Netherlands is building its own Linux OS to break free from Microsoft</title>
-      <link>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</link>
-      <guid isPermaLink="true">https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 19 Oct 2026 20:10:46 GMT</pubDate>
     </item>
     <item>
       <title>Ex-Apple Employee Fred Potter on HomeView</title>
