@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-22T13:51:49.689Z",
+  "generated": "2026-10-22T18:36:00.510Z",
   "items": [
+    {
+      "title": "[$] The end of __get_user() and __put_user()",
+      "url": "https://lwn.net/Articles/1102061/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-22T16:25:50.000Z"
+    },
+    {
+      "title": "Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference",
+      "url": "https://www.phoronix.com/news/Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-22T15:42:11.000Z"
+    },
     {
       "title": "KeePassXC 2.8.0 released",
       "url": "https://lwn.net/Articles/1102270/",
@@ -40,6 +56,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T13:00:00.000Z"
+    },
+    {
+      "title": "I Asked Gemini to Run My Googlebook. It Told Me to Do It Myself",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDRLYkRPSmFOVHluYXg2WWNBWkVwdXdzNXFTWkVReWY3MlRqNWQtZmxWRmxLZXpJNFlrOXZIYWtNWTQ1Qkd4ZUZXVk5jZl9rUFZUWXNrdGN3WFNaVE1MOGxLSFRhYWNhYjNwXzhNVmtyZDZwcU1rc2xKWG9VcTNVSnpZV0dhZlI2bWstc2w3eGNaRHJSTDF0NTZ4SVk2eUk?oc=5",
+      "source": "PCMag UK",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-22T12:48:11.000Z"
     },
     {
       "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
@@ -232,22 +256,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-21T14:50:41.000Z"
-    },
-    {
-      "title": "[$] Understanding Nix flakes",
-      "url": "https://lwn.net/Articles/1094226/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T14:33:54.000Z"
-    },
-    {
-      "title": "PHP patches released for two critical RCEs",
-      "url": "https://lwn.net/Articles/1102014/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T13:53:18.000Z"
     },
     {
       "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
@@ -504,14 +512,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-19T14:44:02.000Z"
-    },
-    {
-      "title": "Tested: The Googlebook tries to put Android on the desktop, but is it successful?",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONXNoY0lTWGdzMU84eXNiTGx6TFZwazIxRm01M3JxY01XSm1UckF6bnc3ck9KUE9JU2NHaU1RU3FwWWtIRm1qaDc1a0FJLUlKSkNpcEg1WmV1bGtVVmxwODZMWG9CZkNkZ2w1M2RwOXJqaURWaldHYTRGcmdVZEtjYWkxMm9ib2pqbGZGN3V2aE9haTBQWldrRkhvNmI2LUR1LXZpdE1EMTczUldyV0pIS2ZOMkZEQQ?oc=5",
-      "source": "Creative Bloq",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-19T13:00:00.000Z"
     },
     {
       "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",

@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:36:00 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[$] The end of __get_user() and __put_user()</title>
+      <link>https://lwn.net/Articles/1102061/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102061/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 22 Oct 2026 16:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference</title>
+      <link>https://www.phoronix.com/news/Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 22 Oct 2026 15:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>KeePassXC 2.8.0 released</title>
       <link>https://lwn.net/Articles/1102270/</link>
@@ -46,6 +62,14 @@
       <category>android</category>
       <source url="https://news.google.com/">The Verge</source>
       <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Asked Gemini to Run My Googlebook. It Told Me to Do It Myself</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDRLYkRPSmFOVHluYXg2WWNBWkVwdXdzNXFTWkVReWY3MlRqNWQtZmxWRmxLZXpJNFlrOXZIYWtNWTQ1Qkd4ZUZXVk5jZl9rUFZUWXNrdGN3WFNaVE1MOGxLSFRhYWNhYjNwXzhNVmtyZDZwcU1rc2xKWG9VcTNVSnpZV0dhZlI2bWstc2w3eGNaRHJSTDF0NTZ4SVk2eUk?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDRLYkRPSmFOVHluYXg2WWNBWkVwdXdzNXFTWkVReWY3MlRqNWQtZmxWRmxLZXpJNFlrOXZIYWtNWTQ1Qkd4ZUZXVk5jZl9rUFZUWXNrdGN3WFNaVE1MOGxLSFRhYWNhYjNwXzhNVmtyZDZwcU1rc2xKWG9VcTNVSnpZV0dhZlI2bWstc2w3eGNaRHJSTDF0NTZ4SVk2eUk?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag UK</source>
+      <pubDate>Thu, 22 Oct 2026 12:48:11 GMT</pubDate>
     </item>
     <item>
       <title>Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages</title>
@@ -240,22 +264,6 @@
       <pubDate>Wed, 21 Oct 2026 14:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Understanding Nix flakes</title>
-      <link>https://lwn.net/Articles/1094226/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1094226/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 21 Oct 2026 14:33:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP patches released for two critical RCEs</title>
-      <link>https://lwn.net/Articles/1102014/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102014/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 21 Oct 2026 13:53:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">The Guardian</source>
       <pubDate>Tue, 20 Oct 2026 06:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD 8.0</title>
-      <link>https://www.openbsd.org/80.html</link>
-      <guid isPermaLink="true">https://www.openbsd.org/80.html</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Tue, 20 Oct 2026 01:46:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
