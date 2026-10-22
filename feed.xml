@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:35:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Kbuild</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Kbuild</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 22 Oct 2026 00:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for October 22, 2026</title>
+      <link>https://lwn.net/Articles/1100612/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100612/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 22 Oct 2026 00:29:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has just released updates to XProtect and XProtect Remediator</title>
+      <link>https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 21 Oct 2026 23:08:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ The iPhone Duo</title>
+      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 21 Oct 2026 22:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>Linus Torvalds Eliminates Unsafe __get_user() &amp; __put_user() Functions In Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</link>
@@ -216,22 +248,6 @@
       <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM</title>
-      <link>https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 21 Oct 2026 00:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling</title>
-      <link>https://www.phoronix.com/news/COSMIC-Epoch-1.11</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/COSMIC-Epoch-1.11</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 20 Oct 2026 22:32:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Chromebook or Googlebook: Which is the better choice?</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 19 Oct 2026 18:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix Lays Off 6 Percent of Staff</title>
-      <link>https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="true">https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&amp;reflink=desktopwebshare_permalink</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 19 Oct 2026 16:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS Googlebook and Googlebook OS Review</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZTNDV1ZaMHFKNGw0V2xpY2Yzdm90WHJwZVZqTFVMV2p4UHhPdW03Ul9OLVE2aWNVY1phMm4zYVdoUlhKY0wzTjM4MnJZUUUwRmhheXViVkFkUDFLOVFLZXgtQWtraEpBdUhfYUY5anF2RUpuejdUTGM5eG9HZTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZTNDV1ZaMHFKNGw0V2xpY2Yzdm90WHJwZVZqTFVMV2p4UHhPdW03Ul9OLVE2aWNVY1phMm4zYVdoUlhKY0wzTjM4MnJZUUUwRmhheXViVkFkUDFLOVFLZXgtQWtraEpBdUhfYUY5anF2RUpuejdUTGM5eG9HZTQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Techaeris</source>
-      <pubDate>Mon, 19 Oct 2026 16:18:51 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-21T22:25:24.866Z",
+  "generated": "2026-10-22T01:35:01.905Z",
   "items": [
+    {
+      "title": "Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Kbuild",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-22T00:52:38.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for October 22, 2026",
+      "url": "https://lwn.net/Articles/1100612/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-22T00:29:22.000Z"
+    },
+    {
+      "title": "Apple has just released updates to XProtect and XProtect Remediator",
+      "url": "https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-21T23:08:39.000Z"
+    },
+    {
+      "title": "★ The iPhone Duo",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-21T22:59:14.000Z"
+    },
     {
       "title": "Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4",
       "url": "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux",
@@ -208,22 +240,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-21T06:30:00.000Z"
-    },
-    {
-      "title": "Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM",
-      "url": "https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-21T00:26:59.000Z"
-    },
-    {
-      "title": "COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling",
-      "url": "https://www.phoronix.com/news/COSMIC-Epoch-1.11",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-20T22:32:12.000Z"
     },
     {
       "title": "Chromebook or Googlebook: Which is the better choice?",
@@ -472,22 +488,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-19T06:30:00.000Z"
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-19T03:26:51.000Z"
-    },
-    {
-      "title": "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction",
-      "url": "https://tomthedancingbug.com/the-inner-hive/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-18T22:53:00.000Z"
     },
     {
       "title": "How to install and use Linux apps on Googlebook OS",
