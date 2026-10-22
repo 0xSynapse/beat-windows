@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-22T01:35:01.905Z",
+  "generated": "2026-10-22T07:41:09.085Z",
   "items": [
+    {
+      "title": "examining the macOS gcc binary",
+      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-22T06:45:58.000Z"
+    },
+    {
+      "title": "Local network privacy is getting better",
+      "url": "https://eclecticlight.co/2026/10/22/local-network-privacy-is-getting-better/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-22T06:30:00.000Z"
+    },
+    {
+      "title": "emulators/wine (re)entering OpenBSD ports",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261022052106",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-22T05:21:06.000Z"
+    },
     {
       "title": "Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process",
       "url": "https://www.phoronix.com/news/Linux-7.4-Kbuild",
@@ -56,14 +80,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-21T20:11:03.000Z"
-    },
-    {
-      "title": "dbupdate(8) added to -current",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261021191736",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-21T19:17:36.000Z"
     },
     {
       "title": "More vulnerabilities in widely deployed software",
@@ -136,6 +152,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T13:51:02.000Z"
+    },
+    {
+      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5",
+      "source": "PCMag UK",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T13:48:18.000Z"
     },
     {
       "title": "PHP Updates Released For Two Critical Code Execution Vulnerabilities",
@@ -474,22 +498,6 @@
       "date": "2026-10-19T10:30:13.000Z"
     },
     {
-      "title": "Solutions to Saturday Mac riddles 382",
-      "url": "https://eclecticlight.co/2026/10/19/solutions-to-saturday-mac-riddles-382/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-19T08:00:00.000Z"
-    },
-    {
-      "title": "Can I browse log entries from 2 weeks ago?",
-      "url": "https://eclecticlight.co/2026/10/19/can-i-browse-log-entries-from-2-weeks-ago/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-19T06:30:00.000Z"
-    },
-    {
       "title": "How to install and use Linux apps on Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0ZicDBXRGRKUGVKaDlGWVNyMWlEMUpTQTdoZ0U3WnZBb0hYV2hqZExSVUtZMnU2cGplblJvblRPcjJOdEcwRV9vTzQ0S3l6NHVpR2ZFQTlVcWhaeTlEWmFxVkNoYWRVWGxkWlBNOTNvZlZWanduVktoYnM2ZW1TNlA0aw?oc=5",
       "source": "How-To Geek",
@@ -504,14 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-18T13:00:19.000Z"
-    },
-    {
-      "title": "I Wanted Googlebook OS to Win Me Over. It's Just Not Ready",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmdrZzY0UVdjVkpyNEhoRnJSNUVrbmd5MHQ5U3oyWTBoTGM5X0ktNFNzTzhnczVoYXJUcWY2cW5TSmNxaV9yZ2pBUkd2YnlhTlpfQVl5LVRVTU05b01Td2NuajBiTG53UGx0MF9PNGdrdVI4MkFnb25TX2JUaC0xWS1ZeFlkOTUxWFBselIzQ20?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-18T13:00:13.000Z"
     },
     {
       "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",

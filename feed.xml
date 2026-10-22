@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:41:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>examining the macOS gcc binary</title>
+      <link>https://zoey-on-github.github.io/blog/macgcc.html</link>
+      <guid isPermaLink="true">https://zoey-on-github.github.io/blog/macgcc.html</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Thu, 22 Oct 2026 06:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Local network privacy is getting better</title>
+      <link>https://eclecticlight.co/2026/10/22/local-network-privacy-is-getting-better/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/22/local-network-privacy-is-getting-better/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 22 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>emulators/wine (re)entering OpenBSD ports</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261022052106</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261022052106</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Thu, 22 Oct 2026 05:21:06 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Kbuild</link>
@@ -62,14 +86,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Wed, 21 Oct 2026 20:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>dbupdate(8) added to -current</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261021191736</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261021191736</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Wed, 21 Oct 2026 19:17:36 GMT</pubDate>
     </item>
     <item>
       <title>More vulnerabilities in widely deployed software</title>
@@ -142,6 +158,14 @@
       <category>android</category>
       <source url="https://news.google.com/">PCMag</source>
       <pubDate>Wed, 21 Oct 2026 13:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag UK</source>
+      <pubDate>Wed, 21 Oct 2026 13:48:18 GMT</pubDate>
     </item>
     <item>
       <title>PHP Updates Released For Two Critical Code Execution Vulnerabilities</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 19 Oct 2026 22:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix Shitcanned Film Chief Dan Lin Too</title>
-      <link>https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</link>
-      <guid isPermaLink="true">https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 19 Oct 2026 21:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18</title>
-      <link>https://bsd.network/@brynet/117407035545900963</link>
-      <guid isPermaLink="true">https://bsd.network/@brynet/117407035545900963</guid>
-      <category>bsd</category>
-      <source url="https://news.ycombinator.com/">HN · OpenBSD</source>
-      <pubDate>Mon, 19 Oct 2026 21:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ex-Apple Employee Fred Potter on HomeView</title>
-      <link>https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</link>
-      <guid isPermaLink="true">https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 19 Oct 2026 18:05:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
