@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-22T18:36:00.510Z",
+  "generated": "2026-10-22T22:24:31.679Z",
   "items": [
+    {
+      "title": "Fedora 45 Hits A Second NO-GO: Not Releasing Until November",
+      "url": "https://www.phoronix.com/news/Fedora-45-Second-NO-GO",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-22T21:20:50.000Z"
+    },
+    {
+      "title": "AI Helping To Improve Linux's AMD Zen CPU Microarchitecture Detection",
+      "url": "https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-22T19:21:54.000Z"
+    },
+    {
+      "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
+      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-22T19:10:10.000Z"
+    },
+    {
+      "title": "Updates to My iPhone Duo Review",
+      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-22T18:49:38.000Z"
+    },
+    {
+      "title": "Modular's MAX Source Code Now Fully Opened, Under New MAX License",
+      "url": "https://www.phoronix.com/news/Modular-MAX-Complete-Open",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-22T18:32:34.000Z"
+    },
     {
       "title": "[$] The end of __get_user() and __put_user()",
       "url": "https://lwn.net/Articles/1102061/",
@@ -8,6 +48,14 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-10-22T16:25:50.000Z"
+    },
+    {
+      "title": "ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-22T15:45:07.000Z"
     },
     {
       "title": "Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference",
@@ -178,14 +226,6 @@
       "date": "2026-10-21T23:08:39.000Z"
     },
     {
-      "title": "★ The iPhone Duo",
-      "url": "https://daringfireball.net/2026/10/the_iphone_duo",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-21T22:59:14.000Z"
-    },
-    {
       "title": "Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4",
       "url": "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux",
       "source": "Phoronix",
@@ -226,36 +266,12 @@
       "date": "2026-10-21T16:20:21.000Z"
     },
     {
-      "title": "[$] Hash-based module integrity for reproducible distributions",
-      "url": "https://lwn.net/Articles/1100026/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T16:14:55.000Z"
-    },
-    {
       "title": "Being an early adopter isn't fun anymore, and two weeks with the ASUS Googlebook 14 was all the proof I needed",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T15:30:15.000Z"
-    },
-    {
-      "title": "Upstreaming Tyr: Rust, DRM, and the Linux Kernel (Collabora)",
-      "url": "https://lwn.net/Articles/1102024/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T14:58:56.000Z"
-    },
-    {
-      "title": "Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks",
-      "url": "https://www.phoronix.com/review/snapdragon-x2-linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-21T14:50:41.000Z"
     },
     {
       "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
@@ -488,22 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-19T16:17:36.000Z"
-    },
-    {
-      "title": "Time Magazine Profiles John Ternus",
-      "url": "https://time.com/collection/best-inventions/2026/apple-iphone-duo/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T16:17:14.000Z"
-    },
-    {
-      "title": "I tested Lenovo's Googlebook 15, and it's an easy laptop to like",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUNJa2hmRW1QeTN3anlrdlQtc2NYSkUybE5SRjhNd1pkbE9qZGNqTWZNb1A4SmpibW1oY3BZZ3dtZ05pYk1jLXBaZ190WVBDMldhanlFbEZMSzBkZ0luekJuTDB0VnN1VmE1TmZzSU9ObVR0Q2hTbDhZMXdZWVdZME1SNFpRaGFMbmd0WFVNdGYyZw?oc=5",
-      "source": "MakeUseOf",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-19T15:45:16.000Z"
     },
     {
       "title": "Wine ported to OpenBSD",

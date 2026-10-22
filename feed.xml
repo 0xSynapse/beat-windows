@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:24:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fedora 45 Hits A Second NO-GO: Not Releasing Until November</title>
+      <link>https://www.phoronix.com/news/Fedora-45-Second-NO-GO</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-Second-NO-GO</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 22 Oct 2026 21:20:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Helping To Improve Linux's AMD Zen CPU Microarchitecture Detection</title>
+      <link>https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 22 Oct 2026 19:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo</title>
+      <link>https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 22 Oct 2026 19:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Updates to My iPhone Duo Review</title>
+      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 22 Oct 2026 18:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modular's MAX Source Code Now Fully Opened, Under New MAX License</title>
+      <link>https://www.phoronix.com/news/Modular-MAX-Complete-Open</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Modular-MAX-Complete-Open</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 22 Oct 2026 18:32:34 GMT</pubDate>
+    </item>
     <item>
       <title>[$] The end of __get_user() and __put_user()</title>
       <link>https://lwn.net/Articles/1102061/</link>
@@ -14,6 +54,14 @@
       <category>linux</category>
       <source url="https://lwn.net/">LWN</source>
       <pubDate>Thu, 22 Oct 2026 16:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Thu, 22 Oct 2026 15:45:07 GMT</pubDate>
     </item>
     <item>
       <title>Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference</title>
@@ -184,14 +232,6 @@
       <pubDate>Wed, 21 Oct 2026 23:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>★ The iPhone Duo</title>
-      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 21 Oct 2026 22:59:14 GMT</pubDate>
-    </item>
-    <item>
       <title>Linus Torvalds Eliminates Unsafe __get_user() &amp; __put_user() Functions In Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</guid>
@@ -232,36 +272,12 @@
       <pubDate>Wed, 21 Oct 2026 16:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Hash-based module integrity for reproducible distributions</title>
-      <link>https://lwn.net/Articles/1100026/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100026/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 21 Oct 2026 16:14:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Being an early adopter isn't fun anymore, and two weeks with the ASUS Googlebook 14 was all the proof I needed</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Wed, 21 Oct 2026 15:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upstreaming Tyr: Rust, DRM, and the Linux Kernel (Collabora)</title>
-      <link>https://lwn.net/Articles/1102024/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102024/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 21 Oct 2026 14:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks</title>
-      <link>https://www.phoronix.com/review/snapdragon-x2-linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/snapdragon-x2-linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 21 Oct 2026 14:50:41 GMT</pubDate>
     </item>
     <item>
       <title>Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Tue, 20 Oct 2026 06:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Spotlight indexes in Golden Gate</title>
-      <link>https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 20 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook review: Google’s new laptops are woefully underbaked</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">The Guardian</source>
-      <pubDate>Tue, 20 Oct 2026 06:01:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
