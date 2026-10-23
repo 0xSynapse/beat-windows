@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-22T22:24:31.679Z",
+  "generated": "2026-10-23T01:35:37.994Z",
   "items": [
+    {
+      "title": "Linux 7.4 Workqueue Changes Bring A \"10 To 100 Times Faster\" Optimization",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Workqueue",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T00:38:20.000Z"
+    },
     {
       "title": "Fedora 45 Hits A Second NO-GO: Not Releasing Until November",
       "url": "https://www.phoronix.com/news/Fedora-45-Second-NO-GO",
@@ -64,6 +72,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-22T15:42:11.000Z"
+    },
+    {
+      "title": "Googlebook laptops impress with premium hardware, but software disappoints",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5",
+      "source": "Mezha.net",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-22T15:05:59.000Z"
     },
     {
       "title": "KeePassXC 2.8.0 released",
@@ -248,14 +264,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-21T20:11:03.000Z"
-    },
-    {
-      "title": "More vulnerabilities in widely deployed software",
-      "url": "https://lwn.net/Articles/1102044/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T17:09:24.000Z"
     },
     {
       "title": "Googlebook deserves a little patience: why early launch quirks don’t define its future",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-19T16:18:51.000Z"
-    },
-    {
-      "title": "Googlebooks are incredible phone companions, but they left too much of ChromeOS behind",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlo1b1ZaOGJ0NHZwSHhhYUhMM1l0QTVLdHBQRllpTmJ3NXd4YWlzOWZ6bUFIdVgyaXhhZHVuamVzVldySThuUTd4T2lJLXpaekFkbkV0aWU2YTNRMVhSZHE3dHRPSUJZWmoyVDl4eTUta0R0Sm1lSHNEMUhkUmYtSDgzNGNvZ0g2US12MDcyd05NZHNiTGNhVURtVFBleExlTUxya25CV3ltcnZtbDlkTlJn?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-19T16:17:36.000Z"
     },
     {
       "title": "Wine ported to OpenBSD",

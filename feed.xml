@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:35:37 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4 Workqueue Changes Bring A &quot;10 To 100 Times Faster&quot; Optimization</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Workqueue</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Workqueue</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 00:38:20 GMT</pubDate>
+    </item>
     <item>
       <title>Fedora 45 Hits A Second NO-GO: Not Releasing Until November</title>
       <link>https://www.phoronix.com/news/Fedora-45-Second-NO-GO</link>
@@ -70,6 +78,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Thu, 22 Oct 2026 15:42:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook laptops impress with premium hardware, but software disappoints</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Mezha.net</source>
+      <pubDate>Thu, 22 Oct 2026 15:05:59 GMT</pubDate>
     </item>
     <item>
       <title>KeePassXC 2.8.0 released</title>
@@ -256,14 +272,6 @@
       <pubDate>Wed, 21 Oct 2026 20:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>More vulnerabilities in widely deployed software</title>
-      <link>https://lwn.net/Articles/1102044/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102044/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 21 Oct 2026 17:09:24 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook deserves a little patience: why early launch quirks don’t define its future</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Tue, 20 Oct 2026 10:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook owners finally get an explanation for the missing Find Hub app</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Tue, 20 Oct 2026 06:42:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
