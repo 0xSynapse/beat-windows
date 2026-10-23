@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:17:13 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Acer Googlebook 14 Review: A Sorta Fresh Take On The Chromebook Formula</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGE0VFBna0diUExIT3pHcjlmM05sR2swVW9BTE9fU0EtOWFUM1EtaWVsSmp0TFRlci1QQXY3cTBkS1hSV1BZZ2Vpb1N2QVR3VDI4SnEyeXBwOURlSFZmWElLUFJienFQWlJfbQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGE0VFBna0diUExIT3pHcjlmM05sR2swVW9BTE9fU0EtOWFUM1EtaWVsSmp0TFRlci1QQXY3cTBkS1hSV1BZZ2Vpb1N2QVR3VDI4SnEyeXBwOURlSFZmWElLUFJienFQWlJfbQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">SlashGear</source>
+      <pubDate>Fri, 23 Oct 2026 20:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Merges Slab Updates With A Nice Performance Improvement</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Slab-Updates</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Slab-Updates</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 20:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to silence Googlebook mirrored phone notifications without turning off sync</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ205eDZPVFozbXlFei1VRWwwN1VkMk9DQ3FRbHBiM3Q5TnFxQTlhNFZuMzhBa2RJdHhibFk4cjRlNTZWSkk3X09kcVdOM3JqUTlfT3JPcF85bkdJVlY2MUNJMG9nSFZxd3U4dUdEejBFeFhPa1ZRaDJ4QUZNYUtMTXE2YUV5U2dhSjgtVmhITFdFWGdySkxFcTl6U29NcWo2b1ZLOVBZXzMwQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ205eDZPVFozbXlFei1VRWwwN1VkMk9DQ3FRbHBiM3Q5TnFxQTlhNFZuMzhBa2RJdHhibFk4cjRlNTZWSkk3X09kcVdOM3JqUTlfT3JPcF85bkdJVlY2MUNJMG9nSFZxd3U4dUdEejBFeFhPa1ZRaDJ4QUZNYUtMTXE2YUV5U2dhSjgtVmhITFdFWGdySkxFcTl6U29NcWo2b1ZLOVBZXzMwQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 23 Oct 2026 19:31:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] The first part of the 7.4 merge window</title>
+      <link>https://lwn.net/Articles/1101211/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1101211/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 23 Oct 2026 18:54:33 GMT</pubDate>
+    </item>
     <item>
       <title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
       <link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
@@ -16,7 +48,7 @@
       <pubDate>Fri, 23 Oct 2026 16:52:56 GMT</pubDate>
     </item>
     <item>
-      <title>HPFS Is The Latest File-System Slated For Removal On Linux</title>
+      <title>HPFS Is The Latest File-System Facing Possible Removal On Linux</title>
       <link>https://www.phoronix.com/news/HPFS-For-Linux-Removal</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/HPFS-For-Linux-Removal</guid>
       <category>linux</category>
@@ -45,7 +77,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVXVkVOYnR2czhCYjNIU0NxYkhMUUZCdnE4Z0RTRjFvWmNfVDRQV0s5YW1wU1lOVUdGcXIyZzFJQXQxWFpsbzRkMVF5aXFyQWowbmhKWU1TclZkUFBNMk81MllCQTlRMkU5R1FLYTRpLXVzbzdGLUlmWDlKYkhuck04a1VkZ1luWGV5NEt4VHF3OXI4ZkxF?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">TechRepublic</source>
-      <pubDate>Fri, 23 Oct 2026 15:03:23 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 15:01:53 GMT</pubDate>
     </item>
     <item>
       <title>[$] Seeking smaller kernel stacks</title>
@@ -232,28 +264,12 @@
       <pubDate>Thu, 22 Oct 2026 15:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference</title>
-      <link>https://www.phoronix.com/news/Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 15:42:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook laptops impress with premium hardware, but software disappoints</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Mezha.net</source>
       <pubDate>Thu, 22 Oct 2026 15:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>KeePassXC 2.8.0 released</title>
-      <link>https://lwn.net/Articles/1102270/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102270/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 22 Oct 2026 13:34:37 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks just aren’t ready</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chromebook or Googlebook: Which is the better choice?</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Tue, 20 Oct 2026 20:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook is trying to be Google's MacBook. It's not there yet.</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Yahoo Tech</source>
-      <pubDate>Tue, 20 Oct 2026 18:46:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
