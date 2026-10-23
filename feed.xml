@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:38:20 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Golden Gate may not change focus correctly</title>
+      <link>https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Workqueue Changes Bring A &quot;10 To 100 Times Faster&quot; Optimization</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Workqueue</link>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Computerworld</source>
       <pubDate>Tue, 20 Oct 2026 11:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Setting up SSH keys on macOS with Touch ID</title>
-      <link>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</link>
-      <guid isPermaLink="true">https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Tue, 20 Oct 2026 10:23:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
