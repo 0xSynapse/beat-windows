@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:25:52 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
+      <link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1015028/iphone-duo-review</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 23 Oct 2026 16:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>HPFS Is The Latest File-System Slated For Removal On Linux</title>
+      <link>https://www.phoronix.com/news/HPFS-For-Linux-Removal</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/HPFS-For-Linux-Removal</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 16:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding</title>
+      <link>https://www.phoronix.com/news/Borealis-Vulkan-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Borealis-Vulkan-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 16:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook screen recording may soon get a webcam selfie bubble and live markup tools</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjZjX0c0anU4RWR6eXJzVUJEQmtOdGExOElibzQ0Vzd4dXg5TFZiYXJBLThqS1hjMTByU2tvcU15cmVrRFc5b3RuSUdRQkZ2bzhwTjgtN0ZUUzRKVHpOSFFFcVRQZ1pKdGJuX05ENDJ2c3NqZkNrRjhjSWQydFpyTzZQOTdWZ256a2duWng3aW5aY3FNYzhHMDN2SDFHZi1hcmxTXzQ2aFM1a2FtREJ3VlRn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjZjX0c0anU4RWR6eXJzVUJEQmtOdGExOElibzQ0Vzd4dXg5TFZiYXJBLThqS1hjMTByU2tvcU15cmVrRFc5b3RuSUdRQkZ2bzhwTjgtN0ZUUzRKVHpOSFFFcVRQZ1pKdGJuX05ENDJ2c3NqZkNrRjhjSWQydFpyTzZQOTdWZ256a2duWng3aW5aY3FNYzhHMDN2SDFHZi1hcmxTXzQ2aFM1a2FtREJ3VlRn?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 23 Oct 2026 15:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Adds Linux Developer Tools: What You Can Do With the New Terminal Preview</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVXVkVOYnR2czhCYjNIU0NxYkhMUUZCdnE4Z0RTRjFvWmNfVDRQV0s5YW1wU1lOVUdGcXIyZzFJQXQxWFpsbzRkMVF5aXFyQWowbmhKWU1TclZkUFBNMk81MllCQTlRMkU5R1FLYTRpLXVzbzdGLUlmWDlKYkhuck04a1VkZ1luWGV5NEt4VHF3OXI4ZkxF?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVXVkVOYnR2czhCYjNIU0NxYkhMUUZCdnE4Z0RTRjFvWmNfVDRQV0s5YW1wU1lOVUdGcXIyZzFJQXQxWFpsbzRkMVF5aXFyQWowbmhKWU1TclZkUFBNMk81MllCQTlRMkU5R1FLYTRpLXVzbzdGLUlmWDlKYkhuck04a1VkZ1luWGV5NEt4VHF3OXI4ZkxF?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">TechRepublic</source>
+      <pubDate>Fri, 23 Oct 2026 15:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Seeking smaller kernel stacks</title>
+      <link>https://lwn.net/Articles/1100271/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100271/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 23 Oct 2026 14:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations</title>
+      <link>https://www.phoronix.com/news/oneDNN-3.14-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/oneDNN-3.14-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 14:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 &amp; Intel Rugged Panther Lake</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Power-Management</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Power-Management</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 13:51:29 GMT</pubDate>
+    </item>
     <item>
       <title>OpenSSL 4.1 Released With More AVX-512 Optimizations</title>
       <link>https://www.phoronix.com/news/OpenSSL-4.1-Released</link>
@@ -56,7 +120,7 @@
       <pubDate>Fri, 23 Oct 2026 10:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Introduces New Driver For The Nintendo Switch 2 - Thanks To Valve</title>
+      <title>Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve</title>
       <link>https://www.phoronix.com/news/Linux-7.4-HID</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-HID</guid>
       <category>linux</category>
@@ -192,30 +256,6 @@
       <pubDate>Thu, 22 Oct 2026 13:34:37 GMT</pubDate>
     </item>
     <item>
-      <title>x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection</title>
-      <link>https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 13:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Rust features in the future</title>
-      <link>https://lwn.net/Articles/1099606/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1099606/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 22 Oct 2026 13:19:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1102265/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102265/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 22 Oct 2026 13:09:09 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebooks just aren’t ready</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5</guid>
@@ -232,28 +272,12 @@
       <pubDate>Thu, 22 Oct 2026 12:48:11 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages</title>
-      <link>https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 12:03:30 GMT</pubDate>
-    </item>
-    <item>
       <title>Web apps are still better than Android apps on Googlebooks</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFBERWRsWlJOSjBCSU1SblIzcHAtRGFleFN0X1dJSDVLOTJLb1oxNG1BRmpXS2xnMjJIUVhVZmtCYXkwT1NSRjhyeHRwNmpsQ2RKaThtUHNiZUI4Rk9iZmpHWTluZzFiQTFRVmRQWEtkNTJXTWZuM0d2TjR6bG5YWDlGS3dyVGY5cFV6OWp3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFBERWRsWlJOSjBCSU1SblIzcHAtRGFleFN0X1dJSDVLOTJLb1oxNG1BRmpXS2xnMjJIUVhVZmtCYXkwT1NSRjhyeHRwNmpsQ2RKaThtUHNiZUI4Rk9iZmpHWTluZzFiQTFRVmRQWEtkNTJXTWZuM0d2TjR6bG5YWDlGS3dyVGY5cFV6OWp3?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">How-To Geek</source>
       <pubDate>Thu, 22 Oct 2026 12:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Myrlyn 1.1 Released For SUSE/openSUSE GUI Package Manager</title>
-      <link>https://www.phoronix.com/news/Myrlyn-1.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Myrlyn-1.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 11:47:43 GMT</pubDate>
     </item>
     <item>
       <title>Painting with impaired vision: Camille Pissarro</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Yahoo Tech</source>
       <pubDate>Tue, 20 Oct 2026 18:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>LogUI 1.2 fixes selection and focus in macOS 27</title>
-      <link>https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I went back to a Chromebook and was shocked by how much I missed Googlebook</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGVfVHVWNVlqQ1RfTTZSdUVJWUE1YVdCa3RSanhFMHFWVmwwUE1WQ3J0NG1mOUE4XzA5aXhucVhZWXdzTEFKSkpZa3E2RWc2V0VicVdtczZEVzd2dkdZOENjWm1ZdHZiQkhBZTZtcHh4T0ZzbXpXenkzeEVUNGtRYjlnWVptTkwzRkpmNUhwalpoV2liUlFyX2QxTW5hWHlHV3Rocw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 20 Oct 2026 14:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 20 Oct 2026 13:09:38 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,70 @@
 {
-  "generated": "2026-10-23T13:32:02.354Z",
+  "generated": "2026-10-23T18:25:52.088Z",
   "items": [
+    {
+      "title": "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
+      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-23T16:52:56.000Z"
+    },
+    {
+      "title": "HPFS Is The Latest File-System Slated For Removal On Linux",
+      "url": "https://www.phoronix.com/news/HPFS-For-Linux-Removal",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T16:27:08.000Z"
+    },
+    {
+      "title": "Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding",
+      "url": "https://www.phoronix.com/news/Borealis-Vulkan-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T16:00:38.000Z"
+    },
+    {
+      "title": "Googlebook screen recording may soon get a webcam selfie bubble and live markup tools",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjZjX0c0anU4RWR6eXJzVUJEQmtOdGExOElibzQ0Vzd4dXg5TFZiYXJBLThqS1hjMTByU2tvcU15cmVrRFc5b3RuSUdRQkZ2bzhwTjgtN0ZUUzRKVHpOSFFFcVRQZ1pKdGJuX05ENDJ2c3NqZkNrRjhjSWQydFpyTzZQOTdWZ256a2duWng3aW5aY3FNYzhHMDN2SDFHZi1hcmxTXzQ2aFM1a2FtREJ3VlRn?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-23T15:45:31.000Z"
+    },
+    {
+      "title": "Googlebook Adds Linux Developer Tools: What You Can Do With the New Terminal Preview",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbFVXVkVOYnR2czhCYjNIU0NxYkhMUUZCdnE4Z0RTRjFvWmNfVDRQV0s5YW1wU1lOVUdGcXIyZzFJQXQxWFpsbzRkMVF5aXFyQWowbmhKWU1TclZkUFBNMk81MllCQTlRMkU5R1FLYTRpLXVzbzdGLUlmWDlKYkhuck04a1VkZ1luWGV5NEt4VHF3OXI4ZkxF?oc=5",
+      "source": "TechRepublic",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-23T15:03:23.000Z"
+    },
+    {
+      "title": "[$] Seeking smaller kernel stacks",
+      "url": "https://lwn.net/Articles/1100271/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-23T14:59:24.000Z"
+    },
+    {
+      "title": "oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations",
+      "url": "https://www.phoronix.com/news/oneDNN-3.14-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T14:12:33.000Z"
+    },
+    {
+      "title": "Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 & Intel Rugged Panther Lake",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Power-Management",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T13:51:29.000Z"
+    },
     {
       "title": "OpenSSL 4.1 Released With More AVX-512 Optimizations",
       "url": "https://www.phoronix.com/news/OpenSSL-4.1-Released",
@@ -50,7 +114,7 @@
       "date": "2026-10-23T10:20:46.000Z"
     },
     {
-      "title": "Linux 7.4 Introduces New Driver For The Nintendo Switch 2 - Thanks To Valve",
+      "title": "Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve",
       "url": "https://www.phoronix.com/news/Linux-7.4-HID",
       "source": "Phoronix",
       "tag": "linux",
@@ -186,30 +250,6 @@
       "date": "2026-10-22T13:34:37.000Z"
     },
     {
-      "title": "x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection",
-      "url": "https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T13:22:56.000Z"
-    },
-    {
-      "title": "[$] Rust features in the future",
-      "url": "https://lwn.net/Articles/1099606/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-22T13:19:56.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1102265/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-22T13:09:09.000Z"
-    },
-    {
       "title": "Googlebooks just aren’t ready",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5",
       "source": "The Verge",
@@ -226,28 +266,12 @@
       "date": "2026-10-22T12:48:11.000Z"
     },
     {
-      "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
-      "url": "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T12:03:30.000Z"
-    },
-    {
       "title": "Web apps are still better than Android apps on Googlebooks",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFBERWRsWlJOSjBCSU1SblIzcHAtRGFleFN0X1dJSDVLOTJLb1oxNG1BRmpXS2xnMjJIUVhVZmtCYXkwT1NSRjhyeHRwNmpsQ2RKaThtUHNiZUI4Rk9iZmpHWTluZzFiQTFRVmRQWEtkNTJXTWZuM0d2TjR6bG5YWDlGS3dyVGY5cFV6OWp3?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T12:00:16.000Z"
-    },
-    {
-      "title": "Myrlyn 1.1 Released For SUSE/openSUSE GUI Package Manager",
-      "url": "https://www.phoronix.com/news/Myrlyn-1.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T11:47:43.000Z"
     },
     {
       "title": "Painting with impaired vision: Camille Pissarro",
@@ -418,28 +442,12 @@
       "date": "2026-10-20T11:30:00.000Z"
     },
     {
-      "title": "Hands on with the new Googlebook: An awkward start with plenty of potential",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY29VV1hhaEl1VTYyejNiUzJXSW52RUhkZkpOaEZPUFFYNzBjZzA0aTVlckFKVmxTR1E2UTNtNld5SG5laHhtQmxMSjZudnlMSGdndmdyN1dxbjhBcjhWMWM5elhWYWxwNVNEY3NkSWgyNS1xX3hkN1k2ajhpOUtfTWQxeGVrR21hYXFlMzJaTHB5aDQtdTZPb0tpWWNxZW9KTUVrR3NibDVHQWJKQWk4?oc=5",
-      "source": "Computerworld",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-20T11:05:07.000Z"
-    },
-    {
       "title": "Setting up SSH keys on macOS with Touch ID",
       "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-20T10:23:58.000Z"
-    },
-    {
-      "title": "Googlebook owners finally get an explanation for the missing Find Hub app",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQlA4SVlOaG96cjAtZGM4djRDdlItSFhkUXc1dFBFOW9CWmFwYWVsT1U2d1dpQjFPMVo3NjRUcGJNZVAyRzg4LW5EZlFhRXZwbkNMS0ZUSVdRM002cTI0dW00d3ZicG1BdzAyanp0cG1Ndml1UU1CbzEtR25neTNfVFV5T2hDWDBialotdGd3?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-20T06:42:00.000Z"
     },
     {
       "title": "How Spotlight indexes in Golden Gate",
@@ -488,14 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-19T22:04:04.000Z"
-    },
-    {
-      "title": "Netflix Shitcanned Film Chief Dan Lin Too",
-      "url": "https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T21:15:57.000Z"
     },
     {
       "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
