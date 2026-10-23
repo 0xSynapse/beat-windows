@@ -1,6 +1,94 @@
 {
-  "generated": "2026-10-23T07:38:20.729Z",
+  "generated": "2026-10-23T13:32:02.354Z",
   "items": [
+    {
+      "title": "OpenSSL 4.1 Released With More AVX-512 Optimizations",
+      "url": "https://www.phoronix.com/news/OpenSSL-4.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T13:11:40.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1102546/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-23T13:02:03.000Z"
+    },
+    {
+      "title": "Linux 7.4 Brings Hibernation Improvement For Helping Meet Energy Certifications",
+      "url": "https://www.phoronix.com/news/Linux-7.4-PCI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T12:44:01.000Z"
+    },
+    {
+      "title": "Vulkan 1.4.366 Released With SMPTE ST 2094-50 HDR Support",
+      "url": "https://www.phoronix.com/news/Vulkan-1.4.366",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T11:45:54.000Z"
+    },
+    {
+      "title": "Briefly better than Turner: Thomas Girtin",
+      "url": "https://eclecticlight.co/2026/10/23/briefly-better-than-turner-thomas-girtin/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-23T11:30:00.000Z"
+    },
+    {
+      "title": "FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC",
+      "url": "https://www.phoronix.com/news/FFmpeg-9.1-Releasing",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T10:20:46.000Z"
+    },
+    {
+      "title": "Linux 7.4 Introduces New Driver For The Nintendo Switch 2 - Thanks To Valve",
+      "url": "https://www.phoronix.com/news/Linux-7.4-HID",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T10:09:10.000Z"
+    },
+    {
+      "title": "LibreSSL 4.4 Released With Faster SHA3, Bug Fixes",
+      "url": "https://www.phoronix.com/news/LibreSSL-4.4-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T09:55:46.000Z"
+    },
+    {
+      "title": "Googlebook features: 7 out-of-sight highlights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5",
+      "source": "Computerworld",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-23T09:50:09.000Z"
+    },
+    {
+      "title": "Linux 7.4 Fixes AMD CPU TLB Size Reporting For Zen 5 & Newer",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-23T09:47:39.000Z"
+    },
+    {
+      "title": "Google is tackling three Googlebook headaches before they become migraines",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2YwTnlBVTU1OFJMVVB6ZG9PUW9CanR3bko3TDNoZkRZSVNldzBVdEY4a2xqamFqY3lkeUZ1Q1hYc25aVDFPQUMyd1FSd2M1eGY5MlFya3RMTUVjdXM2M3B1azRxWkFxMVdKM2UwVTkySWxzSXJWQkNCdVN0Vk1yMmhwOW9wbHFyNHZnci0xQ2ZET0xaY25JUTVEUQ?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-23T07:49:00.000Z"
+    },
     {
       "title": "Why Golden Gate may not change focus correctly",
       "url": "https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/",
@@ -170,36 +258,12 @@
       "date": "2026-10-22T11:30:00.000Z"
     },
     {
-      "title": "Mesa RADV Change Satisfies More Steam Play Games On Aging AMD GFX8 GPUs",
-      "url": "https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T10:30:00.000Z"
-    },
-    {
-      "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T10:05:53.000Z"
-    },
-    {
       "title": "Googlebook OS Early Reviews Reveal App and Gemini Problems",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjZuMkNmLTk1b0VxeE5MNjVSMzlWeEJSVWd1UzUwY24yOXJDVW5mZ3VacjRLSVFuak80R1h3emZQMEo0WmptQnZtSTM5ZVJMSGxkSnhhYk5GNm8zcnI4SDZQT05Yc2Q2MXZmdXlWV3MxVVRUQk1pZ2owQmsxenRuM1FmWE10Z0lkTVdv?oc=5",
       "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T09:45:13.000Z"
-    },
-    {
-      "title": "Linux 7.4 Adapts AMD Zen 6 For Less Costly CPU Security Mitigation",
-      "url": "https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T09:40:39.000Z"
     },
     {
       "title": "examining the macOS gcc binary",
@@ -226,52 +290,12 @@
       "date": "2026-10-22T05:21:06.000Z"
     },
     {
-      "title": "Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Kbuild",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T00:52:38.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for October 22, 2026",
-      "url": "https://lwn.net/Articles/1100612/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-22T00:29:22.000Z"
-    },
-    {
       "title": "Apple has just released updates to XProtect and XProtect Remediator",
       "url": "https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-21T23:08:39.000Z"
-    },
-    {
-      "title": "Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-21T21:11:58.000Z"
-    },
-    {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security (PHP Foundation)",
-      "url": "https://lwn.net/Articles/1102060/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-21T20:20:34.000Z"
-    },
-    {
-      "title": "Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 & RISC-V",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Crypto-Library",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-21T20:11:03.000Z"
     },
     {
       "title": "Googlebook deserves a little patience: why early launch quirks don’t define its future",
@@ -288,14 +312,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T15:30:15.000Z"
-    },
-    {
-      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-21T13:49:44.000Z"
     },
     {
       "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
@@ -328,6 +344,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T10:00:10.000Z"
+    },
+    {
+      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-21T07:00:00.000Z"
     },
     {
       "title": "Testing iCloud Drive with Cirrus 1.17",
@@ -426,14 +450,6 @@
       "date": "2026-10-20T06:30:00.000Z"
     },
     {
-      "title": "Googlebook review: Google’s new laptops are woefully underbaked",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWVGLXhyM1hBQzJUbDViekpBRGM3blJfYmt4TVZBY3FuWGhlbjRlVFRVdU9XRFBrV0I3NU5rdHVieTVpSFVCQ3J6Q1VVclFnR0VyMUpDSVlWT24tQWRYM1NPUkdfdjV0NVM5TWlydEI4M3J3YlQ0QjNvbEhWcFZGeGwxSjBvUVpjbkJ1Njk1S1AyS18yTWoweWZWWWVNS1hOTkE?oc=5",
-      "source": "The Guardian",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-20T06:01:00.000Z"
-    },
-    {
       "title": "OpenBSD 8.0",
       "url": "https://www.openbsd.org/80.html",
       "source": "Lobsters · openbsd",
@@ -488,22 +504,6 @@
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-10-19T21:11:45.000Z"
-    },
-    {
-      "title": "Ex-Apple Employee Fred Potter on HomeView",
-      "url": "https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T18:05:38.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook and Googlebook OS Review",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WZTNDV1ZaMHFKNGw0V2xpY2Yzdm90WHJwZVZqTFVMV2p4UHhPdW03Ul9OLVE2aWNVY1phMm4zYVdoUlhKY0wzTjM4MnJZUUUwRmhheXViVkFkUDFLOVFLZXgtQWtraEpBdUhfYUY5anF2RUpuejdUTGM5eG9HZTQ?oc=5",
-      "source": "Techaeris",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-19T16:18:51.000Z"
     },
     {
       "title": "Wine ported to OpenBSD",
