@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-24T05:58:42.739Z",
+  "generated": "2026-10-24T11:11:53.874Z",
   "items": [
+    {
+      "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
+      "url": "https://www.phoronix.com/news/Linux-7.4-MM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T11:05:56.000Z"
+    },
+    {
+      "title": "systemd Merges Support For Rust Programs",
+      "url": "https://www.phoronix.com/news/systemd-Merges-Rust-Programs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T10:20:00.000Z"
+    },
+    {
+      "title": "Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default",
+      "url": "https://www.phoronix.com/news/Wild-0.11-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T10:12:15.000Z"
+    },
+    {
+      "title": "Wild version 0.11.0 released",
+      "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-24T10:11:35.000Z"
+    },
+    {
+      "title": "Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T10:00:00.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 383",
+      "url": "https://eclecticlight.co/2026/10/24/saturday-mac-riddles-383/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-24T08:00:00.000Z"
+    },
+    {
+      "title": "Reviewing the Desktop metaphor",
+      "url": "https://eclecticlight.co/2026/10/24/reviewing-the-desktop-metaphor/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-24T07:00:00.000Z"
+    },
     {
       "title": "KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support",
       "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP",
@@ -186,14 +242,6 @@
       "date": "2026-10-23T09:50:09.000Z"
     },
     {
-      "title": "Linux 7.4 Fixes AMD CPU TLB Size Reporting For Zen 5 & Newer",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T09:47:39.000Z"
-    },
-    {
       "title": "Google is tackling three Googlebook headaches before they become migraines",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2YwTnlBVTU1OFJMVVB6ZG9PUW9CanR3bko3TDNoZkRZSVNldzBVdEY4a2xqamFqY3lkeUZ1Q1hYc25aVDFPQUMyd1FSd2M1eGY5MlFya3RMTUVjdXM2M3B1azRxWkFxMVdKM2UwVTkySWxzSXJWQkNCdVN0Vk1yMmhwOW9wbHFyNHZnci0xQ2ZET0xaY25JUTVEUQ?oc=5",
       "source": "Android Authority",
@@ -208,30 +256,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-23T06:30:00.000Z"
-    },
-    {
-      "title": "Linux 7.4 Workqueue Changes Bring A \"10 To 100 Times Faster\" Optimization",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Workqueue",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T00:38:20.000Z"
-    },
-    {
-      "title": "Fedora 45 Hits A Second NO-GO: Not Releasing Until November",
-      "url": "https://www.phoronix.com/news/Fedora-45-Second-NO-GO",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T21:20:50.000Z"
-    },
-    {
-      "title": "AI Helping To Improve Linux's AMD Zen CPU Microarchitecture Detection",
-      "url": "https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T19:21:54.000Z"
     },
     {
       "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
@@ -472,30 +496,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-20T01:12:26.000Z"
-    },
-    {
-      "title": "From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?",
-      "url": "https://daringfireball.net/linked/2022/10/11/ceos-as-nerds",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T22:36:15.000Z"
-    },
-    {
-      "title": "Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’",
-      "url": "https://x.com/gregjoz/status/2112212372182249831",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T22:27:21.000Z"
-    },
-    {
-      "title": "★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos",
-      "url": "https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-19T22:04:04.000Z"
     },
     {
       "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",

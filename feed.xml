@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:58:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:11:53 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-MM</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-MM</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 11:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>systemd Merges Support For Rust Programs</title>
+      <link>https://www.phoronix.com/news/systemd-Merges-Rust-Programs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-Merges-Rust-Programs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 10:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default</title>
+      <link>https://www.phoronix.com/news/Wild-0.11-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wild-0.11-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 10:12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wild version 0.11.0 released</title>
+      <link>https://github.com/wild-linker/wild/releases/tag/0.11.0</link>
+      <guid isPermaLink="true">https://github.com/wild-linker/wild/releases/tag/0.11.0</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Sat, 24 Oct 2026 10:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 383</title>
+      <link>https://eclecticlight.co/2026/10/24/saturday-mac-riddles-383/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/24/saturday-mac-riddles-383/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reviewing the Desktop metaphor</title>
+      <link>https://eclecticlight.co/2026/10/24/reviewing-the-desktop-metaphor/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/24/reviewing-the-desktop-metaphor/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support</title>
       <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP</link>
@@ -192,14 +248,6 @@
       <pubDate>Fri, 23 Oct 2026 09:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Fixes AMD CPU TLB Size Reporting For Zen 5 &amp; Newer</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 23 Oct 2026 09:47:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Google is tackling three Googlebook headaches before they become migraines</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2YwTnlBVTU1OFJMVVB6ZG9PUW9CanR3bko3TDNoZkRZSVNldzBVdEY4a2xqamFqY3lkeUZ1Q1hYc25aVDFPQUMyd1FSd2M1eGY5MlFya3RMTUVjdXM2M3B1azRxWkFxMVdKM2UwVTkySWxzSXJWQkNCdVN0Vk1yMmhwOW9wbHFyNHZnci0xQ2ZET0xaY25JUTVEUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2YwTnlBVTU1OFJMVVB6ZG9PUW9CanR3bko3TDNoZkRZSVNldzBVdEY4a2xqamFqY3lkeUZ1Q1hYc25aVDFPQUMyd1FSd2M1eGY5MlFya3RMTUVjdXM2M3B1azRxWkFxMVdKM2UwVTkySWxzSXJWQkNCdVN0Vk1yMmhwOW9wbHFyNHZnci0xQ2ZET0xaY25JUTVEUQ?oc=5</guid>
@@ -214,30 +262,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 23 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Workqueue Changes Bring A &quot;10 To 100 Times Faster&quot; Optimization</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Workqueue</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Workqueue</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 23 Oct 2026 00:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora 45 Hits A Second NO-GO: Not Releasing Until November</title>
-      <link>https://www.phoronix.com/news/Fedora-45-Second-NO-GO</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-Second-NO-GO</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 21:20:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Helping To Improve Linux's AMD Zen CPU Microarchitecture Detection</title>
-      <link>https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 19:21:54 GMT</pubDate>
     </item>
     <item>
       <title>Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 21 Oct 2026 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I want to love the Googlebook, but Google's privacy defaults make it impossible</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBhSVVDRVRZMWFrUTBTSDdKTVpvdGd1QldHWEkydEliRkJkTFphdlVUbGZ1VjFZMjg3NENJcF85OGJzRTY0c2VXWDhBc1JNX0ozT0k5SFkyN3Y1dk40VUFrVklpWExMZ0lXSTNob2hvdnpUalYwZHJROE5qUl9VeGR4R1g1aEJ3Tzl6YTNyaUhNTkFNWk1MMEpBbW9VbnRyY1IxNWhyb09uZktY?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBhSVVDRVRZMWFrUTBTSDdKTVpvdGd1QldHWEkydEliRkJkTFphdlVUbGZ1VjFZMjg3NENJcF85OGJzRTY0c2VXWDhBc1JNX0ozT0k5SFkyN3Y1dk40VUFrVklpWExMZ0lXSTNob2hvdnpUalYwZHJROE5qUl9VeGR4R1g1aEJ3Tzl6YTNyaUhNTkFNWk1MMEpBbW9VbnRyY1IxNWhyb09uZktY?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Wed, 21 Oct 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Testing iCloud Drive with Cirrus 1.17</title>
-      <link>https://eclecticlight.co/2026/10/21/testing-icloud-drive-with-cirrus-1-17/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/21/testing-icloud-drive-with-cirrus-1-17/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
