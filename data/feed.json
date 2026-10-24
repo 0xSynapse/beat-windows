@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-24T18:13:04.396Z",
+  "generated": "2026-10-24T20:57:26.744Z",
   "items": [
+    {
+      "title": "MKBHD’s Duo Review",
+      "url": "https://youtu.be/ESABTN4VtrA",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T20:47:28.000Z"
+    },
+    {
+      "title": "SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop & Other Updates",
+      "url": "https://www.phoronix.com/news/SteamOS-3.9.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T18:54:10.000Z"
+    },
     {
       "title": "Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page",
       "url": "https://music.apple.com/404",
@@ -258,14 +274,6 @@
       "date": "2026-10-23T10:20:46.000Z"
     },
     {
-      "title": "Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve",
-      "url": "https://www.phoronix.com/news/Linux-7.4-HID",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T10:09:10.000Z"
-    },
-    {
       "title": "Googlebook features: 7 out-of-sight highlights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5",
       "source": "Computerworld",
@@ -480,14 +488,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-20T13:09:38.000Z"
-    },
-    {
-      "title": "Portraits of trees: Palm",
-      "url": "https://eclecticlight.co/2026/10/20/portraits-of-trees-palm/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-20T11:30:00.000Z"
     },
     {
       "title": "OpenBSD 8.0",

@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:57:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MKBHD’s Duo Review</title>
+      <link>https://youtu.be/ESABTN4VtrA</link>
+      <guid isPermaLink="true">https://youtu.be/ESABTN4VtrA</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 20:47:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop &amp; Other Updates</title>
+      <link>https://www.phoronix.com/news/SteamOS-3.9.5</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SteamOS-3.9.5</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 18:54:10 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
       <link>https://music.apple.com/404</link>
@@ -264,14 +280,6 @@
       <pubDate>Fri, 23 Oct 2026 10:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-HID</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-HID</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 23 Oct 2026 10:09:10 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook features: 7 out-of-sight highlights</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 21 Oct 2026 23:08:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook deserves a little patience: why early launch quirks don’t define its future</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Wed, 21 Oct 2026 16:20:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
