@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-24T14:37:15.975Z",
+  "generated": "2026-10-24T18:13:04.396Z",
   "items": [
+    {
+      "title": "Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page",
+      "url": "https://music.apple.com/404",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T15:50:02.000Z"
+    },
+    {
+      "title": "Chan Karunamuni on the Duo’s Open/Close Translucent Transition",
+      "url": "https://x.com/chan_k/status/2113622379050246243",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T15:03:44.000Z"
+    },
     {
       "title": "Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms",
       "url": "https://www.phoronix.com/news/Linux-7.4-memblock",
@@ -472,22 +488,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-20T11:30:00.000Z"
-    },
-    {
-      "title": "Setting up SSH keys on macOS with Touch ID",
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-20T10:23:58.000Z"
-    },
-    {
-      "title": "How Spotlight indexes in Golden Gate",
-      "url": "https://eclecticlight.co/2026/10/20/how-spotlight-indexes-in-golden-gate/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-20T06:30:00.000Z"
     },
     {
       "title": "OpenBSD 8.0",

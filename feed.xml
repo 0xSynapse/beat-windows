@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:37:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:13:04 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
+      <link>https://music.apple.com/404</link>
+      <guid isPermaLink="true">https://music.apple.com/404</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 15:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chan Karunamuni on the Duo’s Open/Close Translucent Transition</title>
+      <link>https://x.com/chan_k/status/2113622379050246243</link>
+      <guid isPermaLink="true">https://x.com/chan_k/status/2113622379050246243</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 15:03:44 GMT</pubDate>
+    </item>
     <item>
       <title>Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms</title>
       <link>https://www.phoronix.com/news/Linux-7.4-memblock</link>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Wed, 21 Oct 2026 16:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Being an early adopter isn't fun anymore, and two weeks with the ASUS Googlebook 14 was all the proof I needed</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Wed, 21 Oct 2026 15:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag UK</source>
-      <pubDate>Wed, 21 Oct 2026 13:48:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
