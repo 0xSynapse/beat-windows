@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:50:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading</title>
+      <link>https://www.phoronix.com/news/OBS-Studio-33.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OBS-Studio-33.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 23 Oct 2026 23:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>Acer Googlebook 14 Review: A Sorta Fresh Take On The Chromebook Formula</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGE0VFBna0diUExIT3pHcjlmM05sR2swVW9BTE9fU0EtOWFUM1EtaWVsSmp0TFRlci1QQXY3cTBkS1hSV1BZZ2Vpb1N2QVR3VDI4SnEyeXBwOURlSFZmWElLUFJienFQWlJfbQ?oc=5</link>
@@ -246,14 +254,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Thu, 22 Oct 2026 18:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] The end of __get_user() and __put_user()</title>
-      <link>https://lwn.net/Articles/1102061/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102061/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 22 Oct 2026 16:25:50 GMT</pubDate>
     </item>
     <item>
       <title>ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around</title>
