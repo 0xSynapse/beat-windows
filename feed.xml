@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:20:37 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nicole Nguyen’s Duo Review for the WSJ</title>
+      <link>https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 22:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reuters and the WSJ on the Duo Launch</title>
+      <link>https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 22:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marion Barry Meets the iPhone Duo</title>
+      <link>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 24 Oct 2026 21:10:06 GMT</pubDate>
+    </item>
     <item>
       <title>MKBHD’s Duo Review</title>
       <link>https://youtu.be/ESABTN4VtrA</link>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Thu, 22 Oct 2026 06:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Local network privacy is getting better</title>
-      <link>https://eclecticlight.co/2026/10/22/local-network-privacy-is-getting-better/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/22/local-network-privacy-is-getting-better/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 22 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>emulators/wine (re)entering OpenBSD ports</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261022052106</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261022052106</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Thu, 22 Oct 2026 05:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released updates to XProtect and XProtect Remediator</title>
-      <link>https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 21 Oct 2026 23:08:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

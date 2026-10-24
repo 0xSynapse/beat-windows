@@ -1,6 +1,30 @@
 {
-  "generated": "2026-10-24T20:57:26.744Z",
+  "generated": "2026-10-24T23:20:37.782Z",
   "items": [
+    {
+      "title": "Nicole Nguyen’s Duo Review for the WSJ",
+      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T22:15:00.000Z"
+    },
+    {
+      "title": "Reuters and the WSJ on the Duo Launch",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T22:08:17.000Z"
+    },
+    {
+      "title": "Marion Barry Meets the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-24T21:10:06.000Z"
+    },
     {
       "title": "MKBHD’s Duo Review",
       "url": "https://youtu.be/ESABTN4VtrA",
@@ -458,36 +482,12 @@
       "date": "2026-10-21T07:00:00.000Z"
     },
     {
-      "title": "Testing iCloud Drive with Cirrus 1.17",
-      "url": "https://eclecticlight.co/2026/10/21/testing-icloud-drive-with-cirrus-1-17/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-21T06:30:00.000Z"
-    },
-    {
       "title": "Chromebook or Googlebook: Which is the better choice?",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-20T20:00:15.000Z"
-    },
-    {
-      "title": "LogUI 1.2 fixes selection and focus in macOS 27",
-      "url": "https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-20T17:00:00.000Z"
-    },
-    {
-      "title": "[Sponsor] Sunnny",
-      "url": "https://sunnny.com/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-20T13:09:38.000Z"
     },
     {
       "title": "OpenBSD 8.0",
