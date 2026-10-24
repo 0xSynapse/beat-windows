@@ -1,13 +1,29 @@
 {
-  "generated": "2026-10-24T11:11:53.874Z",
+  "generated": "2026-10-24T14:37:15.975Z",
   "items": [
     {
-      "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
-      "url": "https://www.phoronix.com/news/Linux-7.4-MM",
+      "title": "Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms",
+      "url": "https://www.phoronix.com/news/Linux-7.4-memblock",
       "source": "Phoronix",
       "tag": "linux",
       "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T11:05:56.000Z"
+      "date": "2026-10-24T13:00:00.000Z"
+    },
+    {
+      "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jenZpaFZWWXlQOXFqeFZyRlZKUVhwOUlZR3Bfd0xCdkNuSUpTTnFpSGR0ZmhFQWJnbWptYjNQdktyZ2VwamdjN0NxZVZ5TlVrMnZPTWVSYlpfUW9ZWFU2NXowdXc1VlB3c1JxYWtyQ2hvWEVabHpYTw?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "title": "American expatriates: Benjamin West",
+      "url": "https://eclecticlight.co/2026/10/24/american-expatriates-benjamin-west/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-24T11:30:00.000Z"
     },
     {
       "title": "systemd Merges Support For Rust Programs",
@@ -15,7 +31,15 @@
       "source": "Phoronix",
       "tag": "linux",
       "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T10:20:00.000Z"
+      "date": "2026-10-24T11:11:00.000Z"
+    },
+    {
+      "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
+      "url": "https://www.phoronix.com/news/Linux-7.4-MM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T11:05:56.000Z"
     },
     {
       "title": "Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default",
@@ -226,14 +250,6 @@
       "date": "2026-10-23T10:09:10.000Z"
     },
     {
-      "title": "LibreSSL 4.4 Released With Faster SHA3, Bug Fixes",
-      "url": "https://www.phoronix.com/news/LibreSSL-4.4-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T09:55:46.000Z"
-    },
-    {
       "title": "Googlebook features: 7 out-of-sight highlights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5",
       "source": "Computerworld",
@@ -434,14 +450,6 @@
       "date": "2026-10-20T20:00:15.000Z"
     },
     {
-      "title": "Googlebook is trying to be Google's MacBook. It's not there yet.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2o4NDJadHA4ZjhEYTJTdHZHMDlnWW9ST0xacFlxNnYwZUFoUHJta2dzVXZPbVJ4WU15ZkZzZ0VRYjNyajBCWEkwQlZ0VW5GNW9uS2stUTBOTF95aUFNdDRxRWhnNXhjRVdodWV3MzBiQkpVVlpzamZ5ZGpNdzZvblNnXzZzOUFTeGZyT1FXMEtIZFNqT2c0eWJTSjI4YVlRRGZZem94WDZ0R0p0QXNOUmFFXzR2Zw?oc=5",
-      "source": "Yahoo Tech",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-20T18:46:26.000Z"
-    },
-    {
       "title": "LogUI 1.2 fixes selection and focus in macOS 27",
       "url": "https://eclecticlight.co/2026/10/20/logui-1-2-fixes-selection-and-focus-in-macos-27/",
       "source": "Eclectic Light",
@@ -488,14 +496,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-20T01:46:00.000Z"
-    },
-    {
-      "title": "Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar",
-      "url": "https://x.com/BarackObama/status/2111819687524774170",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-20T01:12:26.000Z"
     },
     {
       "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
