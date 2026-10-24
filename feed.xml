@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:58:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 24 Oct 2026 00:56:16 GMT</pubDate>
+    </item>
     <item>
       <title>OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading</title>
       <link>https://www.phoronix.com/news/OBS-Studio-33.0</link>
@@ -246,14 +254,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 22 Oct 2026 18:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modular's MAX Source Code Now Fully Opened, Under New MAX License</title>
-      <link>https://www.phoronix.com/news/Modular-MAX-Complete-Open</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Modular-MAX-Complete-Open</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 22 Oct 2026 18:32:34 GMT</pubDate>
     </item>
     <item>
       <title>ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around</title>

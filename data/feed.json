@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-24T00:50:26.241Z",
+  "generated": "2026-10-24T05:58:42.739Z",
   "items": [
+    {
+      "title": "KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-24T00:56:16.000Z"
+    },
     {
       "title": "OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading",
       "url": "https://www.phoronix.com/news/OBS-Studio-33.0",
@@ -240,14 +248,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-22T18:49:38.000Z"
-    },
-    {
-      "title": "Modular's MAX Source Code Now Fully Opened, Under New MAX License",
-      "url": "https://www.phoronix.com/news/Modular-MAX-Complete-Open",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-22T18:32:34.000Z"
     },
     {
       "title": "ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around",
