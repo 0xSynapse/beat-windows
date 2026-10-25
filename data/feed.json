@@ -1,6 +1,86 @@
 {
-  "generated": "2026-10-25T09:53:02.824Z",
+  "generated": "2026-10-25T14:26:13.911Z",
   "items": [
+    {
+      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Sound",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T14:01:55.000Z"
+    },
+    {
+      "title": "Googlebook Weekly News Recap: October 19–25, 2026",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-25T13:04:16.000Z"
+    },
+    {
+      "title": "American expatriates: James Abbott McNeill Whistler",
+      "url": "https://eclecticlight.co/2026/10/25/american-expatriates-james-abbott-mcneill-whistler/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-25T12:30:00.000Z"
+    },
+    {
+      "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261025115016",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-10-25T11:50:16.000Z"
+    },
+    {
+      "title": "The Googlebook's best feature is the one thing you can't see while you're using it",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVBWNDJUak5hQmcwVlE4MEhfcDNRYzlPZUpkbVJYYlFTdXBucnc5N2RIamVVbWE4T0QxdFd5YXh4b1RjTlJkbTYzSjh3aXowRGNxbGVIN3FOYmV1QV9CbUJ0TmFFSmpEbUMxOE1wWFA3NEVXQlV4QmhSMGJ2akRLYTZ2dVNUWFc4a1RuRDdsNmlad0NHeG85Ql9GamQ0cFZpV0tLRm5rWW1PUQ?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-25T11:30:17.000Z"
+    },
+    {
+      "title": "Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Input",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T10:57:01.000Z"
+    },
+    {
+      "title": "AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed",
+      "url": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T10:42:00.000Z"
+    },
+    {
+      "title": "Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Staging",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T10:27:17.000Z"
+    },
+    {
+      "title": "AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux",
+      "url": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T10:14:00.000Z"
+    },
+    {
+      "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Char-Misc",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T09:59:30.000Z"
+    },
     {
       "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
       "url": "https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/",
@@ -250,54 +330,6 @@
       "date": "2026-10-23T14:59:24.000Z"
     },
     {
-      "title": "oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations",
-      "url": "https://www.phoronix.com/news/oneDNN-3.14-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T14:12:33.000Z"
-    },
-    {
-      "title": "Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 & Intel Rugged Panther Lake",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Power-Management",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T13:51:29.000Z"
-    },
-    {
-      "title": "OpenSSL 4.1 Released With More AVX-512 Optimizations",
-      "url": "https://www.phoronix.com/news/OpenSSL-4.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T13:11:40.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1102546/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-23T13:02:03.000Z"
-    },
-    {
-      "title": "Linux 7.4 Brings Hibernation Improvement For Helping Meet Energy Certifications",
-      "url": "https://www.phoronix.com/news/Linux-7.4-PCI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T12:44:01.000Z"
-    },
-    {
-      "title": "Vulkan 1.4.366 Released With SMPTE ST 2094-50 HDR Support",
-      "url": "https://www.phoronix.com/news/Vulkan-1.4.366",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T11:45:54.000Z"
-    },
-    {
       "title": "Briefly better than Turner: Thomas Girtin",
       "url": "https://eclecticlight.co/2026/10/23/briefly-better-than-turner-thomas-girtin/",
       "source": "Eclectic Light",
@@ -418,22 +450,6 @@
       "date": "2026-10-22T06:30:00.000Z"
     },
     {
-      "title": "emulators/wine (re)entering OpenBSD ports",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261022052106",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-22T05:21:06.000Z"
-    },
-    {
-      "title": "Apple has just released updates to XProtect and XProtect Remediator",
-      "url": "https://eclecticlight.co/2026/10/21/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-20/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-21T23:08:39.000Z"
-    },
-    {
       "title": "Googlebook deserves a little patience: why early launch quirks don’t define its future",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5",
       "source": "Chrome Unboxed",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T10:00:10.000Z"
-    },
-    {
-      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbE91ckdGRzdheXpKMzR2U3NKckxFa3Z1Mklnck9xZmtoaFFtbzdoQi1yc2w4YTBPbGNwdzZ1MTFuZ0xfSW1WZDZQZjhNOGliNUpuajZNN2FiZnplNy0tUGpMZGJMcC1LQWdYUlZzZl83RDhoMkR4TVJ3czBkY0JwYVE1cGNHcUVUbE1jQl93TW44MF9fTWZ5dWNtb0hlSXRBSVUtVUY4NUUyNHM?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "title": "Chromebook or Googlebook: Which is the better choice?",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnRBX2Q3OFpfb2hIajZMeWdvVVFLRXMzQzV4TXpDSXE4dG9MRHVncTJfWmZma3h2Slp1Si1tZ0R5V085a0NGb3owN1BIU21IVnBJSXVta2wtNVJVLU9weEMyN3Y3YVRwZ1NfNmk1bDRpeGtIejBnUnBHY195WXVTSVA2RFE?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-20T20:00:15.000Z"
     },
     {
       "title": "OpenBSD 8.0",
