@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:26:51 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>iPhone Portrait Mode, 10 Years In</title>
+      <link>https://x.com/johnnie/status/2114007844605612167</link>
+      <guid isPermaLink="true">https://x.com/johnnie/status/2114007844605612167</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 25 Oct 2026 18:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook is getting AAC Bluetooth audio and key fixes for Cast My Apps</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Sun, 25 Oct 2026 15:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Wayland Protocol Proposed For VNC/Remote Software</title>
+      <link>https://www.phoronix.com/news/Wayland-ext-transient-output</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wayland-ext-transient-output</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 25 Oct 2026 15:05:18 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Sound Changes Merged: &quot;The AI Flood Continues&quot;</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Sound</link>
@@ -288,6 +312,14 @@
       <pubDate>Fri, 23 Oct 2026 18:54:33 GMT</pubDate>
     </item>
     <item>
+      <title>Google Ends ChromeOS in 2034, Bets on Googlebook OS [2026]</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">shattered.io</source>
+      <pubDate>Fri, 23 Oct 2026 18:12:58 GMT</pubDate>
+    </item>
+    <item>
       <title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
       <link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
       <guid isPermaLink="true">https://www.theverge.com/tech/1015028/iphone-duo-review</guid>
@@ -326,14 +358,6 @@
       <category>android</category>
       <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Fri, 23 Oct 2026 15:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Seeking smaller kernel stacks</title>
-      <link>https://lwn.net/Articles/1100271/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100271/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 23 Oct 2026 14:59:24 GMT</pubDate>
     </item>
     <item>
       <title>Briefly better than Turner: Thomas Girtin</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 22 Oct 2026 18:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Thu, 22 Oct 2026 15:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook laptops impress with premium hardware, but software disappoints</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Mezha.net</source>
-      <pubDate>Thu, 22 Oct 2026 15:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks just aren’t ready</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">The Verge</source>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
