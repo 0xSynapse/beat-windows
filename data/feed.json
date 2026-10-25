@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-24T23:20:37.782Z",
+  "generated": "2026-10-25T04:51:39.107Z",
   "items": [
+    {
+      "title": "Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Block",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-25T00:42:28.000Z"
+    },
     {
       "title": "Nicole Nguyen’s Duo Review for the WSJ",
       "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf",
@@ -290,14 +298,6 @@
       "date": "2026-10-23T11:30:00.000Z"
     },
     {
-      "title": "FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC",
-      "url": "https://www.phoronix.com/news/FFmpeg-9.1-Releasing",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T10:20:46.000Z"
-    },
-    {
       "title": "Googlebook features: 7 out-of-sight highlights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5",
       "source": "Computerworld",
@@ -568,14 +568,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-09-27T14:47:13.000Z"
-    },
-    {
-      "title": "Launching FreeBSD/EC2 desktop AMIs",
-      "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
-      "source": "Lobsters · freebsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/freebsd",
-      "date": "2026-09-25T01:17:51.000Z"
     }
   ]
 }
