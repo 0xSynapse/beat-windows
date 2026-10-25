@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-25T04:51:39.107Z",
+  "generated": "2026-10-25T09:53:02.824Z",
   "items": [
+    {
+      "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
+      "url": "https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-25T08:00:00.000Z"
+    },
     {
       "title": "Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support",
       "url": "https://www.phoronix.com/news/Linux-7.4-Block",
@@ -456,14 +464,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T11:31:15.000Z"
-    },
-    {
-      "title": "Painting a good story: References and timing",
-      "url": "https://eclecticlight.co/2026/10/21/painting-a-good-story-references-and-timing/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-21T11:30:00.000Z"
     },
     {
       "title": "I want to love the Googlebook, but Google's privacy defaults make it impossible",

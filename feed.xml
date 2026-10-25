@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 04:51:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:53:02 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Last Week on My Mac: The Wit and Wisdom of the Log</title>
+      <link>https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Block</link>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Thu, 22 Oct 2026 09:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>examining the macOS gcc binary</title>
-      <link>https://zoey-on-github.github.io/blog/macgcc.html</link>
-      <guid isPermaLink="true">https://zoey-on-github.github.io/blog/macgcc.html</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Thu, 22 Oct 2026 06:45:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
