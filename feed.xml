@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:52:13 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy</title>
+      <link>https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 25 Oct 2026 21:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 25 Oct 2026 19:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 25 Oct 2026 19:03:13 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone Portrait Mode, 10 Years In</title>
       <link>https://x.com/johnnie/status/2114007844605612167</link>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Fri, 23 Oct 2026 07:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Golden Gate may not change focus correctly</title>
-      <link>https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 23 Oct 2026 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo</title>
-      <link>https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 22 Oct 2026 19:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Updates to My iPhone Duo Review</title>
-      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 22 Oct 2026 18:49:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
