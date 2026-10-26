@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-26T00:26:41.324Z",
+  "generated": "2026-10-26T06:21:11.119Z",
   "items": [
+    {
+      "title": "Redox OS Landed Nice Performance Improvements In September",
+      "url": "https://www.phoronix.com/news/Redox-OS-September-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T00:24:45.000Z"
+    },
     {
       "title": "Sunnny",
       "url": "https://sunnny.com/",
@@ -352,14 +360,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-23T16:27:08.000Z"
-    },
-    {
-      "title": "Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding",
-      "url": "https://www.phoronix.com/news/Borealis-Vulkan-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T16:00:38.000Z"
     },
     {
       "title": "Googlebook screen recording may soon get a webcam selfie bubble and live markup tools",

@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:21:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Redox OS Landed Nice Performance Improvements In September</title>
+      <link>https://www.phoronix.com/news/Redox-OS-September-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Redox-OS-September-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 26 Oct 2026 00:24:45 GMT</pubDate>
+    </item>
     <item>
       <title>Sunnny</title>
       <link>https://sunnny.com/</link>
@@ -358,14 +366,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Fri, 23 Oct 2026 16:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Borealis: Asahi Linux's Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding</title>
-      <link>https://www.phoronix.com/news/Borealis-Vulkan-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Borealis-Vulkan-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 23 Oct 2026 16:00:38 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook screen recording may soon get a webcam selfie bubble and live markup tools</title>
