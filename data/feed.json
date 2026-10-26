@@ -1,6 +1,118 @@
 {
-  "generated": "2026-10-26T06:21:11.119Z",
+  "generated": "2026-10-26T14:21:36.819Z",
   "items": [
+    {
+      "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
+      "url": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T13:55:24.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1102946/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-26T13:12:04.000Z"
+    },
+    {
+      "title": "Googlebooks could soon get much better at letting you pick up where you left off",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T13:04:38.000Z"
+    },
+    {
+      "title": "Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly",
+      "url": "https://www.phoronix.com/news/Linux-7.4-EFI",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T12:54:13.000Z"
+    },
+    {
+      "title": "Googlebook OS Update Adds AAC Audio and Fixes 3 Launch Bugs",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbURfR1hkVWM1dUNGSGo1UVBINGpyNm5DUFA2NFQ3N25VQ1RfakNRdzR4ZFpRRG5qU3gzVm5KR1BaYkVwUUc0cjNyVTMyTUx0NENNOVBMM2xfdDAwLTFBQ19MVno?oc=5",
+      "source": "Techaeris",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T12:40:21.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Orestes murders his mother",
+      "url": "https://eclecticlight.co/2026/10/26/hero-or-hooligan-orestes-murders-his-mother/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-26T12:30:00.000Z"
+    },
+    {
+      "title": "Nouveau-DKMS Aims For Better NVIDIA Open-Source Experience On Old GPUs",
+      "url": "https://www.phoronix.com/news/Nouveau-DKMS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T12:24:01.000Z"
+    },
+    {
+      "title": "Linux 7.4 Begins Employing New \"Core MM\" Tree",
+      "url": "https://www.phoronix.com/news/Linux-Core-MM-Tree",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T11:42:27.000Z"
+    },
+    {
+      "title": "Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling",
+      "url": "https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T10:22:28.000Z"
+    },
+    {
+      "title": "Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs",
+      "url": "https://www.phoronix.com/news/Moxnox-OS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T10:04:34.000Z"
+    },
+    {
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-26T09:58:55.000Z"
+    },
+    {
+      "title": "EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes",
+      "url": "https://www.phoronix.com/news/Linux-7.4-EXT4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T09:53:55.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 383",
+      "url": "https://eclecticlight.co/2026/10/26/solutions-to-saturday-mac-riddles-383/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-26T09:00:00.000Z"
+    },
+    {
+      "title": "How free space has been changing, with an update to DeltaFree",
+      "url": "https://eclecticlight.co/2026/10/26/how-free-space-has-been-changing-with-an-update-to-deltafree/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-26T07:30:00.000Z"
+    },
     {
       "title": "Redox OS Landed Nice Performance Improvements In September",
       "url": "https://www.phoronix.com/news/Redox-OS-September-2026",
@@ -242,36 +354,12 @@
       "date": "2026-10-24T11:11:00.000Z"
     },
     {
-      "title": "539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON",
-      "url": "https://www.phoronix.com/news/Linux-7.4-MM",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T11:05:56.000Z"
-    },
-    {
-      "title": "Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default",
-      "url": "https://www.phoronix.com/news/Wild-0.11-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T10:12:15.000Z"
-    },
-    {
       "title": "Wild version 0.11.0 released",
       "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-24T10:11:35.000Z"
-    },
-    {
-      "title": "Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T10:00:00.000Z"
     },
     {
       "title": "Saturday Mac riddles 383",
@@ -290,36 +378,12 @@
       "date": "2026-10-24T07:00:00.000Z"
     },
     {
-      "title": "KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T00:56:16.000Z"
-    },
-    {
-      "title": "OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading",
-      "url": "https://www.phoronix.com/news/OBS-Studio-33.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T23:15:47.000Z"
-    },
-    {
       "title": "Acer Googlebook 14 Review: A Sorta Fresh Take On The Chromebook Formula",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGE0VFBna0diUExIT3pHcjlmM05sR2swVW9BTE9fU0EtOWFUM1EtaWVsSmp0TFRlci1QQXY3cTBkS1hSV1BZZ2Vpb1N2QVR3VDI4SnEyeXBwOURlSFZmWElLUFJienFQWlJfbQ?oc=5",
       "source": "SlashGear",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-23T20:43:07.000Z"
-    },
-    {
-      "title": "Linux 7.4 Merges Slab Updates With A Nice Performance Improvement",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Slab-Updates",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T20:27:50.000Z"
     },
     {
       "title": "How to silence Googlebook mirrored phone notifications without turning off sync",
@@ -330,36 +394,12 @@
       "date": "2026-10-23T19:31:13.000Z"
     },
     {
-      "title": "[$] The first part of the 7.4 merge window",
-      "url": "https://lwn.net/Articles/1101211/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-23T18:54:33.000Z"
-    },
-    {
       "title": "Google Ends ChromeOS in 2034, Bets on Googlebook OS [2026]",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUW1mdm1XRjd1b3pmRHZ4Z2tmQkVZMXhVallRR0pOVWZfUzctVjlmbmJPR1hKb1BldWlXaEl4UHN0MVdEVmpfQTF4dkt0Q0x3bDU5ZmhqRVhNaFZqMU9KemFNTzhtZ3U0WGx6QXRNTnBHbGw2?oc=5",
       "source": "shattered.io",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-23T18:12:58.000Z"
-    },
-    {
-      "title": "The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’",
-      "url": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-23T16:52:56.000Z"
-    },
-    {
-      "title": "HPFS Is The Latest File-System Facing Possible Removal On Linux",
-      "url": "https://www.phoronix.com/news/HPFS-For-Linux-Removal",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-23T16:27:08.000Z"
     },
     {
       "title": "Googlebook screen recording may soon get a webcam selfie bubble and live markup tools",
@@ -378,14 +418,6 @@
       "date": "2026-10-23T15:01:53.000Z"
     },
     {
-      "title": "Briefly better than Turner: Thomas Girtin",
-      "url": "https://eclecticlight.co/2026/10/23/briefly-better-than-turner-thomas-girtin/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-23T11:30:00.000Z"
-    },
-    {
       "title": "Googlebook features: 7 out-of-sight highlights",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rRXpmTWJHbWVYZktLTGQ3cjZGYVI5OTlWNGRwRlI2VkpzNGRITnRTbFV4Sy1wQTJzY0tNMmViV21SNWExNklpMTZfWU41R0hJTDZ5djNZQV9fdFd5V1ZuZ1RkWmpHVlVIY1dadXg0eDRpeUlYckN2YllB?oc=5",
       "source": "Computerworld",
@@ -400,22 +432,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-23T07:49:00.000Z"
-    },
-    {
-      "title": "Why Golden Gate may not change focus correctly",
-      "url": "https://eclecticlight.co/2026/10/23/why-golden-gate-may-not-change-focus-correctly/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-23T06:30:00.000Z"
-    },
-    {
-      "title": "Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo",
-      "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-22T19:10:10.000Z"
     },
     {
       "title": "ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-21T16:20:21.000Z"
-    },
-    {
-      "title": "Being an early adopter isn't fun anymore, and two weeks with the ASUS Googlebook 14 was all the proof I needed",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQaVRMQ1BhRDFqdmFQYm5NS2NQbkNPUk1vVzhfcmJ4LUd2Z1RnMDV0aVdwd204c2pPbmZHd2dMNEc0OVN4WldHNjJEbnQxOGpBTWQ5dklhaUxJNnVIUVdhdXl3?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-21T15:30:15.000Z"
-    },
-    {
-      "title": "Are Googlebooks Right for You? I Tried Every One of Google's Android Laptops",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlpHY21DSzc0aEpIUDY4Z09pb1I5QXVvSjg0S1B5aTFpYUl0dWZpc3dua3JtQ2daY1ZKbHNXN1d5YktocTJ3M1NjRFJtMnNtX2hWb0puVy04STMwTU9teldrbC1vaE1aUGpIai01TUU4dkViOTFSSFBrT0lrWHVhdDNEVnRyY2lpT1ZDWWpBaURHeDVhVnZHVnBfcjgtREpORFpIRnVFUjNSQnRFenRZ?oc=5",
-      "source": "PCMag UK",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-21T13:48:18.000Z"
     },
     {
       "title": "OpenBSD 8.0",
