@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:26:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 25 Oct 2026 21:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy</title>
       <link>https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</link>
@@ -14,14 +22,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 25 Oct 2026 21:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 25 Oct 2026 19:08:05 GMT</pubDate>
     </item>
     <item>
       <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
