@@ -1,6 +1,134 @@
 {
-  "generated": "2026-10-26T14:21:36.819Z",
+  "generated": "2026-10-26T20:34:02.819Z",
   "items": [
+    {
+      "title": "Glenn Fleishman on Apple Notes and Markdown",
+      "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-26T20:03:53.000Z"
+    },
+    {
+      "title": "Googlebook OS is finally getting one of my favorite ChromeOS features",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMml4bEJJY3JGMlhZWWJIRTBIZWswQndYX2ZSYldLUnpWSmZJQWFDS3lfY2V4QTBuZHIzRVROQU5WUTFDODNZVkFqbVB5R290VzhRNVJuek40akxoeFp3WUZIb1RHY05HTXIyZG9MV2I4dGtPeFZWNXowaVlTb0NFZnlPeE0zOE9NOUxwaW1jZzlERGg3NG44MGNmbHQ?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T20:00:39.000Z"
+    },
+    {
+      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
+      "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-10-26T19:58:11.000Z"
+    },
+    {
+      "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
+      "url": "https://www.phoronix.com/news/KMSCON-10.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T19:17:21.000Z"
+    },
+    {
+      "title": "Apple has just released updates to Golden Gate 27.2, 26.7.2. and 15.8.2",
+      "url": "https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-26T18:14:37.000Z"
+    },
+    {
+      "title": "★ Apple Announces New A20 Pro iPad Mini",
+      "url": "https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-26T18:04:34.000Z"
+    },
+    {
+      "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Media",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T17:48:22.000Z"
+    },
+    {
+      "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
+      "url": "https://www.phoronix.com/news/KDE-KWin-Type",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T17:11:02.000Z"
+    },
+    {
+      "title": "A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It",
+      "url": "https://x.com/viticci/status/2113888099784638932",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-26T17:00:11.000Z"
+    },
+    {
+      "title": "Dell XPS Googlebook Review: Great Hardware Paying for Google's Beta Test",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eHVEejNDTmw5c0g5RWxONEluSm5kTk5mdFgzUUJMX0pfcHY2MUtZY0lmNmZCMDVsZU5YUlhvZFFWcXRZcGVRSHlOOHp1UjhNWDVCdlU2c2JGV1hTMFBDSUt4cWZHZTF6MmFN?oc=5",
+      "source": "Android Headlines",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T16:13:11.000Z"
+    },
+    {
+      "title": "[$] Python's experimental JIT to be removed",
+      "url": "https://lwn.net/Articles/1102102/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-26T15:45:58.000Z"
+    },
+    {
+      "title": "Two stable kernels for Monday",
+      "url": "https://lwn.net/Articles/1102973/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-26T15:45:34.000Z"
+    },
+    {
+      "title": "Systemd adds support for components written in Rust",
+      "url": "https://lwn.net/Articles/1102970/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-26T15:13:59.000Z"
+    },
+    {
+      "title": "Tiny Computers for iPhone Duo",
+      "url": "https://www.fountaininteractive.com/TinyComputers/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-26T15:04:10.000Z"
+    },
+    {
+      "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs",
+      "url": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T14:28:59.000Z"
+    },
+    {
+      "title": "Googlebooks could soon get much better at letting you pick up where you left off",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T13:59:00.000Z"
+    },
     {
       "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
       "url": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
@@ -18,14 +146,6 @@
       "date": "2026-10-26T13:12:04.000Z"
     },
     {
-      "title": "Googlebooks could soon get much better at letting you pick up where you left off",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T13:04:38.000Z"
-    },
-    {
       "title": "Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly",
       "url": "https://www.phoronix.com/news/Linux-7.4-EFI",
       "source": "Phoronix",
@@ -34,7 +154,7 @@
       "date": "2026-10-26T12:54:13.000Z"
     },
     {
-      "title": "Googlebook OS Update Adds AAC Audio and Fixes 3 Launch Bugs",
+      "title": "Googlebook OS Update Adds AAC Audio and Fixes Three Launch Bugs",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbURfR1hkVWM1dUNGSGo1UVBINGpyNm5DUFA2NFQ3N25VQ1RfakNRdzR4ZFpRRG5qU3gzVm5KR1BaYkVwUUc0cjNyVTMyTUx0NENNOVBMM2xfdDAwLTFBQ19MVno?oc=5",
       "source": "Techaeris",
       "tag": "android",
@@ -112,6 +232,14 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-26T07:30:00.000Z"
+    },
+    {
+      "title": "Two Weeks with Googlebook as My Daily Driver: The Reality and the Challenges",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sU2l3cFFoSDVxQWloVjdxWVVac2lNcVhDLURyN09jRXU1Q1Rsc05NUEtkRE5ERk1kcVYzeXoyd1FObkNIaU9zZkdDOTZfUWtINzhyX2hFY1dzRTBKQTlua2xFb3BYOF8zZzNwNUJqXzcwaUljcnZEUWExMA?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T05:05:21.000Z"
     },
     {
       "title": "Redox OS Landed Nice Performance Improvements In September",
@@ -226,44 +354,12 @@
       "date": "2026-10-25T10:42:00.000Z"
     },
     {
-      "title": "Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Staging",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T10:27:17.000Z"
-    },
-    {
-      "title": "AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux",
-      "url": "https://www.phoronix.com/news/AMD-600-Series-Linux-Temp",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T10:14:00.000Z"
-    },
-    {
-      "title": "Google's C Binder Driver Removed With Rust Binder Ready For \"Few Billion Devices\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Char-Misc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T09:59:30.000Z"
-    },
-    {
       "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
       "url": "https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-25T08:00:00.000Z"
-    },
-    {
-      "title": "Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Block",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T00:42:28.000Z"
     },
     {
       "title": "Nicole Nguyen’s Duo Review for the WSJ",
@@ -298,14 +394,6 @@
       "date": "2026-10-24T20:47:28.000Z"
     },
     {
-      "title": "SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop & Other Updates",
-      "url": "https://www.phoronix.com/news/SteamOS-3.9.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T18:54:10.000Z"
-    },
-    {
       "title": "Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page",
       "url": "https://music.apple.com/404",
       "source": "Daring Fireball",
@@ -314,68 +402,12 @@
       "date": "2026-10-24T15:50:02.000Z"
     },
     {
-      "title": "Chan Karunamuni on the Duo’s Open/Close Translucent Transition",
-      "url": "https://x.com/chan_k/status/2113622379050246243",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T15:03:44.000Z"
-    },
-    {
-      "title": "Linux's Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms",
-      "url": "https://www.phoronix.com/news/Linux-7.4-memblock",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T13:00:00.000Z"
-    },
-    {
       "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jenZpaFZWWXlQOXFqeFZyRlZKUVhwOUlZR3Bfd0xCdkNuSUpTTnFpSGR0ZmhFQWJnbWptYjNQdktyZ2VwamdjN0NxZVZ5TlVrMnZPTWVSYlpfUW9ZWFU2NXowdXc1VlB3c1JxYWtyQ2hvWEVabHpYTw?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "title": "American expatriates: Benjamin West",
-      "url": "https://eclecticlight.co/2026/10/24/american-expatriates-benjamin-west/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-24T11:30:00.000Z"
-    },
-    {
-      "title": "systemd Merges Support For Rust Programs",
-      "url": "https://www.phoronix.com/news/systemd-Merges-Rust-Programs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-24T11:11:00.000Z"
-    },
-    {
-      "title": "Wild version 0.11.0 released",
-      "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-24T10:11:35.000Z"
-    },
-    {
-      "title": "Saturday Mac riddles 383",
-      "url": "https://eclecticlight.co/2026/10/24/saturday-mac-riddles-383/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-24T08:00:00.000Z"
-    },
-    {
-      "title": "Reviewing the Desktop metaphor",
-      "url": "https://eclecticlight.co/2026/10/24/reviewing-the-desktop-metaphor/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-24T07:00:00.000Z"
     },
     {
       "title": "Acer Googlebook 14 Review: A Sorta Fresh Take On The Chromebook Formula",
@@ -456,38 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "title": "I Asked Gemini to Run My Googlebook. It Told Me to Do It Myself",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDRLYkRPSmFOVHluYXg2WWNBWkVwdXdzNXFTWkVReWY3MlRqNWQtZmxWRmxLZXpJNFlrOXZIYWtNWTQ1Qkd4ZUZXVk5jZl9rUFZUWXNrdGN3WFNaVE1MOGxLSFRhYWNhYjNwXzhNVmtyZDZwcU1rc2xKWG9VcTNVSnpZV0dhZlI2bWstc2w3eGNaRHJSTDF0NTZ4SVk2eUk?oc=5",
-      "source": "PCMag UK",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T12:48:11.000Z"
-    },
-    {
-      "title": "Web apps are still better than Android apps on Googlebooks",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFBERWRsWlJOSjBCSU1SblIzcHAtRGFleFN0X1dJSDVLOTJLb1oxNG1BRmpXS2xnMjJIUVhVZmtCYXkwT1NSRjhyeHRwNmpsQ2RKaThtUHNiZUI4Rk9iZmpHWTluZzFiQTFRVmRQWEtkNTJXTWZuM0d2TjR6bG5YWDlGS3dyVGY5cFV6OWp3?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T12:00:16.000Z"
-    },
-    {
-      "title": "Googlebook OS Early Reviews Reveal App and Gemini Problems",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjZuMkNmLTk1b0VxeE5MNjVSMzlWeEJSVWd1UzUwY24yOXJDVW5mZ3VacjRLSVFuak80R1h3emZQMEo0WmptQnZtSTM5ZVJMSGxkSnhhYk5GNm8zcnI4SDZQT05Yc2Q2MXZmdXlWV3MxVVRUQk1pZ2owQmsxenRuM1FmWE10Z0lkTVdv?oc=5",
-      "source": "TechRepublic",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T09:45:13.000Z"
-    },
-    {
-      "title": "Googlebook deserves a little patience: why early launch quirks don’t define its future",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDNuUEg4eWpxN29YZEc0VUNURzE3RVpoMFhRRDZXbDF1NjMyV2dQTzA1ZkswWWJkSFdxRGhBWGtXZXlRLXM3Smo1bDZXT3c4Vk5QZEdEU2d3TTVjV2VlTlRzclFVWjZlRlAwRkdIeUttUGVacVVXdWdkb3kzZ3RieWd0VVpXQ00zQTRWd241d1A2bFBCenVmWTlvV1hjZEhvVk1ITzRpeDA5TnNVNFhPcA?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-21T16:20:21.000Z"
     },
     {
       "title": "OpenBSD 8.0",
