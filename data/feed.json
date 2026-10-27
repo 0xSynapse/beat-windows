@@ -1,6 +1,110 @@
 {
-  "generated": "2026-10-27T13:18:34.956Z",
+  "generated": "2026-10-27T19:28:55.582Z",
   "items": [
+    {
+      "title": "Hardening a shared Linux host against cache covert channels",
+      "url": "https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-27T19:14:01.000Z"
+    },
+    {
+      "title": "Robinson: Raspberry Pi 5 on Fedora",
+      "url": "https://lwn.net/Articles/1103212/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-27T18:11:48.000Z"
+    },
+    {
+      "title": "What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks",
+      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T17:59:47.000Z"
+    },
+    {
+      "title": "KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives",
+      "url": "https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T16:50:22.000Z"
+    },
+    {
+      "title": "Apple Also Announces iMac With M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T16:44:10.000Z"
+    },
+    {
+      "title": "Filian, Fil-C binaries on Debian",
+      "url": "https://cr.yp.to/2025/fil-c.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-27T16:42:17.000Z"
+    },
+    {
+      "title": "Googlebook should have been framed as the Chromebook successor, not a MacBook rival",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-27T16:26:46.000Z"
+    },
+    {
+      "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
+      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T16:03:08.000Z"
+    },
+    {
+      "title": "Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T16:00:46.000Z"
+    },
+    {
+      "title": "[$] Guidelines for panics in kernel code",
+      "url": "https://lwn.net/Articles/1100873/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-27T13:56:24.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1103188/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-27T13:37:48.000Z"
+    },
+    {
+      "title": "Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney",
+      "url": "https://www.phoronix.com/news/Pavee-OS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T13:11:30.000Z"
+    },
+    {
+      "title": "Googlebook Can Now Install Pixel Weather App with Desktop Widgets",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-27T13:09:15.000Z"
+    },
     {
       "title": "KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes",
       "url": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
@@ -218,22 +322,6 @@
       "date": "2026-10-26T15:45:58.000Z"
     },
     {
-      "title": "Two stable kernels for Monday",
-      "url": "https://lwn.net/Articles/1102973/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-26T15:45:34.000Z"
-    },
-    {
-      "title": "Systemd adds support for components written in Rust",
-      "url": "https://lwn.net/Articles/1102970/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-26T15:13:59.000Z"
-    },
-    {
       "title": "Tiny Computers for iPhone Duo",
       "url": "https://www.fountaininteractive.com/TinyComputers/",
       "source": "Daring Fireball",
@@ -242,44 +330,12 @@
       "date": "2026-10-26T15:04:10.000Z"
     },
     {
-      "title": "Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs",
-      "url": "https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T14:28:59.000Z"
-    },
-    {
       "title": "Googlebooks could soon get much better at letting you pick up where you left off",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T13:59:00.000Z"
-    },
-    {
-      "title": "Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T13:55:24.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1102946/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-26T13:12:04.000Z"
-    },
-    {
-      "title": "Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly",
-      "url": "https://www.phoronix.com/news/Linux-7.4-EFI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T12:54:13.000Z"
     },
     {
       "title": "Googlebook OS Update Adds AAC Audio and Fixes Three Launch Bugs",
@@ -296,14 +352,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-26T12:30:00.000Z"
-    },
-    {
-      "title": "Nouveau-DKMS Aims For Better NVIDIA Open-Source Experience On Old GPUs",
-      "url": "https://www.phoronix.com/news/Nouveau-DKMS",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T12:24:01.000Z"
     },
     {
       "title": "About the compromised eMudhra intermediate CAs",
@@ -354,22 +402,6 @@
       "date": "2026-10-25T21:47:57.000Z"
     },
     {
-      "title": "The Talk Show: ‘Lubricate the Inside of the Hinge’",
-      "url": "https://daringfireball.net/thetalkshow/2026/10/25/ep-456",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-25T19:03:13.000Z"
-    },
-    {
-      "title": "iPhone Portrait Mode, 10 Years In",
-      "url": "https://x.com/johnnie/status/2114007844605612167",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-25T18:09:19.000Z"
-    },
-    {
       "title": "Googlebook is getting AAC Bluetooth audio and key fixes for Cast My Apps",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5",
       "source": "Chrome Unboxed",
@@ -386,14 +418,6 @@
       "date": "2026-10-25T13:04:16.000Z"
     },
     {
-      "title": "American expatriates: James Abbott McNeill Whistler",
-      "url": "https://eclecticlight.co/2026/10/25/american-expatriates-james-abbott-mcneill-whistler/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-25T12:30:00.000Z"
-    },
-    {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
       "url": "https://undeadly.org/cgi?action=article;sid=20261025115016",
       "source": "undeadly",
@@ -408,14 +432,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-25T11:30:17.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
-      "url": "https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-25T08:00:00.000Z"
     },
     {
       "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-23T09:50:09.000Z"
-    },
-    {
-      "title": "Google is tackling three Googlebook headaches before they become migraines",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2YwTnlBVTU1OFJMVVB6ZG9PUW9CanR3bko3TDNoZkRZSVNldzBVdEY4a2xqamFqY3lkeUZ1Q1hYc25aVDFPQUMyd1FSd2M1eGY5MlFya3RMTUVjdXM2M3B1azRxWkFxMVdKM2UwVTkySWxzSXJWQkNCdVN0Vk1yMmhwOW9wbHFyNHZnci0xQ2ZET0xaY25JUTVEUQ?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-23T07:49:00.000Z"
-    },
-    {
-      "title": "ASUS Googlebook 14 unboxing: a rigid 2-pound laptop that impresses all around",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0FMdGtUVGc0bFF3aDdFTWl2RTZvQVM1T3I2UmtUZFJNUG8yTkU3Y0JSd3lyejQ1QW9DS19RLUtpQmdpZVU0VFZTd0pIY0NYS0pyVkRfTzl1UVVFZ045YWZSRlNibkZ1ZlZuNzZTb19GTk1Kek9VY0N1ZDJ6MldDdmNFM0VuZVJjS0lUTVc1NUFxLW5KNUc3dEQ5YXZkcm1SOFNOUUln?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T15:45:07.000Z"
     },
     {
       "title": "OpenBSD 8.0",
@@ -560,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-09-28T16:14:23.000Z"
-    },
-    {
-      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
-      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-09-27T14:47:13.000Z"
     }
   ]
 }

@@ -5,8 +5,112 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:28:55 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hardening a shared Linux host against cache covert channels</title>
+      <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
+      <guid isPermaLink="true">https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 27 Oct 2026 19:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robinson: Raspberry Pi 5 on Fedora</title>
+      <link>https://lwn.net/Articles/1103212/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103212/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 27 Oct 2026 18:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
+      <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 17:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives</title>
+      <link>https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 16:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Also Announces iMac With M6</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 16:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Filian, Fil-C binaries on Debian</title>
+      <link>https://cr.yp.to/2025/fil-c.html</link>
+      <guid isPermaLink="true">https://cr.yp.to/2025/fil-c.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 27 Oct 2026 16:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook should have been framed as the Chromebook successor, not a MacBook rival</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Tue, 27 Oct 2026 16:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 16:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 16:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Guidelines for panics in kernel code</title>
+      <link>https://lwn.net/Articles/1100873/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100873/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 27 Oct 2026 13:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Tuesday</title>
+      <link>https://lwn.net/Articles/1103188/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103188/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 27 Oct 2026 13:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney</title>
+      <link>https://www.phoronix.com/news/Pavee-OS</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Pavee-OS</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 13:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Can Now Install Pixel Weather App with Desktop Widgets</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Tue, 27 Oct 2026 13:09:15 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes</title>
       <link>https://www.phoronix.com/news/KDE-Plasma-6.8.2</link>
@@ -224,22 +328,6 @@
       <pubDate>Mon, 26 Oct 2026 15:45:58 GMT</pubDate>
     </item>
     <item>
-      <title>Two stable kernels for Monday</title>
-      <link>https://lwn.net/Articles/1102973/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102973/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 26 Oct 2026 15:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Systemd adds support for components written in Rust</title>
-      <link>https://lwn.net/Articles/1102970/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102970/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 26 Oct 2026 15:13:59 GMT</pubDate>
-    </item>
-    <item>
       <title>Tiny Computers for iPhone Duo</title>
       <link>https://www.fountaininteractive.com/TinyComputers/</link>
       <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
@@ -248,44 +336,12 @@
       <pubDate>Mon, 26 Oct 2026 15:04:10 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa 27.0 Switching To Kraid Compiler By Default For Arm Mali GPUs</title>
-      <link>https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-27.0-Goes-Kraid</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 14:28:59 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebooks could soon get much better at letting you pick up where you left off</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Mon, 26 Oct 2026 13:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapdragon X1 Elite / Acer Swift 14 AI Performance On The Ubuntu 26.10 X1E Concept</title>
-      <link>https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-snapdragon-x1e</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 13:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Monday</title>
-      <link>https://lwn.net/Articles/1102946/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102946/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 26 Oct 2026 13:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-EFI</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-EFI</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 12:54:13 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook OS Update Adds AAC Audio and Fixes Three Launch Bugs</title>
@@ -302,14 +358,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 26 Oct 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nouveau-DKMS Aims For Better NVIDIA Open-Source Experience On Old GPUs</title>
-      <link>https://www.phoronix.com/news/Nouveau-DKMS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Nouveau-DKMS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 12:24:01 GMT</pubDate>
     </item>
     <item>
       <title>About the compromised eMudhra intermediate CAs</title>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sun, 25 Oct 2026 21:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 25 Oct 2026 19:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone Portrait Mode, 10 Years In</title>
-      <link>https://x.com/johnnie/status/2114007844605612167</link>
-      <guid isPermaLink="true">https://x.com/johnnie/status/2114007844605612167</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 25 Oct 2026 18:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook is getting AAC Bluetooth audio and key fixes for Cast My Apps</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Sun, 25 Oct 2026 15:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Weekly News Recap: October 19–25, 2026</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">gbookhub.io</source>
-      <pubDate>Sun, 25 Oct 2026 13:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>American expatriates: James Abbott McNeill Whistler</title>
-      <link>https://eclecticlight.co/2026/10/25/american-expatriates-james-abbott-mcneill-whistler/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/25/american-expatriates-james-abbott-mcneill-whistler/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 25 Oct 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreSSL 4.4.0, 4.3.4, 4.2.3 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261025115016</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261025115016</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sun, 25 Oct 2026 11:50:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
