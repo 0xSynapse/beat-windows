@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:49:24 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Siri AI Expands to More Languages in OS 27.2</title>
+      <link>https://nr.apple.com/Du9G9W8Nq1</link>
+      <guid isPermaLink="true">https://nr.apple.com/Du9G9W8Nq1</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 22:19:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 22:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ Prestructured WYSIWYG</title>
+      <link>https://daringfireball.net/2026/10/prestructured_wysiwyg</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/prestructured_wysiwyg</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 21:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring</title>
+      <link>https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 21:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixing KIO copy to USB stick and network filesystems</title>
+      <link>https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/</link>
+      <guid isPermaLink="true">https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 27 Oct 2026 20:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The next circle of security hell</title>
+      <link>https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</link>
+      <guid isPermaLink="true">https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Tue, 27 Oct 2026 20:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Zero 3 W &amp; Raspberry Pi 4 Model A Surface In Linux Kernel Patches</title>
+      <link>https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 19:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>Hardening a shared Linux host against cache covert channels</title>
       <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
@@ -264,14 +320,6 @@
       <pubDate>Mon, 26 Oct 2026 19:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>KMSCON 10.1 Released With Support For Per-Monitor Configurations</title>
-      <link>https://www.phoronix.com/news/KMSCON-10.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KMSCON-10.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 19:17:21 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple has just released updates to Golden Gate 27.2, 26.7.2. and 15.8.2</title>
       <link>https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/</guid>
@@ -288,22 +336,6 @@
       <pubDate>Mon, 26 Oct 2026 18:04:34 GMT</pubDate>
     </item>
     <item>
-      <title>Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Media</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Media</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 17:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text</title>
-      <link>https://www.phoronix.com/news/KDE-KWin-Type</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-KWin-Type</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 17:11:02 GMT</pubDate>
-    </item>
-    <item>
       <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
       <link>https://x.com/viticci/status/2113888099784638932</link>
       <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
@@ -318,14 +350,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Headlines</source>
       <pubDate>Mon, 26 Oct 2026 16:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Python's experimental JIT to be removed</title>
-      <link>https://lwn.net/Articles/1102102/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102102/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 26 Oct 2026 15:45:58 GMT</pubDate>
     </item>
     <item>
       <title>Tiny Computers for iPhone Duo</title>
@@ -376,36 +400,12 @@
       <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>How free space has been changing, with an update to DeltaFree</title>
-      <link>https://eclecticlight.co/2026/10/26/how-free-space-has-been-changing-with-an-update-to-deltafree/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/26/how-free-space-has-been-changing-with-an-update-to-deltafree/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 26 Oct 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Two Weeks with Googlebook as My Daily Driver: The Reality and the Challenges</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1sU2l3cFFoSDVxQWloVjdxWVVac2lNcVhDLURyN09jRXU1Q1Rsc05NUEtkRE5ERk1kcVYzeXoyd1FObkNIaU9zZkdDOTZfUWtINzhyX2hFY1dzRTBKQTlua2xFb3BYOF8zZzNwNUJqXzcwaUljcnZEUWExMA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE1sU2l3cFFoSDVxQWloVjdxWVVac2lNcVhDLURyN09jRXU1Q1Rsc05NUEtkRE5ERk1kcVYzeXoyd1FObkNIaU9zZkdDOTZfUWtINzhyX2hFY1dzRTBKQTlua2xFb3BYOF8zZzNwNUJqXzcwaUljcnZEUWExMA?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Mon, 26 Oct 2026 05:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 25 Oct 2026 21:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy</title>
-      <link>https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 25 Oct 2026 21:47:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

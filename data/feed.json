@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-27T19:28:55.582Z",
+  "generated": "2026-10-27T23:49:24.826Z",
   "items": [
+    {
+      "title": "Siri AI Expands to More Languages in OS 27.2",
+      "url": "https://nr.apple.com/Du9G9W8Nq1",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T22:19:39.000Z"
+    },
+    {
+      "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T22:00:04.000Z"
+    },
+    {
+      "title": "★ Prestructured WYSIWYG",
+      "url": "https://daringfireball.net/2026/10/prestructured_wysiwyg",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T21:24:20.000Z"
+    },
+    {
+      "title": "Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring",
+      "url": "https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T21:09:43.000Z"
+    },
+    {
+      "title": "Fixing KIO copy to USB stick and network filesystems",
+      "url": "https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-27T20:12:39.000Z"
+    },
+    {
+      "title": "The next circle of security hell",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-27T20:10:56.000Z"
+    },
+    {
+      "title": "Raspberry Pi Zero 3 W & Raspberry Pi 4 Model A Surface In Linux Kernel Patches",
+      "url": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T19:53:34.000Z"
+    },
     {
       "title": "Hardening a shared Linux host against cache covert channels",
       "url": "https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/",
@@ -258,14 +314,6 @@
       "date": "2026-10-26T19:58:11.000Z"
     },
     {
-      "title": "KMSCON 10.1 Released With Support For Per-Monitor Configurations",
-      "url": "https://www.phoronix.com/news/KMSCON-10.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T19:17:21.000Z"
-    },
-    {
       "title": "Apple has just released updates to Golden Gate 27.2, 26.7.2. and 15.8.2",
       "url": "https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/",
       "source": "Eclectic Light",
@@ -282,22 +330,6 @@
       "date": "2026-10-26T18:04:34.000Z"
     },
     {
-      "title": "Intel IPU8 Support Upstreamed In Linux 7.4 For Nova Lake Laptops",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Media",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T17:48:22.000Z"
-    },
-    {
-      "title": "KWin-Type Introduced To Address KDE Wayland Usability Gap For Auto-Typing Text",
-      "url": "https://www.phoronix.com/news/KDE-KWin-Type",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T17:11:02.000Z"
-    },
-    {
       "title": "A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It",
       "url": "https://x.com/viticci/status/2113888099784638932",
       "source": "Daring Fireball",
@@ -312,14 +344,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T16:13:11.000Z"
-    },
-    {
-      "title": "[$] Python's experimental JIT to be removed",
-      "url": "https://lwn.net/Articles/1102102/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-26T15:45:58.000Z"
     },
     {
       "title": "Tiny Computers for iPhone Duo",
@@ -370,36 +394,12 @@
       "date": "2026-10-26T09:00:00.000Z"
     },
     {
-      "title": "How free space has been changing, with an update to DeltaFree",
-      "url": "https://eclecticlight.co/2026/10/26/how-free-space-has-been-changing-with-an-update-to-deltafree/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-26T07:30:00.000Z"
-    },
-    {
       "title": "Two Weeks with Googlebook as My Daily Driver: The Reality and the Challenges",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sU2l3cFFoSDVxQWloVjdxWVVac2lNcVhDLURyN09jRXU1Q1Rsc05NUEtkRE5ERk1kcVYzeXoyd1FObkNIaU9zZkdDOTZfUWtINzhyX2hFY1dzRTBKQTlua2xFb3BYOF8zZzNwNUJqXzcwaUljcnZEUWExMA?oc=5",
       "source": "gbookhub.io",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T05:05:21.000Z"
-    },
-    {
-      "title": "Sunnny",
-      "url": "https://sunnny.com/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-25T21:50:00.000Z"
-    },
-    {
-      "title": "Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy",
-      "url": "https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-25T21:47:57.000Z"
     },
     {
       "title": "Googlebook is getting AAC Bluetooth audio and key fixes for Cast My Apps",
