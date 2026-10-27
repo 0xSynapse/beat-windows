@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:22:50 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Initial Support For The Apple M4 &amp; Apple A18 Pro Make It Into Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-SoCs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-SoCs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 00:52:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam Frame VR Headset Sees Mainline Support With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 00:36:40 GMT</pubDate>
+    </item>
     <item>
       <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
       <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
@@ -30,6 +46,14 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Mon, 26 Oct 2026 21:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook May Get Chromebook-Like App Restore on Reboot</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Mon, 26 Oct 2026 21:06:58 GMT</pubDate>
     </item>
     <item>
       <title>Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices &quot;DCD&quot;</title>
@@ -344,14 +368,6 @@
       <pubDate>Sun, 25 Oct 2026 15:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Sound Changes Merged: &quot;The AI Flood Continues&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Sound</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Sound</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 25 Oct 2026 14:01:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Weekly News Recap: October 19–25, 2026</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</guid>
@@ -384,28 +400,12 @@
       <pubDate>Sun, 25 Oct 2026 11:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Input</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Input</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 25 Oct 2026 10:57:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: The Wit and Wisdom of the Log</title>
       <link>https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nicole Nguyen’s Duo Review for the WSJ</title>
-      <link>https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 24 Oct 2026 22:15:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

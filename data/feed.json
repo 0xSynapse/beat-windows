@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-27T00:31:46.372Z",
+  "generated": "2026-10-27T06:22:50.019Z",
   "items": [
+    {
+      "title": "Initial Support For The Apple M4 & Apple A18 Pro Make It Into Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-SoCs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T00:52:15.000Z"
+    },
+    {
+      "title": "Steam Frame VR Headset Sees Mainline Support With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Steam-Frame-FR-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T00:36:40.000Z"
+    },
     {
       "title": "The NYT Seemingly Does Marissa Mayer Dirty",
       "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr",
@@ -24,6 +40,14 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-26T21:57:37.000Z"
+    },
+    {
+      "title": "Googlebook May Get Chromebook-Like App Restore on Reboot",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T21:06:58.000Z"
     },
     {
       "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
@@ -338,14 +362,6 @@
       "date": "2026-10-25T15:05:18.000Z"
     },
     {
-      "title": "Linux 7.4 Sound Changes Merged: \"The AI Flood Continues\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Sound",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T14:01:55.000Z"
-    },
-    {
       "title": "Googlebook Weekly News Recap: October 19–25, 2026",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5",
       "source": "gbookhub.io",
@@ -376,14 +392,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-25T11:30:17.000Z"
-    },
-    {
-      "title": "Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Input",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T10:57:01.000Z"
     },
     {
       "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T15:45:07.000Z"
-    },
-    {
-      "title": "Googlebook laptops impress with premium hardware, but software disappoints",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TjFpYU1FOEg5MFZzcXVOR1lRem1JQUJYYk5JLVFhYWR2d3ZxQXhVUXAtUWFVYnFNc1RmN1pxdlhqNTdfb1JDTzJaZ005ZnYxRjJYM2dkaEx5NlRRYUU1M3ZRNDlDcjlBQzk3U3YwQjZreVdLdGt3?oc=5",
-      "source": "Mezha.net",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T15:05:59.000Z"
     },
     {
       "title": "OpenBSD 8.0",
