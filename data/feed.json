@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-26T20:34:02.819Z",
+  "generated": "2026-10-27T00:31:46.372Z",
   "items": [
+    {
+      "title": "The NYT Seemingly Does Marissa Mayer Dirty",
+      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-27T00:30:08.000Z"
+    },
+    {
+      "title": "Apple Issues Statement on iPhone Duo’s Crack Problem",
+      "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-26T23:54:26.000Z"
+    },
+    {
+      "title": "Cracking the Crackers (2025)",
+      "url": "https://reverse.put.as/2025/03/13/cracking-the-crackers/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-26T21:57:37.000Z"
+    },
+    {
+      "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-CXL",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-26T21:05:32.000Z"
+    },
+    {
+      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc0k4S3JJdFRKbU15VFZ4UXdFVTJCZWxOUnl6RkpsSkxSRV83OXRERVloR3ZGRXp5LThCVGlTVHFyOTJmSTVPSnkwYUk4cmFwWnhvU2o2TVpvQzNBdG1VeGR5MDdKcXRq?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-26T20:58:00.000Z"
+    },
     {
       "title": "Glenn Fleishman on Apple Notes and Markdown",
       "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
@@ -346,14 +386,6 @@
       "date": "2026-10-25T10:57:01.000Z"
     },
     {
-      "title": "AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed",
-      "url": "https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T10:42:00.000Z"
-    },
-    {
       "title": "Last Week on My Mac: The Wit and Wisdom of the Log",
       "url": "https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/",
       "source": "Eclectic Light",
@@ -376,30 +408,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-24T22:08:17.000Z"
-    },
-    {
-      "title": "Marion Barry Meets the iPhone Duo",
-      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T21:10:06.000Z"
-    },
-    {
-      "title": "MKBHD’s Duo Review",
-      "url": "https://youtu.be/ESABTN4VtrA",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T20:47:28.000Z"
-    },
-    {
-      "title": "Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page",
-      "url": "https://music.apple.com/404",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T15:50:02.000Z"
     },
     {
       "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-22T15:05:59.000Z"
-    },
-    {
-      "title": "Googlebooks just aren’t ready",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZoUXhQdHRGLTVhdl9MRlY2Zm9iSHhTck1QdEoyM2FBNEwwYU9ES2JWT3RkUzlPMFRHTXd2eE1OMGYzUW9VcXFXVTVOMTRUR3RzQ1RnUEY1dzRZQzFycTdocHp3SHRNSzVzUGZGWmdIMzFVS1Vkem4zcnNtbjd1cVZIcEduSURsbXI3U3dNYUIzSjdkX2ZfdThkb3ZlZXc?oc=5",
-      "source": "The Verge",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-22T13:00:00.000Z"
     },
     {
       "title": "OpenBSD 8.0",

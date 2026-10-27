@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:31:46 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
+      <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 27 Oct 2026 00:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Issues Statement on iPhone Duo’s Crack Problem</title>
+      <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 26 Oct 2026 23:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cracking the Crackers (2025)</title>
+      <link>https://reverse.put.as/2025/03/13/cracking-the-crackers/</link>
+      <guid isPermaLink="true">https://reverse.put.as/2025/03/13/cracking-the-crackers/</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Mon, 26 Oct 2026 21:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices &quot;DCD&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-CXL</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-CXL</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 26 Oct 2026 21:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc0k4S3JJdFRKbU15VFZ4UXdFVTJCZWxOUnl6RkpsSkxSRV83OXRERVloR3ZGRXp5LThCVGlTVHFyOTJmSTVPSnkwYUk4cmFwWnhvU2o2TVpvQzNBdG1VeGR5MDdKcXRq?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc0k4S3JJdFRKbU15VFZ4UXdFVTJCZWxOUnl6RkpsSkxSRV83OXRERVloR3ZGRXp5LThCVGlTVHFyOTJmSTVPSnkwYUk4cmFwWnhvU2o2TVpvQzNBdG1VeGR5MDdKcXRq?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Mon, 26 Oct 2026 20:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>Glenn Fleishman on Apple Notes and Markdown</title>
       <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
@@ -352,14 +392,6 @@
       <pubDate>Sun, 25 Oct 2026 10:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed</title>
-      <link>https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 25 Oct 2026 10:42:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: The Wit and Wisdom of the Log</title>
       <link>https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</guid>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sat, 24 Oct 2026 22:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reuters and the WSJ on the Duo Launch</title>
-      <link>https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 24 Oct 2026 22:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marion Barry Meets the iPhone Duo</title>
-      <link>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 24 Oct 2026 21:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>MKBHD’s Duo Review</title>
-      <link>https://youtu.be/ESABTN4VtrA</link>
-      <guid isPermaLink="true">https://youtu.be/ESABTN4VtrA</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 24 Oct 2026 20:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
-      <link>https://music.apple.com/404</link>
-      <guid isPermaLink="true">https://music.apple.com/404</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 24 Oct 2026 15:50:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
