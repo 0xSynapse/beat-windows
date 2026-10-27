@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:18:34 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.8.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.8.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 13:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portraits of trees: Forest of Fontainebleau</title>
+      <link>https://eclecticlight.co/2026/10/27/portraits-of-trees-forest-of-fontainebleau/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/27/portraits-of-trees-forest-of-fontainebleau/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 27 Oct 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-KVM</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-KVM</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput</title>
+      <link>https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 10:26:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)</title>
+      <link>https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 10:11:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Expands Sensor Monitoring For More ASUS &amp; MSI Motherboards, New Minisforum Driver</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-HWMON</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-HWMON</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 09:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 159 Released With AMD Linux Graphics Fix For Excessive Memory Use</title>
+      <link>https://www.phoronix.com/news/Firefox-159-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Firefox-159-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 27 Oct 2026 09:35:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daylight saving time, hieroglyphics, and LogUI 1.3</title>
+      <link>https://eclecticlight.co/2026/10/27/daylight-saving-time-hieroglyphics-and-logui-1-3/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/27/daylight-saving-time-hieroglyphics-and-logui-1-3/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 27 Oct 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Initial Support For The Apple M4 &amp; Apple A18 Pro Make It Into Linux 7.4</title>
       <link>https://www.phoronix.com/news/Linux-7.4-SoCs</link>
@@ -248,44 +312,12 @@
       <pubDate>Mon, 26 Oct 2026 12:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4 Begins Employing New &quot;Core MM&quot; Tree</title>
-      <link>https://www.phoronix.com/news/Linux-Core-MM-Tree</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Core-MM-Tree</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 11:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling</title>
-      <link>https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 10:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs</title>
-      <link>https://www.phoronix.com/news/Moxnox-OS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Moxnox-OS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 10:04:34 GMT</pubDate>
-    </item>
-    <item>
       <title>About the compromised eMudhra intermediate CAs</title>
       <link>https://support.apple.com/en-us/149555</link>
       <guid isPermaLink="true">https://support.apple.com/en-us/149555</guid>
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Mon, 26 Oct 2026 09:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-EXT4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-EXT4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 09:53:55 GMT</pubDate>
     </item>
     <item>
       <title>Solutions to Saturday Mac riddles 383</title>
@@ -310,14 +342,6 @@
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Mon, 26 Oct 2026 05:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redox OS Landed Nice Performance Improvements In September</title>
-      <link>https://www.phoronix.com/news/Redox-OS-September-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Redox-OS-September-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 00:24:45 GMT</pubDate>
     </item>
     <item>
       <title>Sunnny</title>
@@ -360,14 +384,6 @@
       <pubDate>Sun, 25 Oct 2026 15:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>New Wayland Protocol Proposed For VNC/Remote Software</title>
-      <link>https://www.phoronix.com/news/Wayland-ext-transient-output</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wayland-ext-transient-output</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 25 Oct 2026 15:05:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Weekly News Recap: October 19–25, 2026</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Sun, 25 Oct 2026 11:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Googlebook's best feature is the one thing you can't see while you're using it</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVBWNDJUak5hQmcwVlE4MEhfcDNRYzlPZUpkbVJYYlFTdXBucnc5N2RIamVVbWE4T0QxdFd5YXh4b1RjTlJkbTYzSjh3aXowRGNxbGVIN3FOYmV1QV9CbUJ0TmFFSmpEbUMxOE1wWFA3NEVXQlV4QmhSMGJ2akRLYTZ2dVNUWFc4a1RuRDdsNmlad0NHeG85Ql9GamQ0cFZpV0tLRm5rWW1PUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVBWNDJUak5hQmcwVlE4MEhfcDNRYzlPZUpkbVJYYlFTdXBucnc5N2RIamVVbWE4T0QxdFd5YXh4b1RjTlJkbTYzSjh3aXowRGNxbGVIN3FOYmV1QV9CbUJ0TmFFSmpEbUMxOE1wWFA3NEVXQlV4QmhSMGJ2akRLYTZ2dVNUWFc4a1RuRDdsNmlad0NHeG85Ql9GamQ0cFZpV0tLRm5rWW1PUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Sun, 25 Oct 2026 11:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Week on My Mac: The Wit and Wisdom of the Log</title>
-      <link>https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/25/last-week-on-my-mac-the-wit-and-wisdom-of-the-log/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 25 Oct 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

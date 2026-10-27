@@ -1,6 +1,70 @@
 {
-  "generated": "2026-10-27T06:22:50.019Z",
+  "generated": "2026-10-27T13:18:34.956Z",
   "items": [
+    {
+      "title": "KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T13:02:10.000Z"
+    },
+    {
+      "title": "Portraits of trees: Forest of Fontainebleau",
+      "url": "https://eclecticlight.co/2026/10/27/portraits-of-trees-forest-of-fontainebleau/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-27T12:30:00.000Z"
+    },
+    {
+      "title": "AMD EPYC Zen 6 PML Support, ARM64 On s390 Merged For Linux 7.4 KVM",
+      "url": "https://www.phoronix.com/news/Linux-7.4-KVM",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T12:00:00.000Z"
+    },
+    {
+      "title": "Accelerating HTTP Web Servers With In-Kernel eBPF Deliver Up To 4.5x Throughput",
+      "url": "https://www.phoronix.com/news/Beeper-In-Kernel-Parsing-eBPF",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T10:26:22.000Z"
+    },
+    {
+      "title": "Linux's Modern NTFS Driver Now Supports Alternate Data Streams (ADS)",
+      "url": "https://www.phoronix.com/news/NTFS-Linux-7.4-Improvements",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T10:11:29.000Z"
+    },
+    {
+      "title": "Linux 7.4 Expands Sensor Monitoring For More ASUS & MSI Motherboards, New Minisforum Driver",
+      "url": "https://www.phoronix.com/news/Linux-7.4-HWMON",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T09:52:30.000Z"
+    },
+    {
+      "title": "Firefox 159 Released With AMD Linux Graphics Fix For Excessive Memory Use",
+      "url": "https://www.phoronix.com/news/Firefox-159-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-27T09:35:49.000Z"
+    },
+    {
+      "title": "Daylight saving time, hieroglyphics, and LogUI 1.3",
+      "url": "https://eclecticlight.co/2026/10/27/daylight-saving-time-hieroglyphics-and-logui-1-3/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-27T07:30:00.000Z"
+    },
     {
       "title": "Initial Support For The Apple M4 & Apple A18 Pro Make It Into Linux 7.4",
       "url": "https://www.phoronix.com/news/Linux-7.4-SoCs",
@@ -242,44 +306,12 @@
       "date": "2026-10-26T12:24:01.000Z"
     },
     {
-      "title": "Linux 7.4 Begins Employing New \"Core MM\" Tree",
-      "url": "https://www.phoronix.com/news/Linux-Core-MM-Tree",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T11:42:27.000Z"
-    },
-    {
-      "title": "Linux Fixes AMD Ryzen AI 9 HX 370 Regression Due To Cache Aware Scheduling",
-      "url": "https://www.phoronix.com/news/Linux-CAS-Regression-AMD-HX-370",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T10:22:28.000Z"
-    },
-    {
-      "title": "Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs",
-      "url": "https://www.phoronix.com/news/Moxnox-OS",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T10:04:34.000Z"
-    },
-    {
       "title": "About the compromised eMudhra intermediate CAs",
       "url": "https://support.apple.com/en-us/149555",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-26T09:58:55.000Z"
-    },
-    {
-      "title": "EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes",
-      "url": "https://www.phoronix.com/news/Linux-7.4-EXT4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T09:53:55.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 383",
@@ -304,14 +336,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T05:05:21.000Z"
-    },
-    {
-      "title": "Redox OS Landed Nice Performance Improvements In September",
-      "url": "https://www.phoronix.com/news/Redox-OS-September-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T00:24:45.000Z"
     },
     {
       "title": "Sunnny",
@@ -354,14 +378,6 @@
       "date": "2026-10-25T15:41:39.000Z"
     },
     {
-      "title": "New Wayland Protocol Proposed For VNC/Remote Software",
-      "url": "https://www.phoronix.com/news/Wayland-ext-transient-output",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-25T15:05:18.000Z"
-    },
-    {
       "title": "Googlebook Weekly News Recap: October 19–25, 2026",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5",
       "source": "gbookhub.io",
@@ -400,22 +416,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-25T08:00:00.000Z"
-    },
-    {
-      "title": "Nicole Nguyen’s Duo Review for the WSJ",
-      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T22:15:00.000Z"
-    },
-    {
-      "title": "Reuters and the WSJ on the Duo Launch",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-24T22:08:17.000Z"
     },
     {
       "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
