@@ -1,6 +1,14 @@
 {
-  "generated": "2026-10-27T23:49:24.826Z",
+  "generated": "2026-10-28T05:51:43.972Z",
   "items": [
+    {
+      "title": "Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL",
+      "url": "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-28T00:33:36.000Z"
+    },
     {
       "title": "Siri AI Expands to More Languages in OS 27.2",
       "url": "https://nr.apple.com/Du9G9W8Nq1",
@@ -272,14 +280,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T21:06:58.000Z"
-    },
-    {
-      "title": "Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices \"DCD\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-CXL",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-26T21:05:32.000Z"
     },
     {
       "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",

@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:51:43 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL</title>
+      <link>https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 00:33:36 GMT</pubDate>
+    </item>
     <item>
       <title>Siri AI Expands to More Languages in OS 27.2</title>
       <link>https://nr.apple.com/Du9G9W8Nq1</link>
@@ -278,14 +286,6 @@
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Mon, 26 Oct 2026 21:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Preps CXL For Very Neat Dynamic Capacity Devices &quot;DCD&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-CXL</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-CXL</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 26 Oct 2026 21:05:32 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more</title>
