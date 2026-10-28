@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:16:56 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux</title>
+      <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
+      <guid isPermaLink="true">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 28 Oct 2026 23:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Memeburn</source>
+      <pubDate>Wed, 28 Oct 2026 22:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>A report from the LPC sched_ext microconference</title>
+      <link>https://lwn.net/Articles/1103426/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103426/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 28 Oct 2026 22:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Wed, 28 Oct 2026 20:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality</title>
+      <link>https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 19:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Why Googlebooks are still worse than Android tablets</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5</link>
@@ -248,30 +288,6 @@
       <pubDate>Tue, 27 Oct 2026 21:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>Fixing KIO copy to USB stick and network filesystems</title>
-      <link>https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/</link>
-      <guid isPermaLink="true">https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 27 Oct 2026 20:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>The next circle of security hell</title>
-      <link>https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</link>
-      <guid isPermaLink="true">https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 27 Oct 2026 20:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Zero 3 W &amp; Raspberry Pi 4 Model A Surface In Linux Kernel Patches</title>
-      <link>https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 27 Oct 2026 19:53:34 GMT</pubDate>
-    </item>
-    <item>
       <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
       <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Mon, 26 Oct 2026 20:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more</title>
-      <link>https://9to5google.com/2026/10/26/chrome-156-googlebooks/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/10/26/chrome-156-googlebooks/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 26 Oct 2026 19:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released updates to Golden Gate 27.2, 26.7.2. and 15.8.2</title>
-      <link>https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 26 Oct 2026 18:14:37 GMT</pubDate>
     </item>
   </channel>
 </rss>

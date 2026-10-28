@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-28T18:54:06.188Z",
+  "generated": "2026-10-28T23:16:56.104Z",
   "items": [
+    {
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-28T23:01:26.000Z"
+    },
+    {
+      "title": "MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5",
+      "source": "Memeburn",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-28T22:56:31.000Z"
+    },
+    {
+      "title": "A report from the LPC sched_ext microconference",
+      "url": "https://lwn.net/Articles/1103426/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-28T22:11:43.000Z"
+    },
+    {
+      "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-28T20:00:15.000Z"
+    },
+    {
+      "title": "Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality",
+      "url": "https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-28T19:15:07.000Z"
+    },
     {
       "title": "Why Googlebooks are still worse than Android tablets",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5",
@@ -242,30 +282,6 @@
       "date": "2026-10-27T21:09:43.000Z"
     },
     {
-      "title": "Fixing KIO copy to USB stick and network filesystems",
-      "url": "https://blogs.kde.org/2026/10/27/fixing-kio-copy-to-usb-stick-and-network-filesystems/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-27T20:12:39.000Z"
-    },
-    {
-      "title": "The next circle of security hell",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-27T20:10:56.000Z"
-    },
-    {
-      "title": "Raspberry Pi Zero 3 W & Raspberry Pi 4 Model A Surface In Linux Kernel Patches",
-      "url": "https://www.phoronix.com/news/Raspberry-Pi-Zero-3-W-Pi-4-A",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-27T19:53:34.000Z"
-    },
-    {
       "title": "What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks",
       "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
       "source": "Daring Fireball",
@@ -480,22 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-25T11:30:17.000Z"
-    },
-    {
-      "title": "I spent two weeks using Googlebooks, and I have 5 big concerns",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jenZpaFZWWXlQOXFqeFZyRlZKUVhwOUlZR3Bfd0xCdkNuSUpTTnFpSGR0ZmhFQWJnbWptYjNQdktyZ2VwamdjN0NxZVZ5TlVrMnZPTWVSYlpfUW9ZWFU2NXowdXc1VlB3c1JxYWtyQ2hvWEVabHpYTw?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-24T12:00:00.000Z"
-    },
-    {
-      "title": "Acer Googlebook 14 Review: A Sorta Fresh Take On The Chromebook Formula",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGE0VFBna0diUExIT3pHcjlmM05sR2swVW9BTE9fU0EtOWFUM1EtaWVsSmp0TFRlci1QQXY3cTBkS1hSV1BZZ2Vpb1N2QVR3VDI4SnEyeXBwOURlSFZmWElLUFJienFQWlJfbQ?oc=5",
-      "source": "SlashGear",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-23T20:43:07.000Z"
     },
     {
       "title": "OpenBSD 8.0",
