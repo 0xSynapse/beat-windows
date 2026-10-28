@@ -5,8 +5,120 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:54:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Googlebooks are still worse than Android tablets</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Notebookcheck</source>
+      <pubDate>Wed, 28 Oct 2026 18:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD Jumpstart 8.0: Quick Start Guide for New Users</title>
+      <link>https://openbsdjumpstart.org</link>
+      <guid isPermaLink="true">https://openbsdjumpstart.org</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Wed, 28 Oct 2026 18:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>System76 Introducing AMD-Powered Linux Small PC</title>
+      <link>https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 17:32:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Lenovo Googlebook Duet m is my dream device, and I’m glad it hasn’t launched yet</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Wed, 28 Oct 2026 15:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canonical Reviving Their Immutable Ubuntu Core Desktop</title>
+      <link>https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 15:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Guessing the Name: MacBook Studio?</title>
+      <link>https://www.macrumors.com/2026/10/28/macbook-studio/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/28/macbook-studio/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 28 Oct 2026 14:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asus Googlebook 14 Review</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE83S29sQW95MzNFUWpNNVlrcXdvUzlwM0toM09QOVZ0MGRyTGJDY0dBWUQ2UnNWSkxjVXBHQkRQc3Bua0h3RnRCNF9TVHRCdzRhQ09TR19GVF9MWnNKWTVZQWFCd1BXa3Y0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE83S29sQW95MzNFUWpNNVlrcXdvUzlwM0toM09QOVZ0MGRyTGJDY0dBWUQ2UnNWSkxjVXBHQkRQc3Bua0h3RnRCNF9TVHRCdzRhQ09TR19GVF9MWnNKWTVZQWFCd1BXa3Y0?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Trusted Reviews</source>
+      <pubDate>Wed, 28 Oct 2026 14:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CachyOS vs. Fedora 45 vs. Ubuntu 26.10 Performance On AMD Ryzen 9</title>
+      <link>https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 14:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] The campaign to push Northstar into Linux distributions</title>
+      <link>https://lwn.net/Articles/1102738/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102738/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 28 Oct 2026 14:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redox OS ring buffers project summary</title>
+      <link>https://lwn.net/Articles/1103359/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103359/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 28 Oct 2026 14:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>NetBSD Adds Alternative Text Editor To vi &amp; xedit For Easing New Users</title>
+      <link>https://www.phoronix.com/news/NetBSD-New-Text-Editor</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NetBSD-New-Text-Editor</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 28 Oct 2026 13:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?</title>
+      <link>https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</link>
+      <guid isPermaLink="true">https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 28 Oct 2026 13:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1103357/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103357/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 28 Oct 2026 13:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tried the Lenovo Googlebook. I wouldn't buy one</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCWorld</source>
+      <pubDate>Wed, 28 Oct 2026 13:00:27 GMT</pubDate>
+    </item>
     <item>
       <title>X.Org XCB Co-Creator Praises Wayland's Protocol Design</title>
       <link>https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland</link>
@@ -160,22 +272,6 @@
       <pubDate>Tue, 27 Oct 2026 19:53:34 GMT</pubDate>
     </item>
     <item>
-      <title>Hardening a shared Linux host against cache covert channels</title>
-      <link>https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</link>
-      <guid isPermaLink="true">https://gctl.io/blog/2026/hardening-a-shared-host-against-cache-covert-channels/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 27 Oct 2026 19:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robinson: Raspberry Pi 5 on Fedora</title>
-      <link>https://lwn.net/Articles/1103212/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103212/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 27 Oct 2026 18:11:48 GMT</pubDate>
-    </item>
-    <item>
       <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
       <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
@@ -184,28 +280,12 @@
       <pubDate>Tue, 27 Oct 2026 17:59:47 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Fixes 15 Year Old Bug Over Inaccurate Notifications When Copying Files To USB Drives</title>
-      <link>https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Fixes-15-Year-Old-Bugs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 27 Oct 2026 16:50:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple Also Announces iMac With M6</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</link>
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 27 Oct 2026 16:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Filian, Fil-C binaries on Debian</title>
-      <link>https://cr.yp.to/2025/fil-c.html</link>
-      <guid isPermaLink="true">https://cr.yp.to/2025/fil-c.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Tue, 27 Oct 2026 16:42:17 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook should have been framed as the Chromebook successor, not a MacBook rival</title>
@@ -232,44 +312,12 @@
       <pubDate>Tue, 27 Oct 2026 16:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Guidelines for panics in kernel code</title>
-      <link>https://lwn.net/Articles/1100873/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1100873/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 27 Oct 2026 13:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1103188/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103188/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 27 Oct 2026 13:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pavee OS: Ikey Doherty's New Daily-Driver Desktop Distro Being Built Atop Barney</title>
-      <link>https://www.phoronix.com/news/Pavee-OS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Pavee-OS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 27 Oct 2026 13:11:30 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Can Now Install Pixel Weather App with Desktop Widgets</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Tue, 27 Oct 2026 13:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.8.2 Released With Dozens Of Additional Bug Fixes</title>
-      <link>https://www.phoronix.com/news/KDE-Plasma-6.8.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.8.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 27 Oct 2026 13:02:10 GMT</pubDate>
     </item>
     <item>
       <title>Portraits of trees: Forest of Fontainebleau</title>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 26 Oct 2026 18:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ Apple Announces New A20 Pro iPad Mini</title>
-      <link>https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 26 Oct 2026 18:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
-      <link>https://x.com/viticci/status/2113888099784638932</link>
-      <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 26 Oct 2026 17:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS Googlebook Review: Great Hardware Paying for Google's Beta Test</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eHVEejNDTmw5c0g5RWxONEluSm5kTk5mdFgzUUJMX0pfcHY2MUtZY0lmNmZCMDVsZU5YUlhvZFFWcXRZcGVRSHlOOHp1UjhNWDVCdlU2c2JGV1hTMFBDSUt4cWZHZTF6MmFN?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eHVEejNDTmw5c0g5RWxONEluSm5kTk5mdFgzUUJMX0pfcHY2MUtZY0lmNmZCMDVsZU5YUlhvZFFWcXRZcGVRSHlOOHp1UjhNWDVCdlU2c2JGV1hTMFBDSUt4cWZHZTF6MmFN?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Headlines</source>
-      <pubDate>Mon, 26 Oct 2026 16:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiny Computers for iPhone Duo</title>
-      <link>https://www.fountaininteractive.com/TinyComputers/</link>
-      <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 26 Oct 2026 15:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks could soon get much better at letting you pick up where you left off</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Mon, 26 Oct 2026 13:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS Update Adds AAC Audio and Fixes Three Launch Bugs</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbURfR1hkVWM1dUNGSGo1UVBINGpyNm5DUFA2NFQ3N25VQ1RfakNRdzR4ZFpRRG5qU3gzVm5KR1BaYkVwUUc0cjNyVTMyTUx0NENNOVBMM2xfdDAwLTFBQ19MVno?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbURfR1hkVWM1dUNGSGo1UVBINGpyNm5DUFA2NFQ3N25VQ1RfakNRdzR4ZFpRRG5qU3gzVm5KR1BaYkVwUUc0cjNyVTMyTUx0NENNOVBMM2xfdDAwLTFBQ19MVno?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Techaeris</source>
-      <pubDate>Mon, 26 Oct 2026 12:40:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
