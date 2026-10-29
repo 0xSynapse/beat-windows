@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-29T16:58:09.161Z",
+  "generated": "2026-10-29T21:51:15.003Z",
   "items": [
+    {
+      "title": "Apple Drops App Store Commission by a Whopping 4 Percent in Taiwan",
+      "url": "https://developer.apple.com/news/?id=w9mxlhek",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-29T21:03:42.000Z"
+    },
+    {
+      "title": "A Health Update From Craig Hockenberry",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-29T19:57:21.000Z"
+    },
+    {
+      "title": "Googlebook update finally puts an end to the most frustrating PWA flickering bug",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-29T19:52:54.000Z"
+    },
+    {
+      "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’",
+      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-29T19:44:11.000Z"
+    },
+    {
+      "title": "Google put an end date on every Chromebook, and some won’t make it to Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3J6bXkxWV9OUm1IcmFYMXJvZFZGTEN4N0Y0MUpqYVE5bmlkOVRiXzBpaGVwZThvS3dIZGM0amxaeG0teW96X3dJNlZ5eWpnUjRnbHpQc0Y5SV9WallsUmpjYl9SUmRuX0paalVNZmRpcGZOZm90Q0xXeV9zczV5NVVxdm1SamdDbk16TXk2WmdQVVotQzBYb0F4MlF3T1NPakI1QXhId011V3Zt?oc=5",
+      "source": "MakeUseOf",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-29T17:37:55.000Z"
+    },
     {
       "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
       "url": "https://www.phoronix.com/news/F2FS-Linux-7.4",
@@ -16,6 +56,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-29T15:06:56.000Z"
+    },
+    {
+      "title": "MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5",
+      "source": "Memeburn",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-29T14:23:09.000Z"
     },
     {
       "title": "[$] Containers as a recognized kernel object",
@@ -128,14 +176,6 @@
       "tag": "linux",
       "site": "https://lobste.rs/t/linux",
       "date": "2026-10-28T23:01:26.000Z"
-    },
-    {
-      "title": "MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5",
-      "source": "Memeburn",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T22:56:31.000Z"
     },
     {
       "title": "A report from the LPC sched_ext microconference",
@@ -378,30 +418,6 @@
       "date": "2026-10-27T07:30:00.000Z"
     },
     {
-      "title": "The NYT Seemingly Does Marissa Mayer Dirty",
-      "url": "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T00:30:08.000Z"
-    },
-    {
-      "title": "Apple Issues Statement on iPhone Duo’s Crack Problem",
-      "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-26T23:54:26.000Z"
-    },
-    {
-      "title": "Cracking the Crackers (2025)",
-      "url": "https://reverse.put.as/2025/03/13/cracking-the-crackers/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-26T21:57:37.000Z"
-    },
-    {
       "title": "Googlebook May Get Chromebook-Like App Restore on Reboot",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5",
       "source": "gbookhub.io",
@@ -474,28 +490,12 @@
       "date": "2026-10-25T15:41:39.000Z"
     },
     {
-      "title": "Googlebook Weekly News Recap: October 19–25, 2026",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zcGxBdzN2bnM5OS13QVlZRjVjZDZlaEhmdDR0elctd1I0ci03ZHgxRlN6UVllVG9GUERaUlhMWFlpOHFTM1lOa05sWGFmRHpLMFpGZ3I3TGVZUndyMG9mM1BzdGszM0ZQQ21fMnFxLXVUUWFzcjZQdjRfQQ?oc=5",
-      "source": "gbookhub.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-25T13:04:16.000Z"
-    },
-    {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
       "url": "https://undeadly.org/cgi?action=article;sid=20261025115016",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-10-25T11:50:16.000Z"
-    },
-    {
-      "title": "The Googlebook's best feature is the one thing you can't see while you're using it",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVBWNDJUak5hQmcwVlE4MEhfcDNRYzlPZUpkbVJYYlFTdXBucnc5N2RIamVVbWE4T0QxdFd5YXh4b1RjTlJkbTYzSjh3aXowRGNxbGVIN3FOYmV1QV9CbUJ0TmFFSmpEbUMxOE1wWFA3NEVXQlV4QmhSMGJ2akRLYTZ2dVNUWFc4a1RuRDdsNmlad0NHeG85Ql9GamQ0cFZpV0tLRm5rWW1PUQ?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-25T11:30:17.000Z"
     },
     {
       "title": "OpenBSD 8.0",
