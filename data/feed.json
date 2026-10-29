@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-29T02:32:25.564Z",
+  "generated": "2026-10-29T10:07:26.701Z",
   "items": [
+    {
+      "title": "Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5",
+      "url": "https://www.phoronix.com/news/Linux-7.5-drm-misc-next",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T09:48:22.000Z"
+    },
+    {
+      "title": "KSMBD Adds New Options With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-KSMBD",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T09:33:13.000Z"
+    },
+    {
+      "title": "Do you ever use curl? How recent vulnerabilities could affect you",
+      "url": "https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-29T07:30:00.000Z"
+    },
+    {
+      "title": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
+      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-29T04:06:15.000Z"
+    },
     {
       "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
       "url": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
@@ -18,7 +50,7 @@
       "date": "2026-10-29T00:19:08.000Z"
     },
     {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "source": "Lobsters · linux",
       "tag": "linux",
@@ -226,28 +258,12 @@
       "date": "2026-10-28T10:11:54.000Z"
     },
     {
-      "title": "NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes",
-      "url": "https://www.phoronix.com/news/Linux-7.4-NTFS3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T10:02:34.000Z"
-    },
-    {
       "title": "The case for a full-circle Googlebook future",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IN19LbEdTdFVTUDNkcGItNWtsQ3d2YjN5YzJWRk1nWXpONVVMeEVLMUJZSk5iU1NhekRBWGpFQmdXZDRJempQNmtWblA5aG9iLUpPLTAyaUJGOXFwSFhrZDZLbGFiajdQOE9kZWRkQmxHNVRmNkdV?oc=5",
       "source": "Computerworld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T09:50:59.000Z"
-    },
-    {
-      "title": "Retiring BSD-Compress Proposed For Linux PPP Network Code",
-      "url": "https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T09:50:55.000Z"
     },
     {
       "title": "Solve macOS update problems",
@@ -418,22 +434,6 @@
       "date": "2026-10-26T18:14:37.000Z"
     },
     {
-      "title": "★ Apple Announces New A20 Pro iPad Mini",
-      "url": "https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-26T18:04:34.000Z"
-    },
-    {
-      "title": "A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It",
-      "url": "https://x.com/viticci/status/2113888099784638932",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-26T17:00:11.000Z"
-    },
-    {
       "title": "Dell XPS Googlebook Review: Great Hardware Paying for Google's Beta Test",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eHVEejNDTmw5c0g5RWxONEluSm5kTk5mdFgzUUJMX0pfcHY2MUtZY0lmNmZCMDVsZU5YUlhvZFFWcXRZcGVRSHlOOHp1UjhNWDVCdlU2c2JGV1hTMFBDSUt4cWZHZTF6MmFN?oc=5",
       "source": "Android Headlines",
@@ -552,14 +552,6 @@
       "tag": "bsd",
       "site": "https://news.ycombinator.com/",
       "date": "2026-10-04T07:55:24.000Z"
-    },
-    {
-      "title": "CoW — a stacking window manager for Wayland",
-      "url": "https://cow-wm.codeberg.page/cow/",
-      "source": "Lobsters · freebsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/freebsd",
-      "date": "2026-09-29T09:07:37.000Z"
     }
   ]
 }

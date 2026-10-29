@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:07:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-drm-misc-next</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-drm-misc-next</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 29 Oct 2026 09:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>KSMBD Adds New Options With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-KSMBD</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-KSMBD</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 29 Oct 2026 09:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do you ever use curl? How recent vulnerabilities could affect you</title>
+      <link>https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 29 Oct 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
+      <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 29 Oct 2026 04:06:15 GMT</pubDate>
+    </item>
     <item>
       <title>GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage</title>
       <link>https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan</link>
@@ -24,7 +56,7 @@
       <pubDate>Thu, 29 Oct 2026 00:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux</title>
+      <title>GitLab security incident: attempted exploitation of CVE-2026-97229</title>
       <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
       <guid isPermaLink="true">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</guid>
       <category>linux</category>
@@ -232,28 +264,12 @@
       <pubDate>Wed, 28 Oct 2026 10:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-NTFS3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-NTFS3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 28 Oct 2026 10:02:34 GMT</pubDate>
-    </item>
-    <item>
       <title>The case for a full-circle Googlebook future</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9IN19LbEdTdFVTUDNkcGItNWtsQ3d2YjN5YzJWRk1nWXpONVVMeEVLMUJZSk5iU1NhekRBWGpFQmdXZDRJempQNmtWblA5aG9iLUpPLTAyaUJGOXFwSFhrZDZLbGFiajdQOE9kZWRkQmxHNVRmNkdV?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE9IN19LbEdTdFVTUDNkcGItNWtsQ3d2YjN5YzJWRk1nWXpONVVMeEVLMUJZSk5iU1NhekRBWGpFQmdXZDRJempQNmtWblA5aG9iLUpPLTAyaUJGOXFwSFhrZDZLbGFiajdQOE9kZWRkQmxHNVRmNkdV?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Computerworld</source>
       <pubDate>Wed, 28 Oct 2026 09:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Retiring BSD-Compress Proposed For Linux PPP Network Code</title>
-      <link>https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 28 Oct 2026 09:50:55 GMT</pubDate>
     </item>
     <item>
       <title>Solve macOS update problems</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Mon, 26 Oct 2026 20:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glenn Fleishman on Apple Notes and Markdown</title>
-      <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 26 Oct 2026 20:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS is finally getting one of my favorite ChromeOS features</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOMml4bEJJY3JGMlhZWWJIRTBIZWswQndYX2ZSYldLUnpWSmZJQWFDS3lfY2V4QTBuZHIzRVROQU5WUTFDODNZVkFqbVB5R290VzhRNVJuek40akxoeFp3WUZIb1RHY05HTXIyZG9MV2I4dGtPeFZWNXowaVlTb0NFZnlPeE0zOE9NOUxwaW1jZzlERGg3NG44MGNmbHQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAFBVV95cUxOMml4bEJJY3JGMlhZWWJIRTBIZWswQndYX2ZSYldLUnpWSmZJQWFDS3lfY2V4QTBuZHIzRVROQU5WUTFDODNZVkFqbVB5R290VzhRNVJuek40akxoeFp3WUZIb1RHY05HTXIyZG9MV2I4dGtPeFZWNXowaVlTb0NFZnlPeE0zOE9NOUxwaW1jZzlERGg3NG44MGNmbHQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 26 Oct 2026 20:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
