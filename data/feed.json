@@ -1,6 +1,78 @@
 {
-  "generated": "2026-10-29T10:07:26.701Z",
+  "generated": "2026-10-29T16:58:09.161Z",
   "items": [
+    {
+      "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
+      "url": "https://www.phoronix.com/news/F2FS-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T16:52:52.000Z"
+    },
+    {
+      "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
+      "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-29T15:06:56.000Z"
+    },
+    {
+      "title": "[$] Containers as a recognized kernel object",
+      "url": "https://lwn.net/Articles/1102593/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-29T14:02:30.000Z"
+    },
+    {
+      "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
+      "url": "https://www.phoronix.com/review/nvidia-vera-1p-2p",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T13:36:24.000Z"
+    },
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1103666/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-29T13:18:42.000Z"
+    },
+    {
+      "title": "Linux 7.4 Networking Brings Hardware Pacing Offload, New Drivers & More Performance",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Networking",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T12:55:00.000Z"
+    },
+    {
+      "title": "Painting a good story: Peter Paul Rubens",
+      "url": "https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-29T12:30:00.000Z"
+    },
+    {
+      "title": "AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs",
+      "url": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T10:22:15.000Z"
+    },
+    {
+      "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Faster-FAT32",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T10:06:09.000Z"
+    },
     {
       "title": "Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5",
       "url": "https://www.phoronix.com/news/Linux-7.5-drm-misc-next",
@@ -178,36 +250,12 @@
       "date": "2026-10-28T13:48:00.000Z"
     },
     {
-      "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-28T13:39:42.000Z"
-    },
-    {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1103357/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-28T13:10:19.000Z"
-    },
-    {
       "title": "I tried the Lenovo Googlebook. I wouldn't buy one",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5",
       "source": "PCWorld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T13:00:27.000Z"
-    },
-    {
-      "title": "X.Org XCB Co-Creator Praises Wayland's Protocol Design",
-      "url": "https://www.phoronix.com/news/Jamey-Sharp-Praises-Wayland",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T12:54:28.000Z"
     },
     {
       "title": "Commemorating the death of Albin Egger-Lienz: early realism",
@@ -218,44 +266,12 @@
       "date": "2026-10-28T12:30:00.000Z"
     },
     {
-      "title": "Provenance Time Proposed As A New Timestamp For Linux",
-      "url": "https://www.phoronix.com/news/Linux-Provenance-Time-PTIME",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T12:23:10.000Z"
-    },
-    {
-      "title": "Hyprland 0.57 Released With Compiz Inspired Wobbly Windows",
-      "url": "https://www.phoronix.com/news/Hyprland-0.57",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T11:45:33.000Z"
-    },
-    {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-28T11:03:56.000Z"
-    },
-    {
-      "title": "VKD3D-Proton 3.1 Released With New Features Ahead Of Big v3.2 Release",
-      "url": "https://www.phoronix.com/news/VKD3D-Proton-3.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T10:27:21.000Z"
-    },
-    {
-      "title": "GhostBSD 26.2 Released As FreeBSD 15.1 Powered OS With New Installer",
-      "url": "https://www.phoronix.com/news/GhostBSD-26.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T10:11:54.000Z"
     },
     {
       "title": "The case for a full-circle Googlebook future",
@@ -402,14 +418,6 @@
       "date": "2026-10-26T20:58:00.000Z"
     },
     {
-      "title": "Glenn Fleishman on Apple Notes and Markdown",
-      "url": "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-26T20:03:53.000Z"
-    },
-    {
       "title": "Googlebook OS is finally getting one of my favorite ChromeOS features",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMml4bEJJY3JGMlhZWWJIRTBIZWswQndYX2ZSYldLUnpWSmZJQWFDS3lfY2V4QTBuZHIzRVROQU5WUTFDODNZVkFqbVB5R290VzhRNVJuek40akxoeFp3WUZIb1RHY05HTXIyZG9MV2I4dGtPeFZWNXowaVlTb0NFZnlPeE0zOE9NOUxwaW1jZzlERGg3NG44MGNmbHQ?oc=5",
       "source": "Chrome Unboxed",
@@ -424,14 +432,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-26T19:58:11.000Z"
-    },
-    {
-      "title": "Apple has just released updates to Golden Gate 27.2, 26.7.2. and 15.8.2",
-      "url": "https://eclecticlight.co/2026/10/26/apple-has-just-released-updates-to-golden-gate-27-2-26-7-2-and-15-8-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-26T18:14:37.000Z"
     },
     {
       "title": "Dell XPS Googlebook Review: Great Hardware Paying for Google's Beta Test",
