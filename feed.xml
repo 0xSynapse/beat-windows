@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:32:25 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage</title>
+      <link>https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 29 Oct 2026 00:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for October 29, 2026</title>
+      <link>https://lwn.net/Articles/1102136/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102136/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 29 Oct 2026 00:19:08 GMT</pubDate>
+    </item>
     <item>
       <title>GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux</title>
       <link>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</link>
@@ -248,14 +264,6 @@
       <pubDate>Wed, 28 Oct 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL</title>
-      <link>https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 28 Oct 2026 00:33:36 GMT</pubDate>
-    </item>
-    <item>
       <title>Siri AI Expands to More Languages in OS 27.2</title>
       <link>https://nr.apple.com/Du9G9W8Nq1</link>
       <guid isPermaLink="true">https://nr.apple.com/Du9G9W8Nq1</guid>
@@ -278,14 +286,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 27 Oct 2026 21:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring</title>
-      <link>https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 27 Oct 2026 21:09:43 GMT</pubDate>
     </item>
     <item>
       <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>

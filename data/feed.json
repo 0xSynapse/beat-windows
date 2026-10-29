@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-28T23:16:56.104Z",
+  "generated": "2026-10-29T02:32:25.564Z",
   "items": [
+    {
+      "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
+      "url": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T00:44:56.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for October 29, 2026",
+      "url": "https://lwn.net/Articles/1102136/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-29T00:19:08.000Z"
+    },
     {
       "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
@@ -242,14 +258,6 @@
       "date": "2026-10-28T07:30:00.000Z"
     },
     {
-      "title": "Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL",
-      "url": "https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T00:33:36.000Z"
-    },
-    {
       "title": "Siri AI Expands to More Languages in OS 27.2",
       "url": "https://nr.apple.com/Du9G9W8Nq1",
       "source": "Daring Fireball",
@@ -272,14 +280,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-27T21:24:20.000Z"
-    },
-    {
-      "title": "Linux 7.4 Introduces DMA-BUF Support To I/O Path With IO_uring",
-      "url": "https://www.phoronix.com/news/DMA-BUF-IO-uring-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-27T21:09:43.000Z"
     },
     {
       "title": "What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks",
