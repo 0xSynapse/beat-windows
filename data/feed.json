@@ -1,6 +1,86 @@
 {
-  "generated": "2026-10-30T15:59:25.731Z",
+  "generated": "2026-10-30T20:51:43.079Z",
   "items": [
+    {
+      "title": "This Googlebook trick makes speaking to Gemini so much faster",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTZHZ0tuRWU0aWFxQTFPeE13bDhzUFhvZjMyTkcwRFZBVGRaNmRVbGxwa0d0cVdaaHJzRWhtcEluMW5lUlBOaWtuRWpscXlKYjRTeUUxeXBRQ0VISXBSZ3JtSGZyOWxRUWN2R0hZOWY1emNMRGx4Q19OSzMtSzFoRDdCWE5talQ5My1wOGZSUjFZdw?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-30T19:13:30.000Z"
+    },
+    {
+      "title": "CrossOver, macOS and deprecation of 32-bit bottles",
+      "url": "https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-30T18:55:51.000Z"
+    },
+    {
+      "title": "We asked which Googlebook you'd buy and many said they’d pass",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-30T18:25:16.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
+      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T18:06:06.000Z"
+    },
+    {
+      "title": "The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
+      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-30T17:53:41.000Z"
+    },
+    {
+      "title": "[$] Removing binder.c",
+      "url": "https://lwn.net/Articles/1102982/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T17:46:46.000Z"
+    },
+    {
+      "title": "Ubuntu 27.04 \"Tenacious T-Rex\" Opens For Development",
+      "url": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T17:32:48.000Z"
+    },
+    {
+      "title": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
+      "url": "https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-30T17:18:56.000Z"
+    },
+    {
+      "title": "Patrick Stewart Dies at 86",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-30T16:53:09.000Z"
+    },
+    {
+      "title": "Haas: Postgres 19 is late, and it's AI's fault",
+      "url": "https://lwn.net/Articles/1104210/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T16:52:59.000Z"
+    },
     {
       "title": "Remote code execution on Linux systems with multipath TCP",
       "url": "https://lwn.net/Articles/1104192/",
@@ -234,44 +314,12 @@
       "date": "2026-10-29T13:18:42.000Z"
     },
     {
-      "title": "Linux 7.4 Networking Brings Hardware Pacing Offload, New Drivers & More Performance",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Networking",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T12:55:00.000Z"
-    },
-    {
       "title": "Painting a good story: Peter Paul Rubens",
       "url": "https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-29T12:30:00.000Z"
-    },
-    {
-      "title": "AMD's ROCm HRX Loom v0.1 Released For Targeting AMD CPUs, GPUs & NPUs",
-      "url": "https://www.phoronix.com/news/AMD-ROCm-HRX-Loom-0.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T10:22:15.000Z"
-    },
-    {
-      "title": "FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Faster-FAT32",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T10:06:09.000Z"
-    },
-    {
-      "title": "Graphics/NPU Driver Changes Already Begin Queuing Up For What Will Be Linux 7.5",
-      "url": "https://www.phoronix.com/news/Linux-7.5-drm-misc-next",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T09:48:22.000Z"
     },
     {
       "title": "Do you ever use curl? How recent vulnerabilities could affect you",
@@ -394,44 +442,12 @@
       "date": "2026-10-27T22:00:04.000Z"
     },
     {
-      "title": "★ Prestructured WYSIWYG",
-      "url": "https://daringfireball.net/2026/10/prestructured_wysiwyg",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T21:24:20.000Z"
-    },
-    {
-      "title": "What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks",
-      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T17:59:47.000Z"
-    },
-    {
-      "title": "Apple Also Announces iMac With M6",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T16:44:10.000Z"
-    },
-    {
       "title": "Googlebook should have been framed as the Chromebook successor, not a MacBook rival",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-27T16:26:46.000Z"
-    },
-    {
-      "title": "[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser",
-      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T16:03:08.000Z"
     },
     {
       "title": "Googlebook Can Now Install Pixel Weather App with Desktop Widgets",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-10-26T19:58:11.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook Review: Great Hardware Paying for Google's Beta Test",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eHVEejNDTmw5c0g5RWxONEluSm5kTk5mdFgzUUJMX0pfcHY2MUtZY0lmNmZCMDVsZU5YUlhvZFFWcXRZcGVRSHlOOHp1UjhNWDVCdlU2c2JGV1hTMFBDSUt4cWZHZTF6MmFN?oc=5",
-      "source": "Android Headlines",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T16:13:11.000Z"
-    },
-    {
-      "title": "Googlebooks could soon get much better at letting you pick up where you left off",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjBwek13djIxTHhHaWswVTN4ZHRZcGV0bWFXcU42R0NaVlJVSXNVYWwtZ3hwdFo1bnJGY0RieXc3OFIyajJKZjZ6ektfSlh2VW4xVXd4T3pwUDR5YTVhVm51NVQwbkVraGZtZUI2c1lvcDNwUEl5QllZTngzV0s4ZUdmcw?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T13:59:00.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
