@@ -1,6 +1,102 @@
 {
-  "generated": "2026-10-30T08:43:50.016Z",
+  "generated": "2026-10-30T15:59:25.731Z",
   "items": [
+    {
+      "title": "Remote code execution on Linux systems with multipath TCP",
+      "url": "https://lwn.net/Articles/1104192/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T15:45:27.000Z"
+    },
+    {
+      "title": "AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements",
+      "url": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T15:24:46.000Z"
+    },
+    {
+      "title": "[$] System-call wrappers for glibc",
+      "url": "https://lwn.net/Articles/1101647/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T15:07:29.000Z"
+    },
+    {
+      "title": "Eight more stable kernel updates",
+      "url": "https://lwn.net/Articles/1104177/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T14:22:39.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1104174/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-30T13:37:12.000Z"
+    },
+    {
+      "title": "Painting with impaired vision: Vincent van Gogh",
+      "url": "https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-30T12:30:00.000Z"
+    },
+    {
+      "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
+      "url": "https://www.phoronix.com/news/NULLos",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T12:23:06.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5",
+      "source": "Engadget",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-30T12:00:00.000Z"
+    },
+    {
+      "title": "AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs",
+      "url": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T10:21:54.000Z"
+    },
+    {
+      "title": "Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs",
+      "url": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T10:05:47.000Z"
+    },
+    {
+      "title": "Vulkan 1.4.367 Released With VK_KHR_maintenance12",
+      "url": "https://www.phoronix.com/news/Vulkan-1.4.367",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T09:58:03.000Z"
+    },
+    {
+      "title": "I3C Hub & HDR-DDR Support Merged For Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-I3C",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T09:50:29.000Z"
+    },
     {
       "title": "Acer Googlebook 14 review: Should your next business laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5",
@@ -178,14 +274,6 @@
       "date": "2026-10-29T09:48:22.000Z"
     },
     {
-      "title": "KSMBD Adds New Options With Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-KSMBD",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T09:33:13.000Z"
-    },
-    {
       "title": "Do you ever use curl? How recent vulnerabilities could affect you",
       "url": "https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/",
       "source": "Eclectic Light",
@@ -202,52 +290,12 @@
       "date": "2026-10-29T04:06:15.000Z"
     },
     {
-      "title": "GXVK: 3Dfx Glide API Implemented Atop Vulkan For Modern Usage",
-      "url": "https://www.phoronix.com/news/GXVK-3Dfx-Glide-Vulkan",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T00:44:56.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for October 29, 2026",
-      "url": "https://lwn.net/Articles/1102136/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-29T00:19:08.000Z"
-    },
-    {
-      "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-28T23:01:26.000Z"
-    },
-    {
-      "title": "A report from the LPC sched_ext microconference",
-      "url": "https://lwn.net/Articles/1103426/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-28T22:11:43.000Z"
-    },
-    {
       "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5",
       "source": "How-To Geek",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T20:00:15.000Z"
-    },
-    {
-      "title": "Linux Kernel Developers Considering Removal Of KGDB Debugging Functionality",
-      "url": "https://www.phoronix.com/news/Linux-Considers-Dropping--KGDB",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T19:15:07.000Z"
     },
     {
       "title": "Why Googlebooks are still worse than Android tablets",
@@ -266,28 +314,12 @@
       "date": "2026-10-28T18:34:16.000Z"
     },
     {
-      "title": "System76 Introducing AMD-Powered Linux Small PC",
-      "url": "https://www.phoronix.com/news/System76-Thelio-Prime-Mini-PC",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T17:32:46.000Z"
-    },
-    {
       "title": "The Lenovo Googlebook Duet m is my dream device, and I’m glad it hasn’t launched yet",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T15:47:13.000Z"
-    },
-    {
-      "title": "Canonical Reviving Their Immutable Ubuntu Core Desktop",
-      "url": "https://www.phoronix.com/news/Ubuntu-Core-Desktop-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T15:11:24.000Z"
     },
     {
       "title": "Guessing the Name: MacBook Studio?",
@@ -304,22 +336,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T14:57:00.000Z"
-    },
-    {
-      "title": "CachyOS vs. Fedora 45 vs. Ubuntu 26.10 Performance On AMD Ryzen 9",
-      "url": "https://www.phoronix.com/review/cachyos-ubuntu2610-fedora45",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T14:46:46.000Z"
-    },
-    {
-      "title": "[$] The campaign to push Northstar into Linux distributions",
-      "url": "https://lwn.net/Articles/1102738/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-28T14:26:59.000Z"
     },
     {
       "title": "I tried the Lenovo Googlebook. I wouldn't buy one",
@@ -418,14 +434,6 @@
       "date": "2026-10-27T16:03:08.000Z"
     },
     {
-      "title": "Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T16:00:46.000Z"
-    },
-    {
       "title": "Googlebook Can Now Install Pixel Weather App with Desktop Widgets",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5",
       "source": "gbookhub.io",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T13:59:00.000Z"
-    },
-    {
-      "title": "Googlebook OS Update Adds AAC Audio and Fixes Three Launch Bugs",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbURfR1hkVWM1dUNGSGo1UVBINGpyNm5DUFA2NFQ3N25VQ1RfakNRdzR4ZFpRRG5qU3gzVm5KR1BaYkVwUUc0cjNyVTMyTUx0NENNOVBMM2xfdDAwLTFBQ19MVno?oc=5",
-      "source": "Techaeris",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T12:40:21.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
