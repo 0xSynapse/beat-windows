@@ -1,8 +1,32 @@
 {
-  "generated": "2026-10-29T21:51:15.003Z",
+  "generated": "2026-10-30T01:59:50.453Z",
   "items": [
     {
-      "title": "Apple Drops App Store Commission by a Whopping 4 Percent in Taiwan",
+      "title": "Design the interface for functionality not familiarity",
+      "url": "https://lapcatsoftware.com/articles/2026/10/10.html",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-10-30T01:04:38.000Z"
+    },
+    {
+      "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-30T00:36:39.000Z"
+    },
+    {
+      "title": "Fedora Linux 45 Shipping Next Week On 3 November",
+      "url": "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-29T22:00:54.000Z"
+    },
+    {
+      "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
       "url": "https://developer.apple.com/news/?id=w9mxlhek",
       "source": "Daring Fireball",
       "tag": "macos",
@@ -40,6 +64,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T17:37:55.000Z"
+    },
+    {
+      "title": "Google Automates Googlebook App Optimization via AI Agents",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N2UmZEanBmUFVjcmM0cWphbENMYzQ3bW1Gd2FrTTJwZHZ1T2pPOHNWTG5oRUdKTUctY1h5c1hUbzRYLVB1VVk0X0Y5ak54TzJKb3JicnNtQ3hwbWlSYm5vNlF2U2pDVlE5eG5Cbk5CRXdBNkJibGVtVTJpeHl0SzZEem1DSGViREVOOFhOdlBmQQ?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-29T17:04:12.000Z"
     },
     {
       "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
@@ -274,22 +306,6 @@
       "date": "2026-10-28T14:26:59.000Z"
     },
     {
-      "title": "Redox OS ring buffers project summary",
-      "url": "https://lwn.net/Articles/1103359/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-28T14:05:05.000Z"
-    },
-    {
-      "title": "NetBSD Adds Alternative Text Editor To vi & xedit For Easing New Users",
-      "url": "https://www.phoronix.com/news/NetBSD-New-Text-Editor",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-28T13:48:00.000Z"
-    },
-    {
       "title": "I tried the Lenovo Googlebook. I wouldn't buy one",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5",
       "source": "PCWorld",
@@ -410,14 +426,6 @@
       "date": "2026-10-27T12:30:00.000Z"
     },
     {
-      "title": "Daylight saving time, hieroglyphics, and LogUI 1.3",
-      "url": "https://eclecticlight.co/2026/10/27/daylight-saving-time-hieroglyphics-and-logui-1-3/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-27T07:30:00.000Z"
-    },
-    {
       "title": "Googlebook May Get Chromebook-Like App Restore on Reboot",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5",
       "source": "gbookhub.io",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T05:05:21.000Z"
-    },
-    {
-      "title": "Googlebook is getting AAC Bluetooth audio and key fixes for Cast My Apps",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjAydnpIRkhsVTNXR25VUG5XQno2cHl1M21OZkx0d1FGTXJiTnAxTHVCeHJaazZXV01uVU54TXFJWFVpZVlnbFB3VDMySDdOeXlfRmROZ3hvYTJtMnVBaE1aXzVSSHRMLTYzNTg1QmlsRG9tM1pBX0FSV1NkcUkweE41bW56b2Z0b3JNMERLa3FDUTJEY0ctRGRwR3hoTnFV?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-25T15:41:39.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",

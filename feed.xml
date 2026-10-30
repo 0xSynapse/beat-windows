@@ -5,10 +5,34 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:59:50 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Apple Drops App Store Commission by a Whopping 4 Percent in Taiwan</title>
+      <title>Design the interface for functionality not familiarity</title>
+      <link>https://lapcatsoftware.com/articles/2026/10/10.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/10/10.html</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Fri, 30 Oct 2026 01:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>RISC-V Has A Nice Portable Performance Optimization With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-RISC-V</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-RISC-V</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 30 Oct 2026 00:36:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora Linux 45 Shipping Next Week On 3 November</title>
+      <link>https://www.phoronix.com/news/Fedora-45-Ships-Next-Week</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-Ships-Next-Week</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 29 Oct 2026 22:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
       <link>https://developer.apple.com/news/?id=w9mxlhek</link>
       <guid isPermaLink="true">https://developer.apple.com/news/?id=w9mxlhek</guid>
       <category>macos</category>
@@ -46,6 +70,14 @@
       <category>android</category>
       <source url="https://news.google.com/">MakeUseOf</source>
       <pubDate>Thu, 29 Oct 2026 17:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Automates Googlebook App Optimization via AI Agents</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N2UmZEanBmUFVjcmM0cWphbENMYzQ3bW1Gd2FrTTJwZHZ1T2pPOHNWTG5oRUdKTUctY1h5c1hUbzRYLVB1VVk0X0Y5ak54TzJKb3JicnNtQ3hwbWlSYm5vNlF2U2pDVlE5eG5Cbk5CRXdBNkJibGVtVTJpeHl0SzZEem1DSGViREVOOFhOdlBmQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N2UmZEanBmUFVjcmM0cWphbENMYzQ3bW1Gd2FrTTJwZHZ1T2pPOHNWTG5oRUdKTUctY1h5c1hUbzRYLVB1VVk0X0Y5ak54TzJKb3JicnNtQ3hwbWlSYm5vNlF2U2pDVlE5eG5Cbk5CRXdBNkJibGVtVTJpeHl0SzZEem1DSGViREVOOFhOdlBmQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Thu, 29 Oct 2026 17:04:12 GMT</pubDate>
     </item>
     <item>
       <title>F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements</title>
@@ -280,22 +312,6 @@
       <pubDate>Wed, 28 Oct 2026 14:26:59 GMT</pubDate>
     </item>
     <item>
-      <title>Redox OS ring buffers project summary</title>
-      <link>https://lwn.net/Articles/1103359/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103359/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 28 Oct 2026 14:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetBSD Adds Alternative Text Editor To vi &amp; xedit For Easing New Users</title>
-      <link>https://www.phoronix.com/news/NetBSD-New-Text-Editor</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NetBSD-New-Text-Editor</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 28 Oct 2026 13:48:00 GMT</pubDate>
-    </item>
-    <item>
       <title>I tried the Lenovo Googlebook. I wouldn't buy one</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 27 Oct 2026 16:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 27 Oct 2026 16:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Can Now Install Pixel Weather App with Desktop Widgets</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">gbookhub.io</source>
-      <pubDate>Tue, 27 Oct 2026 13:09:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
