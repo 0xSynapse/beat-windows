@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-30T20:51:43.079Z",
+  "generated": "2026-10-31T00:51:37.618Z",
   "items": [
+    {
+      "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
+      "url": "https://www.phoronix.com/news/Wine-11.21-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T00:29:01.000Z"
+    },
+    {
+      "title": "Sponsorship Openings for Daring Fireball (Including The Talk Show)",
+      "url": "https://daringfireball.net/feeds/sponsors/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-30T22:30:54.000Z"
+    },
+    {
+      "title": "★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max",
+      "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-10-30T21:56:10.000Z"
+    },
+    {
+      "title": "We asked which Googlebook you'd buy and many said they’d pass",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-30T19:20:00.000Z"
+    },
     {
       "title": "This Googlebook trick makes speaking to Gemini so much faster",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTZHZ0tuRWU0aWFxQTFPeE13bDhzUFhvZjMyTkcwRFZBVGRaNmRVbGxwa0d0cVdaaHJzRWhtcEluMW5lUlBOaWtuRWpscXlKYjRTeUUxeXBRQ0VISXBSZ3JtSGZyOWxRUWN2R0hZOWY1emNMRGx4Q19OSzMtSzFoRDdCWE5talQ5My1wOGZSUjFZdw?oc=5",
@@ -10,20 +42,20 @@
       "date": "2026-10-30T19:13:30.000Z"
     },
     {
+      "title": "Everything You Need To Know About Googlebooks",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhEUzFTcjlleUs1WnhTZkRwODFaazNmenk4Q2lMTVFBdk16Mk1KdThBT0NydHl0TUI5aXl2Q1FRNUl6eFF2QS0zdXFmTWdKQmpDSzVqbWQybUxsaE5XWHBjQkw3Mml3N0pCVE1FOXRLVkU3LXpEd3pDQlNiTHplWmQyYmFQUQ?oc=5",
+      "source": "Engadget",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-30T19:00:00.000Z"
+    },
+    {
       "title": "CrossOver, macOS and deprecation of 32-bit bottles",
       "url": "https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html",
       "source": "Lobsters · mac",
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-30T18:55:51.000Z"
-    },
-    {
-      "title": "We asked which Googlebook you'd buy and many said they’d pass",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-30T18:25:16.000Z"
     },
     {
       "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
@@ -306,14 +338,6 @@
       "date": "2026-10-29T13:36:24.000Z"
     },
     {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1103666/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-29T13:18:42.000Z"
-    },
-    {
       "title": "Painting a good story: Peter Paul Rubens",
       "url": "https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/",
       "source": "Eclectic Light",
@@ -426,22 +450,6 @@
       "date": "2026-10-28T07:30:00.000Z"
     },
     {
-      "title": "Siri AI Expands to More Languages in OS 27.2",
-      "url": "https://nr.apple.com/Du9G9W8Nq1",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T22:19:39.000Z"
-    },
-    {
-      "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-27T22:00:04.000Z"
-    },
-    {
       "title": "Googlebook should have been framed as the Chromebook successor, not a MacBook rival",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5",
       "source": "Chrome Unboxed",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T20:00:39.000Z"
-    },
-    {
-      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
-      "url": "https://9to5google.com/2026/10/26/chrome-156-googlebooks/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-10-26T19:58:11.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",

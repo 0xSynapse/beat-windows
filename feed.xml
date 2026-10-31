@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:51:37 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wine 11.21 Released With Better WoW64 OpenGL Performance</title>
+      <link>https://www.phoronix.com/news/Wine-11.21-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.21-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 00:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 30 Oct 2026 22:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max</title>
+      <link>https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 30 Oct 2026 21:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>We asked which Googlebook you'd buy and many said they’d pass</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Fri, 30 Oct 2026 19:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>This Googlebook trick makes speaking to Gemini so much faster</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTZHZ0tuRWU0aWFxQTFPeE13bDhzUFhvZjMyTkcwRFZBVGRaNmRVbGxwa0d0cVdaaHJzRWhtcEluMW5lUlBOaWtuRWpscXlKYjRTeUUxeXBRQ0VISXBSZ3JtSGZyOWxRUWN2R0hZOWY1emNMRGx4Q19OSzMtSzFoRDdCWE5talQ5My1wOGZSUjFZdw?oc=5</link>
@@ -16,20 +48,20 @@
       <pubDate>Fri, 30 Oct 2026 19:13:30 GMT</pubDate>
     </item>
     <item>
+      <title>Everything You Need To Know About Googlebooks</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhEUzFTcjlleUs1WnhTZkRwODFaazNmenk4Q2lMTVFBdk16Mk1KdThBT0NydHl0TUI5aXl2Q1FRNUl6eFF2QS0zdXFmTWdKQmpDSzVqbWQybUxsaE5XWHBjQkw3Mml3N0pCVE1FOXRLVkU3LXpEd3pDQlNiTHplWmQyYmFQUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhEUzFTcjlleUs1WnhTZkRwODFaazNmenk4Q2lMTVFBdk16Mk1KdThBT0NydHl0TUI5aXl2Q1FRNUl6eFF2QS0zdXFmTWdKQmpDSzVqbWQybUxsaE5XWHBjQkw3Mml3N0pCVE1FOXRLVkU3LXpEd3pDQlNiTHplWmQyYmFQUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Engadget</source>
+      <pubDate>Fri, 30 Oct 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>CrossOver, macOS and deprecation of 32-bit bottles</title>
       <link>https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html</link>
       <guid isPermaLink="true">https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html</guid>
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Fri, 30 Oct 2026 18:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>We asked which Googlebook you'd buy and many said they’d pass</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Fri, 30 Oct 2026 18:25:16 GMT</pubDate>
     </item>
     <item>
       <title>PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden</title>
@@ -312,14 +344,6 @@
       <pubDate>Thu, 29 Oct 2026 13:36:24 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1103666/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103666/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 29 Oct 2026 13:18:42 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Peter Paul Rubens</title>
       <link>https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/</guid>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 28 Oct 2026 14:58:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asus Googlebook 14 Review</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE83S29sQW95MzNFUWpNNVlrcXdvUzlwM0toM09QOVZ0MGRyTGJDY0dBWUQ2UnNWSkxjVXBHQkRQc3Bua0h3RnRCNF9TVHRCdzRhQ09TR19GVF9MWnNKWTVZQWFCd1BXa3Y0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE83S29sQW95MzNFUWpNNVlrcXdvUzlwM0toM09QOVZ0MGRyTGJDY0dBWUQ2UnNWSkxjVXBHQkRQc3Bua0h3RnRCNF9TVHRCdzRhQ09TR19GVF9MWnNKWTVZQWFCd1BXa3Y0?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Trusted Reviews</source>
-      <pubDate>Wed, 28 Oct 2026 14:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I tried the Lenovo Googlebook. I wouldn't buy one</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCWorld</source>
-      <pubDate>Wed, 28 Oct 2026 13:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Commemorating the death of Albin Egger-Lienz: early realism</title>
-      <link>https://eclecticlight.co/2026/10/28/commemorating-the-death-of-albin-egger-lienz-early-realism/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/28/commemorating-the-death-of-albin-egger-lienz-early-realism/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 28 Oct 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
