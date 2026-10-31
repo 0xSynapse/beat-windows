@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:37:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Enlightenment 0.28.0 Release</title>
+      <link>https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</link>
+      <guid isPermaLink="true">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 31 Oct 2026 18:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASUS Googlebook 14 Review</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Comics Gaming Magazine</source>
+      <pubDate>Sat, 31 Oct 2026 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enlightenment 0.28 Released With Many Improvements</title>
+      <link>https://www.phoronix.com/news/Enlightenment-0.28</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Enlightenment-0.28</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 14:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint Developing New Apps For Terminal &amp; System Monitoring</title>
+      <link>https://www.phoronix.com/news/Linux-Mint-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Mint-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 14:36:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>How We Could Have Backdoored Bash (Hacktron blog)</title>
+      <link>https://lwn.net/Articles/1104262/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104262/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sat, 31 Oct 2026 14:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQkJMNnY3bThnYkJWaXRYZmxkMFMwSWp2Nmp3bjl6NGlNQVE5bVlkbmdPYjdNZ0JWeHNsLWlnam54eWluamxQTkZ2YktJU3ZPS3JlbVQydUxwcUs2VEVFM2VhbVhIU0g2UDA0?oc=5</link>
@@ -248,14 +288,6 @@
       <pubDate>Fri, 30 Oct 2026 14:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1104174/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104174/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 13:37:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting with impaired vision: Vincent van Gogh</title>
       <link>https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</guid>
@@ -264,36 +296,12 @@
       <pubDate>Fri, 30 Oct 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security</title>
-      <link>https://www.phoronix.com/news/NULLos</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NULLos</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 12:23:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Engadget</source>
       <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-IOMMU</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-IOMMU</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 10:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs</title>
-      <link>https://www.phoronix.com/news/Linux-Patches-Intel-macsmc</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Patches-Intel-macsmc</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 10:05:47 GMT</pubDate>
     </item>
     <item>
       <title>Acer Googlebook 14 review: Should your next business laptop be a Googlebook?</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 29 Oct 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
-      <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 29 Oct 2026 04:06:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

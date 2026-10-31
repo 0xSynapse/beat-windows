@@ -1,6 +1,46 @@
 {
-  "generated": "2026-10-31T13:42:10.160Z",
+  "generated": "2026-10-31T18:37:26.997Z",
   "items": [
+    {
+      "title": "Enlightenment 0.28.0 Release",
+      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-10-31T18:02:18.000Z"
+    },
+    {
+      "title": "ASUS Googlebook 14 Review",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5",
+      "source": "Comics Gaming Magazine",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-31T18:00:00.000Z"
+    },
+    {
+      "title": "Enlightenment 0.28 Released With Many Improvements",
+      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T14:46:26.000Z"
+    },
+    {
+      "title": "Linux Mint Developing New Apps For Terminal & System Monitoring",
+      "url": "https://www.phoronix.com/news/Linux-Mint-October-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T14:36:11.000Z"
+    },
+    {
+      "title": "How We Could Have Backdoored Bash (Hacktron blog)",
+      "url": "https://lwn.net/Articles/1104262/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-31T14:00:42.000Z"
+    },
     {
       "title": "Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQkJMNnY3bThnYkJWaXRYZmxkMFMwSWp2Nmp3bjl6NGlNQVE5bVlkbmdPYjdNZ0JWeHNsLWlnam54eWluamxQTkZ2YktJU3ZPS3JlbVQydUxwcUs2VEVFM2VhbVhIU0g2UDA0?oc=5",
@@ -242,14 +282,6 @@
       "date": "2026-10-30T14:22:39.000Z"
     },
     {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1104174/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T13:37:12.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Vincent van Gogh",
       "url": "https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/",
       "source": "Eclectic Light",
@@ -258,36 +290,12 @@
       "date": "2026-10-30T12:30:00.000Z"
     },
     {
-      "title": "Another Week, Another Vibe Coded OS; Closed-Source In The Name Of Security",
-      "url": "https://www.phoronix.com/news/NULLos",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T12:23:06.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5",
       "source": "Engadget",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "title": "AMD PerfOpt Makes it Into Linux 7.4 As A Nice Performance Boost For AMD iGPUs",
-      "url": "https://www.phoronix.com/news/Linux-7.4-IOMMU",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T10:21:54.000Z"
-    },
-    {
-      "title": "Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs",
-      "url": "https://www.phoronix.com/news/Linux-Patches-Intel-macsmc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T10:05:47.000Z"
     },
     {
       "title": "Acer Googlebook 14 review: Should your next business laptop be a Googlebook?",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-27T13:09:15.000Z"
-    },
-    {
-      "title": "Googlebook May Get Chromebook-Like App Restore on Reboot",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkdvX1VMRGN4VzY4R1Y2NExFdTVIN3EwWk5nc00zX3lVWVVpT2pLakkzWV8wTktwME53NldmdWY3cmZuUXJvZmtLd0RUbVdHbGxUNlNSX0dHSnJyWmNESkFpNXM3NktfcXlpRndxZmo4SHpYUjFjOXdCbzB6ZUlPQk1vVjQxZw?oc=5",
-      "source": "gbookhub.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T21:06:58.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
