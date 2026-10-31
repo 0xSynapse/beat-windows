@@ -1,6 +1,102 @@
 {
-  "generated": "2026-10-31T07:03:47.453Z",
+  "generated": "2026-10-31T13:42:10.160Z",
   "items": [
+    {
+      "title": "Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQkJMNnY3bThnYkJWaXRYZmxkMFMwSWp2Nmp3bjl6NGlNQVE5bVlkbmdPYjdNZ0JWeHNsLWlnam54eWluamxQTkZ2YktJU3ZPS3JlbVQydUxwcUs2VEVFM2VhbVhIU0g2UDA0?oc=5",
+      "source": "XDA",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-31T13:00:20.000Z"
+    },
+    {
+      "title": "Big Googlebook Problem Frustrates Early Adopters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVhqQXRXUDVoNzEzNXpHTEpQd2k4bjNFVmFVdy02VVlaT1h5aGdvV0Y0YkFLVEZVWHp3YTVIVzR3Nkh2OUxzM1NLX0xNM292U0hDWlUwWDFSRXZxS2hKUjJqTGEtSEVVRkJhbkRyNEhlYUtTZkhvcEdxdFZIdHNEWTh3MA?oc=5",
+      "source": "BGR",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-10-31T12:47:00.000Z"
+    },
+    {
+      "title": "A painted weekend in Egypt 1",
+      "url": "https://eclecticlight.co/2026/10/31/a-painted-weekend-in-egypt-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-31T12:30:00.000Z"
+    },
+    {
+      "title": "New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A \"Crazy Beast\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T12:15:22.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.9 Lands Some New Performance Optimizations",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T10:51:01.000Z"
+    },
+    {
+      "title": "Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Ceph",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T10:30:00.000Z"
+    },
+    {
+      "title": "GNOME Now Has An Established RFC Process, GNOME OS Continues Improving",
+      "url": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T10:10:19.000Z"
+    },
+    {
+      "title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
+      "url": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T10:00:00.000Z"
+    },
+    {
+      "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
+      "url": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T09:50:00.000Z"
+    },
+    {
+      "title": "Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel",
+      "url": "https://www.phoronix.com/news/Sculpt-OS-26.10",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T09:37:22.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 384",
+      "url": "https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-31T09:00:00.000Z"
+    },
+    {
+      "title": "New products for new species, revisited",
+      "url": "https://eclecticlight.co/2026/10/31/new-products-for-new-species-revisited/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-10-31T08:00:00.000Z"
+    },
     {
       "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
       "url": "https://www.phoronix.com/news/Wine-11.21-Released",
@@ -194,22 +290,6 @@
       "date": "2026-10-30T10:05:47.000Z"
     },
     {
-      "title": "Vulkan 1.4.367 Released With VK_KHR_maintenance12",
-      "url": "https://www.phoronix.com/news/Vulkan-1.4.367",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T09:58:03.000Z"
-    },
-    {
-      "title": "I3C Hub & HDR-DDR Support Merged For Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-I3C",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T09:50:29.000Z"
-    },
-    {
       "title": "Acer Googlebook 14 review: Should your next business laptop be a Googlebook?",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5",
       "source": "IT Pro",
@@ -232,22 +312,6 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-10-30T01:04:38.000Z"
-    },
-    {
-      "title": "RISC-V Has A Nice Portable Performance Optimization With Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-RISC-V",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T00:36:39.000Z"
-    },
-    {
-      "title": "Fedora Linux 45 Shipping Next Week On 3 November",
-      "url": "https://www.phoronix.com/news/Fedora-45-Ships-Next-Week",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T22:00:54.000Z"
     },
     {
       "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
@@ -298,14 +362,6 @@
       "date": "2026-10-29T17:04:12.000Z"
     },
     {
-      "title": "F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements",
-      "url": "https://www.phoronix.com/news/F2FS-Linux-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T16:52:52.000Z"
-    },
-    {
       "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
       "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
       "source": "Daring Fireball",
@@ -320,22 +376,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T14:23:09.000Z"
-    },
-    {
-      "title": "[$] Containers as a recognized kernel object",
-      "url": "https://lwn.net/Articles/1102593/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-29T14:02:30.000Z"
-    },
-    {
-      "title": "NVIDIA Vera Single vs. Dual Socket CPU Performance",
-      "url": "https://www.phoronix.com/review/nvidia-vera-1p-2p",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-29T13:36:24.000Z"
     },
     {
       "title": "Painting a good story: Peter Paul Rubens",
@@ -418,36 +458,12 @@
       "date": "2026-10-28T13:00:27.000Z"
     },
     {
-      "title": "Commemorating the death of Albin Egger-Lienz: early realism",
-      "url": "https://eclecticlight.co/2026/10/28/commemorating-the-death-of-albin-egger-lienz-early-realism/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-28T12:30:00.000Z"
-    },
-    {
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-28T11:03:56.000Z"
-    },
-    {
       "title": "The case for a full-circle Googlebook future",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IN19LbEdTdFVTUDNkcGItNWtsQ3d2YjN5YzJWRk1nWXpONVVMeEVLMUJZSk5iU1NhekRBWGpFQmdXZDRJempQNmtWblA5aG9iLUpPLTAyaUJGOXFwSFhrZDZLbGFiajdQOE9kZWRkQmxHNVRmNkdV?oc=5",
       "source": "Computerworld",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T09:50:59.000Z"
-    },
-    {
-      "title": "Solve macOS update problems",
-      "url": "https://eclecticlight.co/2026/10/28/solve-macos-update-problems/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-28T07:30:00.000Z"
     },
     {
       "title": "Googlebook should have been framed as the Chromebook successor, not a MacBook rival",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-26T21:06:58.000Z"
-    },
-    {
-      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTc0k4S3JJdFRKbU15VFZ4UXdFVTJCZWxOUnl6RkpsSkxSRV83OXRERVloR3ZGRXp5LThCVGlTVHFyOTJmSTVPSnkwYUk4cmFwWnhvU2o2TVpvQzNBdG1VeGR5MDdKcXRq?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T20:58:00.000Z"
-    },
-    {
-      "title": "Googlebook OS is finally getting one of my favorite ChromeOS features",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMml4bEJJY3JGMlhZWWJIRTBIZWswQndYX2ZSYldLUnpWSmZJQWFDS3lfY2V4QTBuZHIzRVROQU5WUTFDODNZVkFqbVB5R290VzhRNVJuek40akxoeFp3WUZIb1RHY05HTXIyZG9MV2I4dGtPeFZWNXowaVlTb0NFZnlPeE0zOE9NOUxwaW1jZzlERGg3NG44MGNmbHQ?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-26T20:00:39.000Z"
     },
     {
       "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",

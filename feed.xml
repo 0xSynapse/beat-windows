@@ -5,8 +5,104 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 07:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:42:10 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQkJMNnY3bThnYkJWaXRYZmxkMFMwSWp2Nmp3bjl6NGlNQVE5bVlkbmdPYjdNZ0JWeHNsLWlnam54eWluamxQTkZ2YktJU3ZPS3JlbVQydUxwcUs2VEVFM2VhbVhIU0g2UDA0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMia0FVX3lxTE9OQkJMNnY3bThnYkJWaXRYZmxkMFMwSWp2Nmp3bjl6NGlNQVE5bVlkbmdPYjdNZ0JWeHNsLWlnam54eWluamxQTkZ2YktJU3ZPS3JlbVQydUxwcUs2VEVFM2VhbVhIU0g2UDA0?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">XDA</source>
+      <pubDate>Sat, 31 Oct 2026 13:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big Googlebook Problem Frustrates Early Adopters</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVhqQXRXUDVoNzEzNXpHTEpQd2k4bjNFVmFVdy02VVlaT1h5aGdvV0Y0YkFLVEZVWHp3YTVIVzR3Nkh2OUxzM1NLX0xNM292U0hDWlUwWDFSRXZxS2hKUjJqTGEtSEVVRkJhbkRyNEhlYUtTZkhvcEdxdFZIdHNEWTh3MA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVhqQXRXUDVoNzEzNXpHTEpQd2k4bjNFVmFVdy02VVlaT1h5aGdvV0Y0YkFLVEZVWHp3YTVIVzR3Nkh2OUxzM1NLX0xNM292U0hDWlUwWDFSRXZxS2hKUjJqTGEtSEVVRkJhbkRyNEhlYUtTZkhvcEdxdFZIdHNEWTh3MA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">BGR</source>
+      <pubDate>Sat, 31 Oct 2026 12:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A painted weekend in Egypt 1</title>
+      <link>https://eclecticlight.co/2026/10/31/a-painted-weekend-in-egypt-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/31/a-painted-weekend-in-egypt-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 31 Oct 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A &quot;Crazy Beast&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 12:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.9 Lands Some New Performance Optimizations</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 10:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Ceph</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Ceph</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNOME Now Has An Established RFC Process, GNOME OS Continues Improving</title>
+      <link>https://www.phoronix.com/news/GNOME-Establishes-RFC</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Establishes-RFC</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 10:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers</title>
+      <link>https://www.phoronix.com/news/DXVK-NVAPI-0.9.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/DXVK-NVAPI-0.9.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming</title>
+      <link>https://www.phoronix.com/news/CUDA-Oxide-0.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/CUDA-Oxide-0.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 09:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel</title>
+      <link>https://www.phoronix.com/news/Sculpt-OS-26.10</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Sculpt-OS-26.10</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 09:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 384</title>
+      <link>https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>New products for new species, revisited</title>
+      <link>https://eclecticlight.co/2026/10/31/new-products-for-new-species-revisited/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/10/31/new-products-for-new-species-revisited/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 31 Oct 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 11.21 Released With Better WoW64 OpenGL Performance</title>
       <link>https://www.phoronix.com/news/Wine-11.21-Released</link>
@@ -200,22 +296,6 @@
       <pubDate>Fri, 30 Oct 2026 10:05:47 GMT</pubDate>
     </item>
     <item>
-      <title>Vulkan 1.4.367 Released With VK_KHR_maintenance12</title>
-      <link>https://www.phoronix.com/news/Vulkan-1.4.367</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Vulkan-1.4.367</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 09:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>I3C Hub &amp; HDR-DDR Support Merged For Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-I3C</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-I3C</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 09:50:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Acer Googlebook 14 review: Should your next business laptop be a Googlebook?</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5</guid>
@@ -238,22 +318,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Fri, 30 Oct 2026 01:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>RISC-V Has A Nice Portable Performance Optimization With Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-RISC-V</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-RISC-V</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 00:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora Linux 45 Shipping Next Week On 3 November</title>
-      <link>https://www.phoronix.com/news/Fedora-45-Ships-Next-Week</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-45-Ships-Next-Week</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 29 Oct 2026 22:00:54 GMT</pubDate>
     </item>
     <item>
       <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
@@ -304,14 +368,6 @@
       <pubDate>Thu, 29 Oct 2026 17:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>F2FS Adds Opt-In Multi-Grain Timestamps With Linux 7.4, Other Improvements</title>
-      <link>https://www.phoronix.com/news/F2FS-Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/F2FS-Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 29 Oct 2026 16:52:52 GMT</pubDate>
-    </item>
-    <item>
       <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
       <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
       <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
@@ -326,22 +382,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Memeburn</source>
       <pubDate>Thu, 29 Oct 2026 14:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Containers as a recognized kernel object</title>
-      <link>https://lwn.net/Articles/1102593/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102593/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 29 Oct 2026 14:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Vera Single vs. Dual Socket CPU Performance</title>
-      <link>https://www.phoronix.com/review/nvidia-vera-1p-2p</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/nvidia-vera-1p-2p</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 29 Oct 2026 13:36:24 GMT</pubDate>
     </item>
     <item>
       <title>Painting a good story: Peter Paul Rubens</title>
@@ -366,46 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 29 Oct 2026 04:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">How-To Geek</source>
-      <pubDate>Wed, 28 Oct 2026 20:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Googlebooks are still worse than Android tablets</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Notebookcheck</source>
-      <pubDate>Wed, 28 Oct 2026 18:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD Jumpstart 8.0: Quick Start Guide for New Users</title>
-      <link>https://openbsdjumpstart.org</link>
-      <guid isPermaLink="true">https://openbsdjumpstart.org</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Wed, 28 Oct 2026 18:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Lenovo Googlebook Duet m is my dream device, and I’m glad it hasn’t launched yet</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Wed, 28 Oct 2026 15:47:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guessing the Name: MacBook Studio?</title>
-      <link>https://www.macrumors.com/2026/10/28/macbook-studio/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/10/28/macbook-studio/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 28 Oct 2026 14:58:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
