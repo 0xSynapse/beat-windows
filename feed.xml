@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 22:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:18:29 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Duty of a Scholar</title>
+      <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
+      <guid isPermaLink="true">https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Sun, 01 Nov 2026 00:46:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brief Server Downtime Expected Tonight</title>
+      <link>https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 00:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenShot 4.1 Released With Auto-Optimize, CLI Automation &amp; ARM64 Linux Builds</title>
+      <link>https://www.phoronix.com/news/OpenShot-4.1-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OpenShot-4.1-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 31 Oct 2026 23:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>A massive pile of security updates for Saturday</title>
+      <link>https://lwn.net/Articles/1104612/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104612/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sat, 31 Oct 2026 22:34:30 GMT</pubDate>
+    </item>
     <item>
       <title>Enlightenment 0.28.0 Release</title>
       <link>https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</link>
@@ -264,30 +296,6 @@
       <pubDate>Fri, 30 Oct 2026 15:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 15:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] System-call wrappers for glibc</title>
-      <link>https://lwn.net/Articles/1101647/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1101647/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 15:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eight more stable kernel updates</title>
-      <link>https://lwn.net/Articles/1104177/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104177/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 14:22:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting with impaired vision: Vincent van Gogh</title>
       <link>https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 29 Oct 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do you ever use curl? How recent vulnerabilities could affect you</title>
-      <link>https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 29 Oct 2026 07:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

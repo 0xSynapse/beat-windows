@@ -1,6 +1,38 @@
 {
-  "generated": "2026-10-31T22:33:22.162Z",
+  "generated": "2026-11-01T02:18:29.942Z",
   "items": [
+    {
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-11-01T00:46:07.000Z"
+    },
+    {
+      "title": "Brief Server Downtime Expected Tonight",
+      "url": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T00:32:00.000Z"
+    },
+    {
+      "title": "OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds",
+      "url": "https://www.phoronix.com/news/OpenShot-4.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-10-31T23:28:50.000Z"
+    },
+    {
+      "title": "A massive pile of security updates for Saturday",
+      "url": "https://lwn.net/Articles/1104612/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-10-31T22:34:30.000Z"
+    },
     {
       "title": "Enlightenment 0.28.0 Release",
       "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
@@ -256,30 +288,6 @@
       "tag": "linux",
       "site": "https://lwn.net/",
       "date": "2026-10-30T15:45:27.000Z"
-    },
-    {
-      "title": "AMD Ryzen Zen 6 Looks Like It Will Be In Good Shape With Linux 7.4, Laptop Improvements",
-      "url": "https://www.phoronix.com/news/Linux-7.4-x86-Platform-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T15:24:46.000Z"
-    },
-    {
-      "title": "[$] System-call wrappers for glibc",
-      "url": "https://lwn.net/Articles/1101647/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T15:07:29.000Z"
-    },
-    {
-      "title": "Eight more stable kernel updates",
-      "url": "https://lwn.net/Articles/1104177/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T14:22:39.000Z"
     },
     {
       "title": "Painting with impaired vision: Vincent van Gogh",
