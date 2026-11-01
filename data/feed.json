@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-01T10:36:06.812Z",
+  "generated": "2026-11-01T17:09:44.106Z",
   "items": [
+    {
+      "title": "Final release for the 7.2 stable series",
+      "url": "https://lwn.net/Articles/1104629/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-01T15:03:40.000Z"
+    },
+    {
+      "title": "Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance",
+      "url": "https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T13:41:39.000Z"
+    },
+    {
+      "title": "A painted weekend in Egypt 2",
+      "url": "https://eclecticlight.co/2026/11/01/a-painted-weekend-in-egypt-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-01T12:30:00.000Z"
+    },
+    {
+      "title": "The Linux 7.4 Merge Window Is Easily The Largest In Kernel History",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Massive-Window",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T12:00:11.000Z"
+    },
+    {
+      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261101115637",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-01T11:56:37.000Z"
+    },
+    {
+      "title": "OverlayFS Sees Many Fixes Thanks To AI Code Review",
+      "url": "https://www.phoronix.com/news/OverlayFS-Many-Fixes",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T11:37:07.000Z"
+    },
+    {
+      "title": "AI Use In The Linux Kernel, Microsoft Defender On Linux & Other October Highlights",
+      "url": "https://www.phoronix.com/news/October-2026-Highlights",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T10:54:04.000Z"
+    },
+    {
+      "title": "Linux's Perf Python Scripts More Robust & Faster With Linux 7.4",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Perf-Tools",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T10:38:55.000Z"
+    },
     {
       "title": "Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines",
       "url": "https://www.phoronix.com/news/Linux-7.4-Merge-Window",
@@ -162,22 +226,6 @@
       "date": "2026-10-31T10:00:00.000Z"
     },
     {
-      "title": "CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming",
-      "url": "https://www.phoronix.com/news/CUDA-Oxide-0.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T09:50:00.000Z"
-    },
-    {
-      "title": "Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel",
-      "url": "https://www.phoronix.com/news/Sculpt-OS-26.10",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T09:37:22.000Z"
-    },
-    {
       "title": "Saturday Mac riddles 384",
       "url": "https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/",
       "source": "Eclectic Light",
@@ -192,14 +240,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-31T08:00:00.000Z"
-    },
-    {
-      "title": "Wine 11.21 Released With Better WoW64 OpenGL Performance",
-      "url": "https://www.phoronix.com/news/Wine-11.21-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T00:29:01.000Z"
     },
     {
       "title": "Sponsorship Openings for Daring Fireball (Including The Talk Show)",
@@ -250,36 +290,12 @@
       "date": "2026-10-30T18:55:51.000Z"
     },
     {
-      "title": "PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden",
-      "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T18:06:06.000Z"
-    },
-    {
       "title": "The Only Good Easter Eggs Are Whole-Assed Easter Eggs",
       "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-10-30T17:53:41.000Z"
-    },
-    {
-      "title": "[$] Removing binder.c",
-      "url": "https://lwn.net/Articles/1102982/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T17:46:46.000Z"
-    },
-    {
-      "title": "Ubuntu 27.04 \"Tenacious T-Rex\" Opens For Development",
-      "url": "https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-30T17:32:48.000Z"
     },
     {
       "title": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
@@ -418,14 +434,6 @@
       "date": "2026-10-29T07:30:00.000Z"
     },
     {
-      "title": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
-      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-29T04:06:15.000Z"
-    },
-    {
       "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5",
       "source": "How-To Geek",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-27T13:09:15.000Z"
-    },
-    {
-      "title": "LibreSSL 4.4.0, 4.3.4, 4.2.3 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261025115016",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-10-25T11:50:16.000Z"
     },
     {
       "title": "OpenBSD 8.0",

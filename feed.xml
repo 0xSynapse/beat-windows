@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 17:09:44 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Final release for the 7.2 stable series</title>
+      <link>https://lwn.net/Articles/1104629/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104629/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sun, 01 Nov 2026 15:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance</title>
+      <link>https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 13:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>A painted weekend in Egypt 2</title>
+      <link>https://eclecticlight.co/2026/11/01/a-painted-weekend-in-egypt-2/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/01/a-painted-weekend-in-egypt-2/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 01 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Linux 7.4 Merge Window Is Easily The Largest In Kernel History</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Massive-Window</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Massive-Window</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 12:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261101115637</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261101115637</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Sun, 01 Nov 2026 11:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>OverlayFS Sees Many Fixes Thanks To AI Code Review</title>
+      <link>https://www.phoronix.com/news/OverlayFS-Many-Fixes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OverlayFS-Many-Fixes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 11:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Use In The Linux Kernel, Microsoft Defender On Linux &amp; Other October Highlights</title>
+      <link>https://www.phoronix.com/news/October-2026-Highlights</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/October-2026-Highlights</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 10:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux's Perf Python Scripts More Robust &amp; Faster With Linux 7.4</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Perf-Tools</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Perf-Tools</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 10:38:55 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines</title>
       <link>https://www.phoronix.com/news/Linux-7.4-Merge-Window</link>
@@ -168,22 +232,6 @@
       <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming</title>
-      <link>https://www.phoronix.com/news/CUDA-Oxide-0.3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/CUDA-Oxide-0.3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 09:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel</title>
-      <link>https://www.phoronix.com/news/Sculpt-OS-26.10</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Sculpt-OS-26.10</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 09:37:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Saturday Mac riddles 384</title>
       <link>https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</guid>
@@ -198,14 +246,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 31 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 11.21 Released With Better WoW64 OpenGL Performance</title>
-      <link>https://www.phoronix.com/news/Wine-11.21-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.21-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 00:29:01 GMT</pubDate>
     </item>
     <item>
       <title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
@@ -256,36 +296,12 @@
       <pubDate>Fri, 30 Oct 2026 18:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>PostgreSQL 19 Running Behind Schedule Due To AI/LLM Burden</title>
-      <link>https://www.phoronix.com/news/PostgreSQL-19-Late</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/PostgreSQL-19-Late</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 18:06:06 GMT</pubDate>
-    </item>
-    <item>
       <title>The Only Good Easter Eggs Are Whole-Assed Easter Eggs</title>
       <link>https://unsung.aresluna.org/apples-ipod-recreation/</link>
       <guid isPermaLink="true">https://unsung.aresluna.org/apples-ipod-recreation/</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 30 Oct 2026 17:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Removing binder.c</title>
-      <link>https://lwn.net/Articles/1102982/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102982/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 17:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 27.04 &quot;Tenacious T-Rex&quot; Opens For Development</title>
-      <link>https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-27.04-Opens-For-Dev</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 30 Oct 2026 17:32:48 GMT</pubDate>
     </item>
     <item>
       <title>GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Thu, 29 Oct 2026 17:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
-      <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
-      <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 29 Oct 2026 15:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Memeburn</source>
-      <pubDate>Thu, 29 Oct 2026 14:23:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
