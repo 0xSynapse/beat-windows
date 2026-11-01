@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-01T02:18:29.942Z",
+  "generated": "2026-11-01T10:36:06.812Z",
   "items": [
+    {
+      "title": "Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Merge-Window",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T10:28:22.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: An insecure world built on trust stores",
+      "url": "https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-01T08:00:00.000Z"
+    },
+    {
+      "title": "Introducing Kwi, a new KDE terminal emulator",
+      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-01T02:56:29.000Z"
+    },
     {
       "title": "The Duty of a Scholar",
       "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
@@ -274,22 +298,6 @@
       "date": "2026-10-30T16:53:09.000Z"
     },
     {
-      "title": "Haas: Postgres 19 is late, and it's AI's fault",
-      "url": "https://lwn.net/Articles/1104210/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T16:52:59.000Z"
-    },
-    {
-      "title": "Remote code execution on Linux systems with multipath TCP",
-      "url": "https://lwn.net/Articles/1104192/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-30T15:45:27.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Vincent van Gogh",
       "url": "https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/",
       "source": "Eclectic Light",
@@ -448,14 +456,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T15:47:13.000Z"
-    },
-    {
-      "title": "Guessing the Name: MacBook Studio?",
-      "url": "https://www.macrumors.com/2026/10/28/macbook-studio/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-28T14:58:45.000Z"
     },
     {
       "title": "Asus Googlebook 14 Review",

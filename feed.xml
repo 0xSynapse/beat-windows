@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 02:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:36:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Merge-Window</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Merge-Window</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 10:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Week on My Mac: An insecure world built on trust stores</title>
+      <link>https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing Kwi, a new KDE terminal emulator</title>
+      <link>https://blogs.kde.org/2026/11/01/introducing-kwi/</link>
+      <guid isPermaLink="true">https://blogs.kde.org/2026/11/01/introducing-kwi/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 01 Nov 2026 02:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>The Duty of a Scholar</title>
       <link>https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html</link>
@@ -280,22 +304,6 @@
       <pubDate>Fri, 30 Oct 2026 16:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>Haas: Postgres 19 is late, and it's AI's fault</title>
-      <link>https://lwn.net/Articles/1104210/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104210/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 16:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote code execution on Linux systems with multipath TCP</title>
-      <link>https://lwn.net/Articles/1104192/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104192/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 30 Oct 2026 15:45:27 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting with impaired vision: Vincent van Gogh</title>
       <link>https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Memeburn</source>
       <pubDate>Thu, 29 Oct 2026 14:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting a good story: Peter Paul Rubens</title>
-      <link>https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 29 Oct 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
