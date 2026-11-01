@@ -1,6 +1,46 @@
 {
-  "generated": "2026-11-01T17:09:44.106Z",
+  "generated": "2026-11-01T21:14:27.434Z",
   "items": [
+    {
+      "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
+      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-01T20:22:56.000Z"
+    },
+    {
+      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+      "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-11-01T20:13:29.000Z"
+    },
+    {
+      "title": "Google says Googlebook ‘detachables’ are coming soon",
+      "url": "https://9to5google.com/2026/11/01/googlebook-detachables/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-01T20:07:31.000Z"
+    },
+    {
+      "title": "Google says Googlebook ‘detachables’ are coming soon",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsN1ZBb0k5MVlXcDByOEo1b3R1eVpVa3MwRVRHVTNwdUpBOE1uQ0wyLWc1UGhtUTBpcVZLdkE1VVlneFo0WTBZSk9LYXpxSnloeHM3MEFYeExpREJqU1lmazduby1UaHY3?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-01T20:07:00.000Z"
+    },
+    {
+      "title": "I compared Googlebook and Samsung DeX; Galaxy users have little reason to switch",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjIya21hMGpvbGR6Ylo5UUsxZmNXZjVIVDlIR05xcmRVRG44b1ZaT05HNTZyNkF1VktKRTRPTVlhR3hRNk92eFEzQXVBRHhDN0E2eEQtdFRuaFVVNlZCSGc1eUhhX3psR2U2RFRIZXYzbGJ1M3B0Q3FGY04xVF84UnJIYUxNX1hJamtBbHQzcw?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-01T18:00:10.000Z"
+    },
     {
       "title": "Final release for the 7.2 stable series",
       "url": "https://lwn.net/Articles/1104629/",
@@ -426,14 +466,6 @@
       "date": "2026-10-29T12:30:00.000Z"
     },
     {
-      "title": "Do you ever use curl? How recent vulnerabilities could affect you",
-      "url": "https://eclecticlight.co/2026/10/29/do-you-ever-use-curl-how-recent-vulnerabilities-could-affect-you/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-29T07:30:00.000Z"
-    },
-    {
       "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5",
       "source": "How-To Geek",
@@ -480,30 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-28T13:00:27.000Z"
-    },
-    {
-      "title": "The case for a full-circle Googlebook future",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IN19LbEdTdFVTUDNkcGItNWtsQ3d2YjN5YzJWRk1nWXpONVVMeEVLMUJZSk5iU1NhekRBWGpFQmdXZDRJempQNmtWblA5aG9iLUpPLTAyaUJGOXFwSFhrZDZLbGFiajdQOE9kZWRkQmxHNVRmNkdV?oc=5",
-      "source": "Computerworld",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T09:50:59.000Z"
-    },
-    {
-      "title": "Googlebook should have been framed as the Chromebook successor, not a MacBook rival",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdldZVVZJQ0I3cjJKM09iOGFUblBsY0VmT0NSMm8ydkZPc1dycFF1anFtTGxwRDJ1SDlLSHVCRTdnNkVWUzNjRVo4RjBKNl9IVnNfQ084b1BteE8zU184cnNvc204ZUk3elJVQ19wU29jLU5UM2xFYWZlUHpjbkNEWVd2bndJOTV5eEZJd3dPMFZFZVNmM3R6eXE2SVpwTW03dzFSV212MWxWc3BrV0E?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-27T16:26:46.000Z"
-    },
-    {
-      "title": "Googlebook Can Now Install Pixel Weather App with Desktop Widgets",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0UFRGY1ljdmhNd1Y3VUsxWWN6LVQyMkpiQlFyM2EtYVl6a3dGdExlQURWUEE3Zk9GLVJMR3pZaVpzVklfTUNwM3hJajdOckpDZjNiY2JaVHc3SDJYVTVzZzZOTzFDa3MtYkozVDJUdXdmSE1QNXdOanlB?oc=5",
-      "source": "gbookhub.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-27T13:09:15.000Z"
     },
     {
       "title": "OpenBSD 8.0",

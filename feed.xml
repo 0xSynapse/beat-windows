@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:14:27 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 01 Nov 2026 20:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
+      <link>https://www.undeadly.org/cgi?action=article;sid=20261101115637</link>
+      <guid isPermaLink="true">https://www.undeadly.org/cgi?action=article;sid=20261101115637</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
+      <pubDate>Sun, 01 Nov 2026 20:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google says Googlebook ‘detachables’ are coming soon</title>
+      <link>https://9to5google.com/2026/11/01/googlebook-detachables/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/11/01/googlebook-detachables/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Sun, 01 Nov 2026 20:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google says Googlebook ‘detachables’ are coming soon</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsN1ZBb0k5MVlXcDByOEo1b3R1eVpVa3MwRVRHVTNwdUpBOE1uQ0wyLWc1UGhtUTBpcVZLdkE1VVlneFo0WTBZSk9LYXpxSnloeHM3MEFYeExpREJqU1lmazduby1UaHY3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsN1ZBb0k5MVlXcDByOEo1b3R1eVpVa3MwRVRHVTNwdUpBOE1uQ0wyLWc1UGhtUTBpcVZLdkE1VVlneFo0WTBZSk9LYXpxSnloeHM3MEFYeExpREJqU1lmazduby1UaHY3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">9to5Google</source>
+      <pubDate>Sun, 01 Nov 2026 20:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I compared Googlebook and Samsung DeX; Galaxy users have little reason to switch</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjIya21hMGpvbGR6Ylo5UUsxZmNXZjVIVDlIR05xcmRVRG44b1ZaT05HNTZyNkF1VktKRTRPTVlhR3hRNk92eFEzQXVBRHhDN0E2eEQtdFRuaFVVNlZCSGc1eUhhX3psR2U2RFRIZXYzbGJ1M3B0Q3FGY04xVF84UnJIYUxNX1hJamtBbHQzcw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjIya21hMGpvbGR6Ylo5UUsxZmNXZjVIVDlIR05xcmRVRG44b1ZaT05HNTZyNkF1VktKRTRPTVlhR3hRNk92eFEzQXVBRHhDN0E2eEQtdFRuaFVVNlZCSGc1eUhhX3psR2U2RFRIZXYzbGJ1M3B0Q3FGY04xVF84UnJIYUxNX1hJamtBbHQzcw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Sun, 01 Nov 2026 18:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Final release for the 7.2 stable series</title>
       <link>https://lwn.net/Articles/1104629/</link>
@@ -366,46 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 29 Oct 2026 21:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Health Update From Craig Hockenberry</title>
-      <link>https://furbo.org/2026/10/28/a-health-update/</link>
-      <guid isPermaLink="true">https://furbo.org/2026/10/28/a-health-update/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 29 Oct 2026 19:57:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook update finally puts an end to the most frustrating PWA flickering bug</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Thu, 29 Oct 2026 19:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’</title>
-      <link>https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 29 Oct 2026 19:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google put an end date on every Chromebook, and some won’t make it to Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3J6bXkxWV9OUm1IcmFYMXJvZFZGTEN4N0Y0MUpqYVE5bmlkOVRiXzBpaGVwZThvS3dIZGM0amxaeG0teW96X3dJNlZ5eWpnUjRnbHpQc0Y5SV9WallsUmpjYl9SUmRuX0paalVNZmRpcGZOZm90Q0xXeV9zczV5NVVxdm1SamdDbk16TXk2WmdQVVotQzBYb0F4MlF3T1NPakI1QXhId011V3Zt?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3J6bXkxWV9OUm1IcmFYMXJvZFZGTEN4N0Y0MUpqYVE5bmlkOVRiXzBpaGVwZThvS3dIZGM0amxaeG0teW96X3dJNlZ5eWpnUjRnbHpQc0Y5SV9WallsUmpjYl9SUmRuX0paalVNZmRpcGZOZm90Q0xXeV9zczV5NVVxdm1SamdDbk16TXk2WmdQVVotQzBYb0F4MlF3T1NPakI1QXhId011V3Zt?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">MakeUseOf</source>
-      <pubDate>Thu, 29 Oct 2026 17:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Automates Googlebook App Optimization via AI Agents</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N2UmZEanBmUFVjcmM0cWphbENMYzQ3bW1Gd2FrTTJwZHZ1T2pPOHNWTG5oRUdKTUctY1h5c1hUbzRYLVB1VVk0X0Y5ak54TzJKb3JicnNtQ3hwbWlSYm5vNlF2U2pDVlE5eG5Cbk5CRXdBNkJibGVtVTJpeHl0SzZEem1DSGViREVOOFhOdlBmQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N2UmZEanBmUFVjcmM0cWphbENMYzQ3bW1Gd2FrTTJwZHZ1T2pPOHNWTG5oRUdKTUctY1h5c1hUbzRYLVB1VVk0X0Y5ak54TzJKb3JicnNtQ3hwbWlSYm5vNlF2U2pDVlE5eG5Cbk5CRXdBNkJibGVtVTJpeHl0SzZEem1DSGViREVOOFhOdlBmQQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">gbookhub.io</source>
-      <pubDate>Thu, 29 Oct 2026 17:04:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
