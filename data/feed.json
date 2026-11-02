@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-01T21:14:27.434Z",
+  "generated": "2026-11-02T00:52:22.104Z",
   "items": [
+    {
+      "title": "Kernel prepatch 7.4-rc1",
+      "url": "https://lwn.net/Articles/1104654/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T00:17:08.000Z"
+    },
+    {
+      "title": "Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations & AMDGPU HDMI 2.1 Default",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-01T21:51:34.000Z"
+    },
     {
       "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
       "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
@@ -248,22 +264,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-10-31T10:30:00.000Z"
-    },
-    {
-      "title": "GNOME Now Has An Established RFC Process, GNOME OS Continues Improving",
-      "url": "https://www.phoronix.com/news/GNOME-Establishes-RFC",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T10:10:19.000Z"
-    },
-    {
-      "title": "DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers",
-      "url": "https://www.phoronix.com/news/DXVK-NVAPI-0.9.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T10:00:00.000Z"
     },
     {
       "title": "Saturday Mac riddles 384",

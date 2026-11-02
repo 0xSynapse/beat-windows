@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:52:22 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kernel prepatch 7.4-rc1</title>
+      <link>https://lwn.net/Articles/1104654/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104654/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 00:17:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4-rc1 Released With Nice Performance Improvements, AMD Ryzen Zen 6 Preparations &amp; AMDGPU HDMI 2.1 Default</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 01 Nov 2026 21:51:34 GMT</pubDate>
+    </item>
     <item>
       <title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
       <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
@@ -254,22 +270,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sat, 31 Oct 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNOME Now Has An Established RFC Process, GNOME OS Continues Improving</title>
-      <link>https://www.phoronix.com/news/GNOME-Establishes-RFC</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-Establishes-RFC</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 10:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers</title>
-      <link>https://www.phoronix.com/news/DXVK-NVAPI-0.9.3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/DXVK-NVAPI-0.9.3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Saturday Mac riddles 384</title>
