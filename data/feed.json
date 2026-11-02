@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-02T00:52:22.104Z",
+  "generated": "2026-11-02T07:44:36.880Z",
   "items": [
+    {
+      "title": "Lightest-weight macOS virtualisation with Vimy, an update",
+      "url": "https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-02T06:30:00.000Z"
+    },
+    {
+      "title": "Steam On Linux Just Under 4% For October 2026",
+      "url": "https://www.phoronix.com/news/Steam-Survey-October-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-02T01:47:46.000Z"
+    },
     {
       "title": "Kernel prepatch 7.4-rc1",
       "url": "https://lwn.net/Articles/1104654/",
@@ -258,14 +274,6 @@
       "date": "2026-10-31T10:51:01.000Z"
     },
     {
-      "title": "Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Ceph",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T10:30:00.000Z"
-    },
-    {
       "title": "Saturday Mac riddles 384",
       "url": "https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/",
       "source": "Eclectic Light",
@@ -456,14 +464,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T14:23:09.000Z"
-    },
-    {
-      "title": "Painting a good story: Peter Paul Rubens",
-      "url": "https://eclecticlight.co/2026/10/29/painting-a-good-story-peter-paul-rubens/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-29T12:30:00.000Z"
     },
     {
       "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",

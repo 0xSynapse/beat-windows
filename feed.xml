@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:44:36 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lightest-weight macOS virtualisation with Vimy, an update</title>
+      <link>https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 02 Nov 2026 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam On Linux Just Under 4% For October 2026</title>
+      <link>https://www.phoronix.com/news/Steam-Survey-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Steam-Survey-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 02 Nov 2026 01:47:46 GMT</pubDate>
+    </item>
     <item>
       <title>Kernel prepatch 7.4-rc1</title>
       <link>https://lwn.net/Articles/1104654/</link>
@@ -264,14 +280,6 @@
       <pubDate>Sat, 31 Oct 2026 10:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Ceph</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Ceph</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Saturday Mac riddles 384</title>
       <link>https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Fri, 30 Oct 2026 01:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
-      <link>https://developer.apple.com/news/?id=w9mxlhek</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=w9mxlhek</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 29 Oct 2026 21:03:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
