@@ -5,8 +5,160 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:29:11 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>More choice and developing tooling</title>
+      <link>https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/</link>
+      <guid isPermaLink="true">https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 02 Nov 2026 17:51:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] The second part of the 7.4 merge window</title>
+      <link>https://lwn.net/Articles/1102739/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102739/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 17:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>My brutally honest thoughts on Googlebook after one month [VIDEO]</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 02 Nov 2026 17:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>WTF Ubuntu?</title>
+      <link>https://chalmovsky.com/posts/wtf-ubuntu</link>
+      <guid isPermaLink="true">https://chalmovsky.com/posts/wtf-ubuntu</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 02 Nov 2026 17:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jailbreaking my car's navigation system just so I can change the time</title>
+      <link>https://blog.nns.ee/2026/11/02/renault-hack/</link>
+      <guid isPermaLink="true">https://blog.nns.ee/2026/11/02/renault-hack/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 02 Nov 2026 16:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">shattered.io</source>
+      <pubDate>Mon, 02 Nov 2026 14:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shutting the Door on the XCPE Botnet (Threat Intelligence)</title>
+      <link>https://lwn.net/Articles/1104847/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104847/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 14:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The advantages of mobile Linux over AOSP</title>
+      <link>https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/</link>
+      <guid isPermaLink="true">https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 02 Nov 2026 14:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Managing the kernel CVE flood</title>
+      <link>https://lwn.net/Articles/1100894/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1100894/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 14:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tor Browser 16.0 released</title>
+      <link>https://lwn.net/Articles/1104846/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104846/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 14:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Monday</title>
+      <link>https://lwn.net/Articles/1104844/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1104844/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 02 Nov 2026 14:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hero or hooligan: Orestes and the Furies</title>
+      <link>https://eclecticlight.co/2026/11/02/hero-or-hooligan-orestes-and-the-furies/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/02/hero-or-hooligan-orestes-and-the-furies/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 02 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Engadget</source>
+      <pubDate>Mon, 02 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Radeon RADV Vulkan Driver Adopts An LLM Policy</title>
+      <link>https://www.phoronix.com/news/RADV-Adopts-LLM-Policy</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/RADV-Adopts-LLM-Policy</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 02 Nov 2026 11:16:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeRDP 3.33 Released With WebAssembly Support, Huge Influx Of Activity Due To AI</title>
+      <link>https://www.phoronix.com/news/FreeRDP-3.33</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeRDP-3.33</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 02 Nov 2026 11:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Linux Nearing Its Beta Milestone, Now Ships With NTSYNC By Default</title>
+      <link>https://www.phoronix.com/news/KDE-Linux-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Linux-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 02 Nov 2026 10:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 5 16GB Price Rises To $385 USD</title>
+      <link>https://www.phoronix.com/news/Raspberry-Pi-5-16GB-385</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Raspberry-Pi-5-16GB-385</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 02 Nov 2026 10:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google’s next Googlebook could make your Android tablets feel outdated</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Digital Trends</source>
+      <pubDate>Mon, 02 Nov 2026 09:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solutions to Saturday Mac riddles 384</title>
+      <link>https://eclecticlight.co/2026/11/02/solutions-to-saturday-mac-riddles-384/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/02/solutions-to-saturday-mac-riddles-384/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Lightest-weight macOS virtualisation with Vimy, an update</title>
       <link>https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/</link>
@@ -128,44 +280,12 @@
       <pubDate>Sun, 01 Nov 2026 11:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>AI Use In The Linux Kernel, Microsoft Defender On Linux &amp; Other October Highlights</title>
-      <link>https://www.phoronix.com/news/October-2026-Highlights</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/October-2026-Highlights</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 10:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux's Perf Python Scripts More Robust &amp; Faster With Linux 7.4</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Perf-Tools</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Perf-Tools</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 10:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Merge-Window</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Merge-Window</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 10:28:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: An insecure world built on trust stores</title>
       <link>https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 01 Nov 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing Kwi, a new KDE terminal emulator</title>
-      <link>https://blogs.kde.org/2026/11/01/introducing-kwi/</link>
-      <guid isPermaLink="true">https://blogs.kde.org/2026/11/01/introducing-kwi/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 01 Nov 2026 02:56:29 GMT</pubDate>
     </item>
     <item>
       <title>The Duty of a Scholar</title>
@@ -176,68 +296,12 @@
       <pubDate>Sun, 01 Nov 2026 00:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>Brief Server Downtime Expected Tonight</title>
-      <link>https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 00:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenShot 4.1 Released With Auto-Optimize, CLI Automation &amp; ARM64 Linux Builds</title>
-      <link>https://www.phoronix.com/news/OpenShot-4.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OpenShot-4.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 23:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>A massive pile of security updates for Saturday</title>
-      <link>https://lwn.net/Articles/1104612/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104612/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Sat, 31 Oct 2026 22:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enlightenment 0.28.0 Release</title>
-      <link>https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</link>
-      <guid isPermaLink="true">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sat, 31 Oct 2026 18:02:18 GMT</pubDate>
-    </item>
-    <item>
       <title>ASUS Googlebook 14 Review</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Comics Gaming Magazine</source>
       <pubDate>Sat, 31 Oct 2026 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enlightenment 0.28 Released With Many Improvements</title>
-      <link>https://www.phoronix.com/news/Enlightenment-0.28</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Enlightenment-0.28</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 14:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Mint Developing New Apps For Terminal &amp; System Monitoring</title>
-      <link>https://www.phoronix.com/news/Linux-Mint-October-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Mint-October-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 14:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>How We Could Have Backdoored Bash (Hacktron blog)</title>
-      <link>https://lwn.net/Articles/1104262/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104262/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Sat, 31 Oct 2026 14:00:42 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time</title>
@@ -262,22 +326,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sat, 31 Oct 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A &quot;Crazy Beast&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 12:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.9 Lands Some New Performance Optimizations</title>
-      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 31 Oct 2026 10:51:01 GMT</pubDate>
     </item>
     <item>
       <title>Saturday Mac riddles 384</title>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 30 Oct 2026 17:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patrick Stewart Dies at 86</title>
-      <link>https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</link>
-      <guid isPermaLink="true">https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 30 Oct 2026 16:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting with impaired vision: Vincent van Gogh</title>
-      <link>https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/30/painting-with-impaired-vision-vincent-van-gogh/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 30 Oct 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Engadget</source>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer Googlebook 14 review: Should your next business laptop be a Googlebook?</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">IT Pro</source>
-      <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>From click to action: how macOS does what you want</title>
-      <link>https://eclecticlight.co/2026/10/30/from-click-to-action-how-macos-does-what-you-want/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/10/30/from-click-to-action-how-macos-does-what-you-want/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 30 Oct 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Design the interface for functionality not familiarity</title>
-      <link>https://lapcatsoftware.com/articles/2026/10/10.html</link>
-      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/10/10.html</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Fri, 30 Oct 2026 01:04:38 GMT</pubDate>
     </item>
   </channel>
 </rss>

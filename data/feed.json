@@ -1,6 +1,158 @@
 {
-  "generated": "2026-11-02T07:44:36.880Z",
+  "generated": "2026-11-02T18:29:11.720Z",
   "items": [
+    {
+      "title": "More choice and developing tooling",
+      "url": "https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-02T17:51:53.000Z"
+    },
+    {
+      "title": "[$] The second part of the 7.4 merge window",
+      "url": "https://lwn.net/Articles/1102739/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T17:51:48.000Z"
+    },
+    {
+      "title": "My brutally honest thoughts on Googlebook after one month [VIDEO]",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-02T17:30:30.000Z"
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-02T17:29:39.000Z"
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-02T16:30:58.000Z"
+    },
+    {
+      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
+      "source": "shattered.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-02T14:47:11.000Z"
+    },
+    {
+      "title": "Shutting the Door on the XCPE Botnet (Threat Intelligence)",
+      "url": "https://lwn.net/Articles/1104847/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T14:29:37.000Z"
+    },
+    {
+      "title": "The advantages of mobile Linux over AOSP",
+      "url": "https://amosbbatto.wordpress.com/2026/10/19/the-advantages-of-mobile-linux-over-aosp/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-02T14:29:18.000Z"
+    },
+    {
+      "title": "[$] Managing the kernel CVE flood",
+      "url": "https://lwn.net/Articles/1100894/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T14:28:39.000Z"
+    },
+    {
+      "title": "Tor Browser 16.0 released",
+      "url": "https://lwn.net/Articles/1104846/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T14:28:23.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1104844/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-02T14:03:45.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Orestes and the Furies",
+      "url": "https://eclecticlight.co/2026/11/02/hero-or-hooligan-orestes-and-the-furies/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-02T12:30:00.000Z"
+    },
+    {
+      "title": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5",
+      "source": "Engadget",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-02T12:30:00.000Z"
+    },
+    {
+      "title": "Radeon RADV Vulkan Driver Adopts An LLM Policy",
+      "url": "https://www.phoronix.com/news/RADV-Adopts-LLM-Policy",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-02T11:16:22.000Z"
+    },
+    {
+      "title": "FreeRDP 3.33 Released With WebAssembly Support, Huge Influx Of Activity Due To AI",
+      "url": "https://www.phoronix.com/news/FreeRDP-3.33",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-02T11:07:14.000Z"
+    },
+    {
+      "title": "KDE Linux Nearing Its Beta Milestone, Now Ships With NTSYNC By Default",
+      "url": "https://www.phoronix.com/news/KDE-Linux-October-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-02T10:39:21.000Z"
+    },
+    {
+      "title": "Raspberry Pi 5 16GB Price Rises To $385 USD",
+      "url": "https://www.phoronix.com/news/Raspberry-Pi-5-16GB-385",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-02T10:27:17.000Z"
+    },
+    {
+      "title": "Google’s next Googlebook could make your Android tablets feel outdated",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5",
+      "source": "Digital Trends",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-02T09:13:26.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 384",
+      "url": "https://eclecticlight.co/2026/11/02/solutions-to-saturday-mac-riddles-384/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-02T09:00:00.000Z"
+    },
     {
       "title": "Lightest-weight macOS virtualisation with Vimy, an update",
       "url": "https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/",
@@ -122,44 +274,12 @@
       "date": "2026-11-01T11:37:07.000Z"
     },
     {
-      "title": "AI Use In The Linux Kernel, Microsoft Defender On Linux & Other October Highlights",
-      "url": "https://www.phoronix.com/news/October-2026-Highlights",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T10:54:04.000Z"
-    },
-    {
-      "title": "Linux's Perf Python Scripts More Robust & Faster With Linux 7.4",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Perf-Tools",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T10:38:55.000Z"
-    },
-    {
-      "title": "Linux 7.4 Merge Window Saw Nearly 20k Commits, Source Tree Approaching 42 Million Lines",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Merge-Window",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T10:28:22.000Z"
-    },
-    {
       "title": "Last Week on My Mac: An insecure world built on trust stores",
       "url": "https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-01T08:00:00.000Z"
-    },
-    {
-      "title": "Introducing Kwi, a new KDE terminal emulator",
-      "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-01T02:56:29.000Z"
     },
     {
       "title": "The Duty of a Scholar",
@@ -170,68 +290,12 @@
       "date": "2026-11-01T00:46:07.000Z"
     },
     {
-      "title": "Brief Server Downtime Expected Tonight",
-      "url": "https://www.phoronix.com/news/RAID-Drive-Replacement-Tonight",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T00:32:00.000Z"
-    },
-    {
-      "title": "OpenShot 4.1 Released With Auto-Optimize, CLI Automation & ARM64 Linux Builds",
-      "url": "https://www.phoronix.com/news/OpenShot-4.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T23:28:50.000Z"
-    },
-    {
-      "title": "A massive pile of security updates for Saturday",
-      "url": "https://lwn.net/Articles/1104612/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-31T22:34:30.000Z"
-    },
-    {
-      "title": "Enlightenment 0.28.0 Release",
-      "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-10-31T18:02:18.000Z"
-    },
-    {
       "title": "ASUS Googlebook 14 Review",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rbFlEeE85ZmlBN0J0SEpQalNZdDFJVHFEV0RkWEo2ZERZRktDWUlBWUtuN1Q0OGdQMkY3anRjREZvUDhOUF9KRzdSZHRsOVRJU01vQTJlaU9OamdmaGF2RndYQVZ0NFFxdzNCcFNlUzJwV3dUMVpzamJR?oc=5",
       "source": "Comics Gaming Magazine",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-31T18:00:00.000Z"
-    },
-    {
-      "title": "Enlightenment 0.28 Released With Many Improvements",
-      "url": "https://www.phoronix.com/news/Enlightenment-0.28",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T14:46:26.000Z"
-    },
-    {
-      "title": "Linux Mint Developing New Apps For Terminal & System Monitoring",
-      "url": "https://www.phoronix.com/news/Linux-Mint-October-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T14:36:11.000Z"
-    },
-    {
-      "title": "How We Could Have Backdoored Bash (Hacktron blog)",
-      "url": "https://lwn.net/Articles/1104262/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-10-31T14:00:42.000Z"
     },
     {
       "title": "Lenovo's Googlebook 15 is a fantastic laptop held back by an OS that isn't ready for prime time",
@@ -256,22 +320,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-10-31T12:30:00.000Z"
-    },
-    {
-      "title": "New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A \"Crazy Beast\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T12:15:22.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.9 Lands Some New Performance Optimizations",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-10-31T10:51:01.000Z"
     },
     {
       "title": "Saturday Mac riddles 384",
@@ -426,14 +474,6 @@
       "date": "2026-10-29T19:52:54.000Z"
     },
     {
-      "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’",
-      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-29T19:44:11.000Z"
-    },
-    {
       "title": "Google put an end date on every Chromebook, and some won’t make it to Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3J6bXkxWV9OUm1IcmFYMXJvZFZGTEN4N0Y0MUpqYVE5bmlkOVRiXzBpaGVwZThvS3dIZGM0amxaeG0teW96X3dJNlZ5eWpnUjRnbHpQc0Y5SV9WallsUmpjYl9SUmRuX0paalVNZmRpcGZOZm90Q0xXeV9zczV5NVVxdm1SamdDbk16TXk2WmdQVVotQzBYb0F4MlF3T1NPakI1QXhId011V3Zt?oc=5",
       "source": "MakeUseOf",
@@ -448,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T17:04:12.000Z"
-    },
-    {
-      "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
-      "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-29T15:06:56.000Z"
     },
     {
       "title": "MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet",
@@ -474,44 +506,12 @@
       "date": "2026-10-28T20:00:15.000Z"
     },
     {
-      "title": "Why Googlebooks are still worse than Android tablets",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3J5TUI4Q3NET1ItNnJQRDB0akVON1BnRFAyVndSSW5OQS1lX2ROQTBkbGtZalFfNTc2VXdIM2tLMDFvRnpLS1d1LUpxTE8wV3JlQk1JVklETkRVLW0ybjlKdjlXbldXYnlVbXA2V3BvbFdfNko5NEZzTXlpU0hEakRFYk54aXE2Y3ZVY3hVU0JMaGxDbC1JX1RUNWxvUQ?oc=5",
-      "source": "Notebookcheck",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T18:39:00.000Z"
-    },
-    {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
       "url": "https://openbsdjumpstart.org",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-28T18:34:16.000Z"
-    },
-    {
-      "title": "The Lenovo Googlebook Duet m is my dream device, and I’m glad it hasn’t launched yet",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGtOZmNGM3FMVW14NnpDMTl3a3VzZ2FUb1JHZW5LbEsyUFE1SjVXWlhyUkkzdmJIRHVqTFR2WVExNDk2b0ROX1lTV2N2MXZUZlptbXR3c1d0OUdCTGlQNEF6dHlQUWtUdEcwdWNHSExJUXNydjlYa3RQblROSHlsOGY2bzZHWXN2Q0xDU0VmbDhMZFhyR1VjS1RNRG1wT2dRSnNVdDhqWE1VQ05x?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T15:47:13.000Z"
-    },
-    {
-      "title": "Asus Googlebook 14 Review",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83S29sQW95MzNFUWpNNVlrcXdvUzlwM0toM09QOVZ0MGRyTGJDY0dBWUQ2UnNWSkxjVXBHQkRQc3Bua0h3RnRCNF9TVHRCdzRhQ09TR19GVF9MWnNKWTVZQWFCd1BXa3Y0?oc=5",
-      "source": "Trusted Reviews",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T14:57:00.000Z"
-    },
-    {
-      "title": "I tried the Lenovo Googlebook. I wouldn't buy one",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnZaUUNVTjZpZkNOUlpsNG9LT0I3WlZ4Skw1Q2hpQmFOZjZpSW81d3RoRmstMC11bmhKQzVwbGphZXgtTTRhdkdSM09LTklBUWdzSjNzUWJiQWNjRElub1VSeWhWWEpYSFY0bmhiUjZzM1ktOFNWa2l6MWk?oc=5",
-      "source": "PCWorld",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T13:00:27.000Z"
     },
     {
       "title": "OpenBSD 8.0",
