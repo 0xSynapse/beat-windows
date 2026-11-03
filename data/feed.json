@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-03T01:38:49.536Z",
+  "generated": "2026-11-03T09:39:56.625Z",
   "items": [
+    {
+      "title": "Trackpad and touch input in macOS Golden Gate",
+      "url": "https://eclecticlight.co/2026/11/03/trackpad-and-touch-input-in-macos-golden-gate/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-03T07:30:00.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 review: Is it worth $1,099?",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5",
+      "source": "Techlicious",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-03T02:10:57.000Z"
+    },
+    {
+      "title": "Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles",
+      "url": "https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-03T01:22:44.000Z"
+    },
     {
       "title": "AerynOS 2026.11 Released With New Installer Option, Other Improvements",
       "url": "https://www.phoronix.com/news/AerynOS-2026.11",
@@ -274,14 +298,6 @@
       "date": "2026-11-01T15:03:40.000Z"
     },
     {
-      "title": "Kwi Being Developed As New KDE Terminal Emulator With 3x To 35x Performance",
-      "url": "https://www.phoronix.com/news/KDE-Kwi-Terminal-Emulator",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T13:41:39.000Z"
-    },
-    {
       "title": "A painted weekend in Egypt 2",
       "url": "https://eclecticlight.co/2026/11/01/a-painted-weekend-in-egypt-2/",
       "source": "Eclectic Light",
@@ -466,14 +482,6 @@
       "date": "2026-10-30T07:30:00.000Z"
     },
     {
-      "title": "Design the interface for functionality not familiarity",
-      "url": "https://lapcatsoftware.com/articles/2026/10/10.html",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-10-30T01:04:38.000Z"
-    },
-    {
       "title": "Googlebook update finally puts an end to the most frustrating PWA flickering bug",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5",
       "source": "Chrome Unboxed",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T17:04:12.000Z"
-    },
-    {
-      "title": "MacBook Neo vs Googlebook: The Better Laptop Isn't the Better Computer Yet",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0VWS1djVEN0QkRaNU9IaVB1QU5ibzR1aHhLdjlxUkdMMnp1RHIyMTBNbHh6TEV6UEVMMnpFd2dkWnd3aHk5T2RtaHc2RDlCRkJuTHJ1ZWNieVZ5X25OQk1RdjFuaDV2UHlzdmhZTjZPQ1VTaDhyOFR4NDRkdmRLbVlOZ05GamQxZDRReTFadjhJdVFpNjBBOVlB?oc=5",
-      "source": "Memeburn",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-29T14:23:09.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
@@ -560,14 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-07T07:05:27.000Z"
-    },
-    {
-      "title": "OpenBSD Developers Reject Uutils Coreutils",
-      "url": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
-      "source": "HN · OpenBSD",
-      "tag": "bsd",
-      "site": "https://news.ycombinator.com/",
-      "date": "2026-10-04T07:55:24.000Z"
     }
   ]
 }
