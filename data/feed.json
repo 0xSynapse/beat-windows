@@ -1,6 +1,46 @@
 {
-  "generated": "2026-11-02T18:29:11.720Z",
+  "generated": "2026-11-03T01:38:49.536Z",
   "items": [
+    {
+      "title": "AerynOS 2026.11 Released With New Installer Option, Other Improvements",
+      "url": "https://www.phoronix.com/news/AerynOS-2026.11",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-03T00:40:38.000Z"
+    },
+    {
+      "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
+      "url": "https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-03T00:10:53.000Z"
+    },
+    {
+      "title": "[Sponsor] OurCal",
+      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-02T22:43:59.000Z"
+    },
+    {
+      "title": "A Decade of Kill Bugs",
+      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-02T21:23:24.000Z"
+    },
+    {
+      "title": "Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-02T20:39:52.000Z"
+    },
     {
       "title": "More choice and developing tooling",
       "url": "https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/",
@@ -191,7 +231,7 @@
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-11-01T20:22:56.000Z"
+      "date": "2026-11-01T21:22:56.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
@@ -250,28 +290,12 @@
       "date": "2026-11-01T12:30:00.000Z"
     },
     {
-      "title": "The Linux 7.4 Merge Window Is Easily The Largest In Kernel History",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Massive-Window",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T12:00:11.000Z"
-    },
-    {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
       "url": "https://undeadly.org/cgi?action=article;sid=20261101115637",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-11-01T11:56:37.000Z"
-    },
-    {
-      "title": "OverlayFS Sees Many Fixes Thanks To AI Code Review",
-      "url": "https://www.phoronix.com/news/OverlayFS-Many-Fixes",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-01T11:37:07.000Z"
     },
     {
       "title": "Last Week on My Mac: An insecure world built on trust stores",
@@ -343,7 +367,7 @@
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-10-30T22:30:54.000Z"
+      "date": "2026-10-30T23:30:54.000Z"
     },
     {
       "title": "★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max",
@@ -391,7 +415,7 @@
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-10-30T17:53:41.000Z"
+      "date": "2026-10-30T18:53:41.000Z"
     },
     {
       "title": "GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy",
@@ -399,7 +423,7 @@
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-10-30T17:18:56.000Z"
+      "date": "2026-10-30T18:18:56.000Z"
     },
     {
       "title": "Patrick Stewart Dies at 86",
@@ -407,7 +431,7 @@
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
-      "date": "2026-10-30T16:53:09.000Z"
+      "date": "2026-10-30T17:53:09.000Z"
     },
     {
       "title": "Painting with impaired vision: Vincent van Gogh",
@@ -450,22 +474,6 @@
       "date": "2026-10-30T01:04:38.000Z"
     },
     {
-      "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
-      "url": "https://developer.apple.com/news/?id=w9mxlhek",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-29T21:03:42.000Z"
-    },
-    {
-      "title": "A Health Update From Craig Hockenberry",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-29T19:57:21.000Z"
-    },
-    {
       "title": "Googlebook update finally puts an end to the most frustrating PWA flickering bug",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5",
       "source": "Chrome Unboxed",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-29T14:23:09.000Z"
-    },
-    {
-      "title": "Here's how I replicated 3 of the Googlebook's best features on a $60 Linux laptop",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNF93LUdub2p1Q0VBWUdwb0Rac1Y0bFVrcEd4RW1HN0pkX3l5SVJhakw0NkItcE1KMllGSVVSbHFseUx0dWtfclpyYWE1UmJvNkdRVDRxZ3JBUmdiakR4MklHeERvOW5UNTlXSXZjejhFV1BOb1c3U0tHMmdZc1hZVFQ0WXh5RVNEdnRVcWZJUmN0SUE5N3psT2pSVTdHQ2hRVHNIY1pyY3lHV0FUYy0yUU5n?oc=5",
-      "source": "How-To Geek",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-28T20:00:15.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",

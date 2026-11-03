@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:38:49 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AerynOS 2026.11 Released With New Installer Option, Other Improvements</title>
+      <link>https://www.phoronix.com/news/AerynOS-2026.11</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AerynOS-2026.11</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 03 Nov 2026 00:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Announces Record $114.5B Fourth-Quarter Results</title>
+      <link>https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 03 Nov 2026 00:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] OurCal</title>
+      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</link>
+      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 02 Nov 2026 22:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Decade of Kill Bugs</title>
+      <link>https://alangrow.com/blog/a-decade-of-kill-bugs</link>
+      <guid isPermaLink="true">https://alangrow.com/blog/a-decade-of-kill-bugs</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 02 Nov 2026 21:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 02 Nov 2026 20:39:52 GMT</pubDate>
+    </item>
     <item>
       <title>More choice and developing tooling</title>
       <link>https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/</link>
@@ -197,7 +237,7 @@
       <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 01 Nov 2026 20:22:56 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 21:22:56 GMT</pubDate>
     </item>
     <item>
       <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
@@ -256,28 +296,12 @@
       <pubDate>Sun, 01 Nov 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Linux 7.4 Merge Window Is Easily The Largest In Kernel History</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Massive-Window</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Massive-Window</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 12:00:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Work on GEFS (the Good Enough File System) for OpenBSD progresses</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261101115637</link>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261101115637</guid>
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Sun, 01 Nov 2026 11:56:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OverlayFS Sees Many Fixes Thanks To AI Code Review</title>
-      <link>https://www.phoronix.com/news/OverlayFS-Many-Fixes</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OverlayFS-Many-Fixes</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 01 Nov 2026 11:37:07 GMT</pubDate>
     </item>
     <item>
       <title>Last Week on My Mac: An insecure world built on trust stores</title>
@@ -349,7 +373,7 @@
       <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 30 Oct 2026 22:30:54 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 23:30:54 GMT</pubDate>
     </item>
     <item>
       <title>★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Engadget</source>
       <pubDate>Fri, 30 Oct 2026 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrossOver, macOS and deprecation of 32-bit bottles</title>
-      <link>https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html</link>
-      <guid isPermaLink="true">https://www.dedoimedo.com/computers/crossover-macos-32bit-deprecation.html</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Fri, 30 Oct 2026 18:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Only Good Easter Eggs Are Whole-Assed Easter Eggs</title>
-      <link>https://unsung.aresluna.org/apples-ipod-recreation/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/apples-ipod-recreation/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 30 Oct 2026 17:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy</title>
-      <link>https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 30 Oct 2026 17:18:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
