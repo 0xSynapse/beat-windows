@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-03T17:53:33.243Z",
+  "generated": "2026-11-03T23:28:37.909Z",
   "items": [
+    {
+      "title": "MKBHD on the New iPad Mini",
+      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-03T23:25:25.000Z"
+    },
+    {
+      "title": "GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports",
+      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-03T22:21:50.000Z"
+    },
+    {
+      "title": "NetBSD 11.1 Released With Security Fixes & Other Improvements",
+      "url": "https://www.phoronix.com/news/NetBSD-11.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-03T22:09:52.000Z"
+    },
+    {
+      "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-11-03T21:37:11.000Z"
+    },
+    {
+      "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTcyc0syeEpGSEtNZFBUQUxQUlRfLXdsM2p5R0hRV1IydmFqenE2azAtNUZod0ViOUVjbzcyMldCQThNYXFJNmtTT3kzLXN6Y3ZRaF9WQTF0bWVRb1ZSVXRVU3p6czVXNDFqZGxSdFk4a1BKWUY3YWgxd1FIMHJ0QXZkUEx2WHBzSDFSMnNja3VoNjg1T3NMZ3E1ODRSUm9UbVVYdXBB?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-03T20:16:23.000Z"
+    },
+    {
+      "title": "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-03T19:26:41.000Z"
+    },
+    {
+      "title": "Apple has just released an update to XProtect for all macOS",
+      "url": "https://eclecticlight.co/2026/11/03/apple-has-just-released-an-update-to-xprotect-for-all-macos-24/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-03T19:19:19.000Z"
+    },
     {
       "title": "OpenSUSE Leap 16.1",
       "url": "https://lwn.net/Articles/1105131/",
@@ -242,28 +298,12 @@
       "date": "2026-11-02T22:43:59.000Z"
     },
     {
-      "title": "A Decade of Kill Bugs",
-      "url": "https://alangrow.com/blog/a-decade-of-kill-bugs",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-02T21:23:24.000Z"
-    },
-    {
       "title": "Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-02T20:39:52.000Z"
-    },
-    {
-      "title": "More choice and developing tooling",
-      "url": "https://aerynos.com/blog/2026/11/02/more-choice-and-developing-tooling/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-02T17:51:53.000Z"
     },
     {
       "title": "My brutally honest thoughts on Googlebook after one month [VIDEO]",
@@ -426,38 +466,6 @@
       "date": "2026-10-31T12:30:00.000Z"
     },
     {
-      "title": "Saturday Mac riddles 384",
-      "url": "https://eclecticlight.co/2026/10/31/saturday-mac-riddles-384/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-31T09:00:00.000Z"
-    },
-    {
-      "title": "New products for new species, revisited",
-      "url": "https://eclecticlight.co/2026/10/31/new-products-for-new-species-revisited/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-31T08:00:00.000Z"
-    },
-    {
-      "title": "Sponsorship Openings for Daring Fireball (Including The Talk Show)",
-      "url": "https://daringfireball.net/feeds/sponsors/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-30T23:30:54.000Z"
-    },
-    {
-      "title": "★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max",
-      "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-10-30T21:56:10.000Z"
-    },
-    {
       "title": "We asked which Googlebook you'd buy and many said they’d pass",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wbXVLUDlENFduMUhKNHpneE1INXlrZnBGZ1FxUEk3SmpVdktjM0Z2UnB5cGR2STdyazZKWU5meUhTamY4RjZxOE9RTlYwLWY4SWVZMW1sbVRaVWVIMmFIeHhENjYzMjBfUF9HdHVnZWxpLTQ?oc=5",
       "source": "Android Authority",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-30T08:00:00.000Z"
-    },
-    {
-      "title": "Googlebook update finally puts an end to the most frustrating PWA flickering bug",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUERpajlKZ09pVzljbUloZk1nM0t5LUZKZS16bWREWGp2Xy1ZRzRLeERWem9GSlIxWGlaOTY0T0ZXYU5VOTVFRUZ2S2wtSGpCR3dYVUZyN2tXWFFPdVhydWRCdEFjWlF3b0tYUy0yT2MxTU4yTmZma1lJTm0zSjhVaHFyLUJoRGR0LUxZNHRlU2RxREd0RHppYWRxZGh4R2J0NWxOZUFsYmc4RTg?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-29T19:52:54.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
