@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-04T15:29:59.601Z",
+  "generated": "2026-11-04T21:56:26.162Z",
   "items": [
+    {
+      "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
+      "url": "https://www.phoronix.com/news/LZ4-1.11-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T21:53:33.000Z"
+    },
+    {
+      "title": "NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin",
+      "url": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T21:11:41.000Z"
+    },
+    {
+      "title": "Intel One Mono Font Family Updated With Various Enhancements",
+      "url": "https://www.phoronix.com/news/Intel-One-Mono-1.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T19:27:03.000Z"
+    },
+    {
+      "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
+      "url": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-04T18:45:02.000Z"
+    },
+    {
+      "title": "[$] Plasma X11 session removal surprises some Fedora users",
+      "url": "https://lwn.net/Articles/1105130/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-04T16:33:11.000Z"
+    },
+    {
+      "title": "Linux 7.4 Showing Few Performance Gains With Initial Benchmarks On AMD Ryzen Threadripper",
+      "url": "https://www.phoronix.com/review/linux-74-threadripper",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T16:00:00.000Z"
+    },
+    {
+      "title": "Bazzite 45 released",
+      "url": "https://lwn.net/Articles/1105395/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-04T15:54:44.000Z"
+    },
+    {
+      "title": "This Election Will Not Look Surprising in History",
+      "url": "https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-04T15:15:51.000Z"
+    },
     {
       "title": "This Election Will Not Look Surprising in History",
       "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats?unlocked_article_code=1.N1E.firI.gTIOI047TyqA",
@@ -202,30 +266,6 @@
       "date": "2026-11-03T19:19:19.000Z"
     },
     {
-      "title": "OpenSUSE Leap 16.1",
-      "url": "https://lwn.net/Articles/1105131/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-03T17:09:48.000Z"
-    },
-    {
-      "title": "Linux 7.4 Features Steam Frame VR Headset, More AMD Zen 6 Enablement & Initial Apple M4 / A18 Pro Bring-Up",
-      "url": "https://www.phoronix.com/review/linux-74-features",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T16:42:22.000Z"
-    },
-    {
-      "title": "[$] LLM reviews for Debian's new queue spark debate",
-      "url": "https://lwn.net/Articles/1103674/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-03T16:28:40.000Z"
-    },
-    {
       "title": "Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUlaNWlhcnJxRFhGTTMxMEVCODkyN1B0bndlYUVUMDJuWTlQMzdJeFFuVjVYN1E1UHZtUWktaGxGdlJybHIwajlaVUNuSHUycEZwRHF6T1FzVVlnajVDc3E1d2JXRVc3RGpvdUFsQlBtQjdOTFdIaVZMUC1mSE85NmUyNW5xeHZBQkRqYQ?oc=5",
       "source": "TechRepublic",
@@ -256,30 +296,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-03T15:25:20.000Z"
-    },
-    {
-      "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-03T15:23:21.000Z"
-    },
-    {
-      "title": "RadeonSI & RADV Now Enabling D16 Support For GFX8 Era GPUs",
-      "url": "https://www.phoronix.com/news/RadeonSI-RADV-GFX8-D16",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T15:18:18.000Z"
-    },
-    {
-      "title": "Fedora Linux 45 released",
-      "url": "https://lwn.net/Articles/1105121/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-03T15:11:32.000Z"
     },
     {
       "title": "Chance Miller Reviews the New A20 Pro iPad Mini",
@@ -368,14 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-02T14:47:11.000Z"
-    },
-    {
-      "title": "Hero or hooligan: Orestes and the Furies",
-      "url": "https://eclecticlight.co/2026/11/02/hero-or-hooligan-orestes-and-the-furies/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-02T12:30:00.000Z"
     },
     {
       "title": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-30T12:00:00.000Z"
-    },
-    {
-      "title": "Acer Googlebook 14 review: Should your next business laptop be a Googlebook?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGRsZnlBSHJNUXM3NkpuMEt3Q3hxTzZxaEN2N0FENXlCZGx2SGcxTHRnQXdfSHF2RkNPQU9Zc2Z0bndZdGpuaW4wVWo5YjFlS0NiZk5waHZYajd5WUp1OWlmV2kxWVBMd1dVSGEwY09yUV9Hc21aeFZOdm41dHFNXzZnVDY0UW1YR1JtWXNJbVZ4YkYxSVFLaU5kRFh6YmhLanBOdTBjZTNXcGZwTFRLN3J1NA?oc=5",
-      "source": "IT Pro",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-30T08:00:00.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
