@@ -1,8 +1,32 @@
 {
-  "generated": "2026-11-03T23:28:37.909Z",
+  "generated": "2026-11-04T06:36:25.484Z",
   "items": [
     {
-      "title": "MKBHD on the New iPad Mini",
+      "title": "Domicile Desktop Brings Web Technologies To Building Wayland Desktops",
+      "url": "https://www.phoronix.com/news/Domicile-Desktop-Wayland",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T01:32:53.000Z"
+    },
+    {
+      "title": "Apple Begins Opening Siri AI to Developers",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-03T23:58:49.000Z"
+    },
+    {
+      "title": "iPad Mini (A20 Pro) Review Roundup",
+      "url": "https://www.techmeme.com/261103/p15#a261103p15",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-03T23:45:18.000Z"
+    },
+    {
+      "title": "MKBHD on the New A20 Pro iPad Mini",
       "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
       "source": "Daring Fireball",
       "tag": "macos",
@@ -106,6 +130,14 @@
       "date": "2026-11-03T15:40:34.000Z"
     },
     {
+      "title": "Google’s next Googlebook could make Android tablets feel outdated",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5",
+      "source": "Tech Edition",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-03T15:25:20.000Z"
+    },
+    {
       "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
       "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
       "source": "Lobsters · linux",
@@ -136,14 +168,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-03T14:51:14.000Z"
-    },
-    {
-      "title": "Google’s next Googlebook could make Android tablets feel outdated",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5",
-      "source": "Tech Edition",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-03T14:41:13.000Z"
     },
     {
       "title": "Apple’s Analyst Calls Have Been Scripted for Decades",
@@ -272,14 +296,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-03T01:22:44.000Z"
-    },
-    {
-      "title": "AerynOS 2026.11 Released With New Installer Option, Other Improvements",
-      "url": "https://www.phoronix.com/news/AerynOS-2026.11",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T00:40:38.000Z"
     },
     {
       "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
@@ -418,14 +434,6 @@
       "date": "2026-11-01T11:56:37.000Z"
     },
     {
-      "title": "Last Week on My Mac: An insecure world built on trust stores",
-      "url": "https://eclecticlight.co/2026/11/01/last-week-on-my-mac-an-insecure-world-built-on-trust-stores/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-01T08:00:00.000Z"
-    },
-    {
       "title": "The Duty of a Scholar",
       "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
       "source": "Lobsters · freebsd",
@@ -456,14 +464,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-31T12:47:00.000Z"
-    },
-    {
-      "title": "A painted weekend in Egypt 1",
-      "url": "https://eclecticlight.co/2026/10/31/a-painted-weekend-in-egypt-1/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-10-31T12:30:00.000Z"
     },
     {
       "title": "We asked which Googlebook you'd buy and many said they’d pass",
