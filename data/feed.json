@@ -1,6 +1,126 @@
 {
-  "generated": "2026-11-04T06:36:25.484Z",
+  "generated": "2026-11-04T15:29:59.601Z",
   "items": [
+    {
+      "title": "This Election Will Not Look Surprising in History",
+      "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats?unlocked_article_code=1.N1E.firI.gTIOI047TyqA",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-04T15:15:51.000Z"
+    },
+    {
+      "title": "‘Political Reckoning Shatters Trump’s Grip on Washington’",
+      "url": "https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-04T14:56:47.000Z"
+    },
+    {
+      "title": "[$] Portable Python scripts with dependencies",
+      "url": "https://lwn.net/Articles/1104646/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-04T14:45:02.000Z"
+    },
+    {
+      "title": "NVIDIA 620.70.06 Linux Driver Released With Wayland Fixes & Performance Work",
+      "url": "https://www.phoronix.com/news/NVIDIA-620.70.06-Linux-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T14:29:06.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1105378/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-04T14:13:24.000Z"
+    },
+    {
+      "title": "Man-in-the-middle arbitrary code execution in Debian’s apt",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-04T13:36:43.000Z"
+    },
+    {
+      "title": "Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root",
+      "url": "https://www.phoronix.com/news/Debian-APT-MITM-RCE",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T13:10:19.000Z"
+    },
+    {
+      "title": "Linux 7.3 Will More Than Likely Be This Year's LTS Kernel",
+      "url": "https://www.phoronix.com/news/Linux-7.3-Likely-LTS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T12:55:08.000Z"
+    },
+    {
+      "title": "systemd With Its Initial Support For Rust",
+      "url": "https://www.phoronix.com/news/systemd-Loves-Rust",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T12:44:36.000Z"
+    },
+    {
+      "title": "Commemorating the death of Albin Egger-Lienz: work and war",
+      "url": "https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-04T12:30:00.000Z"
+    },
+    {
+      "title": "Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T11:03:08.000Z"
+    },
+    {
+      "title": "\"AMD Loves Omarchy\" Linux With More Collaboration Coming",
+      "url": "https://www.phoronix.com/news/AMD-Loves-Omarchy",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T10:50:00.000Z"
+    },
+    {
+      "title": "Experimental Project Gets Intel XeSS On XMX Working With Valve's Steam Play (Proton)",
+      "url": "https://www.phoronix.com/news/Intel-XeSS-On-XMX-Proton",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T10:35:45.000Z"
+    },
+    {
+      "title": "AMD Releases ZenDNN 6.1 With New Kernels & Optimizations",
+      "url": "https://www.phoronix.com/news/AMD-ZenDNN-6.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-04T10:19:15.000Z"
+    },
+    {
+      "title": "Why your Mac may struggle to update XProtect",
+      "url": "https://eclecticlight.co/2026/11/04/why-your-mac-may-struggle-to-update-xprotect/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-04T07:30:00.000Z"
+    },
     {
       "title": "Domicile Desktop Brings Web Technologies To Building Wayland Desktops",
       "url": "https://www.phoronix.com/news/Domicile-Desktop-Wayland",
@@ -178,14 +298,6 @@
       "date": "2026-11-03T14:39:03.000Z"
     },
     {
-      "title": "Fedora 45 Released With Many Leading-Edge Linux Innovations",
-      "url": "https://www.phoronix.com/news/Fedora-45-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T14:32:09.000Z"
-    },
-    {
       "title": "Apple’s New iPhone Release Schedule Seems to Pay Off",
       "url": "https://x.com/asymco/status/2117379158087278697",
       "source": "Daring Fireball",
@@ -194,84 +306,12 @@
       "date": "2026-11-03T14:30:40.000Z"
     },
     {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1105111/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-03T14:10:12.000Z"
-    },
-    {
-      "title": "Canonical's CVE Response Times",
-      "url": "https://aria.rip/canonical_cve_response/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-03T13:55:17.000Z"
-    },
-    {
-      "title": "Linux Preparing Faster FAT32 Performance In 2027 With Up To 4.06x Improvement",
-      "url": "https://www.phoronix.com/news/Faster-FAT32-Linux-In-2027",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T13:23:29.000Z"
-    },
-    {
-      "title": "openSUSE Leap 16.1",
-      "url": "https://en.opensuse.org/Release_announcement_16.1",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-03T13:22:48.000Z"
-    },
-    {
-      "title": "openSUSE Leap 16.1 Released With Immutable Sever Integration",
-      "url": "https://www.phoronix.com/news/openSUSE-Leap-16.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T12:57:44.000Z"
-    },
-    {
       "title": "Portraits of trees: City dwellers",
       "url": "https://eclecticlight.co/2026/11/03/portraits-of-trees-city-dwellers/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-03T12:30:00.000Z"
-    },
-    {
-      "title": "The Linux Kernel Preparing To Remove The Last Of Its MMX Optimized Code",
-      "url": "https://www.phoronix.com/news/Linux-Dropping-Last-MMX-Opt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T11:18:16.000Z"
-    },
-    {
-      "title": "Intel Compute Runtime Continues Prepping For GPU D Series, OpenCL LEO for Nova Lake P",
-      "url": "https://www.phoronix.com/news/Intel-Compute-26.40.40196.8",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T10:52:14.000Z"
-    },
-    {
-      "title": "SUSE Laying Off 10% Of Its Workforce Due To AI & Automation",
-      "url": "https://www.phoronix.com/news/SUSE-Layoffs-10p-AI",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T10:31:00.000Z"
-    },
-    {
-      "title": "GCC 17 Compiler Merges Support For AVX10V1AUX",
-      "url": "https://www.phoronix.com/news/GCC-17-Merges-AVX10V1AUX",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T10:22:12.000Z"
     },
     {
       "title": "Trackpad and touch input in macOS Golden Gate",
@@ -288,14 +328,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-03T02:10:57.000Z"
-    },
-    {
-      "title": "Intel Brings RPL-M/RPL-P SoundWire To Upstream Linux For Raptor Lake Powered Automobiles",
-      "url": "https://www.phoronix.com/news/Intel-SoundWire-Raptor-Lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T01:22:44.000Z"
     },
     {
       "title": "Apple Announces Record $114.5B Fourth-Quarter Results",
@@ -362,30 +394,6 @@
       "date": "2026-11-02T09:13:26.000Z"
     },
     {
-      "title": "Solutions to Saturday Mac riddles 384",
-      "url": "https://eclecticlight.co/2026/11/02/solutions-to-saturday-mac-riddles-384/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-02T09:00:00.000Z"
-    },
-    {
-      "title": "Lightest-weight macOS virtualisation with Vimy, an update",
-      "url": "https://eclecticlight.co/2026/11/02/lightest-weight-macos-virtualisation-with-vimy-an-update/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-02T06:30:00.000Z"
-    },
-    {
-      "title": "WorkOS: Let Agents Sign Up for Your App Without a Browser",
-      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-01T21:22:56.000Z"
-    },
-    {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
       "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
       "source": "Lobsters · openbsd",
@@ -416,14 +424,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-01T18:00:10.000Z"
-    },
-    {
-      "title": "A painted weekend in Egypt 2",
-      "url": "https://eclecticlight.co/2026/11/01/a-painted-weekend-in-egypt-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-01T12:30:00.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
