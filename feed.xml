@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 02:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:05:54 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs</title>
+      <link>https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 10:47:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH 10.6p2 released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261105104042</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261105104042</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Thu, 05 Nov 2026 10:40:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD-Backed Lemonade Local AI Server Ships Redesigned Desktop App &amp; Web UI</title>
+      <link>https://www.phoronix.com/news/Lemonade-2026.45.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Lemonade-2026.45.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 10:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Omarchy 4.5 Released With Apple Silicon Support, More Desktop Customizations</title>
+      <link>https://www.phoronix.com/news/Omarchy-4.5-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Omarchy-4.5-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 10:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel</title>
+      <link>https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 10:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>On vsyscalls and the vDSO (2011)</title>
+      <link>https://lwn.net/Articles/446528/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/446528/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 05 Nov 2026 09:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why your Mac may not scan for malware</title>
+      <link>https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 05 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR</title>
       <link>https://www.phoronix.com/news/MPV-0.42-Released</link>
@@ -160,52 +216,12 @@
       <pubDate>Wed, 04 Nov 2026 12:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>systemd With Its Initial Support For Rust</title>
-      <link>https://www.phoronix.com/news/systemd-Loves-Rust</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-Loves-Rust</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 12:44:36 GMT</pubDate>
-    </item>
-    <item>
       <title>Commemorating the death of Albin Egger-Lienz: work and war</title>
       <link>https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 04 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver</title>
-      <link>https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 11:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>&quot;AMD Loves Omarchy&quot; Linux With More Collaboration Coming</title>
-      <link>https://www.phoronix.com/news/AMD-Loves-Omarchy</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Loves-Omarchy</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 10:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Experimental Project Gets Intel XeSS On XMX Working With Valve's Steam Play (Proton)</title>
-      <link>https://www.phoronix.com/news/Intel-XeSS-On-XMX-Proton</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-XeSS-On-XMX-Proton</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 10:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Releases ZenDNN 6.1 With New Kernels &amp; Optimizations</title>
-      <link>https://www.phoronix.com/news/AMD-ZenDNN-6.1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ZenDNN-6.1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 10:19:15 GMT</pubDate>
     </item>
     <item>
       <title>Why your Mac may struggle to update XProtect</title>
@@ -360,14 +376,6 @@
       <pubDate>Tue, 03 Nov 2026 00:10:53 GMT</pubDate>
     </item>
     <item>
-      <title>[Sponsor] OurCal</title>
-      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</link>
-      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 02 Nov 2026 22:43:59 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Engadget</source>
       <pubDate>Mon, 02 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google’s next Googlebook could make your Android tablets feel outdated</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Digital Trends</source>
-      <pubDate>Mon, 02 Nov 2026 09:13:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

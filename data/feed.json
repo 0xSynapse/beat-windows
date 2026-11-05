@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-05T02:32:15.457Z",
+  "generated": "2026-11-05T11:05:54.806Z",
   "items": [
+    {
+      "title": "Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs",
+      "url": "https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T10:47:28.000Z"
+    },
+    {
+      "title": "OpenSSH 10.6p2 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261105104042",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-05T10:40:42.000Z"
+    },
+    {
+      "title": "AMD-Backed Lemonade Local AI Server Ships Redesigned Desktop App & Web UI",
+      "url": "https://www.phoronix.com/news/Lemonade-2026.45.3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T10:34:45.000Z"
+    },
+    {
+      "title": "Omarchy 4.5 Released With Apple Silicon Support, More Desktop Customizations",
+      "url": "https://www.phoronix.com/news/Omarchy-4.5-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T10:23:50.000Z"
+    },
+    {
+      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel",
+      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T10:00:58.000Z"
+    },
+    {
+      "title": "On vsyscalls and the vDSO (2011)",
+      "url": "https://lwn.net/Articles/446528/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-05T09:12:04.000Z"
+    },
+    {
+      "title": "Why your Mac may not scan for malware",
+      "url": "https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-05T07:30:00.000Z"
+    },
     {
       "title": "MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR",
       "url": "https://www.phoronix.com/news/MPV-0.42-Released",
@@ -154,52 +210,12 @@
       "date": "2026-11-04T12:55:08.000Z"
     },
     {
-      "title": "systemd With Its Initial Support For Rust",
-      "url": "https://www.phoronix.com/news/systemd-Loves-Rust",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T12:44:36.000Z"
-    },
-    {
       "title": "Commemorating the death of Albin Egger-Lienz: work and war",
       "url": "https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-04T12:30:00.000Z"
-    },
-    {
-      "title": "Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver",
-      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T11:03:08.000Z"
-    },
-    {
-      "title": "\"AMD Loves Omarchy\" Linux With More Collaboration Coming",
-      "url": "https://www.phoronix.com/news/AMD-Loves-Omarchy",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T10:50:00.000Z"
-    },
-    {
-      "title": "Experimental Project Gets Intel XeSS On XMX Working With Valve's Steam Play (Proton)",
-      "url": "https://www.phoronix.com/news/Intel-XeSS-On-XMX-Proton",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T10:35:45.000Z"
-    },
-    {
-      "title": "AMD Releases ZenDNN 6.1 With New Kernels & Optimizations",
-      "url": "https://www.phoronix.com/news/AMD-ZenDNN-6.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T10:19:15.000Z"
     },
     {
       "title": "Why your Mac may struggle to update XProtect",
@@ -354,14 +370,6 @@
       "date": "2026-11-03T00:10:53.000Z"
     },
     {
-      "title": "[Sponsor] OurCal",
-      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-02T22:43:59.000Z"
-    },
-    {
       "title": "Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5",
       "source": "Chrome Unboxed",
@@ -432,14 +440,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-01T18:00:10.000Z"
-    },
-    {
-      "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261101115637",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-11-01T11:56:37.000Z"
     },
     {
       "title": "The Duty of a Scholar",
