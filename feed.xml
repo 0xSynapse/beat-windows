@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:32:15 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR</title>
+      <link>https://www.phoronix.com/news/MPV-0.42-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/MPV-0.42-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 01:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency</title>
+      <link>https://www.phoronix.com/news/LXQt-2.5-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/LXQt-2.5-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 01:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for November 5, 2026</title>
+      <link>https://lwn.net/Articles/1103480/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103480/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 05 Nov 2026 00:42:51 GMT</pubDate>
+    </item>
     <item>
       <title>LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains</title>
       <link>https://www.phoronix.com/news/LZ4-1.11-Released</link>
@@ -192,14 +216,6 @@
       <pubDate>Wed, 04 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Domicile Desktop Brings Web Technologies To Building Wayland Desktops</title>
-      <link>https://www.phoronix.com/news/Domicile-Desktop-Wayland</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Domicile-Desktop-Wayland</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 01:32:53 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple Begins Opening Siri AI to Developers</title>
       <link>https://developer.apple.com/news/?id=gdk2umrf</link>
       <guid isPermaLink="true">https://developer.apple.com/news/?id=gdk2umrf</guid>
@@ -222,22 +238,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 03 Nov 2026 23:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports</title>
-      <link>https://www.phoronix.com/news/GIMP-3.2.8-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GIMP-3.2.8-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 03 Nov 2026 22:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetBSD 11.1 Released With Security Fixes &amp; Other Improvements</title>
-      <link>https://www.phoronix.com/news/NetBSD-11.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NetBSD-11.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 03 Nov 2026 22:09:52 GMT</pubDate>
     </item>
     <item>
       <title>macOS 27 Golden Gate does not actually support CoreStorage volumes</title>

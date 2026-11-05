@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-04T21:56:26.162Z",
+  "generated": "2026-11-05T02:32:15.457Z",
   "items": [
+    {
+      "title": "MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR",
+      "url": "https://www.phoronix.com/news/MPV-0.42-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T01:44:08.000Z"
+    },
+    {
+      "title": "LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency",
+      "url": "https://www.phoronix.com/news/LXQt-2.5-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T01:21:30.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for November 5, 2026",
+      "url": "https://lwn.net/Articles/1103480/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-05T00:42:51.000Z"
+    },
     {
       "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
       "url": "https://www.phoronix.com/news/LZ4-1.11-Released",
@@ -186,14 +210,6 @@
       "date": "2026-11-04T07:30:00.000Z"
     },
     {
-      "title": "Domicile Desktop Brings Web Technologies To Building Wayland Desktops",
-      "url": "https://www.phoronix.com/news/Domicile-Desktop-Wayland",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T01:32:53.000Z"
-    },
-    {
       "title": "Apple Begins Opening Siri AI to Developers",
       "url": "https://developer.apple.com/news/?id=gdk2umrf",
       "source": "Daring Fireball",
@@ -216,22 +232,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-03T23:25:25.000Z"
-    },
-    {
-      "title": "GIMP 3.2.8 Released With Many Refinements, Numerous Security Fixes Due To AI Reports",
-      "url": "https://www.phoronix.com/news/GIMP-3.2.8-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T22:21:50.000Z"
-    },
-    {
-      "title": "NetBSD 11.1 Released With Security Fixes & Other Improvements",
-      "url": "https://www.phoronix.com/news/NetBSD-11.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-03T22:09:52.000Z"
     },
     {
       "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
