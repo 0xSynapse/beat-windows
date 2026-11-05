@@ -5,8 +5,96 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:48:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux's RAID6 Check Tool Sees 3x Performance Via Batching</title>
+      <link>https://www.phoronix.com/news/Linux-3x-Faster-raid6check</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-3x-Faster-raid6check</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 17:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Servo Browser Engine Continues Broadening Web Compatibility, New Features</title>
+      <link>https://www.phoronix.com/news/Servo-0.7-Changes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Servo-0.7-Changes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 15:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] User namespaces + file capabilities = trouble</title>
+      <link>https://lwn.net/Articles/1103429/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103429/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 05 Nov 2026 14:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1105639/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105639/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 05 Nov 2026 14:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zlib 1.4 Released With More Than One Dozen Security Fixes</title>
+      <link>https://www.phoronix.com/news/Zlib-1.4-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Zlib-1.4-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 14:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Kernel Patches Posted For Review In Enabling Apple AirDrop Support</title>
+      <link>https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mir 2.31 Released With Expanded Wayland Protocol Support</title>
+      <link>https://www.phoronix.com/news/Mir-2.31-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mir-2.31-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 12:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting a good story: Nicolas Poussin</title>
+      <link>https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>sshhole</title>
+      <link>https://sshhole.com/</link>
+      <guid isPermaLink="true">https://sshhole.com/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Thu, 05 Nov 2026 12:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critical security vulnerability affects OpenSSH on Alpine Linux systems</title>
+      <link>https://lwn.net/Articles/1105464/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105464/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 05 Nov 2026 11:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux'x New Core MM Tree Ready With Numerous Fixes For &quot;Nasty Long-Standing Bugs&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 11:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs</title>
       <link>https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs</link>
@@ -104,44 +192,12 @@
       <pubDate>Wed, 04 Nov 2026 21:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Intel One Mono Font Family Updated With Various Enhancements</title>
-      <link>https://www.phoronix.com/news/Intel-One-Mono-1.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-One-Mono-1.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 19:27:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]</title>
       <link>https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Wed, 04 Nov 2026 18:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Plasma X11 session removal surprises some Fedora users</title>
-      <link>https://lwn.net/Articles/1105130/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105130/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 04 Nov 2026 16:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Showing Few Performance Gains With Initial Benchmarks On AMD Ryzen Threadripper</title>
-      <link>https://www.phoronix.com/review/linux-74-threadripper</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/linux-74-threadripper</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bazzite 45 released</title>
-      <link>https://lwn.net/Articles/1105395/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105395/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 04 Nov 2026 15:54:44 GMT</pubDate>
     </item>
     <item>
       <title>This Election Will Not Look Surprising in History</title>
@@ -166,54 +222,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 04 Nov 2026 14:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Portable Python scripts with dependencies</title>
-      <link>https://lwn.net/Articles/1104646/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104646/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 04 Nov 2026 14:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 620.70.06 Linux Driver Released With Wayland Fixes &amp; Performance Work</title>
-      <link>https://www.phoronix.com/news/NVIDIA-620.70.06-Linux-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-620.70.06-Linux-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 14:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1105378/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105378/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 04 Nov 2026 14:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Man-in-the-middle arbitrary code execution in Debian’s apt</title>
-      <link>https://lists.debian.org/debian-security-announce/2026/msg00526.html</link>
-      <guid isPermaLink="true">https://lists.debian.org/debian-security-announce/2026/msg00526.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 04 Nov 2026 13:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root</title>
-      <link>https://www.phoronix.com/news/Debian-APT-MITM-RCE</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-APT-MITM-RCE</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 13:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.3 Will More Than Likely Be This Year's LTS Kernel</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Likely-LTS</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.3-Likely-LTS</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 12:55:08 GMT</pubDate>
     </item>
     <item>
       <title>Commemorating the death of Albin Egger-Lienz: work and war</title>
@@ -366,14 +374,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Techlicious</source>
       <pubDate>Tue, 03 Nov 2026 02:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Announces Record $114.5B Fourth-Quarter Results</title>
-      <link>https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 00:10:53 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode</title>
