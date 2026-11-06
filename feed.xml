@@ -5,8 +5,120 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:58:43 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’</title>
+      <link>https://support.apple.com/en-us/149248</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/149248</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 06 Nov 2026 15:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The President is Coping Well</title>
+      <link>https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 06 Nov 2026 15:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks</title>
+      <link>https://www.phoronix.com/review/cachyos-omarchy-benchmarks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/cachyos-omarchy-benchmarks</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 14:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs</title>
+      <link>https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 14:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1105881/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105881/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 06 Nov 2026 14:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making musl and proprietary NVIDIA drivers work together</title>
+      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
+      <guid isPermaLink="true">https://chimera-linux.org/news/2026/11/musl-nvidia.html</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 06 Nov 2026 13:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>FEX Awaits The Linux Kernel To Align With Windows &amp; macOS On ARM Register Usage</title>
+      <link>https://www.phoronix.com/news/FEX-2611-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FEX-2611-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 13:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting with impaired vision: Claude Monet</title>
+      <link>https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 06 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option</title>
+      <link>https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 11:19:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Developers Look To Drop RT_GROUP_SCHED As It's &quot;Broken Beyond Repair&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 11:09:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sound Subsystem Seeing Lots Of Fixes &amp; Laptop/Device Quirks For Linux 7.4-rc2</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc2-Sound</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-Sound</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 10:58:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenBSD top(1) adds flag to show chroot, pledge and unveil status</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261106104957</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261106104957</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Fri, 06 Nov 2026 10:49:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements</title>
+      <link>https://www.phoronix.com/news/OpenCV-5.1-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OpenCV-5.1-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 10:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>This Googlebook omission is a deal-breaker for me</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Fri, 06 Nov 2026 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Install an older version of macOS on an Apple silicon Mac</title>
       <link>https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/</link>
@@ -152,92 +264,12 @@
       <pubDate>Thu, 05 Nov 2026 11:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>Linux'x New Core MM Tree Ready With Numerous Fixes For &quot;Nasty Long-Standing Bugs&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 11:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs</title>
-      <link>https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 10:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH 10.6p2 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261105104042</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261105104042</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Thu, 05 Nov 2026 10:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD-Backed Lemonade Local AI Server Ships Redesigned Desktop App &amp; Web UI</title>
-      <link>https://www.phoronix.com/news/Lemonade-2026.45.3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Lemonade-2026.45.3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 10:34:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omarchy 4.5 Released With Apple Silicon Support, More Desktop Customizations</title>
-      <link>https://www.phoronix.com/news/Omarchy-4.5-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Omarchy-4.5-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 10:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel</title>
-      <link>https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 10:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>On vsyscalls and the vDSO (2011)</title>
-      <link>https://lwn.net/Articles/446528/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/446528/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 05 Nov 2026 09:12:04 GMT</pubDate>
-    </item>
-    <item>
       <title>Why your Mac may not scan for malware</title>
       <link>https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 05 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR</title>
-      <link>https://www.phoronix.com/news/MPV-0.42-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/MPV-0.42-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 01:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency</title>
-      <link>https://www.phoronix.com/news/LXQt-2.5-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LXQt-2.5-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 01:21:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for November 5, 2026</title>
-      <link>https://lwn.net/Articles/1103480/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103480/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 05 Nov 2026 00:42:51 GMT</pubDate>
     </item>
     <item>
       <title>Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]</title>
@@ -352,36 +384,12 @@
       <pubDate>Tue, 03 Nov 2026 15:50:57 GMT</pubDate>
     </item>
     <item>
-      <title>The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 15:46:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’</title>
-      <link>https://www.macworld.com/article/208438/jobs_transcript.html</link>
-      <guid isPermaLink="true">https://www.macworld.com/article/208438/jobs_transcript.html</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 15:40:34 GMT</pubDate>
-    </item>
-    <item>
       <title>Google’s next Googlebook could make Android tablets feel outdated</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Tech Edition</source>
       <pubDate>Tue, 03 Nov 2026 15:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chance Miller Reviews the New A20 Pro iPad Mini</title>
-      <link>https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 14:51:14 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook 15 review: Is it worth $1,099?</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Mon, 02 Nov 2026 20:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>My brutally honest thoughts on Googlebook after one month [VIDEO]</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 02 Nov 2026 17:30:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

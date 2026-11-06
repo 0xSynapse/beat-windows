@@ -1,6 +1,118 @@
 {
-  "generated": "2026-11-06T07:58:22.252Z",
+  "generated": "2026-11-06T15:58:43.697Z",
   "items": [
+    {
+      "title": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
+      "url": "https://support.apple.com/en-us/149248",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-06T15:03:51.000Z"
+    },
+    {
+      "title": "The President is Coping Well",
+      "url": "https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-06T15:00:22.000Z"
+    },
+    {
+      "title": "Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks",
+      "url": "https://www.phoronix.com/review/cachyos-omarchy-benchmarks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T14:55:52.000Z"
+    },
+    {
+      "title": "Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs",
+      "url": "https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T14:11:31.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1105881/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-06T14:04:54.000Z"
+    },
+    {
+      "title": "Making musl and proprietary NVIDIA drivers work together",
+      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-06T13:23:14.000Z"
+    },
+    {
+      "title": "FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage",
+      "url": "https://www.phoronix.com/news/FEX-2611-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T13:12:24.000Z"
+    },
+    {
+      "title": "Painting with impaired vision: Claude Monet",
+      "url": "https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-06T12:30:00.000Z"
+    },
+    {
+      "title": "Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option",
+      "url": "https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T11:19:09.000Z"
+    },
+    {
+      "title": "Linux Developers Look To Drop RT_GROUP_SCHED As It's \"Broken Beyond Repair\"",
+      "url": "https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T11:09:14.000Z"
+    },
+    {
+      "title": "Sound Subsystem Seeing Lots Of Fixes & Laptop/Device Quirks For Linux 7.4-rc2",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-Sound",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T10:58:08.000Z"
+    },
+    {
+      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-06T10:49:57.000Z"
+    },
+    {
+      "title": "OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements",
+      "url": "https://www.phoronix.com/news/OpenCV-5.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T10:36:58.000Z"
+    },
+    {
+      "title": "This Googlebook omission is a deal-breaker for me",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-06T10:30:00.000Z"
+    },
     {
       "title": "Install an older version of macOS on an Apple silicon Mac",
       "url": "https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/",
@@ -146,92 +258,12 @@
       "date": "2026-11-05T11:39:10.000Z"
     },
     {
-      "title": "Linux'x New Core MM Tree Ready With Numerous Fixes For \"Nasty Long-Standing Bugs\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Core-MM-Nasty-Fixes",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T11:05:02.000Z"
-    },
-    {
-      "title": "Mesa Merges A Common Vulkan Layer For Working Around Cross-Driver Game Bugs",
-      "url": "https://www.phoronix.com/news/Mesa-Common-Layer-Game-Bugs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T10:47:28.000Z"
-    },
-    {
-      "title": "OpenSSH 10.6p2 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261105104042",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-11-05T10:40:42.000Z"
-    },
-    {
-      "title": "AMD-Backed Lemonade Local AI Server Ships Redesigned Desktop App & Web UI",
-      "url": "https://www.phoronix.com/news/Lemonade-2026.45.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T10:34:45.000Z"
-    },
-    {
-      "title": "Omarchy 4.5 Released With Apple Silicon Support, More Desktop Customizations",
-      "url": "https://www.phoronix.com/news/Omarchy-4.5-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T10:23:50.000Z"
-    },
-    {
-      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel",
-      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T10:00:58.000Z"
-    },
-    {
-      "title": "On vsyscalls and the vDSO (2011)",
-      "url": "https://lwn.net/Articles/446528/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-05T09:12:04.000Z"
-    },
-    {
       "title": "Why your Mac may not scan for malware",
       "url": "https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-05T07:30:00.000Z"
-    },
-    {
-      "title": "MPV 0.42 Media Player Brings Wayland Improvements, Improved HDR",
-      "url": "https://www.phoronix.com/news/MPV-0.42-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T01:44:08.000Z"
-    },
-    {
-      "title": "LXQt 2.5 Released With Enhanced QTerminal, Removing The Final LXDE Dependency",
-      "url": "https://www.phoronix.com/news/LXQt-2.5-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T01:21:30.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for November 5, 2026",
-      "url": "https://lwn.net/Articles/1103480/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-05T00:42:51.000Z"
     },
     {
       "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
@@ -346,36 +378,12 @@
       "date": "2026-11-03T15:50:57.000Z"
     },
     {
-      "title": "The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T15:46:25.000Z"
-    },
-    {
-      "title": "Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’",
-      "url": "https://www.macworld.com/article/208438/jobs_transcript.html",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T15:40:34.000Z"
-    },
-    {
       "title": "Google’s next Googlebook could make Android tablets feel outdated",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5",
       "source": "Tech Edition",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-03T15:25:20.000Z"
-    },
-    {
-      "title": "Chance Miller Reviews the New A20 Pro iPad Mini",
-      "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T14:51:14.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 review: Is it worth $1,099?",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-30T19:20:00.000Z"
-    },
-    {
-      "title": "This Googlebook trick makes speaking to Gemini so much faster",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLTZHZ0tuRWU0aWFxQTFPeE13bDhzUFhvZjMyTkcwRFZBVGRaNmRVbGxwa0d0cVdaaHJzRWhtcEluMW5lUlBOaWtuRWpscXlKYjRTeUUxeXBRQ0VISXBSZ3JtSGZyOWxRUWN2R0hZOWY1emNMRGx4Q19OSzMtSzFoRDdCWE5talQ5My1wOGZSUjFZdw?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-30T19:13:30.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
