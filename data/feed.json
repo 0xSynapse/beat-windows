@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-06T15:58:43.697Z",
+  "generated": "2026-11-06T21:34:41.075Z",
   "items": [
+    {
+      "title": "Videos from XDC 2026 are available",
+      "url": "https://lwn.net/Articles/1105913/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-06T20:25:22.000Z"
+    },
+    {
+      "title": "★ Touch and Glow",
+      "url": "https://daringfireball.net/2026/11/touch_and_glow",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-06T19:50:46.000Z"
+    },
+    {
+      "title": "A RISC-V Based TEE With AMD Zen 6 CPUs",
+      "url": "https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T19:30:49.000Z"
+    },
+    {
+      "title": "[$] Locking down hibernation for the winter",
+      "url": "https://lwn.net/Articles/1103190/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-06T18:51:28.000Z"
+    },
+    {
+      "title": "Seven stable kernels with fixes for three Xen vulnerabilities",
+      "url": "https://lwn.net/Articles/1105902/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-06T18:48:34.000Z"
+    },
+    {
+      "title": "Two stable kernels for Friday",
+      "url": "https://lwn.net/Articles/1105899/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-06T18:09:16.000Z"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-06T17:48:51.000Z"
+    },
+    {
+      "title": "Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-FAT32",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-06T16:21:38.000Z"
+    },
     {
       "title": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
       "url": "https://support.apple.com/en-us/149248",
@@ -194,68 +258,12 @@
       "date": "2026-11-05T15:21:29.000Z"
     },
     {
-      "title": "[$] User namespaces + file capabilities = trouble",
-      "url": "https://lwn.net/Articles/1103429/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-05T14:33:59.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1105639/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-05T14:11:50.000Z"
-    },
-    {
-      "title": "Zlib 1.4 Released With More Than One Dozen Security Fixes",
-      "url": "https://www.phoronix.com/news/Zlib-1.4-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T14:11:33.000Z"
-    },
-    {
-      "title": "Linux Kernel Patches Posted For Review In Enabling Apple AirDrop Support",
-      "url": "https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T13:30:00.000Z"
-    },
-    {
-      "title": "Mir 2.31 Released With Expanded Wayland Protocol Support",
-      "url": "https://www.phoronix.com/news/Mir-2.31-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T12:51:35.000Z"
-    },
-    {
       "title": "Painting a good story: Nicolas Poussin",
       "url": "https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-05T12:30:00.000Z"
-    },
-    {
-      "title": "sshhole",
-      "url": "https://sshhole.com/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-05T12:24:42.000Z"
-    },
-    {
-      "title": "Critical security vulnerability affects OpenSSH on Alpine Linux systems",
-      "url": "https://lwn.net/Articles/1105464/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-05T11:39:10.000Z"
     },
     {
       "title": "Why your Mac may not scan for malware",
@@ -360,14 +368,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-03T19:26:41.000Z"
-    },
-    {
-      "title": "Apple has just released an update to XProtect for all macOS",
-      "url": "https://eclecticlight.co/2026/11/03/apple-has-just-released-an-update-to-xprotect-for-all-macos-24/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-03T19:19:19.000Z"
     },
     {
       "title": "Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable",

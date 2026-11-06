@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:34:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Videos from XDC 2026 are available</title>
+      <link>https://lwn.net/Articles/1105913/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105913/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 06 Nov 2026 20:25:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ Touch and Glow</title>
+      <link>https://daringfireball.net/2026/11/touch_and_glow</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/touch_and_glow</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 06 Nov 2026 19:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>A RISC-V Based TEE With AMD Zen 6 CPUs</title>
+      <link>https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 19:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Locking down hibernation for the winter</title>
+      <link>https://lwn.net/Articles/1103190/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103190/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 06 Nov 2026 18:51:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seven stable kernels with fixes for three Xen vulnerabilities</title>
+      <link>https://lwn.net/Articles/1105902/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105902/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 06 Nov 2026 18:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Two stable kernels for Friday</title>
+      <link>https://lwn.net/Articles/1105899/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105899/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 06 Nov 2026 18:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Linux to Wikipedia: How Volunteers Build the Internet</title>
+      <link>https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</link>
+      <guid isPermaLink="true">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 06 Nov 2026 17:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc2-FAT32</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-FAT32</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 16:21:38 GMT</pubDate>
+    </item>
     <item>
       <title>Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’</title>
       <link>https://support.apple.com/en-us/149248</link>
@@ -200,68 +264,12 @@
       <pubDate>Thu, 05 Nov 2026 15:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>[$] User namespaces + file capabilities = trouble</title>
-      <link>https://lwn.net/Articles/1103429/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103429/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 05 Nov 2026 14:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1105639/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105639/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 05 Nov 2026 14:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zlib 1.4 Released With More Than One Dozen Security Fixes</title>
-      <link>https://www.phoronix.com/news/Zlib-1.4-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Zlib-1.4-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 14:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Kernel Patches Posted For Review In Enabling Apple AirDrop Support</title>
-      <link>https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Kernel-Apple-AirDrop-Code</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mir 2.31 Released With Expanded Wayland Protocol Support</title>
-      <link>https://www.phoronix.com/news/Mir-2.31-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mir-2.31-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 12:51:35 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Nicolas Poussin</title>
       <link>https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>sshhole</title>
-      <link>https://sshhole.com/</link>
-      <guid isPermaLink="true">https://sshhole.com/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 05 Nov 2026 12:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Critical security vulnerability affects OpenSSH on Alpine Linux systems</title>
-      <link>https://lwn.net/Articles/1105464/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105464/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 05 Nov 2026 11:39:10 GMT</pubDate>
     </item>
     <item>
       <title>Why your Mac may not scan for malware</title>
@@ -366,14 +374,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 03 Nov 2026 19:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released an update to XProtect for all macOS</title>
-      <link>https://eclecticlight.co/2026/11/03/apple-has-just-released-an-update-to-xprotect-for-all-macos-24/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/03/apple-has-just-released-an-update-to-xprotect-for-all-macos-24/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 03 Nov 2026 19:19:19 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable</title>
