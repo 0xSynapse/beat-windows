@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-05T18:48:30.156Z",
+  "generated": "2026-11-06T00:22:49.295Z",
   "items": [
+    {
+      "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
+      "url": "https://9to5google.com/2026/11/05/googlebook-november-update/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-05T23:41:44.000Z"
+    },
+    {
+      "title": "AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4",
+      "url": "https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T22:07:00.000Z"
+    },
+    {
+      "title": "Linux 7.4's Build Time Performance From Optimizations But Also Larger Codebase",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-05T21:44:05.000Z"
+    },
+    {
+      "title": "Salon Ceases Publication",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-05T21:31:04.000Z"
+    },
+    {
+      "title": "Meta Releases Mac Version of Edits",
+      "url": "https://edits.instagram.com/blog/edits-desktop-video-editor/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-05T20:27:05.000Z"
+    },
+    {
+      "title": "macOS updates are already waiting for the newest Macs",
+      "url": "https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-05T19:57:25.000Z"
+    },
     {
       "title": "Linux's RAID6 Check Tool Sees 3x Performance Via Batching",
       "url": "https://www.phoronix.com/news/Linux-3x-Faster-raid6check",
@@ -170,22 +218,6 @@
       "date": "2026-11-05T00:42:51.000Z"
     },
     {
-      "title": "LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains",
-      "url": "https://www.phoronix.com/news/LZ4-1.11-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T21:53:33.000Z"
-    },
-    {
-      "title": "NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin",
-      "url": "https://www.phoronix.com/news/NVIDIA-CUDA-13.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-04T21:11:41.000Z"
-    },
-    {
       "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
       "url": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
       "source": "9to5Google · Googlebook",
@@ -338,30 +370,6 @@
       "date": "2026-11-03T14:39:03.000Z"
     },
     {
-      "title": "Apple’s New iPhone Release Schedule Seems to Pay Off",
-      "url": "https://x.com/asymco/status/2117379158087278697",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T14:30:40.000Z"
-    },
-    {
-      "title": "Portraits of trees: City dwellers",
-      "url": "https://eclecticlight.co/2026/11/03/portraits-of-trees-city-dwellers/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-03T12:30:00.000Z"
-    },
-    {
-      "title": "Trackpad and touch input in macOS Golden Gate",
-      "url": "https://eclecticlight.co/2026/11/03/trackpad-and-touch-input-in-macos-golden-gate/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-03T07:30:00.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 review: Is it worth $1,099?",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5",
       "source": "Techlicious",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-10-30T19:00:00.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15 Review: Your Android Phone's New Best Friend",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QS2dqbFBMZl9ldkloN1NmMTJlVHA3ZGhDS3hIMFpfWWNuQXFYcTZjTGwtY05GWWJyZkstMjBFeFZaTFBQTkhDQ2JvVkgtRmhoMDlLaUpJODQ3OEV6X2Zac2YtSnU2Z0dLaFFvdl9n?oc=5",
-      "source": "Engadget",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-30T12:00:00.000Z"
     },
     {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",

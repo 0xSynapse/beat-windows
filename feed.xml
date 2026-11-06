@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:22:49 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Googlebook November update rolling out with 31 fixes, improvements</title>
+      <link>https://9to5google.com/2026/11/05/googlebook-november-update/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/11/05/googlebook-november-update/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Thu, 05 Nov 2026 23:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</title>
+      <link>https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 22:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4's Build Time Performance From Optimizations But Also Larger Codebase</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 05 Nov 2026 21:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salon Ceases Publication</title>
+      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
+      <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 05 Nov 2026 21:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Releases Mac Version of Edits</title>
+      <link>https://edits.instagram.com/blog/edits-desktop-video-editor/</link>
+      <guid isPermaLink="true">https://edits.instagram.com/blog/edits-desktop-video-editor/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 05 Nov 2026 20:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS updates are already waiting for the newest Macs</title>
+      <link>https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 05 Nov 2026 19:57:25 GMT</pubDate>
+    </item>
     <item>
       <title>Linux's RAID6 Check Tool Sees 3x Performance Via Batching</title>
       <link>https://www.phoronix.com/news/Linux-3x-Faster-raid6check</link>
@@ -176,22 +224,6 @@
       <pubDate>Thu, 05 Nov 2026 00:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>LZ4 1.11 Introduces Multi-Threaded Compression For liblz4, Other Performance Gains</title>
-      <link>https://www.phoronix.com/news/LZ4-1.11-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LZ4-1.11-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 21:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA CUDA 13.5 Released With Production Support For Vera Rubin</title>
-      <link>https://www.phoronix.com/news/NVIDIA-CUDA-13.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-CUDA-13.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 04 Nov 2026 21:11:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]</title>
       <link>https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</guid>
@@ -344,30 +376,6 @@
       <pubDate>Tue, 03 Nov 2026 14:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>Apple’s New iPhone Release Schedule Seems to Pay Off</title>
-      <link>https://x.com/asymco/status/2117379158087278697</link>
-      <guid isPermaLink="true">https://x.com/asymco/status/2117379158087278697</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 14:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portraits of trees: City dwellers</title>
-      <link>https://eclecticlight.co/2026/11/03/portraits-of-trees-city-dwellers/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/03/portraits-of-trees-city-dwellers/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 03 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trackpad and touch input in macOS Golden Gate</title>
-      <link>https://eclecticlight.co/2026/11/03/trackpad-and-touch-input-in-macos-golden-gate/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/03/trackpad-and-touch-input-in-macos-golden-gate/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 03 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Lenovo Googlebook 15 review: Is it worth $1,099?</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">shattered.io</source>
       <pubDate>Mon, 02 Nov 2026 14:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Engadget</source>
-      <pubDate>Mon, 02 Nov 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
