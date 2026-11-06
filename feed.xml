@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:58:22 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Install an older version of macOS on an Apple silicon Mac</title>
+      <link>https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 06 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google’s big Googlebook update brings a 6GB memory boost and tackles Chrome crashes</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjJPUjAtcVlqUmFVVzJCZVFxbXNWNzNqZDhQOVo0R0NYZHdPMkh2ZjB2RE94QWFTdGtkRGd6M3JFSk14SVJ5aUhteUd0SjdETFNJZkFQVkxKb1gyelpfOERVNWpRWHgwaTZHVHlYUnQ1TGlpYm83bUJjMF80WERaaUIzU0xBWnBWQ2k2UERBTzNXSGExaVdTd3BGVURKUkZ5RzJLZXZB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjJPUjAtcVlqUmFVVzJCZVFxbXNWNzNqZDhQOVo0R0NYZHdPMkh2ZjB2RE94QWFTdGtkRGd6M3JFSk14SVJ5aUhteUd0SjdETFNJZkFQVkxKb1gyelpfOERVNWpRWHgwaTZHVHlYUnQ1TGlpYm83bUJjMF80WERaaUIzU0xBWnBWQ2k2UERBTzNXSGExaVdTd3BGVURKUkZ5RzJLZXZB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Fri, 06 Nov 2026 04:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>Big Googlebook November update rolling out with 31 fixes, improvements</title>
       <link>https://9to5google.com/2026/11/05/googlebook-november-update/</link>
@@ -368,14 +384,6 @@
       <pubDate>Tue, 03 Nov 2026 14:51:14 GMT</pubDate>
     </item>
     <item>
-      <title>Apple’s Analyst Calls Have Been Scripted for Decades</title>
-      <link>https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 14:39:03 GMT</pubDate>
-    </item>
-    <item>
       <title>Lenovo Googlebook 15 review: Is it worth $1,099?</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Mon, 02 Nov 2026 17:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">shattered.io</source>
-      <pubDate>Mon, 02 Nov 2026 14:47:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

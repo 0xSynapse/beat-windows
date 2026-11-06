@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-06T00:22:49.295Z",
+  "generated": "2026-11-06T07:58:22.252Z",
   "items": [
+    {
+      "title": "Install an older version of macOS on an Apple silicon Mac",
+      "url": "https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-06T07:30:00.000Z"
+    },
+    {
+      "title": "Google’s big Googlebook update brings a 6GB memory boost and tackles Chrome crashes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjJPUjAtcVlqUmFVVzJCZVFxbXNWNzNqZDhQOVo0R0NYZHdPMkh2ZjB2RE94QWFTdGtkRGd6M3JFSk14SVJ5aUhteUd0SjdETFNJZkFQVkxKb1gyelpfOERVNWpRWHgwaTZHVHlYUnQ1TGlpYm83bUJjMF80WERaaUIzU0xBWnBWQ2k2UERBTzNXSGExaVdTd3BGVURKUkZ5RzJLZXZB?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-06T04:03:00.000Z"
+    },
     {
       "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
       "url": "https://9to5google.com/2026/11/05/googlebook-november-update/",
@@ -362,14 +378,6 @@
       "date": "2026-11-03T14:51:14.000Z"
     },
     {
-      "title": "Apple’s Analyst Calls Have Been Scripted for Decades",
-      "url": "https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T14:39:03.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 review: Is it worth $1,099?",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5",
       "source": "Techlicious",
@@ -498,14 +506,6 @@
       "date": "2026-10-30T19:13:30.000Z"
     },
     {
-      "title": "Everything You Need To Know About Googlebooks",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblhEUzFTcjlleUs1WnhTZkRwODFaazNmenk4Q2lMTVFBdk16Mk1KdThBT0NydHl0TUI5aXl2Q1FRNUl6eFF2QS0zdXFmTWdKQmpDSzVqbWQybUxsaE5XWHBjQkw3Mml3N0pCVE1FOXRLVkU3LXpEd3pDQlNiTHplWmQyYmFQUQ?oc=5",
-      "source": "Engadget",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-10-30T19:00:00.000Z"
-    },
-    {
       "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
       "url": "https://openbsdjumpstart.org",
       "source": "Lobsters · openbsd",
@@ -552,14 +552,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-16T15:41:08.000Z"
-    },
-    {
-      "title": "Headers Up! What's New in httpd and relayd",
-      "url": "https://rsadowski.de/posts/2026/update-relayd-and-httpd/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-07T07:05:27.000Z"
     }
   ]
 }
