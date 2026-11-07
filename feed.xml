@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:59:08 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS</title>
+      <link>https://www.phoronix.com/news/FreeBSD-15.2-Beta-1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-15.2-Beta-1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 00:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future</title>
+      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxOZGtoRmhtaDQ1Z3JZNzRZbE5Gd2VRcGRoVmh2OTJ0Q3owQUJnWkV6X1B6MWhOd1dBeTc2LVM2Vk5SWDNUeFRMdDk0TG4wYm90OXExbS1lN0wxV1VvdmhUS3l1X0xiRUkzTXhuWnZsOEY3MFhWMFdlWlJVLUhlWXJVNTNWczJSblo2OS1ocG5FYTJkUnc3Vm5zZWNzYzhuNlF3UElOQU1jYlh6Y3FiU0dlV3dwU3JkNFVtRWVyaWlyOWVGZGtPdFEzMVotazc1OWExdGJQdWFCeDdoM2FLMXVWcE1abWhKRV9keE1FNmJkQWU1ZmZQQVBCQ1o1cGZaSTJXMkZTVGlxTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwJBVV95cUxOZGtoRmhtaDQ1Z3JZNzRZbE5Gd2VRcGRoVmh2OTJ0Q3owQUJnWkV6X1B6MWhOd1dBeTc2LVM2Vk5SWDNUeFRMdDk0TG4wYm90OXExbS1lN0wxV1VvdmhUS3l1X0xiRUkzTXhuWnZsOEY3MFhWMFdlWlJVLUhlWXJVNTNWczJSblo2OS1ocG5FYTJkUnc3Vm5zZWNzYzhuNlF3UElOQU1jYlh6Y3FiU0dlV3dwU3JkNFVtRWVyaWlyOWVGZGtPdFEzMVotazc1OWExdGJQdWFCeDdoM2FLMXVWcE1abWhKRV9keE1FNmJkQWU1ZmZQQVBCQ1o1cGZaSTJXMkZTVGlxTQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Forbes</source>
+      <pubDate>Fri, 06 Nov 2026 21:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReactOS Lands Initial USB3 Driver Support</title>
+      <link>https://www.phoronix.com/news/ReactOS-Initial-USB-3.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-Initial-USB-3.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 06 Nov 2026 21:49:46 GMT</pubDate>
+    </item>
     <item>
       <title>Videos from XDC 2026 are available</title>
       <link>https://lwn.net/Articles/1105913/</link>
@@ -56,6 +80,14 @@
       <pubDate>Fri, 06 Nov 2026 18:09:16 GMT</pubDate>
     </item>
     <item>
+      <title>A big, new Googlebook OS update is here, and it wipes out over 30 launch headaches</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTd1NXY0OHpuU2FHMVpNSFVtUVJzTVVIb19zOXFJQjVyTEk0N2JIQjE1TDhYal9ZWnNOSUFLY01sRVBRQm9hUHFjMjZZQ05UZjgyWWwxeHBBN1FyWEViV0Q4WExEVkdxN1NsbDNfT1ZYSDBkdEc0cU1xU180UHJDWHhOY0ZUYVpUWlVkTmxScEdJTzdxNjRKamJEWHpXdmhTOUt6MGQ3Tm00VVE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTd1NXY0OHpuU2FHMVpNSFVtUVJzTVVIb19zOXFJQjVyTEk0N2JIQjE1TDhYal9ZWnNOSUFLY01sRVBRQm9hUHFjMjZZQ05UZjgyWWwxeHBBN1FyWEViV0Q4WExEVkdxN1NsbDNfT1ZYSDBkdEc0cU1xU180UHJDWHhOY0ZUYVpUWlVkTmxScEdJTzdxNjRKamJEWHpXdmhTOUt6MGQ3Tm00VVE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 06 Nov 2026 17:48:54 GMT</pubDate>
+    </item>
+    <item>
       <title>From Linux to Wikipedia: How Volunteers Build the Internet</title>
       <link>https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</link>
       <guid isPermaLink="true">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</guid>
@@ -70,6 +102,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Fri, 06 Nov 2026 16:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Gizmodo</source>
+      <pubDate>Fri, 06 Nov 2026 16:00:03 GMT</pubDate>
     </item>
     <item>
       <title>Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’</title>
@@ -248,22 +288,6 @@
       <pubDate>Thu, 05 Nov 2026 19:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>Linux's RAID6 Check Tool Sees 3x Performance Via Batching</title>
-      <link>https://www.phoronix.com/news/Linux-3x-Faster-raid6check</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-3x-Faster-raid6check</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 17:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Servo Browser Engine Continues Broadening Web Compatibility, New Features</title>
-      <link>https://www.phoronix.com/news/Servo-0.7-Changes</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Servo-0.7-Changes</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 15:21:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Nicolas Poussin</title>
       <link>https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</guid>
@@ -286,6 +310,14 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Wed, 04 Nov 2026 18:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>HP Googlebook 14 review: A gorgeous laptop that deserves a better OS</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaWZtVzZtenB6VFJ3cnhJeXFrOWp5cmE1WkJxWWlZRFlyODZva3hFNWN2b1NyWW94dWNUc19QakphWEI2N1AwUGJsOHhSa0RYbEx1Nk5HN1g3NlBIejR5WQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaWZtVzZtenB6VFJ3cnhJeXFrOWp5cmE1WkJxWWlZRFlyODZva3hFNWN2b1NyWW94dWNUc19QakphWEI2N1AwUGJsOHhSa0RYbEx1Nk5HN1g3NlBIejR5WQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">ZDNET</source>
+      <pubDate>Wed, 04 Nov 2026 17:24:44 GMT</pubDate>
     </item>
     <item>
       <title>This Election Will Not Look Surprising in History</title>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 03 Nov 2026 19:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUlaNWlhcnJxRFhGTTMxMEVCODkyN1B0bndlYUVUMDJuWTlQMzdJeFFuVjVYN1E1UHZtUWktaGxGdlJybHIwajlaVUNuSHUycEZwRHF6T1FzVVlnajVDc3E1d2JXRVc3RGpvdUFsQlBtQjdOTFdIaVZMUC1mSE85NmUyNW5xeHZBQkRqYQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUlaNWlhcnJxRFhGTTMxMEVCODkyN1B0bndlYUVUMDJuWTlQMzdJeFFuVjVYN1E1UHZtUWktaGxGdlJybHIwajlaVUNuSHUycEZwRHF6T1FzVVlnajVDc3E1d2JXRVc3RGpvdUFsQlBtQjdOTFdIaVZMUC1mSE85NmUyNW5xeHZBQkRqYQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">TechRepublic</source>
-      <pubDate>Tue, 03 Nov 2026 15:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google’s next Googlebook could make Android tablets feel outdated</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1paYWhpeGt6SW1YWGhudjdfU0xETmNPQXpaY0tKNGJWYVFEZnB2UGxrdmpwVHFfbkdhUjQ2NTZhVDg0alUyYW9UWXNDanFKa3NlNm5nelpnQXNtVlpJMEN6M2FObWFyZjZXTGQzSWY0bElYSGR4WWNSZ2dXUHZqeG1pZUYyWVpFbThocE1qNGg0dw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Tech Edition</source>
-      <pubDate>Tue, 03 Nov 2026 15:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 review: Is it worth $1,099?</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWjh0TjdDRWx6WTRGaXFJOWlmbkhrbUxsZ0FCUmdWZkNuUHlqLWlhV1FSZ05DYm0waUlVMVpGUmZWYUdMVTZBVmFaRFBObmJXa2dBU05NNDNURFdHT1F0YkFjSnc0VFJPNWxyeWtTUEg?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Techlicious</source>
-      <pubDate>Tue, 03 Nov 2026 02:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 02 Nov 2026 20:39:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
