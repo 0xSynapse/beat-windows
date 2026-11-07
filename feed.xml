@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:43:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:17:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Sat, 07 Nov 2026 18:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook update frees up to 6GB of RAM by reducing on-device AI memory usage</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">VideoCardz.com</source>
+      <pubDate>Sat, 07 Nov 2026 15:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System</title>
       <link>https://www.phoronix.com/news/GNU-Automake-1.20</link>
@@ -126,6 +142,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sat, 07 Nov 2026 00:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google just made Googlebooks faster, more stable, and less crash-prone</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Central</source>
+      <pubDate>Fri, 06 Nov 2026 23:41:27 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks and Android XR glasses could be a match made in tech heaven</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 04 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why your Mac may struggle to update XProtect</title>
-      <link>https://eclecticlight.co/2026/11/04/why-your-mac-may-struggle-to-update-xprotect/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/04/why-your-mac-may-struggle-to-update-xprotect/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 04 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Begins Opening Siri AI to Developers</title>
-      <link>https://developer.apple.com/news/?id=gdk2umrf</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=gdk2umrf</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 23:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPad Mini (A20 Pro) Review Roundup</title>
-      <link>https://www.techmeme.com/261103/p15#a261103p15</link>
-      <guid isPermaLink="true">https://www.techmeme.com/261103/p15#a261103p15</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 23:45:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

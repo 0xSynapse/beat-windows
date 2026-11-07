@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-07T15:43:55.726Z",
+  "generated": "2026-11-07T20:17:01.807Z",
   "items": [
+    {
+      "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-07T18:00:10.000Z"
+    },
+    {
+      "title": "Googlebook update frees up to 6GB of RAM by reducing on-device AI memory usage",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5",
+      "source": "VideoCardz.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-07T15:27:00.000Z"
+    },
     {
       "title": "Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System",
       "url": "https://www.phoronix.com/news/GNU-Automake-1.20",
@@ -120,6 +136,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-07T00:04:20.000Z"
+    },
+    {
+      "title": "Google just made Googlebooks faster, more stable, and less crash-prone",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5",
+      "source": "Android Central",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-06T23:41:27.000Z"
     },
     {
       "title": "Googlebooks and Android XR glasses could be a match made in tech heaven",
@@ -466,36 +490,12 @@
       "date": "2026-11-02T12:30:00.000Z"
     },
     {
-      "title": "Google’s next Googlebook could make your Android tablets feel outdated",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUE1JdXJwTnJVa0hnZ0J2Z0Z1VnJuMlk4cmtlcmx0NFFhc1ZYLWhWY2VuWGh0eW1zOGJ2Yk03UE9tZzR3dUdZM013VmdsZllxakJHUG4xS3V6N1Nmak5EUEUybHJGWGpNajE4aU41RU5qdXFaVlZtOXR2Y2RqT0V2MzNOSk1zM0RMWjBFb0dGTmcxRlZycVRmd05RbEE0amszakdEWnNPOXFlcG1Yc0E?oc=5",
-      "source": "Digital Trends",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-02T10:13:26.000Z"
-    },
-    {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
       "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
       "source": "Lobsters · openbsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-11-01T20:13:29.000Z"
-    },
-    {
-      "title": "Google says Googlebook ‘detachables’ are coming soon",
-      "url": "https://9to5google.com/2026/11/01/googlebook-detachables/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-01T20:07:31.000Z"
-    },
-    {
-      "title": "Google says Googlebook ‘detachables’ are coming soon",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsN1ZBb0k5MVlXcDByOEo1b3R1eVpVa3MwRVRHVTNwdUpBOE1uQ0wyLWc1UGhtUTBpcVZLdkE1VVlneFo0WTBZSk9LYXpxSnloeHM3MEFYeExpREJqU1lmazduby1UaHY3?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-01T20:07:00.000Z"
     },
     {
       "title": "The Duty of a Scholar",
