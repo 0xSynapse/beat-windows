@@ -5,8 +5,104 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:43:55 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System</title>
+      <link>https://www.phoronix.com/news/GNU-Automake-1.20</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Automake-1.20</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 15:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming</title>
+      <link>https://www.phoronix.com/news/HyprBSD</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/HyprBSD</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 12:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting the whole truth, and nothing but the truth 1</title>
+      <link>https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 07 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery</title>
+      <link>https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 11:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amutable Foundations: A Technical Overview</title>
+      <link>https://amutable.com/blog/amutable-foundations-technical-overview</link>
+      <guid isPermaLink="true">https://amutable.com/blog/amutable-foundations-technical-overview</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 07 Nov 2026 11:07:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulkan 1.4.368 Released With New Extensions From Valve &amp; NVIDIA</title>
+      <link>https://www.phoronix.com/news/Vulkan-1.4.368</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Vulkan-1.4.368</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 10:53:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's Azure Linux 3.0.2022 Ships With More Than 470 Security Fixes</title>
+      <link>https://www.phoronix.com/news/Azure-Linux-3.0.2022</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Azure-Linux-3.0.2022</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 10:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming</title>
+      <link>https://www.phoronix.com/news/Asahi-Linux-7.3-Report</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Asahi-Linux-7.3-Report</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 10:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asahi Linux 7.3 progress report</title>
+      <link>https://lwn.net/Articles/1105936/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105936/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sat, 07 Nov 2026 09:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amutable Foundations: A Technical Overview</title>
+      <link>https://lwn.net/Articles/1105934/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105934/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Sat, 07 Nov 2026 09:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 385</title>
+      <link>https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>A brief history of Recovery Mode</title>
       <link>https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/</link>
@@ -152,46 +248,6 @@
       <pubDate>Fri, 06 Nov 2026 15:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks</title>
-      <link>https://www.phoronix.com/review/cachyos-omarchy-benchmarks</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/cachyos-omarchy-benchmarks</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 14:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs</title>
-      <link>https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 14:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1105881/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105881/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 06 Nov 2026 14:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making musl and proprietary NVIDIA drivers work together</title>
-      <link>https://chimera-linux.org/news/2026/11/musl-nvidia.html</link>
-      <guid isPermaLink="true">https://chimera-linux.org/news/2026/11/musl-nvidia.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 06 Nov 2026 13:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>FEX Awaits The Linux Kernel To Align With Windows &amp; macOS On ARM Register Usage</title>
-      <link>https://www.phoronix.com/news/FEX-2611-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FEX-2611-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 13:12:24 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting with impaired vision: Claude Monet</title>
       <link>https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/</guid>
@@ -200,44 +256,12 @@
       <pubDate>Fri, 06 Nov 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option</title>
-      <link>https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 11:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Developers Look To Drop RT_GROUP_SCHED As It's &quot;Broken Beyond Repair&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 11:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sound Subsystem Seeing Lots Of Fixes &amp; Laptop/Device Quirks For Linux 7.4-rc2</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc2-Sound</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-Sound</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 10:58:08 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenBSD top(1) adds flag to show chroot, pledge and unveil status</title>
       <link>https://undeadly.org/cgi?action=article;sid=20261106104957</link>
       <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261106104957</guid>
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Fri, 06 Nov 2026 10:49:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements</title>
-      <link>https://www.phoronix.com/news/OpenCV-5.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/OpenCV-5.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 10:36:58 GMT</pubDate>
     </item>
     <item>
       <title>This Googlebook omission is a deal-breaker for me</title>
@@ -270,14 +294,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 05 Nov 2026 23:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4</title>
-      <link>https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 22:07:00 GMT</pubDate>
     </item>
     <item>
       <title>Salon Ceases Publication</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 03 Nov 2026 23:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>MKBHD on the New A20 Pro iPad Mini</title>
-      <link>https://www.youtube.com/watch?v=g6Die8gVFn0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=g6Die8gVFn0</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 23:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 27 Golden Gate does not actually support CoreStorage volumes</title>
-      <link>https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/</link>
-      <guid isPermaLink="true">https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Tue, 03 Nov 2026 21:37:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

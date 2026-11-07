@@ -1,6 +1,102 @@
 {
-  "generated": "2026-11-07T08:53:09.634Z",
+  "generated": "2026-11-07T15:43:55.726Z",
   "items": [
+    {
+      "title": "Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System",
+      "url": "https://www.phoronix.com/news/GNU-Automake-1.20",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T15:22:00.000Z"
+    },
+    {
+      "title": "HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming",
+      "url": "https://www.phoronix.com/news/HyprBSD",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T12:45:00.000Z"
+    },
+    {
+      "title": "Painting the whole truth, and nothing but the truth 1",
+      "url": "https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-07T12:30:00.000Z"
+    },
+    {
+      "title": "Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery",
+      "url": "https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T12:05:00.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T11:34:48.000Z"
+    },
+    {
+      "title": "Amutable Foundations: A Technical Overview",
+      "url": "https://amutable.com/blog/amutable-foundations-technical-overview",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-07T11:07:33.000Z"
+    },
+    {
+      "title": "Vulkan 1.4.368 Released With New Extensions From Valve & NVIDIA",
+      "url": "https://www.phoronix.com/news/Vulkan-1.4.368",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T10:53:10.000Z"
+    },
+    {
+      "title": "Microsoft's Azure Linux 3.0.2022 Ships With More Than 470 Security Fixes",
+      "url": "https://www.phoronix.com/news/Azure-Linux-3.0.2022",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T10:37:42.000Z"
+    },
+    {
+      "title": "Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-7.3-Report",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T10:21:03.000Z"
+    },
+    {
+      "title": "Asahi Linux 7.3 progress report",
+      "url": "https://lwn.net/Articles/1105936/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-07T09:49:38.000Z"
+    },
+    {
+      "title": "Amutable Foundations: A Technical Overview",
+      "url": "https://lwn.net/Articles/1105934/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-07T09:32:56.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 385",
+      "url": "https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-07T09:00:00.000Z"
+    },
     {
       "title": "A brief history of Recovery Mode",
       "url": "https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/",
@@ -146,46 +242,6 @@
       "date": "2026-11-06T15:00:22.000Z"
     },
     {
-      "title": "Arch Linux vs. CachyOS vs. Omarchy 4.5 Performance Benchmarks",
-      "url": "https://www.phoronix.com/review/cachyos-omarchy-benchmarks",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T14:55:52.000Z"
-    },
-    {
-      "title": "Linux x86 32-bit Patches Clean Old Kernel Code After Recently Removing Vintage CPUs",
-      "url": "https://www.phoronix.com/news/Linux-2026-x86-32-bit-Cleanup",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T14:11:31.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1105881/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-06T14:04:54.000Z"
-    },
-    {
-      "title": "Making musl and proprietary NVIDIA drivers work together",
-      "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-06T13:23:14.000Z"
-    },
-    {
-      "title": "FEX Awaits The Linux Kernel To Align With Windows & macOS On ARM Register Usage",
-      "url": "https://www.phoronix.com/news/FEX-2611-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T13:12:24.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Claude Monet",
       "url": "https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/",
       "source": "Eclectic Light",
@@ -194,44 +250,12 @@
       "date": "2026-11-06T12:30:00.000Z"
     },
     {
-      "title": "Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option",
-      "url": "https://www.phoronix.com/news/Ubuntu-Going-With-Firmware-HWE",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T11:19:09.000Z"
-    },
-    {
-      "title": "Linux Developers Look To Drop RT_GROUP_SCHED As It's \"Broken Beyond Repair\"",
-      "url": "https://www.phoronix.com/news/Linux-Drop-RT_GROUP_SCHED",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T11:09:14.000Z"
-    },
-    {
-      "title": "Sound Subsystem Seeing Lots Of Fixes & Laptop/Device Quirks For Linux 7.4-rc2",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-Sound",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T10:58:08.000Z"
-    },
-    {
       "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
       "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-11-06T10:49:57.000Z"
-    },
-    {
-      "title": "OpenCV 5.1 Brings More AVX-512 Optimizations, Other Improvements",
-      "url": "https://www.phoronix.com/news/OpenCV-5.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T10:36:58.000Z"
     },
     {
       "title": "This Googlebook omission is a deal-breaker for me",
@@ -264,14 +288,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-05T23:41:44.000Z"
-    },
-    {
-      "title": "AMDGPU Driver Seeing HDMI 2.2 FRL Fixes For Linux 7.4",
-      "url": "https://www.phoronix.com/news/AMDGPU-HDMI-2.2-FRL-Fixes",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T22:07:00.000Z"
     },
     {
       "title": "Salon Ceases Publication",
@@ -384,22 +400,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-03T23:45:18.000Z"
-    },
-    {
-      "title": "MKBHD on the New A20 Pro iPad Mini",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T23:25:25.000Z"
-    },
-    {
-      "title": "macOS 27 Golden Gate does not actually support CoreStorage volumes",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-11-03T21:37:11.000Z"
     },
     {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
