@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-07T20:17:01.807Z",
+  "generated": "2026-11-07T23:42:28.361Z",
   "items": [
+    {
+      "title": "OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps",
+      "url": "https://www.phoronix.com/news/OpenIndiana-2026.10",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-07T22:50:46.000Z"
+    },
+    {
+      "title": "Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays",
+      "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-07T21:14:09.000Z"
+    },
     {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5",
@@ -234,14 +250,6 @@
       "date": "2026-11-06T17:48:51.000Z"
     },
     {
-      "title": "Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-FAT32",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T16:21:38.000Z"
-    },
-    {
       "title": "Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5",
       "source": "Gizmodo",
@@ -416,14 +424,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-03T23:58:49.000Z"
-    },
-    {
-      "title": "iPad Mini (A20 Pro) Review Roundup",
-      "url": "https://www.techmeme.com/261103/p15#a261103p15",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T23:45:18.000Z"
     },
     {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",

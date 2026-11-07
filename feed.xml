@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:42:28 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenIndiana 2026.10 Released With Updated Tools &amp; Compilers, New Apps</title>
+      <link>https://www.phoronix.com/news/OpenIndiana-2026.10</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/OpenIndiana-2026.10</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 07 Nov 2026 22:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays</title>
+      <link>https://www.youtube.com/watch?v=f2GZtWuUPl0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=f2GZtWuUPl0</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 07 Nov 2026 21:14:09 GMT</pubDate>
+    </item>
     <item>
       <title>I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5</link>
@@ -240,14 +256,6 @@
       <pubDate>Fri, 06 Nov 2026 17:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4-rc2 Change Yields As Much As 162x Improvement For FAT32</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc2-FAT32</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-FAT32</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 16:21:38 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 04 Nov 2026 14:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Commemorating the death of Albin Egger-Lienz: work and war</title>
-      <link>https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 04 Nov 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
