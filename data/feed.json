@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-07T01:59:08.659Z",
+  "generated": "2026-11-07T08:53:09.634Z",
   "items": [
+    {
+      "title": "A brief history of Recovery Mode",
+      "url": "https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-07T08:00:00.000Z"
+    },
+    {
+      "title": "Progress Report: Linux 7.3 - Asahi Linux",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-07T06:02:38.000Z"
+    },
     {
       "title": "FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS",
       "url": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-1",
@@ -8,6 +24,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-07T00:04:20.000Z"
+    },
+    {
+      "title": "Googlebooks and Android XR glasses could be a match made in tech heaven",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-06T21:51:00.000Z"
     },
     {
       "title": "Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future",
@@ -250,14 +274,6 @@
       "date": "2026-11-05T22:07:00.000Z"
     },
     {
-      "title": "Linux 7.4's Build Time Performance From Optimizations But Also Larger Codebase",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-05T21:44:05.000Z"
-    },
-    {
       "title": "Salon Ceases Publication",
       "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
       "source": "Daring Fireball",
@@ -394,14 +410,6 @@
       "date": "2026-11-03T20:16:23.000Z"
     },
     {
-      "title": "Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode",
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T19:26:41.000Z"
-    },
-    {
       "title": "Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUlaNWlhcnJxRFhGTTMxMEVCODkyN1B0bndlYUVUMDJuWTlQMzdJeFFuVjVYN1E1UHZtUWktaGxGdlJybHIwajlaVUNuSHUycEZwRHF6T1FzVVlnajVDc3E1d2JXRVc3RGpvdUFsQlBtQjdOTFdIaVZMUC1mSE85NmUyNW5xeHZBQkRqYQ?oc=5",
       "source": "TechRepublic",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-01T20:07:00.000Z"
-    },
-    {
-      "title": "I compared Googlebook and Samsung DeX; Galaxy users have little reason to switch",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjIya21hMGpvbGR6Ylo5UUsxZmNXZjVIVDlIR05xcmRVRG44b1ZaT05HNTZyNkF1VktKRTRPTVlhR3hRNk92eFEzQXVBRHhDN0E2eEQtdFRuaFVVNlZCSGc1eUhhX3psR2U2RFRIZXYzbGJ1M3B0Q3FGY04xVF84UnJIYUxNX1hJamtBbHQzcw?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-01T18:00:10.000Z"
     },
     {
       "title": "The Duty of a Scholar",

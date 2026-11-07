@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:53:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A brief history of Recovery Mode</title>
+      <link>https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Progress Report: Linux 7.3 - Asahi Linux</title>
+      <link>https://asahilinux.org/2026/11/progress-report-7-3/</link>
+      <guid isPermaLink="true">https://asahilinux.org/2026/11/progress-report-7-3/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sat, 07 Nov 2026 06:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS</title>
       <link>https://www.phoronix.com/news/FreeBSD-15.2-Beta-1</link>
@@ -14,6 +30,14 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Sat, 07 Nov 2026 00:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks and Android XR glasses could be a match made in tech heaven</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 06 Nov 2026 21:51:00 GMT</pubDate>
     </item>
     <item>
       <title>Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future</title>
@@ -256,14 +280,6 @@
       <pubDate>Thu, 05 Nov 2026 22:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4's Build Time Performance From Optimizations But Also Larger Codebase</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc1-Build-Times</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 05 Nov 2026 21:44:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Salon Ceases Publication</title>
       <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
       <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Tue, 03 Nov 2026 21:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxONTcyc0syeEpGSEtNZFBUQUxQUlRfLXdsM2p5R0hRV1IydmFqenE2azAtNUZod0ViOUVjbzcyMldCQThNYXFJNmtTT3kzLXN6Y3ZRaF9WQTF0bWVRb1ZSVXRVU3p6czVXNDFqZGxSdFk4a1BKWUY3YWgxd1FIMHJ0QXZkUEx2WHBzSDFSMnNja3VoNjg1T3NMZ3E1ODRSUm9UbVVYdXBB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxONTcyc0syeEpGSEtNZFBUQUxQUlRfLXdsM2p5R0hRV1IydmFqenE2azAtNUZod0ViOUVjbzcyMldCQThNYXFJNmtTT3kzLXN6Y3ZRaF9WQTF0bWVRb1ZSVXRVU3p6czVXNDFqZGxSdFk4a1BKWUY3YWgxd1FIMHJ0QXZkUEx2WHBzSDFSMnNja3VoNjg1T3NMZ3E1ODRSUm9UbVVYdXBB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 03 Nov 2026 20:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode</title>
-      <link>https://www.macrumors.com/2026/11/03/ios-27-3-safari/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/11/03/ios-27-3-safari/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 03 Nov 2026 19:26:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
