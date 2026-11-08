@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:56:22 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Sun, 08 Nov 2026 22:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>OurCal</title>
+      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</link>
+      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 08 Nov 2026 21:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing</title>
+      <link>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 08 Nov 2026 21:50:31 GMT</pubDate>
+    </item>
     <item>
       <title>I tried to un-Google my Googlebook with Linux, here’s why it failed</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5</link>
@@ -22,14 +46,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Sun, 08 Nov 2026 17:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Sun, 08 Nov 2026 17:05:12 GMT</pubDate>
     </item>
     <item>
       <title>Unattended reboots with encrypted disks</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 05 Nov 2026 20:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS updates are already waiting for the newest Macs</title>
-      <link>https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 05 Nov 2026 19:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting a good story: Nicolas Poussin</title>
-      <link>https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

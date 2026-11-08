@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-08T18:52:17.552Z",
+  "generated": "2026-11-08T22:56:22.779Z",
   "items": [
+    {
+      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-08T22:16:13.000Z"
+    },
+    {
+      "title": "OurCal",
+      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-08T21:56:18.000Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing",
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-08T21:50:31.000Z"
+    },
     {
       "title": "I tried to un-Google my Googlebook with Linux, here’s why it failed",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5",
@@ -16,14 +40,6 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-11-08T17:07:51.000Z"
-    },
-    {
-      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-08T17:05:12.000Z"
     },
     {
       "title": "Unattended reboots with encrypted disks",
@@ -432,22 +448,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-04T15:15:51.000Z"
-    },
-    {
-      "title": "This Election Will Not Look Surprising in History",
-      "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats?unlocked_article_code=1.N1E.firI.gTIOI047TyqA",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-04T15:15:51.000Z"
-    },
-    {
-      "title": "‘Political Reckoning Shatters Trump’s Grip on Washington’",
-      "url": "https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-04T14:56:47.000Z"
     },
     {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
