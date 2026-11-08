@@ -1,6 +1,38 @@
 {
-  "generated": "2026-11-08T13:36:31.067Z",
+  "generated": "2026-11-08T18:52:17.552Z",
   "items": [
+    {
+      "title": "I tried to un-Google my Googlebook with Linux, here’s why it failed",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5",
+      "source": "How-To Geek",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-08T17:30:15.000Z"
+    },
+    {
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-11-08T17:07:51.000Z"
+    },
+    {
+      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-08T17:05:12.000Z"
+    },
+    {
+      "title": "Unattended reboots with encrypted disks",
+      "url": "https://jmmv.dev/2026/11/zkeys-intro.html",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-11-08T16:58:03.000Z"
+    },
     {
       "title": "systemd loves Rust",
       "url": "https://amutable.com/blog/systemd-loves-rust",
@@ -418,14 +450,6 @@
       "date": "2026-11-04T14:56:47.000Z"
     },
     {
-      "title": "Commemorating the death of Albin Egger-Lienz: work and war",
-      "url": "https://eclecticlight.co/2026/11/04/commemorating-the-death-of-albin-egger-lienz-work-and-war/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-04T12:30:00.000Z"
-    },
-    {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTcyc0syeEpGSEtNZFBUQUxQUlRfLXdsM2p5R0hRV1IydmFqenE2azAtNUZod0ViOUVjbzcyMldCQThNYXFJNmtTT3kzLXN6Y3ZRaF9WQTF0bWVRb1ZSVXRVU3p6czVXNDFqZGxSdFk4a1BKWUY3YWgxd1FIMHJ0QXZkUEx2WHBzSDFSMnNja3VoNjg1T3NMZ3E1ODRSUm9UbVVYdXBB?oc=5",
       "source": "Chrome Unboxed",
@@ -472,22 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-02T17:30:30.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
-      "source": "shattered.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-02T14:47:11.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUlFVUG4xanJ5aUNBaEo0bzBoSmJxZXp5Q3RNS0NXYU1JUGpBTFk0RFJab3g0RWpQMUlsVEV6RW0wN0hiWVJMREJuRHNEaEZwWE94WUpJMG5vbGdRVTFkOXhDOWRxNVNwc1N2cg?oc=5",
-      "source": "Engadget",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-02T12:30:00.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",

@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:52:17 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I tried to un-Google my Googlebook with Linux, here’s why it failed</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">How-To Geek</source>
+      <pubDate>Sun, 08 Nov 2026 17:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?</title>
+      <link>https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai</link>
+      <guid isPermaLink="true">https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Sun, 08 Nov 2026 17:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Sun, 08 Nov 2026 17:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unattended reboots with encrypted disks</title>
+      <link>https://jmmv.dev/2026/11/zkeys-intro.html</link>
+      <guid isPermaLink="true">https://jmmv.dev/2026/11/zkeys-intro.html</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Sun, 08 Nov 2026 16:58:03 GMT</pubDate>
+    </item>
     <item>
       <title>systemd loves Rust</title>
       <link>https://amutable.com/blog/systemd-loves-rust</link>
@@ -374,38 +406,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why your Mac may not scan for malware</title>
-      <link>https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 05 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]</title>
-      <link>https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Wed, 04 Nov 2026 18:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP Googlebook 14 review: A gorgeous laptop that deserves a better OS</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaWZtVzZtenB6VFJ3cnhJeXFrOWp5cmE1WkJxWWlZRFlyODZva3hFNWN2b1NyWW94dWNUc19QakphWEI2N1AwUGJsOHhSa0RYbEx1Nk5HN1g3NlBIejR5WQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaWZtVzZtenB6VFJ3cnhJeXFrOWp5cmE1WkJxWWlZRFlyODZva3hFNWN2b1NyWW94dWNUc19QakphWEI2N1AwUGJsOHhSa0RYbEx1Nk5HN1g3NlBIejR5WQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">ZDNET</source>
-      <pubDate>Wed, 04 Nov 2026 17:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>This Election Will Not Look Surprising in History</title>
-      <link>https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi</link>
-      <guid isPermaLink="true">https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 04 Nov 2026 15:15:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
