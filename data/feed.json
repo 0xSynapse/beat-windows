@@ -1,6 +1,14 @@
 {
-  "generated": "2026-11-07T23:42:28.361Z",
+  "generated": "2026-11-08T06:12:55.539Z",
   "items": [
+    {
+      "title": "Container Windows in CoW",
+      "url": "https://m.youtube.com/watch?v=UsYaSRhf6dw",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-08T00:46:33.000Z"
+    },
     {
       "title": "OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps",
       "url": "https://www.phoronix.com/news/OpenIndiana-2026.10",
@@ -240,14 +248,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-06T17:48:54.000Z"
-    },
-    {
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-06T17:48:51.000Z"
     },
     {
       "title": "Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was",

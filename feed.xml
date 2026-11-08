@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:12:55 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Container Windows in CoW</title>
+      <link>https://m.youtube.com/watch?v=UsYaSRhf6dw</link>
+      <guid isPermaLink="true">https://m.youtube.com/watch?v=UsYaSRhf6dw</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 08 Nov 2026 00:46:33 GMT</pubDate>
+    </item>
     <item>
       <title>OpenIndiana 2026.10 Released With Updated Tools &amp; Compilers, New Apps</title>
       <link>https://www.phoronix.com/news/OpenIndiana-2026.10</link>
@@ -246,14 +254,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Fri, 06 Nov 2026 17:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Linux to Wikipedia: How Volunteers Build the Internet</title>
-      <link>https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</link>
-      <guid isPermaLink="true">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 06 Nov 2026 17:48:51 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was</title>
