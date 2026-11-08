@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 06:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:36:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>systemd loves Rust</title>
+      <link>https://amutable.com/blog/systemd-loves-rust</link>
+      <guid isPermaLink="true">https://amutable.com/blog/systemd-loves-rust</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 08 Nov 2026 12:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting the whole truth, and nothing but the truth 2</title>
+      <link>https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 08 Nov 2026 12:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2</title>
+      <link>https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 08 Nov 2026 11:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yunsilicon Working To Upstream Their High Performance Linux Network Driver</title>
+      <link>https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 08 Nov 2026 11:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>GCC 17 Feature Development Ends Next Week</title>
+      <link>https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 08 Nov 2026 11:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Fixes Faulty Mitigation Selection For BHI Vulnerability</title>
+      <link>https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 08 Nov 2026 11:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Week on My Mac: You don’t really want to install that</title>
+      <link>https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Container Windows in CoW</title>
       <link>https://m.youtube.com/watch?v=UsYaSRhf6dw</link>
@@ -192,60 +256,12 @@
       <pubDate>Fri, 06 Nov 2026 21:50:43 GMT</pubDate>
     </item>
     <item>
-      <title>ReactOS Lands Initial USB3 Driver Support</title>
-      <link>https://www.phoronix.com/news/ReactOS-Initial-USB-3.0</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-Initial-USB-3.0</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 21:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Videos from XDC 2026 are available</title>
-      <link>https://lwn.net/Articles/1105913/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105913/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 06 Nov 2026 20:25:22 GMT</pubDate>
-    </item>
-    <item>
       <title>★ Touch and Glow</title>
       <link>https://daringfireball.net/2026/11/touch_and_glow</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/11/touch_and_glow</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 06 Nov 2026 19:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>A RISC-V Based TEE With AMD Zen 6 CPUs</title>
-      <link>https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 06 Nov 2026 19:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Locking down hibernation for the winter</title>
-      <link>https://lwn.net/Articles/1103190/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103190/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 06 Nov 2026 18:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seven stable kernels with fixes for three Xen vulnerabilities</title>
-      <link>https://lwn.net/Articles/1105902/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105902/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 06 Nov 2026 18:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Two stable kernels for Friday</title>
-      <link>https://lwn.net/Articles/1105899/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1105899/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 06 Nov 2026 18:09:16 GMT</pubDate>
     </item>
     <item>
       <title>A big, new Googlebook OS update is here, and it wipes out over 30 launch headaches</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 04 Nov 2026 15:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>This Election Will Not Look Surprising in History</title>
-      <link>https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats?unlocked_article_code=1.N1E.firI.gTIOI047TyqA</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats?unlocked_article_code=1.N1E.firI.gTIOI047TyqA</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 04 Nov 2026 15:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Political Reckoning Shatters Trump’s Grip on Washington’</title>
-      <link>https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 04 Nov 2026 14:56:47 GMT</pubDate>
     </item>
   </channel>
 </rss>

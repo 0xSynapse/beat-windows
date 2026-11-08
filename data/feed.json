@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-08T06:12:55.539Z",
+  "generated": "2026-11-08T13:36:31.067Z",
   "items": [
+    {
+      "title": "systemd loves Rust",
+      "url": "https://amutable.com/blog/systemd-loves-rust",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-08T12:55:05.000Z"
+    },
+    {
+      "title": "Painting the whole truth, and nothing but the truth 2",
+      "url": "https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-08T12:30:00.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement",
+      "url": "https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-08T12:22:24.000Z"
+    },
+    {
+      "title": "AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2",
+      "url": "https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-08T11:37:07.000Z"
+    },
+    {
+      "title": "Yunsilicon Working To Upstream Their High Performance Linux Network Driver",
+      "url": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-08T11:27:33.000Z"
+    },
+    {
+      "title": "GCC 17 Feature Development Ends Next Week",
+      "url": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-08T11:12:21.000Z"
+    },
+    {
+      "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
+      "url": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-08T11:03:38.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: You don’t really want to install that",
+      "url": "https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-08T08:00:00.000Z"
+    },
     {
       "title": "Container Windows in CoW",
       "url": "https://m.youtube.com/watch?v=UsYaSRhf6dw",
@@ -186,60 +250,12 @@
       "date": "2026-11-06T21:50:43.000Z"
     },
     {
-      "title": "ReactOS Lands Initial USB3 Driver Support",
-      "url": "https://www.phoronix.com/news/ReactOS-Initial-USB-3.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T21:49:46.000Z"
-    },
-    {
-      "title": "Videos from XDC 2026 are available",
-      "url": "https://lwn.net/Articles/1105913/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-06T20:25:22.000Z"
-    },
-    {
       "title": "★ Touch and Glow",
       "url": "https://daringfireball.net/2026/11/touch_and_glow",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-06T19:50:46.000Z"
-    },
-    {
-      "title": "A RISC-V Based TEE With AMD Zen 6 CPUs",
-      "url": "https://www.phoronix.com/news/AMD-Zen-6-TEE-RISC-V-Based",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-06T19:30:49.000Z"
-    },
-    {
-      "title": "[$] Locking down hibernation for the winter",
-      "url": "https://lwn.net/Articles/1103190/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-06T18:51:28.000Z"
-    },
-    {
-      "title": "Seven stable kernels with fixes for three Xen vulnerabilities",
-      "url": "https://lwn.net/Articles/1105902/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-06T18:48:34.000Z"
-    },
-    {
-      "title": "Two stable kernels for Friday",
-      "url": "https://lwn.net/Articles/1105899/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-06T18:09:16.000Z"
     },
     {
       "title": "A big, new Googlebook OS update is here, and it wipes out over 30 launch headaches",
@@ -408,22 +424,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-04T12:30:00.000Z"
-    },
-    {
-      "title": "Why your Mac may struggle to update XProtect",
-      "url": "https://eclecticlight.co/2026/11/04/why-your-mac-may-struggle-to-update-xprotect/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-04T07:30:00.000Z"
-    },
-    {
-      "title": "Apple Begins Opening Siri AI to Developers",
-      "url": "https://developer.apple.com/news/?id=gdk2umrf",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-03T23:58:49.000Z"
     },
     {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
