@@ -1,13 +1,37 @@
 {
-  "generated": "2026-11-09T02:43:24.629Z",
+  "generated": "2026-11-09T11:44:01.860Z",
   "items": [
     {
-      "title": "Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-Released",
+      "title": "Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards",
+      "url": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
       "source": "Phoronix",
       "tag": "linux",
       "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T00:48:19.000Z"
+      "date": "2026-11-09T11:20:49.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files",
+      "url": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T11:08:22.000Z"
+    },
+    {
+      "title": "New Linux Patches Bring-Up The Samsung Galaxy XR Headset, Qualcomm Halliday SoC",
+      "url": "https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T10:46:20.000Z"
+    },
+    {
+      "title": "Intel ANV Lands Bitrate Control For AV1 Encoding",
+      "url": "https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T10:30:24.000Z"
     },
     {
       "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
@@ -15,7 +39,47 @@
       "source": "PCMag",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-09T00:35:13.000Z"
+      "date": "2026-11-09T10:24:10.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 385",
+      "url": "https://eclecticlight.co/2026/11/09/solutions-to-saturday-mac-riddles-385/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-09T09:00:00.000Z"
+    },
+    {
+      "title": "Viable version 1.1 improves macOS virtualisation workflows",
+      "url": "https://eclecticlight.co/2026/11/09/viable-version-1-1-improves-macos-virtualisation-workflows/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-09T07:30:00.000Z"
+    },
+    {
+      "title": "How Much Energy Does Building Distro Packages Use",
+      "url": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-09T06:44:59.000Z"
+    },
+    {
+      "title": "Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)",
+      "url": "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-09T06:25:20.000Z"
+    },
+    {
+      "title": "Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T00:48:19.000Z"
     },
     {
       "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
@@ -218,46 +282,6 @@
       "date": "2026-11-07T11:07:33.000Z"
     },
     {
-      "title": "Vulkan 1.4.368 Released With New Extensions From Valve & NVIDIA",
-      "url": "https://www.phoronix.com/news/Vulkan-1.4.368",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T10:53:10.000Z"
-    },
-    {
-      "title": "Microsoft's Azure Linux 3.0.2022 Ships With More Than 470 Security Fixes",
-      "url": "https://www.phoronix.com/news/Azure-Linux-3.0.2022",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T10:37:42.000Z"
-    },
-    {
-      "title": "Asahi Linux Makes Progress On Gaming, More Apple Silicon Upstreaming",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-7.3-Report",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T10:21:03.000Z"
-    },
-    {
-      "title": "Asahi Linux 7.3 progress report",
-      "url": "https://lwn.net/Articles/1105936/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-07T09:49:38.000Z"
-    },
-    {
-      "title": "Amutable Foundations: A Technical Overview",
-      "url": "https://lwn.net/Articles/1105934/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-07T09:32:56.000Z"
-    },
-    {
       "title": "Saturday Mac riddles 385",
       "url": "https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/",
       "source": "Eclectic Light",
@@ -272,14 +296,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-07T08:00:00.000Z"
-    },
-    {
-      "title": "Progress Report: Linux 7.3 - Asahi Linux",
-      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-07T06:02:38.000Z"
     },
     {
       "title": "Google just made Googlebooks faster, more stable, and less crash-prone",
@@ -416,22 +432,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-05T19:57:25.000Z"
-    },
-    {
-      "title": "Painting a good story: Nicolas Poussin",
-      "url": "https://eclecticlight.co/2026/11/05/painting-a-good-story-poussin/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-05T12:30:00.000Z"
-    },
-    {
-      "title": "Why your Mac may not scan for malware",
-      "url": "https://eclecticlight.co/2026/11/05/why-your-mac-may-not-scan-for-malware/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-05T07:30:00.000Z"
     },
     {
       "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
