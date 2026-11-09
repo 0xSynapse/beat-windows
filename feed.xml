@@ -5,15 +5,31 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:43:24 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc2-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 09 Nov 2026 00:48:19 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Sun, 08 Nov 2026 22:16:13 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 08 Nov 2026 23:56:32 GMT</pubDate>
     </item>
     <item>
       <title>OurCal</title>
@@ -272,14 +288,6 @@
       <pubDate>Sat, 07 Nov 2026 06:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS</title>
-      <link>https://www.phoronix.com/news/FreeBSD-15.2-Beta-1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-15.2-Beta-1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 07 Nov 2026 00:04:20 GMT</pubDate>
-    </item>
-    <item>
       <title>Google just made Googlebooks faster, more stable, and less crash-prone</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 05 Nov 2026 21:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Releases Mac Version of Edits</title>
-      <link>https://edits.instagram.com/blog/edits-desktop-video-editor/</link>
-      <guid isPermaLink="true">https://edits.instagram.com/blog/edits-desktop-video-editor/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 05 Nov 2026 20:27:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

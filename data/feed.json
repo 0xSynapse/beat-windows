@@ -1,13 +1,29 @@
 {
-  "generated": "2026-11-08T22:56:22.779Z",
+  "generated": "2026-11-09T02:43:24.629Z",
   "items": [
+    {
+      "title": "Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc2-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T00:48:19.000Z"
+    },
     {
       "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
       "source": "PCMag",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-08T22:16:13.000Z"
+      "date": "2026-11-09T00:35:13.000Z"
+    },
+    {
+      "title": "Jensen Huang Betrayed Nvidia, Not Just His Family",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-08T23:56:32.000Z"
     },
     {
       "title": "OurCal",
@@ -266,14 +282,6 @@
       "date": "2026-11-07T06:02:38.000Z"
     },
     {
-      "title": "FreeBSD 15.2 Beta 1 Allows Experimental Cross-Building Of Base Packages On Linux/macOS",
-      "url": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T00:04:20.000Z"
-    },
-    {
       "title": "Google just made Googlebooks faster, more stable, and less crash-prone",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5",
       "source": "Android Central",
@@ -440,14 +448,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-04T17:24:44.000Z"
-    },
-    {
-      "title": "This Election Will Not Look Surprising in History",
-      "url": "https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-04T15:15:51.000Z"
     },
     {
       "title": "If your Dell XPS Googlebook volume is fluctuating on its own, you aren’t crazy",
