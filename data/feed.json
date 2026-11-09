@@ -1,6 +1,118 @@
 {
-  "generated": "2026-11-09T11:44:01.860Z",
+  "generated": "2026-11-09T22:28:26.183Z",
   "items": [
+    {
+      "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
+      "url": "https://9to5google.com/2026/11/09/googlebook-apps-macos-features/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-09T21:05:00.000Z"
+    },
+    {
+      "title": "Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May",
+      "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-09T20:57:04.000Z"
+    },
+    {
+      "title": "Tesla Brain Drain",
+      "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-09T20:32:27.000Z"
+    },
+    {
+      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-09T19:31:21.000Z"
+    },
+    {
+      "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
+      "url": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T19:11:37.000Z"
+    },
+    {
+      "title": "Apple has just released updates to macOS 27.2.1, 26.7.3 and 15.8.3",
+      "url": "https://eclecticlight.co/2026/11/09/apple-has-just-released-updates-to-macos-27-2-1-26-7-3-and-15-8-3/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-09T18:24:49.000Z"
+    },
+    {
+      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times",
+      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-09T17:47:22.000Z"
+    },
+    {
+      "title": "[$] Git considers voting to determine its LLM policy",
+      "url": "https://lwn.net/Articles/1104195/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-09T15:05:07.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.4-rc2",
+      "url": "https://lwn.net/Articles/1106300/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-09T14:55:38.000Z"
+    },
+    {
+      "title": "OpenIndiana 2026.10 released",
+      "url": "https://lwn.net/Articles/1106285/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-09T14:09:57.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1106282/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-09T14:02:31.000Z"
+    },
+    {
+      "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
+      "url": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T13:02:13.000Z"
+    },
+    {
+      "title": "ChaCha AVX-512 Optimization For Linux 7.5 Yields Up To 99% Improvement On AMD Zen 5",
+      "url": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T12:35:12.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Aeneas flees Troy",
+      "url": "https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-09T12:30:00.000Z"
+    },
     {
       "title": "Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards",
       "url": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
@@ -32,14 +144,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-09T10:30:24.000Z"
-    },
-    {
-      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-09T10:24:10.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 385",
@@ -194,28 +298,20 @@
       "date": "2026-11-08T08:00:00.000Z"
     },
     {
-      "title": "Container Windows in CoW",
-      "url": "https://m.youtube.com/watch?v=UsYaSRhf6dw",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-08T00:46:33.000Z"
-    },
-    {
-      "title": "OpenIndiana 2026.10 Released With Updated Tools & Compilers, New Apps",
-      "url": "https://www.phoronix.com/news/OpenIndiana-2026.10",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T22:50:46.000Z"
-    },
-    {
       "title": "Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays",
       "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-07T21:14:09.000Z"
+    },
+    {
+      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-11-07T18:41:33.000Z"
     },
     {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
@@ -234,52 +330,12 @@
       "date": "2026-11-07T15:27:00.000Z"
     },
     {
-      "title": "Automake 1.20 Brings New Features, Desires To Re-Establish GNU As Leading Build System",
-      "url": "https://www.phoronix.com/news/GNU-Automake-1.20",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T15:22:00.000Z"
-    },
-    {
-      "title": "HyprBSD Provides Wayland-Based Desktop Built Atop FreeBSD, Complete With Steam Gaming",
-      "url": "https://www.phoronix.com/news/HyprBSD",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T12:45:00.000Z"
-    },
-    {
       "title": "Painting the whole truth, and nothing but the truth 1",
       "url": "https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-07T12:30:00.000Z"
-    },
-    {
-      "title": "Kmorph Aims To Provide Rebootless Linux Kernel Crash Recovery",
-      "url": "https://www.phoronix.com/news/Kmorph-Linux-Crash-Recovery",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T12:05:00.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.9 Will Stop Leaking Memory When Right Clicking Files/Folders On Desktop",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Leak-Desktop",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-07T11:34:48.000Z"
-    },
-    {
-      "title": "Amutable Foundations: A Technical Overview",
-      "url": "https://amutable.com/blog/amutable-foundations-technical-overview",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-07T11:07:33.000Z"
     },
     {
       "title": "Saturday Mac riddles 385",
@@ -362,36 +418,12 @@
       "date": "2026-11-06T15:00:22.000Z"
     },
     {
-      "title": "Painting with impaired vision: Claude Monet",
-      "url": "https://eclecticlight.co/2026/11/06/painting-with-impaired-vision-claude-monet/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-06T12:30:00.000Z"
-    },
-    {
-      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-11-06T10:49:57.000Z"
-    },
-    {
       "title": "This Googlebook omission is a deal-breaker for me",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-06T10:30:00.000Z"
-    },
-    {
-      "title": "Install an older version of macOS on an Apple silicon Mac",
-      "url": "https://eclecticlight.co/2026/11/06/install-an-older-version-of-macos-on-an-apple-silicon-mac/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-06T07:30:00.000Z"
     },
     {
       "title": "Google’s big Googlebook update brings a 6GB memory boost and tackles Chrome crashes",
@@ -408,30 +440,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-05T23:41:44.000Z"
-    },
-    {
-      "title": "Salon Ceases Publication",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-05T21:31:04.000Z"
-    },
-    {
-      "title": "Meta Releases Mac Version of Edits",
-      "url": "https://edits.instagram.com/blog/edits-desktop-video-editor/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-05T20:27:05.000Z"
-    },
-    {
-      "title": "macOS updates are already waiting for the newest Macs",
-      "url": "https://eclecticlight.co/2026/11/05/macos-updates-are-already-waiting-for-the-newest-macs/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-05T19:57:25.000Z"
     },
     {
       "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-02T20:39:52.000Z"
-    },
-    {
-      "title": "My brutally honest thoughts on Googlebook after one month [VIDEO]",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3VxcXdoWjQ3cUdfQzZTeGRHbWJEc1lJVi0wVGZaNWJtczl5d1M4MURfU0ZVWG9XelVobnJ0a3FXYXpUY0VvYmhvZ3d0dWQ4WGdvMnQ4Y01GTTJhZ3Z0ai1yQnVqT1d2MTNNekVCclVfeWtyMWpUQU1JRmkyQ2RlLUFyYzJSLTE4SjlKOThPYVNUMm9f?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-02T17:30:30.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
