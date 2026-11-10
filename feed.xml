@@ -5,15 +5,71 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:33:20 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
-      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <title>Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI</title>
+      <link>https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 12:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portraits of trees: Emily Carr’s dancing trees</title>
+      <link>https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</guid>
       <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 10 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>x86 Ecosystem Advisory Group Posts ACE v2 &amp; AVX10.3 Specs, GCC Patches Ready</title>
+      <link>https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 11:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>openSUSE Tumbleweed Transitioning To Agama Installer</title>
+      <link>https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 10:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected</title>
+      <link>https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 10:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.8.3 Released With Dozens Of Fixes</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.8.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.8.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 10:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>exfatprogs 1.4.4 Brings Speed-Up For Making New exFAT Filesystems</title>
+      <link>https://www.phoronix.com/news/exfatprogs-1.4.4</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/exfatprogs-1.4.4</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 10:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dumpster-diving: how the Trash works</title>
+      <link>https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 10 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
@@ -21,7 +77,15 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Tue, 10 Nov 2026 03:01:53 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 05:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
+      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
     </item>
     <item>
       <title>Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements</title>
@@ -72,6 +136,14 @@
       <pubDate>Mon, 09 Nov 2026 20:57:04 GMT</pubDate>
     </item>
     <item>
+      <title>Acer Googlebook 14 unboxing: the most affordable is also a convertible [VIDEO]</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjB2VnU2Rkl0MG8ybTFXZERDblFvcjg1UTNMeEg2QjhXb0xJLU41ckhsMzlnbUxQZnBQakJtN0M4MFdteVFxSGItaUtTcWxXd0xvSWJ0VTNEUEt3RFpmNGVZTkRhUnExY2ZHNkpyU0tCVlpQRHBnZHpnNlg3RzRnalhGdkVva2U0WDV2SVVCSU1URmlreGVlTWNYd05Lc2RKV202ag?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjB2VnU2Rkl0MG8ybTFXZERDblFvcjg1UTNMeEg2QjhXb0xJLU41ckhsMzlnbUxQZnBQakJtN0M4MFdteVFxSGItaUtTcWxXd0xvSWJ0VTNEUEt3RFpmNGVZTkRhUnExY2ZHNkpyU0tCVlpQRHBnZHpnNlg3RzRnalhGdkVva2U0WDV2SVVCSU1URmlreGVlTWNYd05Lc2RKV202ag?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 09 Nov 2026 20:55:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Tesla Brain Drain</title>
       <link>https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/</link>
       <guid isPermaLink="true">https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/</guid>
@@ -102,6 +174,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 09 Nov 2026 17:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Update Could Free Up 6GB of RAM, Fixes 30 Issues</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOUpkM3Bra3gtT1FZUnFJNG5iR25vdHF3VXZIZ3VmdVotQ24yTkdiUk4yZ1RYNWl3dF9hYWltUHZ4TmhSTmxWeWt1VFFuM2tzS1VXaFowX3RFa1BRZmlTNENKOWZSUlhFSkZxampYX25FOW1xVGtpZzM5WEZuOTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOUpkM3Bra3gtT1FZUnFJNG5iR25vdHF3VXZIZ3VmdVotQ24yTkdiUk4yZ1RYNWl3dF9hYWltUHZ4TmhSTmxWeWt1VFFuM2tzS1VXaFowX3RFa1BRZmlTNENKOWZSUlhFSkZxampYX25FOW1xVGtpZzM5WEZuOTQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">TechRepublic</source>
+      <pubDate>Mon, 09 Nov 2026 16:46:23 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook November Update is Out With Performance Improvements</title>
@@ -216,30 +296,6 @@
       <pubDate>Mon, 09 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>How Much Energy Does Building Distro Packages Use</title>
-      <link>https://www.wezm.net/v2/posts/2026/distro-energy-use/</link>
-      <guid isPermaLink="true">https://www.wezm.net/v2/posts/2026/distro-energy-use/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 09 Nov 2026 06:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsecond accurate NTP with a Raspberry Pi and PPS GPS(2021)</title>
-      <link>https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/</link>
-      <guid isPermaLink="true">https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 09 Nov 2026 06:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc2-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc2-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 00:48:19 GMT</pubDate>
-    </item>
-    <item>
       <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
       <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
@@ -288,36 +344,12 @@
       <pubDate>Sun, 08 Nov 2026 16:58:03 GMT</pubDate>
     </item>
     <item>
-      <title>systemd loves Rust</title>
-      <link>https://amutable.com/blog/systemd-loves-rust</link>
-      <guid isPermaLink="true">https://amutable.com/blog/systemd-loves-rust</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 08 Nov 2026 12:55:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting the whole truth, and nothing but the truth 2</title>
       <link>https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.5 To Provide More AMD Ryzen AI NPU AIE4 Enablement</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-RK3568-AMD-AIE4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 08 Nov 2026 12:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD PerfOpt Performance Boosting Code Tweaked For Linux 7.4-rc2</title>
-      <link>https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-PerfOpt-Tweaks-Linux-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 08 Nov 2026 11:37:07 GMT</pubDate>
     </item>
     <item>
       <title>Last Week on My Mac: You don’t really want to install that</title>
@@ -368,44 +400,12 @@
       <pubDate>Sat, 07 Nov 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>A brief history of Recovery Mode</title>
-      <link>https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/a-brief-history-of-recovery-mode/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 07 Nov 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Google just made Googlebooks faster, more stable, and less crash-prone</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Android Central</source>
       <pubDate>Fri, 06 Nov 2026 23:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks and Android XR glasses could be a match made in tech heaven</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Fri, 06 Nov 2026 21:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android Circuit: Galaxy S27 Pro Features, RedMagic 12 Pro’s Terminal, Googlebook’s Tablet Future</title>
-      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxOZGtoRmhtaDQ1Z3JZNzRZbE5Gd2VRcGRoVmh2OTJ0Q3owQUJnWkV6X1B6MWhOd1dBeTc2LVM2Vk5SWDNUeFRMdDk0TG4wYm90OXExbS1lN0wxV1VvdmhUS3l1X0xiRUkzTXhuWnZsOEY3MFhWMFdlWlJVLUhlWXJVNTNWczJSblo2OS1ocG5FYTJkUnc3Vm5zZWNzYzhuNlF3UElOQU1jYlh6Y3FiU0dlV3dwU3JkNFVtRWVyaWlyOWVGZGtPdFEzMVotazc1OWExdGJQdWFCeDdoM2FLMXVWcE1abWhKRV9keE1FNmJkQWU1ZmZQQVBCQ1o1cGZaSTJXMkZTVGlxTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwJBVV95cUxOZGtoRmhtaDQ1Z3JZNzRZbE5Gd2VRcGRoVmh2OTJ0Q3owQUJnWkV6X1B6MWhOd1dBeTc2LVM2Vk5SWDNUeFRMdDk0TG4wYm90OXExbS1lN0wxV1VvdmhUS3l1X0xiRUkzTXhuWnZsOEY3MFhWMFdlWlJVLUhlWXJVNTNWczJSblo2OS1ocG5FYTJkUnc3Vm5zZWNzYzhuNlF3UElOQU1jYlh6Y3FiU0dlV3dwU3JkNFVtRWVyaWlyOWVGZGtPdFEzMVotazc1OWExdGJQdWFCeDdoM2FLMXVWcE1abWhKRV9keE1FNmJkQWU1ZmZQQVBCQ1o1cGZaSTJXMkZTVGlxTQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Forbes</source>
-      <pubDate>Fri, 06 Nov 2026 21:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ Touch and Glow</title>
-      <link>https://daringfireball.net/2026/11/touch_and_glow</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/touch_and_glow</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 06 Nov 2026 19:50:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
