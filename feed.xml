@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:39:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
+      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag</source>
+      <pubDate>Tue, 10 Nov 2026 03:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements</title>
+      <link>https://www.phoronix.com/news/Mesa-26.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 00:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
+      <link>https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 09 Nov 2026 23:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio</title>
+      <link>https://www.phoronix.com/news/Firefox-160-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Firefox-160-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 09 Nov 2026 23:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker has always used microVMs (well, since 2016)</title>
+      <link>https://dave.recoil.org/docker-has-always-used-microvms/</link>
+      <guid isPermaLink="true">https://dave.recoil.org/docker-has-always-used-microvms/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Mon, 09 Nov 2026 22:29:01 GMT</pubDate>
+    </item>
     <item>
       <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
       <link>https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</link>
@@ -32,14 +80,6 @@
       <pubDate>Mon, 09 Nov 2026 20:32:27 GMT</pubDate>
     </item>
     <item>
-      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Mon, 09 Nov 2026 19:31:21 GMT</pubDate>
-    </item>
-    <item>
       <title>AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5</title>
       <link>https://www.phoronix.com/news/AMDGPU-Patches-GFX13</link>
       <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-Patches-GFX13</guid>
@@ -56,12 +96,20 @@
       <pubDate>Mon, 09 Nov 2026 18:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times</title>
+      <title>Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy</title>
       <link>https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 09 Nov 2026 17:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook November Update is Out With Performance Improvements</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjBIX3dheHk1VEswN3Boazg2bHZWOF94STZPemhOODhDMVZ1Z3RDenllS3dCWURpWUZVbnFMdnQ4YXhrdldzVzFabUZmSlhFbFN1Q1lYX2RRZVVfdkhyZnFXVzhhN0czczdCd1hrRjROQXMyczBVWlViRndOZ0FxYmNyNzNNZGhDdnhWV1NjM2h6LXhtel9jQ2t6c0lzOXFsNlVfbA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjBIX3dheHk1VEswN3Boazg2bHZWOF94STZPemhOODhDMVZ1Z3RDenllS3dCWURpWUZVbnFMdnQ4YXhrdldzVzFabUZmSlhFbFN1Q1lYX2RRZVVfdkhyZnFXVzhhN0czczdCd1hrRjROQXMyczBVWlViRndOZ0FxYmNyNzNNZGhDdnhWV1NjM2h6LXhtel9jQ2t6c0lzOXFsNlVfbA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Thurrott.com</source>
+      <pubDate>Mon, 09 Nov 2026 15:29:23 GMT</pubDate>
     </item>
     <item>
       <title>[$] Git considers voting to determine its LLM policy</title>
@@ -272,30 +320,6 @@
       <pubDate>Sun, 08 Nov 2026 11:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>Yunsilicon Working To Upstream Their High Performance Linux Network Driver</title>
-      <link>https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 08 Nov 2026 11:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCC 17 Feature Development Ends Next Week</title>
-      <link>https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 08 Nov 2026 11:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Fixes Faulty Mitigation Selection For BHI Vulnerability</title>
-      <link>https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 08 Nov 2026 11:03:38 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: You don’t really want to install that</title>
       <link>https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</guid>
@@ -310,14 +334,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sat, 07 Nov 2026 21:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD top(1) adds flag to show chroot, pledge and unveil status</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261106104957</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261106104957</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
-      <pubDate>Sat, 07 Nov 2026 18:41:33 GMT</pubDate>
     </item>
     <item>
       <title>I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook</title>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 06 Nov 2026 19:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>A big, new Googlebook OS update is here, and it wipes out over 30 launch headaches</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTd1NXY0OHpuU2FHMVpNSFVtUVJzTVVIb19zOXFJQjVyTEk0N2JIQjE1TDhYal9ZWnNOSUFLY01sRVBRQm9hUHFjMjZZQ05UZjgyWWwxeHBBN1FyWEViV0Q4WExEVkdxN1NsbDNfT1ZYSDBkdEc0cU1xU180UHJDWHhOY0ZUYVpUWlVkTmxScEdJTzdxNjRKamJEWHpXdmhTOUt6MGQ3Tm00VVE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOTd1NXY0OHpuU2FHMVpNSFVtUVJzTVVIb19zOXFJQjVyTEk0N2JIQjE1TDhYal9ZWnNOSUFLY01sRVBRQm9hUHFjMjZZQ05UZjgyWWwxeHBBN1FyWEViV0Q4WExEVkdxN1NsbDNfT1ZYSDBkdEc0cU1xU180UHJDWHhOY0ZUYVpUWlVkTmxScEdJTzdxNjRKamJEWHpXdmhTOUt6MGQ3Tm00VVE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Fri, 06 Nov 2026 17:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks’ First Major Bandaid Showcases How Rushed the Launch Was</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTE1VZG9VcUdDT1VnQkZvSmZ6X3FxTkV1VEhKSjFDQnNfVFVhWlBsR0k1amJMcTdQMS05Nkp2ekdNUTAxenFwcXpyaXRVb1pUNTRrYVllR2xfbDFIOWtMTG5iYW9aNHdxMmlJQkgzZ0JZcjFtUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gizmodo</source>
-      <pubDate>Fri, 06 Nov 2026 16:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

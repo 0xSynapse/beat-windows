@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-09T22:28:26.183Z",
+  "generated": "2026-11-10T04:39:31.060Z",
   "items": [
+    {
+      "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T04:14:31.000Z"
+    },
+    {
+      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-10T03:01:53.000Z"
+    },
+    {
+      "title": "Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements",
+      "url": "https://www.phoronix.com/news/Mesa-26.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T00:19:46.000Z"
+    },
+    {
+      "title": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
+      "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-09T23:46:17.000Z"
+    },
+    {
+      "title": "Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio",
+      "url": "https://www.phoronix.com/news/Firefox-160-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-09T23:12:33.000Z"
+    },
+    {
+      "title": "Docker has always used microVMs (well, since 2016)",
+      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-09T22:29:01.000Z"
+    },
     {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
       "url": "https://9to5google.com/2026/11/09/googlebook-apps-macos-features/",
@@ -26,14 +74,6 @@
       "date": "2026-11-09T20:32:27.000Z"
     },
     {
-      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-09T19:31:21.000Z"
-    },
-    {
       "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
       "url": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
       "source": "Phoronix",
@@ -50,12 +90,20 @@
       "date": "2026-11-09T18:24:49.000Z"
     },
     {
-      "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times",
+      "title": "Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy",
       "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-09T17:47:22.000Z"
+    },
+    {
+      "title": "Googlebook November Update is Out With Performance Improvements",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjBIX3dheHk1VEswN3Boazg2bHZWOF94STZPemhOODhDMVZ1Z3RDenllS3dCWURpWUZVbnFMdnQ4YXhrdldzVzFabUZmSlhFbFN1Q1lYX2RRZVVfdkhyZnFXVzhhN0czczdCd1hrRjROQXMyczBVWlViRndOZ0FxYmNyNzNNZGhDdnhWV1NjM2h6LXhtel9jQ2t6c0lzOXFsNlVfbA?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-09T15:29:23.000Z"
     },
     {
       "title": "[$] Git considers voting to determine its LLM policy",
@@ -266,30 +314,6 @@
       "date": "2026-11-08T11:37:07.000Z"
     },
     {
-      "title": "Yunsilicon Working To Upstream Their High Performance Linux Network Driver",
-      "url": "https://www.phoronix.com/news/Yunsilicon-Linux-Network-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-08T11:27:33.000Z"
-    },
-    {
-      "title": "GCC 17 Feature Development Ends Next Week",
-      "url": "https://www.phoronix.com/news/GCC-17-Ends-Stage-1-Next-Week",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-08T11:12:21.000Z"
-    },
-    {
-      "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
-      "url": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-08T11:03:38.000Z"
-    },
-    {
       "title": "Last Week on My Mac: You don’t really want to install that",
       "url": "https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/",
       "source": "Eclectic Light",
@@ -304,14 +328,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-07T21:14:09.000Z"
-    },
-    {
-      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-11-07T18:41:33.000Z"
     },
     {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
@@ -402,20 +418,12 @@
       "date": "2026-11-06T16:00:03.000Z"
     },
     {
-      "title": "Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’",
-      "url": "https://support.apple.com/en-us/149248",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-06T15:03:51.000Z"
-    },
-    {
-      "title": "The President is Coping Well",
-      "url": "https://www.wsj.com/politics/policy/trump-signs-proclamation-he-says-will-protect-oval-office-from-major-changes-93f3285b",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-06T15:00:22.000Z"
+      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-06T10:49:57.000Z"
     },
     {
       "title": "This Googlebook omission is a deal-breaker for me",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-03T02:10:57.000Z"
-    },
-    {
-      "title": "Googlebook OS’ top bar needs to move to the bottom of the screen for desktop mode",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTVHbzl4YVFCZnEtMEQ3TTFPU1JwUUhVU0cwQlplZWNNSU1YZ3dlU2tHTnNlOTVhZUtqSEtCUzJNblhScWVqOWJwc25WOVlBWlN1c09mYnZKYlFtd1E2Nks2SkxXWWU5Q21qVFdaMlpXSEltaExKX0trcVVpbHJpaFlrMk1xMlRpenRrZTNVZFhhY1hQaUJuT2haSVkwcnVLMWwwbW1oaE9xRzA?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-02T20:39:52.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
