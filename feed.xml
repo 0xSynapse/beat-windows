@@ -5,8 +5,168 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:52:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Three new stable kernels for Tuesday</title>
+      <link>https://lwn.net/Articles/1106569/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106569/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 10 Nov 2026 19:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 157 rolls out to Android and desktop, but Googlebook updates remain delayed</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Tue, 10 Nov 2026 18:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 17:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Regarding Graveyards and Indispensable Men</title>
+      <link>https://www.youtube.com/watch?v=vydmUCGQnyI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vydmUCGQnyI</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 17:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores</title>
+      <link>https://www.phoronix.com/review/amd-epyc-9996</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9996</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 17:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz</title>
+      <link>https://www.phoronix.com/review/amd-epyc-9686f</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9686f</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 17:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source</title>
+      <link>https://www.phoronix.com/news/AMD-MEXT</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-MEXT</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 17:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Confirms ACE With 7th Gen EPYC &quot;Florence&quot; While 8th Gen EPYC Is &quot;Ravenna&quot;</title>
+      <link>https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 17:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD EPYC Embedded 9006 Series SP7 Announced</title>
+      <link>https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blender 5.3 Released With NVIDIA DLSS 4.5 Ray Reconstruction, Vulkan Default</title>
+      <link>https://www.phoronix.com/news/Blender-5.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Blender-5.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 16:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steven Levy on John Ternus</title>
+      <link>https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 16:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>KORA Announced As Linux Desktop OS &quot;For The Age of Intelligence&quot;</title>
+      <link>https://www.phoronix.com/news/KORA-OS</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KORA-OS</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 15:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Synaptics patent claims stop work on DisplayLink drivers</title>
+      <link>https://lwn.net/Articles/1102549/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102549/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 10 Nov 2026 15:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 160 released</title>
+      <link>https://lwn.net/Articles/1106542/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106542/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 10 Nov 2026 15:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>OurCal</title>
+      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</link>
+      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 15:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 27.3 Adds Support for Global Privacy Control</title>
+      <link>https://pxlnv.com/linklog/safari-global-privacy-control/</link>
+      <guid isPermaLink="true">https://pxlnv.com/linklog/safari-global-privacy-control/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 14:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘A Scandal at the Center of the Economy’</title>
+      <link>https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 14:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee</title>
+      <link>https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 14:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Tuesday</title>
+      <link>https://lwn.net/Articles/1106522/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106522/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 10 Nov 2026 14:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eight More Security Issues Made Public For The X.Org Server / XWayland</title>
+      <link>https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 10 Nov 2026 13:55:33 GMT</pubDate>
+    </item>
     <item>
       <title>Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI</title>
       <link>https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood</link>
@@ -112,14 +272,6 @@
       <pubDate>Mon, 09 Nov 2026 23:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>Docker has always used microVMs (well, since 2016)</title>
-      <link>https://dave.recoil.org/docker-has-always-used-microvms/</link>
-      <guid isPermaLink="true">https://dave.recoil.org/docker-has-always-used-microvms/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 09 Nov 2026 22:29:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
       <link>https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</guid>
@@ -150,14 +302,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 09 Nov 2026 20:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5</title>
-      <link>https://www.phoronix.com/news/AMDGPU-Patches-GFX13</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-Patches-GFX13</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 19:11:37 GMT</pubDate>
     </item>
     <item>
       <title>Apple has just released updates to macOS 27.2.1, 26.7.3 and 15.8.3</title>
@@ -192,92 +336,12 @@
       <pubDate>Mon, 09 Nov 2026 15:29:23 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Git considers voting to determine its LLM policy</title>
-      <link>https://lwn.net/Articles/1104195/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1104195/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 09 Nov 2026 15:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kernel prepatch 7.4-rc2</title>
-      <link>https://lwn.net/Articles/1106300/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106300/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 09 Nov 2026 14:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenIndiana 2026.10 released</title>
-      <link>https://lwn.net/Articles/1106285/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106285/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 09 Nov 2026 14:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Monday</title>
-      <link>https://lwn.net/Articles/1106282/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106282/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 09 Nov 2026 14:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Darling Now Embraces AI For Running macOS Binaries On Linux</title>
-      <link>https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 13:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChaCha AVX-512 Optimization For Linux 7.5 Yields Up To 99% Improvement On AMD Zen 5</title>
-      <link>https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 12:35:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Aeneas flees Troy</title>
       <link>https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 09 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards</title>
-      <link>https://www.phoronix.com/news/MSI-Mystic-Light-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/MSI-Mystic-Light-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 11:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 11:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>New Linux Patches Bring-Up The Samsung Galaxy XR Headset, Qualcomm Halliday SoC</title>
-      <link>https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 10:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel ANV Lands Bitrate Control For AV1 Encoding</title>
-      <link>https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 10:30:24 GMT</pubDate>
     </item>
     <item>
       <title>Solutions to Saturday Mac riddles 385</title>
@@ -304,14 +368,6 @@
       <pubDate>Sun, 08 Nov 2026 23:56:32 GMT</pubDate>
     </item>
     <item>
-      <title>OurCal</title>
-      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</link>
-      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 08 Nov 2026 21:56:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing</title>
       <link>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</guid>
@@ -328,44 +384,12 @@
       <pubDate>Sun, 08 Nov 2026 17:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?</title>
-      <link>https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai</link>
-      <guid isPermaLink="true">https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai</guid>
-      <category>macos</category>
-      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
-      <pubDate>Sun, 08 Nov 2026 17:07:51 GMT</pubDate>
-    </item>
-    <item>
       <title>Unattended reboots with encrypted disks</title>
       <link>https://jmmv.dev/2026/11/zkeys-intro.html</link>
       <guid isPermaLink="true">https://jmmv.dev/2026/11/zkeys-intro.html</guid>
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Sun, 08 Nov 2026 16:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting the whole truth, and nothing but the truth 2</title>
-      <link>https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last Week on My Mac: You don’t really want to install that</title>
-      <link>https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sun, 08 Nov 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays</title>
-      <link>https://www.youtube.com/watch?v=f2GZtWuUPl0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=f2GZtWuUPl0</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 07 Nov 2026 21:14:09 GMT</pubDate>
     </item>
     <item>
       <title>I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">VideoCardz.com</source>
       <pubDate>Sat, 07 Nov 2026 15:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting the whole truth, and nothing but the truth 1</title>
-      <link>https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 07 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 385</title>
-      <link>https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google just made Googlebooks faster, more stable, and less crash-prone</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Fri, 06 Nov 2026 23:41:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

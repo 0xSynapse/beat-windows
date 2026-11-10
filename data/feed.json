@@ -1,6 +1,166 @@
 {
-  "generated": "2026-11-10T13:33:20.567Z",
+  "generated": "2026-11-10T20:52:41.327Z",
   "items": [
+    {
+      "title": "Three new stable kernels for Tuesday",
+      "url": "https://lwn.net/Articles/1106569/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-10T19:06:06.000Z"
+    },
+    {
+      "title": "Chrome 157 rolls out to Android and desktop, but Googlebook updates remain delayed",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-10T18:36:55.000Z"
+    },
+    {
+      "title": "Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T17:06:01.000Z"
+    },
+    {
+      "title": "Regarding Graveyards and Indispensable Men",
+      "url": "https://www.youtube.com/watch?v=vydmUCGQnyI",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T17:01:06.000Z"
+    },
+    {
+      "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores",
+      "url": "https://www.phoronix.com/review/amd-epyc-9996",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T17:00:04.000Z"
+    },
+    {
+      "title": "AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz",
+      "url": "https://www.phoronix.com/review/amd-epyc-9686f",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T17:00:03.000Z"
+    },
+    {
+      "title": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source",
+      "url": "https://www.phoronix.com/news/AMD-MEXT",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T17:00:02.000Z"
+    },
+    {
+      "title": "AMD Confirms ACE With 7th Gen EPYC \"Florence\" While 8th Gen EPYC Is \"Ravenna\"",
+      "url": "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T17:00:01.000Z"
+    },
+    {
+      "title": "AMD EPYC Embedded 9006 Series SP7 Announced",
+      "url": "https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T17:00:00.000Z"
+    },
+    {
+      "title": "Blender 5.3 Released With NVIDIA DLSS 4.5 Ray Reconstruction, Vulkan Default",
+      "url": "https://www.phoronix.com/news/Blender-5.3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T16:34:56.000Z"
+    },
+    {
+      "title": "Steven Levy on John Ternus",
+      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T16:32:26.000Z"
+    },
+    {
+      "title": "KORA Announced As Linux Desktop OS \"For The Age of Intelligence\"",
+      "url": "https://www.phoronix.com/news/KORA-OS",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T15:53:43.000Z"
+    },
+    {
+      "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/Articles/1102549/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-10T15:38:10.000Z"
+    },
+    {
+      "title": "Firefox 160 released",
+      "url": "https://lwn.net/Articles/1106542/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-10T15:37:42.000Z"
+    },
+    {
+      "title": "OurCal",
+      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T15:15:17.000Z"
+    },
+    {
+      "title": "Safari 27.3 Adds Support for Global Privacy Control",
+      "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T14:47:10.000Z"
+    },
+    {
+      "title": "‘A Scandal at the Center of the Economy’",
+      "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T14:36:18.000Z"
+    },
+    {
+      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-10T14:35:38.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1106522/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-10T14:03:54.000Z"
+    },
+    {
+      "title": "Eight More Security Issues Made Public For The X.Org Server / XWayland",
+      "url": "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-10T13:55:33.000Z"
+    },
     {
       "title": "Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI",
       "url": "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood",
@@ -106,14 +266,6 @@
       "date": "2026-11-09T23:12:33.000Z"
     },
     {
-      "title": "Docker has always used microVMs (well, since 2016)",
-      "url": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-09T22:29:01.000Z"
-    },
-    {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
       "url": "https://9to5google.com/2026/11/09/googlebook-apps-macos-features/",
       "source": "9to5Google · Googlebook",
@@ -144,14 +296,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-09T20:32:27.000Z"
-    },
-    {
-      "title": "AMDGPU Linux Driver Patches Posted For Enabling GFX13 Graphics IP - RDNA5",
-      "url": "https://www.phoronix.com/news/AMDGPU-Patches-GFX13",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T19:11:37.000Z"
     },
     {
       "title": "Apple has just released updates to macOS 27.2.1, 26.7.3 and 15.8.3",
@@ -186,92 +330,12 @@
       "date": "2026-11-09T15:29:23.000Z"
     },
     {
-      "title": "[$] Git considers voting to determine its LLM policy",
-      "url": "https://lwn.net/Articles/1104195/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-09T15:05:07.000Z"
-    },
-    {
-      "title": "Kernel prepatch 7.4-rc2",
-      "url": "https://lwn.net/Articles/1106300/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-09T14:55:38.000Z"
-    },
-    {
-      "title": "OpenIndiana 2026.10 released",
-      "url": "https://lwn.net/Articles/1106285/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-09T14:09:57.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1106282/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-09T14:02:31.000Z"
-    },
-    {
-      "title": "Darling Now Embraces AI For Running macOS Binaries On Linux",
-      "url": "https://www.phoronix.com/news/Darling-Using-AI-macOS-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T13:02:13.000Z"
-    },
-    {
-      "title": "ChaCha AVX-512 Optimization For Linux 7.5 Yields Up To 99% Improvement On AMD Zen 5",
-      "url": "https://www.phoronix.com/news/ChaCha-AVX-512-Linux-7.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T12:35:12.000Z"
-    },
-    {
       "title": "Hero or hooligan: Aeneas flees Troy",
       "url": "https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-09T12:30:00.000Z"
-    },
-    {
-      "title": "Linux Seeing Driver Work For MSI Mystic Light On Latest Ryzen Motherboards",
-      "url": "https://www.phoronix.com/news/MSI-Mystic-Light-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T11:20:49.000Z"
-    },
-    {
-      "title": "Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files",
-      "url": "https://www.phoronix.com/news/Linux-7.5-Statx-MG-TImestamp",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T11:08:22.000Z"
-    },
-    {
-      "title": "New Linux Patches Bring-Up The Samsung Galaxy XR Headset, Qualcomm Halliday SoC",
-      "url": "https://www.phoronix.com/news/Linux-Samsung-Galaxy-XR",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T10:46:20.000Z"
-    },
-    {
-      "title": "Intel ANV Lands Bitrate Control For AV1 Encoding",
-      "url": "https://www.phoronix.com/news/Intel-ANV-AV1-Bitrate-Control",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T10:30:24.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 385",
@@ -298,14 +362,6 @@
       "date": "2026-11-08T23:56:32.000Z"
     },
     {
-      "title": "OurCal",
-      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-08T21:56:18.000Z"
-    },
-    {
       "title": "Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing",
       "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L",
       "source": "Daring Fireball",
@@ -322,44 +378,12 @@
       "date": "2026-11-08T17:30:15.000Z"
     },
     {
-      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-11-08T17:07:51.000Z"
-    },
-    {
       "title": "Unattended reboots with encrypted disks",
       "url": "https://jmmv.dev/2026/11/zkeys-intro.html",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-08T16:58:03.000Z"
-    },
-    {
-      "title": "Painting the whole truth, and nothing but the truth 2",
-      "url": "https://eclecticlight.co/2026/11/08/painting-the-whole-truth-and-nothing-but-the-truth-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-08T12:30:00.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: You don’t really want to install that",
-      "url": "https://eclecticlight.co/2026/11/08/last-week-on-my-mac-you-dont-really-want-to-install-that/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-08T08:00:00.000Z"
-    },
-    {
-      "title": "Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays",
-      "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-07T21:14:09.000Z"
     },
     {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
@@ -376,22 +400,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-07T15:27:00.000Z"
-    },
-    {
-      "title": "Painting the whole truth, and nothing but the truth 1",
-      "url": "https://eclecticlight.co/2026/11/07/painting-the-whole-truth-and-nothing-but-the-truth-1/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-07T12:30:00.000Z"
-    },
-    {
-      "title": "Saturday Mac riddles 385",
-      "url": "https://eclecticlight.co/2026/11/07/saturday-mac-riddles-385/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-07T09:00:00.000Z"
     },
     {
       "title": "Google just made Googlebooks faster, more stable, and less crash-prone",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-03T20:16:23.000Z"
-    },
-    {
-      "title": "Googlebook Tablets Are Coming: What We Know About Lenovo’s First Detachable",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUlaNWlhcnJxRFhGTTMxMEVCODkyN1B0bndlYUVUMDJuWTlQMzdJeFFuVjVYN1E1UHZtUWktaGxGdlJybHIwajlaVUNuSHUycEZwRHF6T1FzVVlnajVDc3E1d2JXRVc3RGpvdUFsQlBtQjdOTFdIaVZMUC1mSE85NmUyNW5xeHZBQkRqYQ?oc=5",
-      "source": "TechRepublic",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-03T15:50:57.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
