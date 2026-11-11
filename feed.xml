@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:50:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Work with Aliases and Bookmarks instead of links</title>
+      <link>https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 11 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modding Linux to use SIGKILL on every process</title>
+      <link>https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/</link>
+      <guid isPermaLink="true">https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 11 Nov 2026 06:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 Begins Rolling Out upki Support For Certificate Revocation</title>
+      <link>https://www.phoronix.com/news/Ubuntu-26.10-Does-upki</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-26.10-Does-upki</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 01:43:13 GMT</pubDate>
+    </item>
     <item>
       <title>Apple has just released an update to XProtect for all macOS</title>
       <link>https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/</link>
@@ -288,28 +312,12 @@
       <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
     </item>
     <item>
-      <title>Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements</title>
-      <link>https://www.phoronix.com/news/Mesa-26.3-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.3-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 00:19:46 GMT</pubDate>
-    </item>
-    <item>
       <title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
       <link>https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 09 Nov 2026 23:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio</title>
-      <link>https://www.phoronix.com/news/Firefox-160-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Firefox-160-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 09 Nov 2026 23:12:33 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
@@ -382,14 +390,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 09 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solutions to Saturday Mac riddles 385</title>
-      <link>https://eclecticlight.co/2026/11/09/solutions-to-saturday-mac-riddles-385/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/09/solutions-to-saturday-mac-riddles-385/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>I tried to un-Google my Googlebook with Linux, here’s why it failed</title>

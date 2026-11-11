@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-11T01:17:09.815Z",
+  "generated": "2026-11-11T07:50:01.845Z",
   "items": [
+    {
+      "title": "Work with Aliases and Bookmarks instead of links",
+      "url": "https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-11T07:30:00.000Z"
+    },
+    {
+      "title": "Modding Linux to use SIGKILL on every process",
+      "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-11T06:14:34.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Begins Rolling Out upki Support For Certificate Revocation",
+      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T01:43:13.000Z"
+    },
     {
       "title": "Apple has just released an update to XProtect for all macOS",
       "url": "https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/",
@@ -282,28 +306,12 @@
       "date": "2026-11-10T04:14:31.000Z"
     },
     {
-      "title": "Mesa 26.3 Released With VK_AMD_anti_lag For RADV, Many Other Vulkan Improvements",
-      "url": "https://www.phoronix.com/news/Mesa-26.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T00:19:46.000Z"
-    },
-    {
       "title": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
       "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-09T23:46:17.000Z"
-    },
-    {
-      "title": "Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio",
-      "url": "https://www.phoronix.com/news/Firefox-160-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-09T23:12:33.000Z"
     },
     {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
@@ -376,14 +384,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-09T12:30:00.000Z"
-    },
-    {
-      "title": "Solutions to Saturday Mac riddles 385",
-      "url": "https://eclecticlight.co/2026/11/09/solutions-to-saturday-mac-riddles-385/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-09T09:00:00.000Z"
     },
     {
       "title": "I tried to un-Google my Googlebook with Linux, here’s why it failed",
