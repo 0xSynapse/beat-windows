@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:17:09 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple has just released an update to XProtect for all macOS</title>
+      <link>https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 10 Nov 2026 23:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gary Marcus: ‘Just Say No to Anthropic’s IPO’</title>
+      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 22:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Next Googlebook Is Aiming To Replace Your Android Tablet - Here's How</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">BGR</source>
+      <pubDate>Tue, 10 Nov 2026 21:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Altar II Keyboard on Kickstarter</title>
+      <link>https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</link>
+      <guid isPermaLink="true">https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 10 Nov 2026 20:59:25 GMT</pubDate>
+    </item>
     <item>
       <title>Three new stable kernels for Tuesday</title>
       <link>https://lwn.net/Articles/1106569/</link>
@@ -224,6 +256,14 @@
       <pubDate>Tue, 10 Nov 2026 10:18:02 GMT</pubDate>
     </item>
     <item>
+      <title>This Googlebook is driving me crazy</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE05LVdXUjhtZWl3ZzFwTkhhcnlQZ3pEVmFuNlRmTC1vWlpfOGhaUDl4ZGFWMXNmenFRdl9McUxfczdONmJJZjJxQ18zSk8tZUt4Smo3OHJmME5kVzllMWdIa0Z2RFBEelFrU1ZkX0w0UkZFTVpHLWdSZ0NQWXI?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE05LVdXUjhtZWl3ZzFwTkhhcnlQZ3pEVmFuNlRmTC1vWlpfOGhaUDl4ZGFWMXNmenFRdl9McUxfczdONmJJZjJxQ18zSk8tZUt4Smo3OHJmME5kVzllMWdIa0Z2RFBEelFrU1ZkX0w0UkZFTVpHLWdSZ0NQWXI?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Fast Company</source>
+      <pubDate>Tue, 10 Nov 2026 10:07:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Dumpster-diving: how the Trash works</title>
       <link>https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</guid>
@@ -352,30 +392,6 @@
       <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Viable version 1.1 improves macOS virtualisation workflows</title>
-      <link>https://eclecticlight.co/2026/11/09/viable-version-1-1-improves-macos-virtualisation-workflows/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/09/viable-version-1-1-improves-macos-virtualisation-workflows/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 09 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 08 Nov 2026 23:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing</title>
-      <link>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sun, 08 Nov 2026 21:50:31 GMT</pubDate>
-    </item>
-    <item>
       <title>I tried to un-Google my Googlebook with Linux, here’s why it failed</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2dHaUxSLVJ4X0hTZWh2Qk9kSTZmcXBqVXRkaHh0dHhLT2JTbmVBZXhvZFZMeHYxWXVRemZBYkU1R1dDM0JzTUxLaDVQQ1pNaTZtV0lzS2VCYmRrYXhJYlhIWXN1SFhwVDN6SGlrd3J3ZHdLSDhNUWR0ZDJWZUtFUFIwXzlXX0JfSERCU0tERm04LTEtZGlqTEFwbEo5VDJwbE5EeFhR?oc=5</guid>
@@ -390,22 +406,6 @@
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Sun, 08 Nov 2026 16:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Police</source>
-      <pubDate>Sat, 07 Nov 2026 18:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook update frees up to 6GB of RAM by reducing on-device AI memory usage</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">VideoCardz.com</source>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
