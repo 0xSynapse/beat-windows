@@ -5,8 +5,96 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:50:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:16:14 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance</title>
+      <link>https://www.phoronix.com/review/amd-venice-nvidia-vera</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/amd-venice-nvidia-vera</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 15:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Additional hardening for the glibc dynamic linker</title>
+      <link>https://lwn.net/Articles/1105134/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105134/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 11 Nov 2026 14:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1106876/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106876/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 11 Nov 2026 14:15:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting a good story: Picture without words</title>
+      <link>https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 11 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV &amp; RadeonSI Drivers</title>
+      <link>https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 12:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD Working To Establish An AI Policy After Polling Developers</title>
+      <link>https://www.phoronix.com/news/FreeBSD-Q3-2026-Report</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-Q3-2026-Report</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations</title>
+      <link>https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 11:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD AOCC 6.0 Brings Zen 6 Optimizations, New &quot;aof&quot; Fortran Compiler, aoc / aoc++ Branding</title>
+      <link>https://www.phoronix.com/news/AMD-AOCC-6.0-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-AOCC-6.0-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 10:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues</title>
+      <link>https://www.phoronix.com/news/Intel-CPU-Microcode-20261110</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-CPU-Microcode-20261110</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 10:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haiku OS Now Has A UFS Driver, Two &amp; Three Finger Tap Gestures</title>
+      <link>https://www.phoronix.com/news/Haiku-OS-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Haiku-OS-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 11 Nov 2026 10:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance evolution of route lookup on Linux</title>
+      <link>https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup</link>
+      <guid isPermaLink="true">https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 11 Nov 2026 08:25:31 GMT</pubDate>
+    </item>
     <item>
       <title>Work with Aliases and Bookmarks instead of links</title>
       <link>https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/</link>
@@ -160,22 +248,6 @@
       <pubDate>Tue, 10 Nov 2026 15:53:43 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Synaptics patent claims stop work on DisplayLink drivers</title>
-      <link>https://lwn.net/Articles/1102549/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102549/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 10 Nov 2026 15:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 160 released</title>
-      <link>https://lwn.net/Articles/1106542/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106542/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 10 Nov 2026 15:37:42 GMT</pubDate>
-    </item>
-    <item>
       <title>OurCal</title>
       <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</link>
       <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</guid>
@@ -208,76 +280,12 @@
       <pubDate>Tue, 10 Nov 2026 14:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1106522/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106522/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 10 Nov 2026 14:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eight More Security Issues Made Public For The X.Org Server / XWayland</title>
-      <link>https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 13:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI</title>
-      <link>https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 12:54:35 GMT</pubDate>
-    </item>
-    <item>
       <title>Portraits of trees: Emily Carr’s dancing trees</title>
       <link>https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 10 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>x86 Ecosystem Advisory Group Posts ACE v2 &amp; AVX10.3 Specs, GCC Patches Ready</title>
-      <link>https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 11:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>openSUSE Tumbleweed Transitioning To Agama Installer</title>
-      <link>https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 10:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected</title>
-      <link>https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 10:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.8.3 Released With Dozens Of Fixes</title>
-      <link>https://www.phoronix.com/news/KDE-Plasma-6.8.3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.8.3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 10:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>exfatprogs 1.4.4 Brings Speed-Up For Making New exFAT Filesystems</title>
-      <link>https://www.phoronix.com/news/exfatprogs-1.4.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/exfatprogs-1.4.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 10:18:02 GMT</pubDate>
     </item>
     <item>
       <title>This Googlebook is driving me crazy</title>
@@ -382,14 +390,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Thurrott.com</source>
       <pubDate>Mon, 09 Nov 2026 15:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hero or hooligan: Aeneas flees Troy</title>
-      <link>https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 09 Nov 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
       <title>I tried to un-Google my Googlebook with Linux, here’s why it failed</title>

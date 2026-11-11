@@ -1,6 +1,94 @@
 {
-  "generated": "2026-11-11T07:50:01.845Z",
+  "generated": "2026-11-11T16:16:14.930Z",
   "items": [
+    {
+      "title": "AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance",
+      "url": "https://www.phoronix.com/review/amd-venice-nvidia-vera",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T15:44:41.000Z"
+    },
+    {
+      "title": "[$] Additional hardening for the glibc dynamic linker",
+      "url": "https://lwn.net/Articles/1105134/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-11T14:35:29.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1106876/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-11T14:15:31.000Z"
+    },
+    {
+      "title": "Painting a good story: Picture without words",
+      "url": "https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-11T12:30:00.000Z"
+    },
+    {
+      "title": "Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV & RadeonSI Drivers",
+      "url": "https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T12:18:36.000Z"
+    },
+    {
+      "title": "FreeBSD Working To Establish An AI Policy After Polling Developers",
+      "url": "https://www.phoronix.com/news/FreeBSD-Q3-2026-Report",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T11:30:00.000Z"
+    },
+    {
+      "title": "ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations",
+      "url": "https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T11:01:52.000Z"
+    },
+    {
+      "title": "AMD AOCC 6.0 Brings Zen 6 Optimizations, New \"aof\" Fortran Compiler, aoc / aoc++ Branding",
+      "url": "https://www.phoronix.com/news/AMD-AOCC-6.0-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T10:54:19.000Z"
+    },
+    {
+      "title": "Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues",
+      "url": "https://www.phoronix.com/news/Intel-CPU-Microcode-20261110",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T10:41:00.000Z"
+    },
+    {
+      "title": "Haiku OS Now Has A UFS Driver, Two & Three Finger Tap Gestures",
+      "url": "https://www.phoronix.com/news/Haiku-OS-October-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T10:26:00.000Z"
+    },
+    {
+      "title": "Performance evolution of route lookup on Linux",
+      "url": "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-11T08:25:31.000Z"
+    },
     {
       "title": "Work with Aliases and Bookmarks instead of links",
       "url": "https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/",
@@ -154,22 +242,6 @@
       "date": "2026-11-10T15:53:43.000Z"
     },
     {
-      "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/Articles/1102549/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-10T15:38:10.000Z"
-    },
-    {
-      "title": "Firefox 160 released",
-      "url": "https://lwn.net/Articles/1106542/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-10T15:37:42.000Z"
-    },
-    {
       "title": "OurCal",
       "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
       "source": "Daring Fireball",
@@ -202,76 +274,12 @@
       "date": "2026-11-10T14:35:38.000Z"
     },
     {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1106522/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-10T14:03:54.000Z"
-    },
-    {
-      "title": "Eight More Security Issues Made Public For The X.Org Server / XWayland",
-      "url": "https://www.phoronix.com/news/Eight-More-XOrg-Server-Issues",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T13:55:33.000Z"
-    },
-    {
-      "title": "Longtime Linux Developer Steps Down From Some Roles Due To Patch Flood Caused By AI",
-      "url": "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T12:54:35.000Z"
-    },
-    {
       "title": "Portraits of trees: Emily Carr’s dancing trees",
       "url": "https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-10T12:30:00.000Z"
-    },
-    {
-      "title": "x86 Ecosystem Advisory Group Posts ACE v2 & AVX10.3 Specs, GCC Patches Ready",
-      "url": "https://www.phoronix.com/news/ACE-v2-AVX10.3-Posted",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T11:01:00.000Z"
-    },
-    {
-      "title": "openSUSE Tumbleweed Transitioning To Agama Installer",
-      "url": "https://www.phoronix.com/news/openSUSE-Tumbleweed-Goes-Agama",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T10:53:06.000Z"
-    },
-    {
-      "title": "RPM v6 Format Approved For Fedora 46, ThinLTO Flag Rejected",
-      "url": "https://www.phoronix.com/news/Fedora-46-Approves-RPM-v6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T10:37:05.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.8.3 Released With Dozens Of Fixes",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.8.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T10:27:35.000Z"
-    },
-    {
-      "title": "exfatprogs 1.4.4 Brings Speed-Up For Making New exFAT Filesystems",
-      "url": "https://www.phoronix.com/news/exfatprogs-1.4.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T10:18:02.000Z"
     },
     {
       "title": "This Googlebook is driving me crazy",
@@ -376,14 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-09T15:29:23.000Z"
-    },
-    {
-      "title": "Hero or hooligan: Aeneas flees Troy",
-      "url": "https://eclecticlight.co/2026/11/09/hero-or-hooligan-aeneas-flees-troy/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-09T12:30:00.000Z"
     },
     {
       "title": "I tried to un-Google my Googlebook with Linux, here’s why it failed",
