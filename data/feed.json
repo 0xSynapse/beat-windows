@@ -1,6 +1,94 @@
 {
-  "generated": "2026-11-11T16:16:14.930Z",
+  "generated": "2026-11-11T22:50:05.893Z",
   "items": [
+    {
+      "title": "Intel Continues Enabling The GPU D-Series \"Crescent Island\" Driver Support For Linux 7.5",
+      "url": "https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-11T21:04:00.000Z"
+    },
+    {
+      "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY01jZzZDQWFOMjZweVlNTFB3ak1fWUlKVWxOWE83LUt2WWJoeFdFcXN2bk9DT3poUUdNYnFtOFFVWEphVUQxT3FmSUpvVVl3Q3Vfazlsc2FBX0F6RVZlTzZVeWoyOUd3aHZCQTFVcjdpOWFVaDlIRzNHLUJ3ZWpfelM1X0J5dUVa?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-11T20:11:00.000Z"
+    },
+    {
+      "title": "Apple Shutters Their Longstanding ‘Apple Support Community’",
+      "url": "https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-11T19:17:32.000Z"
+    },
+    {
+      "title": "Austin Mann’s iPhone Duo Review",
+      "url": "https://www.austinmann.com/trek/iphone-duo",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-11T19:02:58.000Z"
+    },
+    {
+      "title": "LibreSSL 4.3.5 and 4.4.1 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261111185828",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-11T18:58:28.000Z"
+    },
+    {
+      "title": "Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’",
+      "url": "https://www.youtube.com/watch?v=cxjdVVVryC4",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-11T18:36:34.000Z"
+    },
+    {
+      "title": "‘Dangerous or Unusual’",
+      "url": "https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-11T18:29:17.000Z"
+    },
+    {
+      "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
+      "url": "https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-11T18:10:00.000Z"
+    },
+    {
+      "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5rU1p5ckh1MlhwYzZDbUptWXhIelNOc3pxXzU1Z1FtR29ZeUNmZ3lJZ1BMT3lkc2FYV3NnSW5RQVVEdVh6aVh2Y1Jub2Z1SmRkdDg5Nmh5dGFQYkstcF84ZjNRaHJxYUdVUjdraWlicHd0b0ZWd3ZCZUtkZ24wY1F3?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-11T18:10:00.000Z"
+    },
+    {
+      "title": "Zellij 0.46 released",
+      "url": "https://lwn.net/Articles/1106903/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-11T17:26:48.000Z"
+    },
+    {
+      "title": "In Memoriam: Tim Peters 1952–2026",
+      "url": "https://lwn.net/Articles/1106901/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-11T17:12:51.000Z"
+    },
     {
       "title": "AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance",
       "url": "https://www.phoronix.com/review/amd-venice-nvidia-vera",
@@ -170,14 +258,6 @@
       "date": "2026-11-10T17:06:01.000Z"
     },
     {
-      "title": "Regarding Graveyards and Indispensable Men",
-      "url": "https://www.youtube.com/watch?v=vydmUCGQnyI",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T17:01:06.000Z"
-    },
-    {
       "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores",
       "url": "https://www.phoronix.com/review/amd-epyc-9996",
       "source": "Phoronix",
@@ -210,36 +290,12 @@
       "date": "2026-11-10T17:00:01.000Z"
     },
     {
-      "title": "AMD EPYC Embedded 9006 Series SP7 Announced",
-      "url": "https://www.phoronix.com/news/AMD-EPYC-Embedded-9006-Series",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T17:00:00.000Z"
-    },
-    {
-      "title": "Blender 5.3 Released With NVIDIA DLSS 4.5 Ray Reconstruction, Vulkan Default",
-      "url": "https://www.phoronix.com/news/Blender-5.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T16:34:56.000Z"
-    },
-    {
       "title": "Steven Levy on John Ternus",
       "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-10T16:32:26.000Z"
-    },
-    {
-      "title": "KORA Announced As Linux Desktop OS \"For The Age of Intelligence\"",
-      "url": "https://www.phoronix.com/news/KORA-OS",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T15:53:43.000Z"
     },
     {
       "title": "OurCal",
@@ -346,30 +402,6 @@
       "date": "2026-11-09T20:55:44.000Z"
     },
     {
-      "title": "Tesla Brain Drain",
-      "url": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-09T20:32:27.000Z"
-    },
-    {
-      "title": "Apple has just released updates to macOS 27.2.1, 26.7.3 and 15.8.3",
-      "url": "https://eclecticlight.co/2026/11/09/apple-has-just-released-updates-to-macos-27-2-1-26-7-3-and-15-8-3/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-09T18:24:49.000Z"
-    },
-    {
-      "title": "Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy",
-      "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-09T17:47:22.000Z"
-    },
-    {
       "title": "Googlebook Update Could Free Up 6GB of RAM, Fixes 30 Issues",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOUpkM3Bra3gtT1FZUnFJNG5iR25vdHF3VXZIZ3VmdVotQ24yTkdiUk4yZ1RYNWl3dF9hYWltUHZ4TmhSTmxWeWt1VFFuM2tzS1VXaFowX3RFa1BRZmlTNENKOWZSUlhFSkZxampYX25FOW1xVGtpZzM5WEZuOTQ?oc=5",
       "source": "TechRepublic",
@@ -458,44 +490,12 @@
       "date": "2026-11-06T16:00:03.000Z"
     },
     {
-      "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-11-06T10:49:57.000Z"
-    },
-    {
       "title": "This Googlebook omission is a deal-breaker for me",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-06T10:30:00.000Z"
-    },
-    {
-      "title": "Google’s big Googlebook update brings a 6GB memory boost and tackles Chrome crashes",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjJPUjAtcVlqUmFVVzJCZVFxbXNWNzNqZDhQOVo0R0NYZHdPMkh2ZjB2RE94QWFTdGtkRGd6M3JFSk14SVJ5aUhteUd0SjdETFNJZkFQVkxKb1gyelpfOERVNWpRWHgwaTZHVHlYUnQ1TGlpYm83bUJjMF80WERaaUIzU0xBWnBWQ2k2UERBTzNXSGExaVdTd3BGVURKUkZ5RzJLZXZB?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-06T04:03:00.000Z"
-    },
-    {
-      "title": "Big Googlebook November update rolling out with 31 fixes, improvements",
-      "url": "https://9to5google.com/2026/11/05/googlebook-november-update/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-05T23:41:44.000Z"
-    },
-    {
-      "title": "Henry Cavill builds 16-bit ‘Mustache Protocol’ game on Googlebook for a good cause [Video]",
-      "url": "https://9to5google.com/2026/11/04/henry-cavill-mustache-protocol-googlebook/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-04T18:45:02.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
