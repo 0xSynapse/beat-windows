@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:51:05 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Painting with impaired vision: Francisco Goya</title>
+      <link>https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 12 Nov 2026 11:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Xe Driver Preparing SR-IOV Provisioning For vGPU Profiles</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 12 Nov 2026 11:11:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polo Debuts As New Wayland Compositor For MATE Desktop</title>
+      <link>https://www.phoronix.com/news/Polo-Wayland-Compositor-MATE</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Polo-Wayland-Compositor-MATE</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 12 Nov 2026 10:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.5 To Enable Temperature / Voltage / Power Monitoring For AMD Pensando NICs</title>
+      <link>https://www.phoronix.com/news/AMD-Pensando-HWMON</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Pensando-HWMON</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 12 Nov 2026 10:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Viable 1.1 build 100 has a new help book, and tweaks</title>
+      <link>https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 12 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
+      <link>https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 04:59:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia Working With Outside Firm to Identify CEO Candidates</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 03:57:43 GMT</pubDate>
+    </item>
     <item>
       <title>WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’</title>
       <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</link>
@@ -22,6 +86,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 12 Nov 2026 03:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15 review: Google botched it, yet again</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Central</source>
+      <pubDate>Thu, 12 Nov 2026 03:27:42 GMT</pubDate>
     </item>
     <item>
       <title>[$] LWN.net Weekly Edition for November 12, 2026</title>
@@ -264,14 +336,6 @@
       <pubDate>Tue, 10 Nov 2026 20:59:25 GMT</pubDate>
     </item>
     <item>
-      <title>Three new stable kernels for Tuesday</title>
-      <link>https://lwn.net/Articles/1106569/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106569/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 10 Nov 2026 19:06:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Chrome 157 rolls out to Android and desktop, but Googlebook updates remain delayed</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5</guid>
@@ -286,30 +350,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 10 Nov 2026 17:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores</title>
-      <link>https://www.phoronix.com/review/amd-epyc-9996</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9996</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 17:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz</title>
-      <link>https://www.phoronix.com/review/amd-epyc-9686f</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9686f</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 17:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source</title>
-      <link>https://www.phoronix.com/news/AMD-MEXT</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-MEXT</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 17:00:02 GMT</pubDate>
     </item>
     <item>
       <title>Steven Levy on John Ternus</title>
@@ -344,36 +384,12 @@
       <pubDate>Tue, 10 Nov 2026 14:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee</title>
-      <link>https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 10 Nov 2026 14:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portraits of trees: Emily Carr’s dancing trees</title>
-      <link>https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 10 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>This Googlebook is driving me crazy</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE05LVdXUjhtZWl3ZzFwTkhhcnlQZ3pEVmFuNlRmTC1vWlpfOGhaUDl4ZGFWMXNmenFRdl9McUxfczdONmJJZjJxQ18zSk8tZUt4Smo3OHJmME5kVzllMWdIa0Z2RFBEelFrU1ZkX0w0UkZFTVpHLWdSZ0NQWXI?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE05LVdXUjhtZWl3ZzFwTkhhcnlQZ3pEVmFuNlRmTC1vWlpfOGhaUDl4ZGFWMXNmenFRdl9McUxfczdONmJJZjJxQ18zSk8tZUt4Smo3OHJmME5kVzllMWdIa0Z2RFBEelFrU1ZkX0w0UkZFTVpHLWdSZ0NQWXI?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Fast Company</source>
       <pubDate>Tue, 10 Nov 2026 10:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dumpster-diving: how the Trash works</title>
-      <link>https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 10 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
@@ -384,28 +400,12 @@
       <pubDate>Tue, 10 Nov 2026 05:14:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
-      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
       <link>https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 09 Nov 2026 21:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer Googlebook 14 unboxing: the most affordable is also a convertible [VIDEO]</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjB2VnU2Rkl0MG8ybTFXZERDblFvcjg1UTNMeEg2QjhXb0xJLU41ckhsMzlnbUxQZnBQakJtN0M4MFdteVFxSGItaUtTcWxXd0xvSWJ0VTNEUEt3RFpmNGVZTkRhUnExY2ZHNkpyU0tCVlpQRHBnZHpnNlg3RzRnalhGdkVva2U0WDV2SVVCSU1URmlreGVlTWNYd05Lc2RKV202ag?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjB2VnU2Rkl0MG8ybTFXZERDblFvcjg1UTNMeEg2QjhXb0xJLU41ckhsMzlnbUxQZnBQakJtN0M4MFdteVFxSGItaUtTcWxXd0xvSWJ0VTNEUEt3RFpmNGVZTkRhUnExY2ZHNkpyU0tCVlpQRHBnZHpnNlg3RzRnalhGdkVva2U0WDV2SVVCSU1URmlreGVlTWNYd05Lc2RKV202ag?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 09 Nov 2026 20:55:44 GMT</pubDate>
     </item>
   </channel>
 </rss>

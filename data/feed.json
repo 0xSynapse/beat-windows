@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-12T03:51:58.419Z",
+  "generated": "2026-11-12T12:51:05.392Z",
   "items": [
+    {
+      "title": "Painting with impaired vision: Francisco Goya",
+      "url": "https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-12T12:30:00.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets",
+      "url": "https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T11:26:17.000Z"
+    },
+    {
+      "title": "Intel Xe Driver Preparing SR-IOV Provisioning For vGPU Profiles",
+      "url": "https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T11:11:11.000Z"
+    },
+    {
+      "title": "Polo Debuts As New Wayland Compositor For MATE Desktop",
+      "url": "https://www.phoronix.com/news/Polo-Wayland-Compositor-MATE",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T10:56:16.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Enable Temperature / Voltage / Power Monitoring For AMD Pensando NICs",
+      "url": "https://www.phoronix.com/news/AMD-Pensando-HWMON",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T10:41:45.000Z"
+    },
+    {
+      "title": "Viable 1.1 build 100 has a new help book, and tweaks",
+      "url": "https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-12T07:30:00.000Z"
+    },
+    {
+      "title": "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’",
+      "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T04:59:59.000Z"
+    },
+    {
+      "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T03:57:43.000Z"
+    },
     {
       "title": "WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’",
       "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ",
@@ -16,6 +80,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T03:35:21.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 review: Google botched it, yet again",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5",
+      "source": "Android Central",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-12T03:27:42.000Z"
     },
     {
       "title": "[$] LWN.net Weekly Edition for November 12, 2026",
@@ -258,14 +330,6 @@
       "date": "2026-11-10T20:59:25.000Z"
     },
     {
-      "title": "Three new stable kernels for Tuesday",
-      "url": "https://lwn.net/Articles/1106569/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-10T19:06:06.000Z"
-    },
-    {
       "title": "Chrome 157 rolls out to Android and desktop, but Googlebook updates remain delayed",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXNESWVqUUg0RzJOZmc2UEswOF9EOTcyWDlQcU4tV2wtaHFvWEd1RUJaSmJOck04TzB2VzQ4cVdKN1R3amwzNlN4dFBDT3ZrNmduNVVjQVdWb1pfSWNqS2JSeHctcjJCWlNIbmhXMzJjMTBMOVVVaHBuMmRjMVR5NkdTaGhnRFJJSHlmLW40Q2trSVppbVltY2NOckp2WURRZHppZHk3UUxtY0hH?oc=5",
       "source": "Chrome Unboxed",
@@ -280,30 +344,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-10T17:06:01.000Z"
-    },
-    {
-      "title": "AMD EPYC 9996 Benchmarks Show Unparalleled Performance With 256 Zen 6C Cores",
-      "url": "https://www.phoronix.com/review/amd-epyc-9996",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T17:00:04.000Z"
-    },
-    {
-      "title": "AMD EPYC 9686F Linux Benchmarks: 96 Zen 6 Cores At Up To 5.3GHz",
-      "url": "https://www.phoronix.com/review/amd-epyc-9686f",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T17:00:03.000Z"
-    },
-    {
-      "title": "AMD Talks Up Their MEXT Software Amid RAM Crisis - Linux Support But Not Open-Source",
-      "url": "https://www.phoronix.com/news/AMD-MEXT",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T17:00:02.000Z"
     },
     {
       "title": "Steven Levy on John Ternus",
@@ -338,22 +378,6 @@
       "date": "2026-11-10T14:36:18.000Z"
     },
     {
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee",
-      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T14:35:38.000Z"
-    },
-    {
-      "title": "Portraits of trees: Emily Carr’s dancing trees",
-      "url": "https://eclecticlight.co/2026/11/10/portraits-of-trees-emily-carrs-dancing-trees/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-10T12:30:00.000Z"
-    },
-    {
       "title": "This Googlebook is driving me crazy",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05LVdXUjhtZWl3ZzFwTkhhcnlQZ3pEVmFuNlRmTC1vWlpfOGhaUDl4ZGFWMXNmenFRdl9McUxfczdONmJJZjJxQ18zSk8tZUt4Smo3OHJmME5kVzllMWdIa0Z2RFBEelFrU1ZkX0w0UkZFTVpHLWdSZ0NQWXI?oc=5",
       "source": "Fast Company",
@@ -362,28 +386,12 @@
       "date": "2026-11-10T10:07:19.000Z"
     },
     {
-      "title": "Dumpster-diving: how the Trash works",
-      "url": "https://eclecticlight.co/2026/11/10/dumpster-diving-how-the-trash-works/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-10T07:30:00.000Z"
-    },
-    {
       "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
       "source": "PCMag",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-10T05:14:39.000Z"
-    },
-    {
-      "title": "[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
-      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T04:14:31.000Z"
     },
     {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-06T16:00:03.000Z"
-    },
-    {
-      "title": "This Googlebook omission is a deal-breaker for me",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yLV9BdDkya3FwRWFaTjZlTk5WMFBaaFFkTUhYME5zc205X0o5eFJpcHlXMHNYZkdzcUdPaEF0eXM1TU9KUUROSHY4OWI5dTFKa2p6VmpEQ3pXVlZhbUotXzBqaEZ4RnlodkZiZnU3bGlnQUNlOXhHTFJyRGFTejg?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-06T10:30:00.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
