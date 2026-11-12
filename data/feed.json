@@ -1,6 +1,158 @@
 {
-  "generated": "2026-11-12T12:51:05.392Z",
+  "generated": "2026-11-12T20:53:15.164Z",
   "items": [
+    {
+      "title": "FreeBSD Status Report Third Quarter 2026",
+      "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-11-12T20:45:02.000Z"
+    },
+    {
+      "title": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
+      "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T20:41:35.000Z"
+    },
+    {
+      "title": "Reuters Raises the Jensen Huang Affair Tally to Three",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T20:12:11.000Z"
+    },
+    {
+      "title": "Rust 1.100.0 released",
+      "url": "https://lwn.net/Articles/1107187/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T19:09:19.000Z"
+    },
+    {
+      "title": "Rust 1.100 Released With The \"Never\" Type Finally Stable",
+      "url": "https://www.phoronix.com/news/Rust-1.100-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T18:51:12.000Z"
+    },
+    {
+      "title": "Trump Weighs in on Huang’s Successor",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T17:32:42.000Z"
+    },
+    {
+      "title": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996",
+      "url": "https://www.phoronix.com/review/amd-epyc-zen6-smt",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T16:40:00.000Z"
+    },
+    {
+      "title": "Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)",
+      "url": "https://lwn.net/Articles/1107173/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T16:26:09.000Z"
+    },
+    {
+      "title": "PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes",
+      "url": "https://www.phoronix.com/news/PostgreSQL-52-CVEs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T15:56:44.000Z"
+    },
+    {
+      "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
+      "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T15:55:12.000Z"
+    },
+    {
+      "title": "Jensen Huang Resigns From Nvidia",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T15:19:07.000Z"
+    },
+    {
+      "title": "Khronos To Explore New High Level API For Remote Offloading",
+      "url": "https://www.phoronix.com/news/Khronos-Remote-Offloading-API",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T15:17:31.000Z"
+    },
+    {
+      "title": "ReactOS Gets Working Floppy Disk Support, VMware 3D Acceleration & SMP Progress",
+      "url": "https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T14:41:16.000Z"
+    },
+    {
+      "title": "Introducing Polo: a Wayland MATE compositor",
+      "url": "https://lwn.net/Articles/1107152/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T14:32:49.000Z"
+    },
+    {
+      "title": "[$] C++26 contract confusion",
+      "url": "https://lwn.net/Articles/1105400/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T14:29:04.000Z"
+    },
+    {
+      "title": "Stenberg: 30 years of Internet transfers with curl",
+      "url": "https://lwn.net/Articles/1107151/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T14:24:47.000Z"
+    },
+    {
+      "title": "NVIDIA NvRoot & ForgePtr Vulnerabilities Published For Linux Driver, 25 More Coming",
+      "url": "https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T14:17:33.000Z"
+    },
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1107146/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T14:13:00.000Z"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang Resigns",
+      "url": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-12T13:58:39.000Z"
+    },
     {
       "title": "Painting with impaired vision: Francisco Goya",
       "url": "https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/",
@@ -178,38 +330,6 @@
       "date": "2026-11-11T17:26:48.000Z"
     },
     {
-      "title": "In Memoriam: Tim Peters 1952–2026",
-      "url": "https://lwn.net/Articles/1106901/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-11T17:12:51.000Z"
-    },
-    {
-      "title": "AMD EPYC 9006 Venice vs. NVIDIA Vera Benchmarks For HPC Performance",
-      "url": "https://www.phoronix.com/review/amd-venice-nvidia-vera",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T15:44:41.000Z"
-    },
-    {
-      "title": "[$] Additional hardening for the glibc dynamic linker",
-      "url": "https://lwn.net/Articles/1105134/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-11T14:35:29.000Z"
-    },
-    {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1106876/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-11T14:15:31.000Z"
-    },
-    {
       "title": "Painting a good story: Picture without words",
       "url": "https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/",
       "source": "Eclectic Light",
@@ -218,84 +338,12 @@
       "date": "2026-11-11T12:30:00.000Z"
     },
     {
-      "title": "Initial AMD RDNA5/GFX13 Code Sent Out For Mesa RADV & RadeonSI Drivers",
-      "url": "https://www.phoronix.com/news/AMD-GFX13-Initial-Mesa",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T12:18:36.000Z"
-    },
-    {
-      "title": "FreeBSD Working To Establish An AI Policy After Polling Developers",
-      "url": "https://www.phoronix.com/news/FreeBSD-Q3-2026-Report",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T11:30:00.000Z"
-    },
-    {
-      "title": "ATI/AMD R300 To R500 GPUs See New 2026 OpenGL Linux Driver Optimizations",
-      "url": "https://www.phoronix.com/news/AMD-R300g-Better-Shaders-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T11:01:52.000Z"
-    },
-    {
-      "title": "AMD AOCC 6.0 Brings Zen 6 Optimizations, New \"aof\" Fortran Compiler, aoc / aoc++ Branding",
-      "url": "https://www.phoronix.com/news/AMD-AOCC-6.0-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T10:54:19.000Z"
-    },
-    {
-      "title": "Intel Releases New CPU Microcode To Fix A Variety Of Functional Issues",
-      "url": "https://www.phoronix.com/news/Intel-CPU-Microcode-20261110",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T10:41:00.000Z"
-    },
-    {
-      "title": "Haiku OS Now Has A UFS Driver, Two & Three Finger Tap Gestures",
-      "url": "https://www.phoronix.com/news/Haiku-OS-October-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T10:26:00.000Z"
-    },
-    {
-      "title": "Performance evolution of route lookup on Linux",
-      "url": "https://vincent.bernat.ch/en/blog/2026-linux-performance-ipv4-ipv6-route-lookup",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-11T08:25:31.000Z"
-    },
-    {
       "title": "Work with Aliases and Bookmarks instead of links",
       "url": "https://eclecticlight.co/2026/11/11/work-with-aliases-and-bookmarks-instead-of-links/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-11T07:30:00.000Z"
-    },
-    {
-      "title": "Modding Linux to use SIGKILL on every process",
-      "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-11T06:14:34.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 Begins Rolling Out upki Support For Certificate Revocation",
-      "url": "https://www.phoronix.com/news/Ubuntu-26.10-Does-upki",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T01:43:13.000Z"
     },
     {
       "title": "Apple has just released an update to XProtect for all macOS",
@@ -336,46 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-10T18:36:55.000Z"
-    },
-    {
-      "title": "Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T17:06:01.000Z"
-    },
-    {
-      "title": "Steven Levy on John Ternus",
-      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T16:32:26.000Z"
-    },
-    {
-      "title": "OurCal",
-      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T15:15:17.000Z"
-    },
-    {
-      "title": "Safari 27.3 Adds Support for Global Privacy Control",
-      "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T14:47:10.000Z"
-    },
-    {
-      "title": "‘A Scandal at the Center of the Economy’",
-      "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-10T14:36:18.000Z"
     },
     {
       "title": "This Googlebook is driving me crazy",
