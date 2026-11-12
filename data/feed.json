@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-11T22:50:05.893Z",
+  "generated": "2026-11-12T03:51:58.419Z",
   "items": [
+    {
+      "title": "WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T03:42:05.000Z"
+    },
+    {
+      "title": "Jensen Huang Was Banging an Nvidia Vice President Too",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-12T03:35:21.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for November 12, 2026",
+      "url": "https://lwn.net/Articles/1105460/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-12T00:23:48.000Z"
+    },
     {
       "title": "Intel Continues Enabling The GPU D-Series \"Crescent Island\" Driver Support For Linux 7.5",
       "url": "https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5",
@@ -282,14 +306,6 @@
       "date": "2026-11-10T17:00:02.000Z"
     },
     {
-      "title": "AMD Confirms ACE With 7th Gen EPYC \"Florence\" While 8th Gen EPYC Is \"Ravenna\"",
-      "url": "https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-10T17:00:01.000Z"
-    },
-    {
       "title": "Steven Levy on John Ternus",
       "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
       "source": "Daring Fireball",
@@ -370,28 +386,12 @@
       "date": "2026-11-10T04:14:31.000Z"
     },
     {
-      "title": "Bloomberg Was Onto Megaspeed’s Game a Year Ago",
-      "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-09T23:46:17.000Z"
-    },
-    {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
       "url": "https://9to5google.com/2026/11/09/googlebook-apps-macos-features/",
       "source": "9to5Google · Googlebook",
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-09T21:05:00.000Z"
-    },
-    {
-      "title": "Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May",
-      "url": "https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-09T20:57:04.000Z"
     },
     {
       "title": "Acer Googlebook 14 unboxing: the most affordable is also a convertible [VIDEO]",

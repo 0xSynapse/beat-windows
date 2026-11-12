@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:51:58 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’</title>
+      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</link>
+      <guid isPermaLink="true">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 03:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Was Banging an Nvidia Vice President Too</title>
+      <link>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 03:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for November 12, 2026</title>
+      <link>https://lwn.net/Articles/1105460/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1105460/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 12 Nov 2026 00:23:48 GMT</pubDate>
+    </item>
     <item>
       <title>Intel Continues Enabling The GPU D-Series &quot;Crescent Island&quot; Driver Support For Linux 7.5</title>
       <link>https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5</link>
@@ -288,14 +312,6 @@
       <pubDate>Tue, 10 Nov 2026 17:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>AMD Confirms ACE With 7th Gen EPYC &quot;Florence&quot; While 8th Gen EPYC Is &quot;Ravenna&quot;</title>
-      <link>https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-EPYC-Zen-7-Zen-8</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 10 Nov 2026 17:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Steven Levy on John Ternus</title>
       <link>https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</link>
       <guid isPermaLink="true">https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</guid>
@@ -376,28 +392,12 @@
       <pubDate>Tue, 10 Nov 2026 04:14:31 GMT</pubDate>
     </item>
     <item>
-      <title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
-      <link>https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 09 Nov 2026 23:46:17 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands</title>
       <link>https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</link>
       <guid isPermaLink="true">https://9to5google.com/2026/11/09/googlebook-apps-macos-features/</guid>
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Mon, 09 Nov 2026 21:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May</title>
-      <link>https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</link>
-      <guid isPermaLink="true">https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 09 Nov 2026 20:57:04 GMT</pubDate>
     </item>
     <item>
       <title>Acer Googlebook 14 unboxing: the most affordable is also a convertible [VIDEO]</title>
