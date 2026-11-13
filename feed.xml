@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:38:37 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents</title>
+      <link>https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 13 Nov 2026 21:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>I put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE56b1NMUU5ZaWJVeU9ZRUFtbHpoS2dnUlJVNlJLMUM2UHBBdUdNREFaUGRfNUZpbUR2eWpmbGotVFgtWjlYWnRNYWtFREZlQk9DRTBtMzJYRTZieGdqQkdwc1A1a0owcjJQeDU5Q01RMmhwRm5PVGdFTGoxQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE56b1NMUU5ZaWJVeU9ZRUFtbHpoS2dnUlJVNlJLMUM2UHBBdUdNREFaUGRfNUZpbUR2eWpmbGotVFgtWjlYWnRNYWtFREZlQk9DRTBtMzJYRTZieGdqQkdwc1A1a0owcjJQeDU5Q01RMmhwRm5PVGdFTGoxQQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">MakeUseOf</source>
+      <pubDate>Fri, 13 Nov 2026 21:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A</title>
+      <link>https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a</link>
+      <guid isPermaLink="true">https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 13 Nov 2026 20:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’</title>
+      <link>https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/</link>
+      <guid isPermaLink="true">https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 13 Nov 2026 20:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside Jensen Huang’s Final Hours as the CEO of Nvidia</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&amp;leadSource=article-gifting</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&amp;leadSource=article-gifting</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 13 Nov 2026 19:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD openSIL Achieves Its Production Goal With 6th Gen EPYC &quot;Venice&quot;</title>
+      <link>https://www.phoronix.com/news/AMD-openSIL-Venice-Goal</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-openSIL-Venice-Goal</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 13 Nov 2026 18:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft, and Its Customers, Are Suffering a Global Cloud Outage</title>
       <link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</link>
@@ -272,14 +320,6 @@
       <pubDate>Thu, 12 Nov 2026 16:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes</title>
-      <link>https://www.phoronix.com/news/PostgreSQL-52-CVEs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/PostgreSQL-52-CVEs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 12 Nov 2026 15:56:44 GMT</pubDate>
-    </item>
-    <item>
       <title>Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’</title>
       <link>https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</link>
       <guid isPermaLink="true">https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</guid>
@@ -294,22 +334,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 12 Nov 2026 15:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Khronos To Explore New High Level API For Remote Offloading</title>
-      <link>https://www.phoronix.com/news/Khronos-Remote-Offloading-API</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Khronos-Remote-Offloading-API</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 12 Nov 2026 15:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReactOS Gets Working Floppy Disk Support, VMware 3D Acceleration &amp; SMP Progress</title>
-      <link>https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 12 Nov 2026 14:41:16 GMT</pubDate>
     </item>
     <item>
       <title>Painting with impaired vision: Francisco Goya</title>
@@ -342,22 +366,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 12 Nov 2026 03:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’</title>
-      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</link>
-      <guid isPermaLink="true">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 03:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang Was Banging an Nvidia Vice President Too</title>
-      <link>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 03:35:21 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook 15 review: Google botched it, yet again</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">9to5Google</source>
       <pubDate>Wed, 11 Nov 2026 18:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Next Googlebook Is Aiming To Replace Your Android Tablet - Here's How</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">BGR</source>
-      <pubDate>Tue, 10 Nov 2026 21:17:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

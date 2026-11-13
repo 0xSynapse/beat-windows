@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-13T17:49:51.537Z",
+  "generated": "2026-11-13T23:38:37.319Z",
   "items": [
+    {
+      "title": "Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents",
+      "url": "https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T21:07:09.000Z"
+    },
+    {
+      "title": "I put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56b1NMUU5ZaWJVeU9ZRUFtbHpoS2dnUlJVNlJLMUM2UHBBdUdNREFaUGRfNUZpbUR2eWpmbGotVFgtWjlYWnRNYWtFREZlQk9DRTBtMzJYRTZieGdqQkdwc1A1a0owcjJQeDU5Q01RMmhwRm5PVGdFTGoxQQ?oc=5",
+      "source": "MakeUseOf",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-13T21:00:17.000Z"
+    },
+    {
+      "title": "Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A",
+      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-13T20:26:34.000Z"
+    },
+    {
+      "title": "Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’",
+      "url": "https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T20:01:25.000Z"
+    },
+    {
+      "title": "Inside Jensen Huang’s Final Hours as the CEO of Nvidia",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T19:19:47.000Z"
+    },
+    {
+      "title": "AMD openSIL Achieves Its Production Goal With 6th Gen EPYC \"Venice\"",
+      "url": "https://www.phoronix.com/news/AMD-openSIL-Venice-Goal",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T18:20:29.000Z"
+    },
     {
       "title": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
       "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
@@ -266,14 +314,6 @@
       "date": "2026-11-12T16:26:09.000Z"
     },
     {
-      "title": "PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes",
-      "url": "https://www.phoronix.com/news/PostgreSQL-52-CVEs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T15:56:44.000Z"
-    },
-    {
       "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
       "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
       "source": "Daring Fireball",
@@ -288,22 +328,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T15:19:07.000Z"
-    },
-    {
-      "title": "Khronos To Explore New High Level API For Remote Offloading",
-      "url": "https://www.phoronix.com/news/Khronos-Remote-Offloading-API",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T15:17:31.000Z"
-    },
-    {
-      "title": "ReactOS Gets Working Floppy Disk Support, VMware 3D Acceleration & SMP Progress",
-      "url": "https://www.phoronix.com/news/ReactOS-Floppy-Disk-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T14:41:16.000Z"
     },
     {
       "title": "Painting with impaired vision: Francisco Goya",
@@ -336,22 +360,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T03:57:43.000Z"
-    },
-    {
-      "title": "WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T03:42:05.000Z"
-    },
-    {
-      "title": "Jensen Huang Was Banging an Nvidia Vice President Too",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T03:35:21.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 review: Google botched it, yet again",
@@ -474,6 +482,14 @@
       "date": "2026-11-08T08:00:00.000Z"
     },
     {
+      "title": "Three new apps built by Googlers make Googlebook feel way more powerful",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDR0MzcxbVNneExQYW14eG5GbjN0VE9BSkl5OS0tYkN5elNqdVFoRkRka25JSENxRnBrR28xMnRUQVZ1TnlGR0hsSHV1aHpxNVMwVE5EYjUzd0g2ckRBM2VWWG5rMG5uTEhKT3AyU1hLT1pzbms1VmxBd01EaDZ6SEQxbmp5X2FTQjVGR3JKUHRTYnlac3VwbVlrTjNTM00?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-07T21:46:14.000Z"
+    },
+    {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5",
       "source": "Android Police",
@@ -488,22 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-07T15:27:00.000Z"
-    },
-    {
-      "title": "Google just made Googlebooks faster, more stable, and less crash-prone",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRnl5OGtaZ3N0N3FscW00RFJCY3d5Z0ExbThXX0ZCOV9HMEtTREcwT2p3VTMxcnQzUVZBb3Bqd0JudHZHMEJheV9tMkpMTXh3cUNRLVY3eUxrcEk5LWtfUHJKSTVqMlc2a1JxVU1fLWlSRjB0dk9GVjhZaEtDRzV5c25Yakx3ZjBxN0Y2SEwzNjdiNmxRZFFIWHNyOWtXczBObUY1ZWljTmR6aXZZVEktdTk5aE82X1N1eDZV?oc=5",
-      "source": "Android Central",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-06T23:41:27.000Z"
-    },
-    {
-      "title": "Googlebooks and Android XR glasses could be a match made in tech heaven",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbk1YMXp4ZkpmYW16RVZpam5UckIzWkFHbE94VlBLUlZfazU3a0pvZzBkTUIxcDJTdG1UOVU0azVSa0hwX1pDV0d6VmJVWTFVb2dEdTg2WFVGcmlEeHhGd3g1Nlp6WFlZNkpEd2hhRXM5THVOSkNDMDAtaFdwVlc2Yjc5aEhBNWF5dUtpSjlRQlZKM2dfd3VFN1E1M0pZZ2M?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-06T21:51:00.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
