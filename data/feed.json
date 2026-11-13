@@ -1,6 +1,142 @@
 {
-  "generated": "2026-11-13T09:39:34.236Z",
+  "generated": "2026-11-13T17:49:51.537Z",
   "items": [
+    {
+      "title": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T17:27:56.000Z"
+    },
+    {
+      "title": "David Sacks Is Fucked Too",
+      "url": "https://x.com/DavidSacks/status/2121070881258504395",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T17:14:40.000Z"
+    },
+    {
+      "title": "KDE Frameworks 6.32 Released With That Fix For USB File Transfer Notifications",
+      "url": "https://www.phoronix.com/news/KDE-Frameworks-6.32",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T17:02:33.000Z"
+    },
+    {
+      "title": "[$] 25 years of Buildroot",
+      "url": "https://lwn.net/Articles/1103395/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-13T16:35:03.000Z"
+    },
+    {
+      "title": "AMD Leverages AI + HRX Loom In Experiment For Quickly Porting 50 LLMs To Client GPUs",
+      "url": "https://www.phoronix.com/news/AMD-HRX-Loom-Experiment",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T15:53:00.000Z"
+    },
+    {
+      "title": "Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T15:40:52.000Z"
+    },
+    {
+      "title": "NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-13T15:31:22.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Include New hwpoison-panic Tool For Intentionally Crashing Your System",
+      "url": "https://www.phoronix.com/news/Linux-7.5-hwpoison-panic",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T15:26:14.000Z"
+    },
+    {
+      "title": "AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations",
+      "url": "https://www.phoronix.com/news/AMD-AOCL-6.0",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T14:43:17.000Z"
+    },
+    {
+      "title": "Announcing XRAID: declustered parity RAID for zoned XFS",
+      "url": "https://lwn.net/Articles/1107473/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-13T14:39:47.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1107472/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-13T14:25:42.000Z"
+    },
+    {
+      "title": "XRAID Publicly Released As New RAID Implementation For XFS",
+      "url": "https://www.phoronix.com/news/XRAID-XFS-RAID",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T13:22:22.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Upstream Driver For New Glanda GPU",
+      "url": "https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T12:55:37.000Z"
+    },
+    {
+      "title": "Claude Monet: Le Havre to Argenteuil",
+      "url": "https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-13T12:30:00.000Z"
+    },
+    {
+      "title": "Intel Posts Initial GCC Compiler Code For Razor Lake & Coral Rapids",
+      "url": "https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T11:29:00.000Z"
+    },
+    {
+      "title": "NVIDIA Highlights Their Open-Source vGPU Upstreaming Work Built Atop Nova",
+      "url": "https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T11:09:59.000Z"
+    },
+    {
+      "title": "Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves",
+      "url": "https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-13T10:51:34.000Z"
+    },
     {
       "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5",
@@ -170,92 +306,12 @@
       "date": "2026-11-12T14:41:16.000Z"
     },
     {
-      "title": "Introducing Polo: a Wayland MATE compositor",
-      "url": "https://lwn.net/Articles/1107152/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T14:32:49.000Z"
-    },
-    {
-      "title": "[$] C++26 contract confusion",
-      "url": "https://lwn.net/Articles/1105400/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T14:29:04.000Z"
-    },
-    {
-      "title": "Stenberg: 30 years of Internet transfers with curl",
-      "url": "https://lwn.net/Articles/1107151/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T14:24:47.000Z"
-    },
-    {
-      "title": "NVIDIA NvRoot & ForgePtr Vulnerabilities Published For Linux Driver, 25 More Coming",
-      "url": "https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T14:17:33.000Z"
-    },
-    {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1107146/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T14:13:00.000Z"
-    },
-    {
-      "title": "NVIDIA CEO Jensen Huang Resigns",
-      "url": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T13:58:39.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Francisco Goya",
       "url": "https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-12T12:30:00.000Z"
-    },
-    {
-      "title": "Linux 7.5 To Improve Support For Old ASUS Transformer Hybrid Laptops/Tablets",
-      "url": "https://www.phoronix.com/news/Linux-7.5-ASUS-Transformer",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T11:26:17.000Z"
-    },
-    {
-      "title": "Intel Xe Driver Preparing SR-IOV Provisioning For vGPU Profiles",
-      "url": "https://www.phoronix.com/news/Linux-7.5-Intel-Xe-vGPU-Profile",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T11:11:11.000Z"
-    },
-    {
-      "title": "Polo Debuts As New Wayland Compositor For MATE Desktop",
-      "url": "https://www.phoronix.com/news/Polo-Wayland-Compositor-MATE",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T10:56:16.000Z"
-    },
-    {
-      "title": "Linux 7.5 To Enable Temperature / Voltage / Power Monitoring For AMD Pensando NICs",
-      "url": "https://www.phoronix.com/news/AMD-Pensando-HWMON",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T10:41:45.000Z"
     },
     {
       "title": "Viable 1.1 build 100 has a new help book, and tweaks",
@@ -306,22 +362,6 @@
       "date": "2026-11-12T03:23:06.000Z"
     },
     {
-      "title": "[$] LWN.net Weekly Edition for November 12, 2026",
-      "url": "https://lwn.net/Articles/1105460/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T00:23:48.000Z"
-    },
-    {
-      "title": "Intel Continues Enabling The GPU D-Series \"Crescent Island\" Driver Support For Linux 7.5",
-      "url": "https://www.phoronix.com/news/More-Intel-D-Series-Linux-7.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-11T21:04:00.000Z"
-    },
-    {
       "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY01jZzZDQWFOMjZweVlNTFB3ak1fWUlKVWxOWE83LUt2WWJoeFdFcXN2bk9DT3poUUdNYnFtOFFVWEphVUQxT3FmSUpvVVl3Q3Vfazlsc2FBX0F6RVZlTzZVeWoyOUd3aHZCQTFVcjdpOWFVaDlIRzNHLUJ3ZWpfelM1X0J5dUVa?oc=5",
       "source": "Android Authority",
@@ -330,44 +370,12 @@
       "date": "2026-11-11T20:11:00.000Z"
     },
     {
-      "title": "Apple Shutters Their Longstanding ‘Apple Support Community’",
-      "url": "https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-11T19:17:32.000Z"
-    },
-    {
-      "title": "Austin Mann’s iPhone Duo Review",
-      "url": "https://www.austinmann.com/trek/iphone-duo",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-11T19:02:58.000Z"
-    },
-    {
       "title": "LibreSSL 4.3.5 and 4.4.1 released",
       "url": "https://undeadly.org/cgi?action=article;sid=20261111185828",
       "source": "undeadly",
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-11-11T18:58:28.000Z"
-    },
-    {
-      "title": "Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’",
-      "url": "https://www.youtube.com/watch?v=cxjdVVVryC4",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-11T18:36:34.000Z"
-    },
-    {
-      "title": "‘Dangerous or Unusual’",
-      "url": "https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-11T18:29:17.000Z"
     },
     {
       "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
@@ -384,14 +392,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-11T18:10:00.000Z"
-    },
-    {
-      "title": "Painting a good story: Picture without words",
-      "url": "https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-11T12:30:00.000Z"
     },
     {
       "title": "The Next Googlebook Is Aiming To Replace Your Android Tablet - Here's How",
@@ -416,14 +416,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-10T10:07:19.000Z"
-    },
-    {
-      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
-      "source": "PCMag",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-10T05:14:39.000Z"
     },
     {
       "title": "Googlebook apps built by Googlers add macOS-like status bar shortcuts, keyboard commands",
@@ -472,6 +464,14 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-08T16:58:03.000Z"
+    },
+    {
+      "title": "Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5",
+      "source": "PCMag",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-08T08:00:00.000Z"
     },
     {
       "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
