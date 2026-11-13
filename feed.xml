@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:53:50 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI Codex Helps Uncover &amp; Fix A Nearly 20 Year Old Radeon Linux Driver Bug</title>
+      <link>https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 13 Nov 2026 01:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 157 finally lands on Googlebook with key bug fixes ahead of 158</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlrU3ctQ0I5NEMyWWVJVHc1R0dIdEZHRzhMSzhxQlFnOWlGaHZUc3doSVlsUGI0ZnlTaUlodTJpMnJGdW9BX2VFOGVqcGdmYldjX3RPNEVRRUpQVFNadDBrYXN3U1puRlZ4RnJnMmVoWEhUZnN3a3hVR1pGUnVpOXhQeU0zd0NJZHMxRlpwazVjYUlXbHlETGlfdXozUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlrU3ctQ0I5NEMyWWVJVHc1R0dIdEZHRzhMSzhxQlFnOWlGaHZUc3doSVlsUGI0ZnlTaUlodTJpMnJGdW9BX2VFOGVqcGdmYldjX3RPNEVRRUpQVFNadDBrYXN3U1puRlZ4RnJnMmVoWEhUZnN3a3hVR1pGUnVpOXhQeU0zd0NJZHMxRlpwazVjYUlXbHlETGlfdXozUQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Thu, 12 Nov 2026 21:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 21:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scott Colom Flips Mississippi</title>
+      <link>https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</link>
+      <guid isPermaLink="true">https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 21:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Dream of Quibi Lives On</title>
+      <link>https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</link>
+      <guid isPermaLink="true">https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 12 Nov 2026 20:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>FreeBSD Status Report Third Quarter 2026</title>
       <link>https://www.freebsd.org/status/report-2026-07-2026-09/</link>
@@ -245,7 +285,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Thu, 12 Nov 2026 03:27:42 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 03:23:06 GMT</pubDate>
     </item>
     <item>
       <title>[$] LWN.net Weekly Edition for November 12, 2026</title>
@@ -328,14 +368,6 @@
       <pubDate>Wed, 11 Nov 2026 18:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Zellij 0.46 released</title>
-      <link>https://lwn.net/Articles/1106903/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106903/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 11 Nov 2026 17:26:48 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Picture without words</title>
       <link>https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/11/painting-a-good-story-picture-without-words/</guid>
@@ -352,36 +384,12 @@
       <pubDate>Wed, 11 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple has just released an update to XProtect for all macOS</title>
-      <link>https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/10/apple-has-just-released-an-update-to-xprotect-for-all-macos-25/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 10 Nov 2026 23:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gary Marcus: ‘Just Say No to Anthropic’s IPO’</title>
-      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 10 Nov 2026 22:16:25 GMT</pubDate>
-    </item>
-    <item>
       <title>The Next Googlebook Is Aiming To Replace Your Android Tablet - Here's How</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">BGR</source>
       <pubDate>Tue, 10 Nov 2026 21:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altar II Keyboard on Kickstarter</title>
-      <link>https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</link>
-      <guid isPermaLink="true">https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 10 Nov 2026 20:59:25 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 157 rolls out to Android and desktop, but Googlebook updates remain delayed</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Fast Company</source>
       <pubDate>Tue, 10 Nov 2026 10:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebooks vs. MacBooks: I Tested Both, and Only One Survived My Workflow</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXgwdE92b0ZZZWVVcHlvVTNNRlNrMTRhSFdGaUd4eUc4QVpJNnVnTFBPME5aa1JkNVB5aTVRTW5Mck5uNEk4aVduMHg4U0NuZW5nbDZzQjhrbDdMSFUxaWVOd1ZEUUJGSmNjOGRFZ3kwbHBpOUFNQk0wTGhxU3dIOEd2ZWpKUTg4Mm55N04wdjkzQVJ2VU1CeGMyZnR3eXcySEFR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">PCMag</source>
-      <pubDate>Tue, 10 Nov 2026 05:14:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
