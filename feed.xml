@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:37:06 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Tom's Guide</source>
+      <pubDate>Sat, 14 Nov 2026 05:37:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 11.22 Introduces x86 AVX Emulation On ARM64</title>
+      <link>https://www.phoronix.com/news/Wine-11.22-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.22-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 01:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fitbit Air, Pixel and Galaxy Watches will double as a controllers for Android XR glasses</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZfVXp5RzhuRzE2YlRxb2t4em44ZDJXVXlIRENsbW80NC10Q1ZtMWRjaXh3UG5mLXpUTWsyamtkekNCMWZWbU1ZRWxYbVNabFg1YjhXbnpIOFBodm9mS256LXFRSHpsMHU5MjZxejVjWGxUQzNHdF9pQ0JEWFU3c1RnNHdkcnFyenhSakgxU0ZMWnhyQWJEM0oyVjdYZXBHU3dxNlJqRzhOeXJoRTlRa3p5RF8?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZfVXp5RzhuRzE2YlRxb2t4em44ZDJXVXlIRENsbW80NC10Q1ZtMWRjaXh3UG5mLXpUTWsyamtkekNCMWZWbU1ZRWxYbVNabFg1YjhXbnpIOFBodm9mS256LXFRSHpsMHU5MjZxejVjWGxUQzNHdF9pQ0JEWFU3c1RnNHdkcnFyenhSakgxU0ZMWnhyQWJEM0oyVjdYZXBHU3dxNlJqRzhOeXJoRTlRa3p5RF8?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 13 Nov 2026 21:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents</title>
       <link>https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source</link>
@@ -312,14 +336,6 @@
       <pubDate>Thu, 12 Nov 2026 16:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)</title>
-      <link>https://lwn.net/Articles/1107173/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107173/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 12 Nov 2026 16:26:09 GMT</pubDate>
-    </item>
-    <item>
       <title>Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’</title>
       <link>https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</link>
       <guid isPermaLink="true">https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</guid>
@@ -390,22 +406,6 @@
       <category>bsd</category>
       <source url="https://undeadly.org/">undeadly</source>
       <pubDate>Wed, 11 Nov 2026 18:58:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]</title>
-      <link>https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Wed, 11 Nov 2026 18:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5rU1p5ckh1MlhwYzZDbUptWXhIelNOc3pxXzU1Z1FtR29ZeUNmZ3lJZ1BMT3lkc2FYV3NnSW5RQVVEdVh6aVh2Y1Jub2Z1SmRkdDg5Nmh5dGFQYkstcF84ZjNRaHJxYUdVUjdraWlicHd0b0ZWd3ZCZUtkZ24wY1F3?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5rU1p5ckh1MlhwYzZDbUptWXhIelNOc3pxXzU1Z1FtR29ZeUNmZ3lJZ1BMT3lkc2FYV3NnSW5RQVVEdVh6aVh2Y1Jub2Z1SmRkdDg5Nmh5dGFQYkstcF84ZjNRaHJxYUdVUjdraWlicHd0b0ZWd3ZCZUtkZ24wY1F3?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Wed, 11 Nov 2026 18:10:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

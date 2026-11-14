@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-13T23:38:37.319Z",
+  "generated": "2026-11-14T06:37:06.332Z",
   "items": [
+    {
+      "title": "I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5",
+      "source": "Tom's Guide",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-14T05:37:32.000Z"
+    },
+    {
+      "title": "Wine 11.22 Introduces x86 AVX Emulation On ARM64",
+      "url": "https://www.phoronix.com/news/Wine-11.22-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T01:35:04.000Z"
+    },
+    {
+      "title": "Fitbit Air, Pixel and Galaxy Watches will double as a controllers for Android XR glasses",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZfVXp5RzhuRzE2YlRxb2t4em44ZDJXVXlIRENsbW80NC10Q1ZtMWRjaXh3UG5mLXpUTWsyamtkekNCMWZWbU1ZRWxYbVNabFg1YjhXbnpIOFBodm9mS256LXFRSHpsMHU5MjZxejVjWGxUQzNHdF9pQ0JEWFU3c1RnNHdkcnFyenhSakgxU0ZMWnhyQWJEM0oyVjdYZXBHU3dxNlJqRzhOeXJoRTlRa3p5RF8?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-13T21:27:13.000Z"
+    },
     {
       "title": "Cloudflare Open Sources Kitesurf: Their Web Browser For AI Agents",
       "url": "https://www.phoronix.com/news/Cloudflare-Kitesurf-Open-Source",
@@ -306,14 +330,6 @@
       "date": "2026-11-12T16:40:00.000Z"
     },
     {
-      "title": "Glasswing overwhelms maintainers with underwhelming findings (VulnCheck)",
-      "url": "https://lwn.net/Articles/1107173/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T16:26:09.000Z"
-    },
-    {
       "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
       "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
       "source": "Daring Fireball",
@@ -488,22 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-07T21:46:14.000Z"
-    },
-    {
-      "title": "I turned my Galaxy phone into a laptop for $100 to skip paying for a $1,000 Googlebook",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2Q0NlpEcy0zZVl6cnZUdGswTjFaVk02eXNJVmJCaXBmVVppMm5ONWlZWEh6MzdTN0dhY3dfQnA4Q0hXMzRYWFFQeVJOSEdjRG5SbF9ZM3VtOWVFUnVVSjBud2VuUFhFZVAxNFk5Y244SnBKTWhHVHlKN21VakxnVjVIT3BITTFIWklOYlA2czd5aUtHYXNYd055ZWpPNksxdnZpelZWRnBlUQ?oc=5",
-      "source": "Android Police",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-07T18:00:10.000Z"
-    },
-    {
-      "title": "Googlebook update frees up to 6GB of RAM by reducing on-device AI memory usage",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnJ4aUxHcDRaZ3h1NVJpUEw1TnlCcW9DZl9hUmFPcWxmc3QyUjJrVlpMa1dVWm5XWDZpVmc2cWJUUm8weld6T0JuTzlWTVppYmR1OW11U1h5LWVHQVM2dHQ4TGxfQV9OM1QyOFZBNDlyckNvLU81UkhCdnRhd2xnUTRYWTZOSEFBWU13aE50MG9fb2ZxZ180WW5xT2NYbVNTR0EtaVNBcVVnUQ?oc=5",
-      "source": "VideoCardz.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-07T15:27:00.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
