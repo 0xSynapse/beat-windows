@@ -5,15 +5,87 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:37:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:14:30 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Red Hat Working To Improve Memory Tiering For QEMU VMs To Save RAM</title>
+      <link>https://www.phoronix.com/news/QEMU-VM-Memory-Tiering</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/QEMU-VM-Memory-Tiering</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 13:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>British Impressionists on the beach 1</title>
+      <link>https://eclecticlight.co/2026/11/14/british-impressionists-on-the-beach-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/british-impressionists-on-the-beach-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 14 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Begins Linux Kernel Enablement For Coral Rapids &amp; Razor Lake</title>
+      <link>https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 11:19:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rugged Emdoor Laptops Beginning To See Improved Linux Support</title>
+      <link>https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 11:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.9 Finally Allows XWayland To Run On-Demand, New Wobbly Windows Presets</title>
+      <link>https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 10:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD 15.2 Beta 2 Delivers Updated OpenSSL, Bug Fixes</title>
+      <link>https://www.phoronix.com/news/FreeBSD-15.2-Beta-2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-15.2-Beta-2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 14 Nov 2026 10:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 386</title>
+      <link>https://eclecticlight.co/2026/11/14/saturday-mac-riddles-386/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/saturday-mac-riddles-386/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Game of Trees 0.131 released</title>
+      <link>https://undeadly.org/cgi?action=article;sid=20261114082422</link>
+      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261114082422</guid>
+      <category>bsd</category>
+      <source url="https://undeadly.org/">undeadly</source>
+      <pubDate>Sat, 14 Nov 2026 08:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understand space management with DeltaFree</title>
+      <link>https://eclecticlight.co/2026/11/14/understand-space-management-with-deltafree/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/understand-space-management-with-deltafree/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Tom's Guide</source>
-      <pubDate>Sat, 14 Nov 2026 05:37:32 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 05:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Wine 11.22 Introduces x86 AVX Emulation On ARM64</title>
@@ -208,14 +280,6 @@
       <pubDate>Fri, 13 Nov 2026 11:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves</title>
-      <link>https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 10:51:34 GMT</pubDate>
-    </item>
-    <item>
       <title>Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5</guid>
@@ -238,14 +302,6 @@
       <category>android</category>
       <source url="https://news.google.com/">About Chromebooks</source>
       <pubDate>Fri, 13 Nov 2026 07:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Codex Helps Uncover &amp; Fix A Nearly 20 Year Old Radeon Linux Driver Bug</title>
-      <link>https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 01:41:27 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 157 finally lands on Googlebook with key bug fixes ahead of 158</title>
@@ -304,36 +360,12 @@
       <pubDate>Thu, 12 Nov 2026 20:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>Rust 1.100.0 released</title>
-      <link>https://lwn.net/Articles/1107187/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107187/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 12 Nov 2026 19:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 1.100 Released With The &quot;Never&quot; Type Finally Stable</title>
-      <link>https://www.phoronix.com/news/Rust-1.100-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Rust-1.100-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 12 Nov 2026 18:51:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Trump Weighs in on Huang’s Successor</title>
       <link>https://truthsocial.com/@realDonaldTrump/posts/117604177898784579</link>
       <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117604177898784579</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 12 Nov 2026 17:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996</title>
-      <link>https://www.phoronix.com/review/amd-epyc-zen6-smt</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-zen6-smt</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 12 Nov 2026 16:40:00 GMT</pubDate>
     </item>
     <item>
       <title>Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’</title>
@@ -360,28 +392,12 @@
       <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Viable 1.1 build 100 has a new help book, and tweaks</title>
-      <link>https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 12 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
-      <link>https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</link>
-      <guid isPermaLink="true">https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 04:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Working With Outside Firm to Identify CEO Candidates</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 03:57:43 GMT</pubDate>
+      <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">shattered.io</source>
+      <pubDate>Thu, 12 Nov 2026 05:42:37 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook 15 review: Google botched it, yet again</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Central</source>
       <pubDate>Thu, 12 Nov 2026 03:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Henry Cavill’s Mustache Protocol Googlebook game is now ready to play</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY01jZzZDQWFOMjZweVlNTFB3ak1fWUlKVWxOWE83LUt2WWJoeFdFcXN2bk9DT3poUUdNYnFtOFFVWEphVUQxT3FmSUpvVVl3Q3Vfazlsc2FBX0F6RVZlTzZVeWoyOUd3aHZCQTFVcjdpOWFVaDlIRzNHLUJ3ZWpfelM1X0J5dUVa?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY01jZzZDQWFOMjZweVlNTFB3ak1fWUlKVWxOWE83LUt2WWJoeFdFcXN2bk9DT3poUUdNYnFtOFFVWEphVUQxT3FmSUpvVVl3Q3Vfazlsc2FBX0F6RVZlTzZVeWoyOUd3aHZCQTFVcjdpOWFVaDlIRzNHLUJ3ZWpfelM1X0J5dUVa?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Wed, 11 Nov 2026 20:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreSSL 4.3.5 and 4.4.1 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261111185828</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261111185828</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Wed, 11 Nov 2026 18:58:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

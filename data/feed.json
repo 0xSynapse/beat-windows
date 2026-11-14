@@ -1,13 +1,85 @@
 {
-  "generated": "2026-11-14T06:37:06.332Z",
+  "generated": "2026-11-14T14:14:30.152Z",
   "items": [
+    {
+      "title": "Red Hat Working To Improve Memory Tiering For QEMU VMs To Save RAM",
+      "url": "https://www.phoronix.com/news/QEMU-VM-Memory-Tiering",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T13:12:22.000Z"
+    },
+    {
+      "title": "British Impressionists on the beach 1",
+      "url": "https://eclecticlight.co/2026/11/14/british-impressionists-on-the-beach-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-14T12:30:00.000Z"
+    },
+    {
+      "title": "Intel Begins Linux Kernel Enablement For Coral Rapids & Razor Lake",
+      "url": "https://www.phoronix.com/news/Linux-Coral-Rapids-Razor-Lake",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T11:19:30.000Z"
+    },
+    {
+      "title": "Rugged Emdoor Laptops Beginning To See Improved Linux Support",
+      "url": "https://www.phoronix.com/news/Emdoor-Linux-Platform-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T11:03:49.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.9 Finally Allows XWayland To Run On-Demand, New Wobbly Windows Presets",
+      "url": "https://www.phoronix.com/news/Plasma-6.9-XWayland-On-Demand",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T10:51:31.000Z"
+    },
+    {
+      "title": "FreeBSD 15.2 Beta 2 Delivers Updated OpenSSL, Bug Fixes",
+      "url": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T10:37:55.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 386",
+      "url": "https://eclecticlight.co/2026/11/14/saturday-mac-riddles-386/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-14T09:00:00.000Z"
+    },
+    {
+      "title": "Game of Trees 0.131 released",
+      "url": "https://undeadly.org/cgi?action=article;sid=20261114082422",
+      "source": "undeadly",
+      "tag": "bsd",
+      "site": "https://undeadly.org/",
+      "date": "2026-11-14T08:24:22.000Z"
+    },
+    {
+      "title": "Understand space management with DeltaFree",
+      "url": "https://eclecticlight.co/2026/11/14/understand-space-management-with-deltafree/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-14T08:00:00.000Z"
+    },
     {
       "title": "I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5",
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-14T05:37:32.000Z"
+      "date": "2026-11-14T05:30:00.000Z"
     },
     {
       "title": "Wine 11.22 Introduces x86 AVX Emulation On ARM64",
@@ -202,14 +274,6 @@
       "date": "2026-11-13T11:09:59.000Z"
     },
     {
-      "title": "Dasharo ACPI Fan Control Linux Driver Posted For Adjusting Fan Curves",
-      "url": "https://www.phoronix.com/news/Dasharo-ACPI-Fan-Control-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T10:51:34.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5",
       "source": "Android Authority",
@@ -232,14 +296,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-13T07:24:52.000Z"
-    },
-    {
-      "title": "OpenAI Codex Helps Uncover & Fix A Nearly 20 Year Old Radeon Linux Driver Bug",
-      "url": "https://www.phoronix.com/news/Codex-R600-UVD-FIx-Linux-7.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T01:41:27.000Z"
     },
     {
       "title": "Chrome 157 finally lands on Googlebook with key bug fixes ahead of 158",
@@ -298,36 +354,12 @@
       "date": "2026-11-12T20:12:11.000Z"
     },
     {
-      "title": "Rust 1.100.0 released",
-      "url": "https://lwn.net/Articles/1107187/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-12T19:09:19.000Z"
-    },
-    {
-      "title": "Rust 1.100 Released With The \"Never\" Type Finally Stable",
-      "url": "https://www.phoronix.com/news/Rust-1.100-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T18:51:12.000Z"
-    },
-    {
       "title": "Trump Weighs in on Huang’s Successor",
       "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T17:32:42.000Z"
-    },
-    {
-      "title": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996",
-      "url": "https://www.phoronix.com/review/amd-epyc-zen6-smt",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-12T16:40:00.000Z"
     },
     {
       "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
@@ -354,28 +386,12 @@
       "date": "2026-11-12T12:30:00.000Z"
     },
     {
-      "title": "Viable 1.1 build 100 has a new help book, and tweaks",
-      "url": "https://eclecticlight.co/2026/11/12/viable-1-1-build-100-has-a-new-help-book-and-tweaks/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-12T07:30:00.000Z"
-    },
-    {
-      "title": "Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’",
-      "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T04:59:59.000Z"
-    },
-    {
-      "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T03:57:43.000Z"
+      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
+      "source": "shattered.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-12T05:42:37.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 review: Google botched it, yet again",
@@ -392,14 +408,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-11T20:11:00.000Z"
-    },
-    {
-      "title": "LibreSSL 4.3.5 and 4.4.1 released",
-      "url": "https://undeadly.org/cgi?action=article;sid=20261111185828",
-      "source": "undeadly",
-      "tag": "bsd",
-      "site": "https://undeadly.org/",
-      "date": "2026-11-11T18:58:28.000Z"
     },
     {
       "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-08T08:00:00.000Z"
-    },
-    {
-      "title": "Three new apps built by Googlers make Googlebook feel way more powerful",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDR0MzcxbVNneExQYW14eG5GbjN0VE9BSkl5OS0tYkN5elNqdVFoRkRka25JSENxRnBrR28xMnRUQVZ1TnlGR0hsSHV1aHpxNVMwVE5EYjUzd0g2ckRBM2VWWG5rMG5uTEhKT3AyU1hLT1pzbms1VmxBd01EaDZ6SEQxbmp5X2FTQjVGR3JKUHRTYnlac3VwbVlrTjNTM00?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-07T21:46:14.000Z"
     },
     {
       "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
