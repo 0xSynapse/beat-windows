@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-14T14:14:30.152Z",
+  "generated": "2026-11-14T19:15:25.331Z",
   "items": [
+    {
+      "title": "Joanna Stern Reviews the HomeView",
+      "url": "https://www.youtube.com/watch?v=yVTcVtLn2o4",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-14T17:50:00.000Z"
+    },
+    {
+      "title": "Jason Snell’s HomeView Review",
+      "url": "https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-14T17:45:00.000Z"
+    },
+    {
+      "title": "Patrick McGee on Johny Srouji and Nvidia",
+      "url": "https://x.com/patrickmcgee_/status/2120799867140550999",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-14T17:40:39.000Z"
+    },
+    {
+      "title": "Redox OS Gets Golang Working, GIMP Ported & Simplified AI Policy",
+      "url": "https://www.phoronix.com/news/Redox-OS-Golang-GIMP",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T16:06:43.000Z"
+    },
+    {
+      "title": "Microsoft Says Cloud Outage Was ‘Not Related to Cyber or AI / Agents’",
+      "url": "https://x.com/microsoft/status/2121282013600907325",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-14T16:00:00.000Z"
+    },
+    {
+      "title": "Basic Support For The Apple M5 Expected To Land For Linux 7.5",
+      "url": "https://www.phoronix.com/news/Apple-M5-For-Linux-7.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-14T15:33:10.000Z"
+    },
     {
       "title": "Red Hat Working To Improve Memory Tiering For QEMU VMs To Save RAM",
       "url": "https://www.phoronix.com/news/QEMU-VM-Memory-Tiering",
@@ -79,7 +127,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-14T05:30:00.000Z"
+      "date": "2026-11-14T05:43:34.000Z"
     },
     {
       "title": "Wine 11.22 Introduces x86 AVX Emulation On ARM64",
@@ -258,22 +306,6 @@
       "date": "2026-11-13T12:30:00.000Z"
     },
     {
-      "title": "Intel Posts Initial GCC Compiler Code For Razor Lake & Coral Rapids",
-      "url": "https://www.phoronix.com/news/Intel-GCC-Coral-Rapids-Razor",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T11:29:00.000Z"
-    },
-    {
-      "title": "NVIDIA Highlights Their Open-Source vGPU Upstreaming Work Built Atop Nova",
-      "url": "https://www.phoronix.com/news/NVIDIA-Upstream-vGPU-Nova",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T11:09:59.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5",
       "source": "Android Authority",
@@ -352,38 +384,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T20:12:11.000Z"
-    },
-    {
-      "title": "Trump Weighs in on Huang’s Successor",
-      "url": "https://truthsocial.com/@realDonaldTrump/posts/117604177898784579",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T17:32:42.000Z"
-    },
-    {
-      "title": "Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’",
-      "url": "https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T15:55:12.000Z"
-    },
-    {
-      "title": "Jensen Huang Resigns From Nvidia",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T15:19:07.000Z"
-    },
-    {
-      "title": "Painting with impaired vision: Francisco Goya",
-      "url": "https://eclecticlight.co/2026/11/12/painting-with-impaired-vision-francisco-goya/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-12T12:30:00.000Z"
     },
     {
       "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
