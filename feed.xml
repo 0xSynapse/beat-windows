@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:55:31 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Sun, 15 Nov 2026 22:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]</title>
+      <link>https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Sun, 15 Nov 2026 21:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>The Legion of PCAST</title>
       <link>https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/</link>
@@ -390,22 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 12 Nov 2026 21:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD Status Report Third Quarter 2026</title>
-      <link>https://www.freebsd.org/status/report-2026-07-2026-09/</link>
-      <guid isPermaLink="true">https://www.freebsd.org/status/report-2026-07-2026-09/</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
-      <pubDate>Thu, 12 Nov 2026 20:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">shattered.io</source>
-      <pubDate>Thu, 12 Nov 2026 05:42:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
