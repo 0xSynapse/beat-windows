@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 11:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:47:52 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Legion of PCAST</title>
+      <link>https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/</link>
+      <guid isPermaLink="true">https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 15 Nov 2026 17:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
+      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 15 Nov 2026 15:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs</title>
+      <link>https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 15 Nov 2026 14:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>British Impressionists on the beach 2</title>
+      <link>https://eclecticlight.co/2026/11/15/british-impressionists-on-the-beach-2/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/15/british-impressionists-on-the-beach-2/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 15 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware</title>
+      <link>https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 15 Nov 2026 11:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD ARG &quot;AMD Root Guest&quot; Linux Patches Coming In 2027</title>
+      <link>https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 15 Nov 2026 11:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support</title>
       <link>https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux</link>
@@ -296,30 +344,6 @@
       <pubDate>Fri, 13 Nov 2026 14:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>Announcing XRAID: declustered parity RAID for zoned XFS</title>
-      <link>https://lwn.net/Articles/1107473/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107473/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 13 Nov 2026 14:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Friday</title>
-      <link>https://lwn.net/Articles/1107472/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107472/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 13 Nov 2026 14:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>XRAID Publicly Released As New RAID Implementation For XFS</title>
-      <link>https://www.phoronix.com/news/XRAID-XFS-RAID</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/XRAID-XFS-RAID</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 13:22:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Claude Monet: Le Havre to Argenteuil</title>
       <link>https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</guid>
@@ -368,36 +392,12 @@
       <pubDate>Thu, 12 Nov 2026 21:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>Scott Colom Flips Mississippi</title>
-      <link>https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</link>
-      <guid isPermaLink="true">https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 21:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Dream of Quibi Lives On</title>
-      <link>https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</link>
-      <guid isPermaLink="true">https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 20:54:43 GMT</pubDate>
-    </item>
-    <item>
       <title>FreeBSD Status Report Third Quarter 2026</title>
       <link>https://www.freebsd.org/status/report-2026-07-2026-09/</link>
       <guid isPermaLink="true">https://www.freebsd.org/status/report-2026-07-2026-09/</guid>
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Thu, 12 Nov 2026 20:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>And Every New Boy That You Meet / He Doesn’t Know the Real Surprise</title>
-      <link>https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 20:41:35 GMT</pubDate>
     </item>
     <item>
       <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>

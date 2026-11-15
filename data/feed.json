@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-15T11:07:21.724Z",
+  "generated": "2026-11-15T17:47:52.275Z",
   "items": [
+    {
+      "title": "The Legion of PCAST",
+      "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-15T17:14:42.000Z"
+    },
+    {
+      "title": "WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
+      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-15T15:52:01.000Z"
+    },
+    {
+      "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
+      "url": "https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-15T14:20:01.000Z"
+    },
+    {
+      "title": "British Impressionists on the beach 2",
+      "url": "https://eclecticlight.co/2026/11/15/british-impressionists-on-the-beach-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-15T12:30:00.000Z"
+    },
+    {
+      "title": "IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware",
+      "url": "https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-15T11:42:22.000Z"
+    },
+    {
+      "title": "AMD ARG \"AMD Root Guest\" Linux Patches Coming In 2027",
+      "url": "https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-15T11:24:06.000Z"
+    },
     {
       "title": "ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support",
       "url": "https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux",
@@ -290,30 +338,6 @@
       "date": "2026-11-13T14:43:17.000Z"
     },
     {
-      "title": "Announcing XRAID: declustered parity RAID for zoned XFS",
-      "url": "https://lwn.net/Articles/1107473/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-13T14:39:47.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1107472/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-13T14:25:42.000Z"
-    },
-    {
-      "title": "XRAID Publicly Released As New RAID Implementation For XFS",
-      "url": "https://www.phoronix.com/news/XRAID-XFS-RAID",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T13:22:22.000Z"
-    },
-    {
       "title": "Claude Monet: Le Havre to Argenteuil",
       "url": "https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/",
       "source": "Eclectic Light",
@@ -362,36 +386,12 @@
       "date": "2026-11-12T21:32:07.000Z"
     },
     {
-      "title": "Scott Colom Flips Mississippi",
-      "url": "https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T21:20:29.000Z"
-    },
-    {
-      "title": "The Dream of Quibi Lives On",
-      "url": "https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T20:54:43.000Z"
-    },
-    {
       "title": "FreeBSD Status Report Third Quarter 2026",
       "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-12T20:45:02.000Z"
-    },
-    {
-      "title": "And Every New Boy That You Meet / He Doesn’t Know the Real Surprise",
-      "url": "https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T20:41:35.000Z"
     },
     {
       "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
@@ -407,7 +407,7 @@
       "source": "Android Central",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-12T03:23:06.000Z"
+      "date": "2026-11-12T03:27:42.000Z"
     },
     {
       "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
@@ -568,14 +568,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-18T07:42:41.000Z"
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-16T15:41:08.000Z"
     }
   ]
 }
