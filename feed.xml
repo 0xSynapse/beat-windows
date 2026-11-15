@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:07:21 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support</title>
+      <link>https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 15 Nov 2026 11:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Last Week on My Mac: Eggs, baskets and resilience</title>
+      <link>https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD bhyve Live Migration: Moving VMs Between Hosts</title>
+      <link>https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</link>
+      <guid isPermaLink="true">https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Sun, 15 Nov 2026 06:44:44 GMT</pubDate>
+    </item>
     <item>
       <title>Joanna Stern Reviews the HomeView</title>
       <link>https://www.youtube.com/watch?v=yVTcVtLn2o4</link>
@@ -296,14 +320,6 @@
       <pubDate>Fri, 13 Nov 2026 13:22:22 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.5 To Upstream Driver For New Glanda GPU</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 12:55:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Claude Monet: Le Havre to Argenteuil</title>
       <link>https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</guid>
@@ -384,28 +400,12 @@
       <pubDate>Thu, 12 Nov 2026 20:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>Reuters Raises the Jensen Huang Affair Tally to Three</title>
-      <link>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 20:12:11 GMT</pubDate>
-    </item>
-    <item>
       <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">shattered.io</source>
       <pubDate>Thu, 12 Nov 2026 05:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 review: Google botched it, yet again</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Thu, 12 Nov 2026 03:23:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

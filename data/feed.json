@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-15T02:45:36.043Z",
+  "generated": "2026-11-15T11:07:21.724Z",
   "items": [
+    {
+      "title": "ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support",
+      "url": "https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-15T11:01:55.000Z"
+    },
+    {
+      "title": "Last Week on My Mac: Eggs, baskets and resilience",
+      "url": "https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-15T08:00:00.000Z"
+    },
+    {
+      "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-11-15T06:44:44.000Z"
+    },
     {
       "title": "Joanna Stern Reviews the HomeView",
       "url": "https://www.youtube.com/watch?v=yVTcVtLn2o4",
@@ -290,14 +314,6 @@
       "date": "2026-11-13T13:22:22.000Z"
     },
     {
-      "title": "Linux 7.5 To Upstream Driver For New Glanda GPU",
-      "url": "https://www.phoronix.com/news/Linux-7.5-GlandaGPU-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T12:55:37.000Z"
-    },
-    {
       "title": "Claude Monet: Le Havre to Argenteuil",
       "url": "https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/",
       "source": "Eclectic Light",
@@ -376,14 +392,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-12T20:41:35.000Z"
-    },
-    {
-      "title": "Reuters Raises the Jensen Huang Affair Tally to Three",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T20:12:11.000Z"
     },
     {
       "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
