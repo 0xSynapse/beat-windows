@@ -1,6 +1,14 @@
 {
-  "generated": "2026-11-15T22:55:31.716Z",
+  "generated": "2026-11-16T02:48:48.162Z",
   "items": [
+    {
+      "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-15T22:55:19.000Z"
+    },
     {
       "title": "Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5",
@@ -344,14 +352,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-13T15:26:14.000Z"
-    },
-    {
-      "title": "AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations",
-      "url": "https://www.phoronix.com/news/AMD-AOCL-6.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T14:43:17.000Z"
     },
     {
       "title": "Claude Monet: Le Havre to Argenteuil",

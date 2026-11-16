@@ -5,8 +5,16 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:48:48 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.4-rc3 Released: &quot;The Usual Noise All Over&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 15 Nov 2026 22:55:19 GMT</pubDate>
+    </item>
     <item>
       <title>Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5</link>
@@ -350,14 +358,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Fri, 13 Nov 2026 15:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations</title>
-      <link>https://www.phoronix.com/news/AMD-AOCL-6.0</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-AOCL-6.0</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 14:43:17 GMT</pubDate>
     </item>
     <item>
       <title>Claude Monet: Le Havre to Argenteuil</title>
