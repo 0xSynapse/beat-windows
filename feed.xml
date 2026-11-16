@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:35:58 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GCC 17 Might Land Native AArch64 Darwin/macOS Support</title>
+      <link>https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 16 Nov 2026 11:25:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modern NTFS Driver Gaining O_TMPFILE Support With Linux 7.5</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 16 Nov 2026 11:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Purism Aiming To Deliver New Librem 5 Smartphone With RISC-V SoC</title>
+      <link>https://www.phoronix.com/news/Librem-5-v2-Announced</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Librem-5-v2-Announced</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 16 Nov 2026 11:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fwupd 2.1.10 Brings Fixes, New Synaptics Touchpad Supported</title>
+      <link>https://www.phoronix.com/news/Fwupd-2.1.10-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fwupd-2.1.10-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 16 Nov 2026 10:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernel prepatch 7.4-rc3</title>
+      <link>https://lwn.net/Articles/1107606/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1107606/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 16 Nov 2026 09:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solutions to Saturday Mac riddles 386</title>
+      <link>https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>When deleting files may disappoint</title>
+      <link>https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Mon, 16 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo's first detachable Googlebook tipped to debut in January 2027</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Mon, 16 Nov 2026 05:27:00 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 7.4-rc3 Released: &quot;The Usual Noise All Over&quot;</title>
       <link>https://www.phoronix.com/news/Linux-7.4-rc3-Released</link>
@@ -224,6 +288,14 @@
       <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Dell XPS Googlebook [2026]: $999, But the OS Hurts</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">shattered.io</source>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5</guid>
@@ -288,14 +360,6 @@
       <pubDate>Fri, 13 Nov 2026 19:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>AMD openSIL Achieves Its Production Goal With 6th Gen EPYC &quot;Venice&quot;</title>
-      <link>https://www.phoronix.com/news/AMD-openSIL-Venice-Goal</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-openSIL-Venice-Goal</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 18:20:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Microsoft, and Its Customers, Are Suffering a Global Cloud Outage</title>
       <link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</link>
       <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</guid>
@@ -310,30 +374,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Fri, 13 Nov 2026 17:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Frameworks 6.32 Released With That Fix For USB File Transfer Notifications</title>
-      <link>https://www.phoronix.com/news/KDE-Frameworks-6.32</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Frameworks-6.32</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 17:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] 25 years of Buildroot</title>
-      <link>https://lwn.net/Articles/1103395/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1103395/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 13 Nov 2026 16:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Leverages AI + HRX Loom In Experiment For Quickly Porting 50 LLMs To Client GPUs</title>
-      <link>https://www.phoronix.com/news/AMD-HRX-Loom-Experiment</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-HRX-Loom-Experiment</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 15:53:00 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia Employees Petition for Jensen Huang’s Return</title>
@@ -352,14 +392,6 @@
       <pubDate>Fri, 13 Nov 2026 15:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.5 To Include New hwpoison-panic Tool For Intentionally Crashing Your System</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-hwpoison-panic</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-hwpoison-panic</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 13 Nov 2026 15:26:14 GMT</pubDate>
-    </item>
-    <item>
       <title>Claude Monet: Le Havre to Argenteuil</title>
       <link>https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/</guid>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Fri, 13 Nov 2026 09:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>View more free space data in DeltaFree 1.3</title>
-      <link>https://eclecticlight.co/2026/11/13/view-more-free-space-data-in-deltafree-1-3/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/13/view-more-free-space-data-in-deltafree-1-3/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 13 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 Review Says Skip It Over The Software</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3VITmlGZlIzOUw4bDVLNW9ZaHpLQW4tTFNfSjB2eUhkdHFVR1R1NGVBM2FPdmxKY0lONUpkU28yNU44emdubS1xY1FkOUdBb1M3eURzelViVjU5SW9MSmxyRDRQZ3M4RDB2WHRWeXpRTl9PdGpLQ1BYMjNqRmZDMklKY1dMOWlCMlM1TzZDQ3g3UFM3M3RB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3VITmlGZlIzOUw4bDVLNW9ZaHpLQW4tTFNfSjB2eUhkdHFVR1R1NGVBM2FPdmxKY0lONUpkU28yNU44emdubS1xY1FkOUdBb1M3eURzelViVjU5SW9MSmxyRDRQZ3M4RDB2WHRWeXpRTl9PdGpLQ1BYMjNqRmZDMklKY1dMOWlCMlM1TzZDQ3g3UFM3M3RB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">About Chromebooks</source>
-      <pubDate>Fri, 13 Nov 2026 07:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 157 finally lands on Googlebook with key bug fixes ahead of 158</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlrU3ctQ0I5NEMyWWVJVHc1R0dIdEZHRzhMSzhxQlFnOWlGaHZUc3doSVlsUGI0ZnlTaUlodTJpMnJGdW9BX2VFOGVqcGdmYldjX3RPNEVRRUpQVFNadDBrYXN3U1puRlZ4RnJnMmVoWEhUZnN3a3hVR1pGUnVpOXhQeU0zd0NJZHMxRlpwazVjYUlXbHlETGlfdXozUQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlrU3ctQ0I5NEMyWWVJVHc1R0dIdEZHRzhMSzhxQlFnOWlGaHZUc3doSVlsUGI0ZnlTaUlodTJpMnJGdW9BX2VFOGVqcGdmYldjX3RPNEVRRUpQVFNadDBrYXN3U1puRlZ4RnJnMmVoWEhUZnN3a3hVR1pGUnVpOXhQeU0zd0NJZHMxRlpwazVjYUlXbHlETGlfdXozUQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Thu, 12 Nov 2026 21:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)</title>
-      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 12 Nov 2026 21:32:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

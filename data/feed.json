@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-16T02:48:48.162Z",
+  "generated": "2026-11-16T11:35:58.666Z",
   "items": [
+    {
+      "title": "GCC 17 Might Land Native AArch64 Darwin/macOS Support",
+      "url": "https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-16T11:25:16.000Z"
+    },
+    {
+      "title": "Modern NTFS Driver Gaining O_TMPFILE Support With Linux 7.5",
+      "url": "https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-16T11:13:08.000Z"
+    },
+    {
+      "title": "Purism Aiming To Deliver New Librem 5 Smartphone With RISC-V SoC",
+      "url": "https://www.phoronix.com/news/Librem-5-v2-Announced",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-16T11:06:05.000Z"
+    },
+    {
+      "title": "Fwupd 2.1.10 Brings Fixes, New Synaptics Touchpad Supported",
+      "url": "https://www.phoronix.com/news/Fwupd-2.1.10-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-16T10:34:54.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.4-rc3",
+      "url": "https://lwn.net/Articles/1107606/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-16T09:07:45.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 386",
+      "url": "https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-16T09:00:00.000Z"
+    },
+    {
+      "title": "When deleting files may disappoint",
+      "url": "https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-16T07:30:00.000Z"
+    },
+    {
+      "title": "Lenovo's first detachable Googlebook tipped to debut in January 2027",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-16T05:27:00.000Z"
+    },
     {
       "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
       "url": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
@@ -218,6 +282,14 @@
       "date": "2026-11-14T08:00:00.000Z"
     },
     {
+      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
+      "source": "shattered.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-14T08:00:00.000Z"
+    },
+    {
       "title": "I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5",
       "source": "Tom's Guide",
@@ -282,14 +354,6 @@
       "date": "2026-11-13T19:19:47.000Z"
     },
     {
-      "title": "AMD openSIL Achieves Its Production Goal With 6th Gen EPYC \"Venice\"",
-      "url": "https://www.phoronix.com/news/AMD-openSIL-Venice-Goal",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T18:20:29.000Z"
-    },
-    {
       "title": "Microsoft, and Its Customers, Are Suffering a Global Cloud Outage",
       "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
       "source": "Daring Fireball",
@@ -304,30 +368,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-13T17:14:40.000Z"
-    },
-    {
-      "title": "KDE Frameworks 6.32 Released With That Fix For USB File Transfer Notifications",
-      "url": "https://www.phoronix.com/news/KDE-Frameworks-6.32",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T17:02:33.000Z"
-    },
-    {
-      "title": "[$] 25 years of Buildroot",
-      "url": "https://lwn.net/Articles/1103395/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-13T16:35:03.000Z"
-    },
-    {
-      "title": "AMD Leverages AI + HRX Loom In Experiment For Quickly Porting 50 LLMs To Client GPUs",
-      "url": "https://www.phoronix.com/news/AMD-HRX-Loom-Experiment",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T15:53:00.000Z"
     },
     {
       "title": "Nvidia Employees Petition for Jensen Huang’s Return",
@@ -346,14 +386,6 @@
       "date": "2026-11-13T15:31:22.000Z"
     },
     {
-      "title": "Linux 7.5 To Include New hwpoison-panic Tool For Intentionally Crashing Your System",
-      "url": "https://www.phoronix.com/news/Linux-7.5-hwpoison-panic",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-13T15:26:14.000Z"
-    },
-    {
       "title": "Claude Monet: Le Havre to Argenteuil",
       "url": "https://eclecticlight.co/2026/11/13/claude-monet-le-havre-to-argenteuil/",
       "source": "Eclectic Light",
@@ -368,14 +400,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-13T09:06:00.000Z"
-    },
-    {
-      "title": "View more free space data in DeltaFree 1.3",
-      "url": "https://eclecticlight.co/2026/11/13/view-more-free-space-data-in-deltafree-1-3/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-13T07:30:00.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 Review Says Skip It Over The Software",
@@ -394,28 +418,12 @@
       "date": "2026-11-12T21:48:36.000Z"
     },
     {
-      "title": "Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-12T21:32:07.000Z"
-    },
-    {
       "title": "FreeBSD Status Report Third Quarter 2026",
       "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-12T20:45:02.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
-      "source": "shattered.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-12T05:42:37.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 review: Google botched it, yet again",
@@ -496,14 +504,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-09T16:46:23.000Z"
-    },
-    {
-      "title": "Googlebook November Update is Out With Performance Improvements",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjBIX3dheHk1VEswN3Boazg2bHZWOF94STZPemhOODhDMVZ1Z3RDenllS3dCWURpWUZVbnFMdnQ4YXhrdldzVzFabUZmSlhFbFN1Q1lYX2RRZVVfdkhyZnFXVzhhN0czczdCd1hrRjROQXMyczBVWlViRndOZ0FxYmNyNzNNZGhDdnhWV1NjM2h6LXhtel9jQ2t6c0lzOXFsNlVfbA?oc=5",
-      "source": "Thurrott.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-09T15:29:23.000Z"
     },
     {
       "title": "Unattended reboots with encrypted disks",
