@@ -1,6 +1,110 @@
 {
-  "generated": "2026-11-17T04:36:41.084Z",
+  "generated": "2026-11-17T14:34:09.039Z",
   "items": [
+    {
+      "title": "Three stable kernels for Tuesday",
+      "url": "https://lwn.net/Articles/1108142/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-17T14:25:10.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1108140/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-17T14:15:33.000Z"
+    },
+    {
+      "title": "New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games",
+      "url": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T14:05:20.000Z"
+    },
+    {
+      "title": "Btrfs Seeks To Deal With AI & \"Newbies Without Common Senses\" Doing More Harm Than Good",
+      "url": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T12:55:56.000Z"
+    },
+    {
+      "title": "Portraits of trees: Tom Thomson",
+      "url": "https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-17T12:30:00.000Z"
+    },
+    {
+      "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
+      "url": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T11:34:00.000Z"
+    },
+    {
+      "title": "NVIDIA Engineer Works On New User-Space Linux Control For Preferred CPU Cores",
+      "url": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T11:16:30.000Z"
+    },
+    {
+      "title": "Xfce 4.22 Working Toward Early 2027 Release",
+      "url": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T10:50:41.000Z"
+    },
+    {
+      "title": "REAPER Digital Audio Workstation Sees Native Wayland Port",
+      "url": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T10:42:54.000Z"
+    },
+    {
+      "title": "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU40bjFxT2tNdGxjc3JHTzlBWnctT1FpUklQdmNLLWlxYnQ2dHFmeDVROGVFUW80UXJmVVYzVXJUZF9RMU9qd09YTF9XZjd0VXlpZ2F5MGphc1RVSDkyUnAyUlYzZWIxeExQTXpqZWJJNUctWXg5U2ZfWlBTZ281VjVfeFU?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T09:05:00.000Z"
+    },
+    {
+      "title": "Acer Googlebook 14 review: What rotates in tablet mode",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWFlWDVLcW1pUkZwQktkYVNiWmdjODM2RVdxQUY2X1VadkJZaHlLM3d5bU5MN3VZOWNKQzBCNDdhZDFyM0pEbnp0QWVIeVdzeFQxWjM1SmdoTVRRbVNPc3hPd1lYcjhCSU85VDEySG00NVVVY0ZIMnY2c0M1VmlzUkJZZ3ZMQQ?oc=5",
+      "source": "NeoTeo",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T08:08:26.000Z"
+    },
+    {
+      "title": "Why was that backup so large?",
+      "url": "https://eclecticlight.co/2026/11/17/why-was-that-backup-so-large/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-17T07:30:00.000Z"
+    },
+    {
+      "title": "Googlebook Tablet Mode Bugs: 4 Issues, Duet 13 Leak",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGowRnJXbnNNSjhkT29kZ05RNGp5bTVMMDFsekxhb28xV3Awb0VoZjhQSU5TNm5UQ2tKREdjbG9qMHBrQVVtTm9tTnY0dUtabE94T3J1NUVOSFJwbWhzN0h5X3YyaE84M0JUakVCUmNiRzRmVFFhd3BOQ2M3aVhXUGRDeThZNGt6UmU4?oc=5",
+      "source": "shattered.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T07:08:46.000Z"
+    },
     {
       "title": "Apple Support Document on the New ‘Full Disk Access’ and ‘System & App Protection Override’ Settings in MacOS 27.3 Beta 2",
       "url": "https://support.apple.com/en-us/149699",
@@ -18,6 +122,22 @@
       "date": "2026-11-17T01:37:15.000Z"
     },
     {
+      "title": "Googlebook gets a much-needed desktop polish with Chrome 157",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5",
+      "source": "Android Central",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T00:47:48.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook Duet 13 Leak Points to January Launch; Home Screen Still Locked to Landscape",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXU1MkhPa1M4MHJXUVdrUGxMa01qUFZzVE0xbjhkdDRjQWhMa25TdXVBMVFjTVpzdnAzdURrZ1lNeWp0b1hBdUo1X05MN2tMUHZsb0Y1U0JER0E4cW0zV0V5UEV4WFJMd2QxblhQNGhGSUYxcGZteVZRYkZCazA5OV95aElWLW1aQ00xS1JTQk1ZRjZMSlZBdlphZFZlV3hubnAwemU2RTQyU2plb0hia2JkQnpodjBoU296MTA4NV9IUVM5U3pWU3hBZG9UaEs5UFJoQmU3d0V4UQ?oc=5",
+      "source": "Tech Times",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T00:39:00.000Z"
+    },
+    {
       "title": "‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’",
       "url": "https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/",
       "source": "Daring Fireball",
@@ -32,6 +152,14 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-16T23:46:42.000Z"
+    },
+    {
+      "title": "Chrome 157 for Googlebook rolling out with 27 new features, improvements",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nc1RnbFFNeVhfeHZpX2lsRFhNcVpaMzR4RnlqNzBDMzhlNWdoT0QwYy1GYlFRVEhTWXZBTUs4azYwYjVlekNtV1hFMmUtN3MwMTNxWW1YMUF3SlNkWGZ3bjFqZ3pLX1k?oc=5",
+      "source": "9to5Google",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-16T23:46:00.000Z"
     },
     {
       "title": "[Sponsor] Ivy: The To-do List That Ends",
@@ -242,38 +370,6 @@
       "date": "2026-11-16T11:25:16.000Z"
     },
     {
-      "title": "Modern NTFS Driver Gaining O_TMPFILE Support With Linux 7.5",
-      "url": "https://www.phoronix.com/news/Linux-7.5-NTFS-TMPFILE",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T11:13:08.000Z"
-    },
-    {
-      "title": "Purism Aiming To Deliver New Librem 5 Smartphone With RISC-V SoC",
-      "url": "https://www.phoronix.com/news/Librem-5-v2-Announced",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T11:06:05.000Z"
-    },
-    {
-      "title": "Fwupd 2.1.10 Brings Fixes, New Synaptics Touchpad Supported",
-      "url": "https://www.phoronix.com/news/Fwupd-2.1.10-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T10:34:54.000Z"
-    },
-    {
-      "title": "Kernel prepatch 7.4-rc3",
-      "url": "https://lwn.net/Articles/1107606/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-16T09:07:45.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 386",
       "url": "https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/",
       "source": "Eclectic Light",
@@ -296,14 +392,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-16T05:27:00.000Z"
-    },
-    {
-      "title": "Linux 7.4-rc3 Released: \"The Usual Noise All Over\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-15T22:55:19.000Z"
     },
     {
       "title": "Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name",
@@ -338,36 +426,12 @@
       "date": "2026-11-15T15:52:01.000Z"
     },
     {
-      "title": "AMD Posts Linux Patches For Capacity Aware Scheduling On Hybrid CPUs",
-      "url": "https://www.phoronix.com/news/AMD-Hybrid-Capacity-Aware-Sched",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-15T14:20:01.000Z"
-    },
-    {
       "title": "British Impressionists on the beach 2",
       "url": "https://eclecticlight.co/2026/11/15/british-impressionists-on-the-beach-2/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-15T12:30:00.000Z"
-    },
-    {
-      "title": "IBM Talks Up Their New Ability For Handling ARM64 Guest VMs on s390 Hardware",
-      "url": "https://www.phoronix.com/news/IBM-VMs-ARM64-On-s390",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-15T11:42:22.000Z"
-    },
-    {
-      "title": "AMD ARG \"AMD Root Guest\" Linux Patches Coming In 2027",
-      "url": "https://www.phoronix.com/news/AMD-Root-Guest-ARG-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-15T11:24:06.000Z"
     },
     {
       "title": "Last Week on My Mac: Eggs, baskets and resilience",
@@ -384,22 +448,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-15T06:44:44.000Z"
-    },
-    {
-      "title": "Joanna Stern Reviews the HomeView",
-      "url": "https://www.youtube.com/watch?v=yVTcVtLn2o4",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-14T17:50:00.000Z"
-    },
-    {
-      "title": "Jason Snell’s HomeView Review",
-      "url": "https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-14T17:45:00.000Z"
     },
     {
       "title": "Game of Trees 0.131 released",
@@ -423,7 +471,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-14T05:30:00.000Z"
+      "date": "2026-11-14T05:43:34.000Z"
     },
     {
       "title": "Fitbit Air, Pixel and Galaxy Watches will double as a controllers for Android XR glasses",
@@ -458,60 +506,12 @@
       "date": "2026-11-13T07:24:52.000Z"
     },
     {
-      "title": "Chrome 157 finally lands on Googlebook with key bug fixes ahead of 158",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFlrU3ctQ0I5NEMyWWVJVHc1R0dIdEZHRzhMSzhxQlFnOWlGaHZUc3doSVlsUGI0ZnlTaUlodTJpMnJGdW9BX2VFOGVqcGdmYldjX3RPNEVRRUpQVFNadDBrYXN3U1puRlZ4RnJnMmVoWEhUZnN3a3hVR1pGUnVpOXhQeU0zd0NJZHMxRlpwazVjYUlXbHlETGlfdXozUQ?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-12T21:48:36.000Z"
-    },
-    {
       "title": "FreeBSD Status Report Third Quarter 2026",
       "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-12T20:45:02.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15 review: Google botched it, yet again",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWMxbWlvb1FuRVFlTTktcnFCWnRNUTdKRlU0X1JiTlZhQWdDR203ZWtVRk5vZ19famV0NUhydFdEVXU1amhxc25xV1BDbVZYU2lwM2pPanBLUWtYSGVDMjlmV0F2U25WT1RVWVZzMnlFVkh6cHJ4S3ktb25aRHFlRlczTFJDVDV6RXJrejQ2ZDgwNlQ3aGJoUGVCYVBtdEcwNF9XcEM3Q19LUQ?oc=5",
-      "source": "Android Central",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-12T03:23:06.000Z"
-    },
-    {
-      "title": "Henry Cavill’s Mustache Protocol Googlebook game is now ready to play",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY01jZzZDQWFOMjZweVlNTFB3ak1fWUlKVWxOWE83LUt2WWJoeFdFcXN2bk9DT3poUUdNYnFtOFFVWEphVUQxT3FmSUpvVVl3Q3Vfazlsc2FBX0F6RVZlTzZVeWoyOUd3aHZCQTFVcjdpOWFVaDlIRzNHLUJ3ZWpfelM1X0J5dUVa?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-11T20:11:00.000Z"
-    },
-    {
-      "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
-      "url": "https://9to5google.com/2026/11/11/henry-cavill-mustache-protocol-googlebook/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-11T18:10:00.000Z"
-    },
-    {
-      "title": "You can now play Henry Cavill’s ‘Mustache Protocol’ game made on Googlebook [U]",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem5rU1p5ckh1MlhwYzZDbUptWXhIelNOc3pxXzU1Z1FtR29ZeUNmZ3lJZ1BMT3lkc2FYV3NnSW5RQVVEdVh6aVh2Y1Jub2Z1SmRkdDg5Nmh5dGFQYkstcF84ZjNRaHJxYUdVUjdraWlicHd0b0ZWd3ZCZUtkZ24wY1F3?oc=5",
-      "source": "9to5Google",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-11T18:10:00.000Z"
-    },
-    {
-      "title": "The Next Googlebook Is Aiming To Replace Your Android Tablet - Here's How",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pcHBESDRTZTU0V2NkWkt5MDBCNEVGOUJUYno3aHVYMkh1TGNnQUw5V1A0N05EUVFMa0lremd3TnhTU0tiejFMNVVOblgtdW5JWWZPenVUblBxd0ZJS0laa3E5cDBUTWx0REFlUWt4MVplUDJ6dU5vamhzRQ?oc=5",
-      "source": "BGR",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-10T21:17:00.000Z"
     },
     {
       "title": "Unattended reboots with encrypted disks",
@@ -568,14 +568,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-19T14:44:02.000Z"
-    },
-    {
-      "title": "Un-hanging the HP Envy 17-DA0013dx for OpenBSD",
-      "url": "https://darwinsys.com/blog/20260925-hp-envy-17/",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-18T07:42:41.000Z"
     }
   ]
 }
