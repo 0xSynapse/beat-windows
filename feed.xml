@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:36:41 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple Support Document on the New ‘Full Disk Access’ and ‘System &amp; App Protection Override’ Settings in MacOS 27.3 Beta 2</title>
+      <link>https://support.apple.com/en-us/149699</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/149699</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 17 Nov 2026 02:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting</title>
+      <link>https://www.phoronix.com/news/HRX-Loom-0.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/HRX-Loom-0.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 17 Nov 2026 01:37:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’</title>
+      <link>https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/</link>
+      <guid isPermaLink="true">https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 23:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 157 for Googlebook rolling out with 27 new features, improvements</title>
+      <link>https://9to5google.com/2026/11/16/chrome-157-googlebook/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/11/16/chrome-157-googlebook/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Mon, 16 Nov 2026 23:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] Ivy: The To-do List That Ends</title>
+      <link>https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</link>
+      <guid isPermaLink="true">https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 23:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
+      <link>https://x.com/arinwaichulis/status/2122397676767522942</link>
+      <guid isPermaLink="true">https://x.com/arinwaichulis/status/2122397676767522942</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 23:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Irish Goodbye / French Leave / Leave the English Way</title>
+      <link>https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</link>
+      <guid isPermaLink="true">https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 22:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates</title>
+      <link>https://www.phoronix.com/news/AlmaLinux-10.3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AlmaLinux-10.3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 16 Nov 2026 22:35:41 GMT</pubDate>
+    </item>
     <item>
       <title>Maybe Googlebooks Will Make More Sense if They’re Basically Tablets</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5</link>
@@ -312,14 +376,6 @@
       <pubDate>Sun, 15 Nov 2026 11:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>ASUS Ascent QN10 Mini PC Powered By Snapdragon X2 Elite Seeing Linux Support</title>
-      <link>https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/ASUS-Ascent-QN10-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 15 Nov 2026 11:01:55 GMT</pubDate>
-    </item>
-    <item>
       <title>Last Week on My Mac: Eggs, baskets and resilience</title>
       <link>https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/</guid>
@@ -350,62 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Sat, 14 Nov 2026 17:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patrick McGee on Johny Srouji and Nvidia</title>
-      <link>https://x.com/patrickmcgee_/status/2120799867140550999</link>
-      <guid isPermaLink="true">https://x.com/patrickmcgee_/status/2120799867140550999</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 14 Nov 2026 17:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redox OS Gets Golang Working, GIMP Ported &amp; Simplified AI Policy</title>
-      <link>https://www.phoronix.com/news/Redox-OS-Golang-GIMP</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Redox-OS-Golang-GIMP</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sat, 14 Nov 2026 16:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Says Cloud Outage Was ‘Not Related to Cyber or AI / Agents’</title>
-      <link>https://x.com/microsoft/status/2121282013600907325</link>
-      <guid isPermaLink="true">https://x.com/microsoft/status/2121282013600907325</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Sat, 14 Nov 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>British Impressionists on the beach 1</title>
-      <link>https://eclecticlight.co/2026/11/14/british-impressionists-on-the-beach-1/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/british-impressionists-on-the-beach-1/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 14 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saturday Mac riddles 386</title>
-      <link>https://eclecticlight.co/2026/11/14/saturday-mac-riddles-386/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/saturday-mac-riddles-386/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game of Trees 0.131 released</title>
-      <link>https://undeadly.org/cgi?action=article;sid=20261114082422</link>
-      <guid isPermaLink="true">https://undeadly.org/cgi?action=article;sid=20261114082422</guid>
-      <category>bsd</category>
-      <source url="https://undeadly.org/">undeadly</source>
-      <pubDate>Sat, 14 Nov 2026 08:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understand space management with DeltaFree</title>
-      <link>https://eclecticlight.co/2026/11/14/understand-space-management-with-deltafree/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/14/understand-space-management-with-deltafree/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 14 Nov 2026 08:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
