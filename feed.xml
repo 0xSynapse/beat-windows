@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:34:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:57:13 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution</title>
+      <link>https://www.phoronix.com/news/Java4Shell-Vulnerability</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Java4Shell-Vulnerability</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 17 Nov 2026 21:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)</title>
+      <link>https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</link>
+      <guid isPermaLink="true">https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 17 Nov 2026 18:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page</title>
+      <link>https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 17 Nov 2026 18:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3</title>
+      <link>https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 17 Nov 2026 17:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1</title>
+      <link>https://www.phoronix.com/news/Framework-Wireless-Keyboard</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-Wireless-Keyboard</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 17 Nov 2026 16:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redict deprecated in favor of Valkey</title>
+      <link>https://lwn.net/Articles/1108155/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108155/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 17 Nov 2026 16:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Zellij manages terminal workspaces with style</title>
+      <link>https://lwn.net/Articles/1106913/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106913/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 17 Nov 2026 15:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steve Jobs Core Animation demo from WWDC 2007</title>
+      <link>https://lucas.love/100/058</link>
+      <guid isPermaLink="true">https://lucas.love/100/058</guid>
+      <category>macos</category>
+      <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
+      <pubDate>Tue, 17 Nov 2026 15:23:20 GMT</pubDate>
+    </item>
     <item>
       <title>Three stable kernels for Tuesday</title>
       <link>https://lwn.net/Articles/1108142/</link>
@@ -169,11 +233,27 @@
     </item>
     <item>
       <title>[Sponsor] Ivy: The To-do List That Ends</title>
+      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
+      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 23:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] Ivy: The To-do List That Ends</title>
       <link>https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</link>
       <guid isPermaLink="true">https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 16 Nov 2026 23:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
+      <link>https://x.com/gregjoz/status/2122393925080252469</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2122393925080252469</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 16 Nov 2026 23:09:05 GMT</pubDate>
     </item>
     <item>
       <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
@@ -320,92 +400,12 @@
       <pubDate>Mon, 16 Nov 2026 14:39:24 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Monday</title>
-      <link>https://lwn.net/Articles/1107811/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107811/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 16 Nov 2026 14:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU's Gawk 5.4.2 Released With Big Performance Improvement</title>
-      <link>https://www.phoronix.com/news/GNU-Gawk-5.4.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Gawk-5.4.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 16 Nov 2026 13:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLVM's Old AMD R600 Compiler Backend Slated For Removal</title>
-      <link>https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 16 Nov 2026 13:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoisyTCP</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/11/15/2</link>
-      <guid isPermaLink="true">https://www.openwall.com/lists/oss-security/2026/11/15/2</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Mon, 16 Nov 2026 12:50:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Aeneas and Dido</title>
       <link>https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 16 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer Googlebook 14 Review: Promising, but Unfinished</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tYNnV6TDR0emNDQlUzOW5vSTMwVUtUMzVDMDNfNU02QlBpUERVaEVWQkR6SVBjRTRmZmlWQWpzN0Vad2w4TXVrSlNCTzRNZDJ3eFhITnNMUnJKS2N2MmVTUjEyUzlZZ2tPVExGaVZoLU5BYnlZWTFDU2JUVzJ2bFE5Q2lNV0d5?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tYNnV6TDR0emNDQlUzOW5vSTMwVUtUMzVDMDNfNU02QlBpUERVaEVWQkR6SVBjRTRmZmlWQWpzN0Vad2w4TXVrSlNCTzRNZDJ3eFhITnNMUnJKS2N2MmVTUjEyUzlZZ2tPVExGaVZoLU5BYnlZWTFDU2JUVzJ2bFE5Q2lNV0d5?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gizmodo</source>
-      <pubDate>Mon, 16 Nov 2026 12:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCC 17 Might Land Native AArch64 Darwin/macOS Support</title>
-      <link>https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 16 Nov 2026 11:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solutions to Saturday Mac riddles 386</title>
-      <link>https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>When deleting files may disappoint</title>
-      <link>https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 16 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo's first detachable Googlebook tipped to debut in January 2027</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Mon, 16 Nov 2026 05:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Sun, 15 Nov 2026 22:28:46 GMT</pubDate>
     </item>
   </channel>
 </rss>

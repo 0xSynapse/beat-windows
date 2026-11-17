@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-17T14:34:09.039Z",
+  "generated": "2026-11-17T22:57:13.169Z",
   "items": [
+    {
+      "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
+      "url": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T21:35:01.000Z"
+    },
+    {
+      "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
+      "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-17T18:41:12.000Z"
+    },
+    {
+      "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
+      "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-17T18:21:23.000Z"
+    },
+    {
+      "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
+      "url": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T17:40:51.000Z"
+    },
+    {
+      "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
+      "url": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-17T16:40:51.000Z"
+    },
+    {
+      "title": "Redict deprecated in favor of Valkey",
+      "url": "https://lwn.net/Articles/1108155/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-17T16:20:44.000Z"
+    },
+    {
+      "title": "[$] Zellij manages terminal workspaces with style",
+      "url": "https://lwn.net/Articles/1106913/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-17T15:27:38.000Z"
+    },
+    {
+      "title": "Steve Jobs Core Animation demo from WWDC 2007",
+      "url": "https://lucas.love/100/058",
+      "source": "Lobsters · mac",
+      "tag": "macos",
+      "site": "https://lobste.rs/t/mac",
+      "date": "2026-11-17T15:23:20.000Z"
+    },
     {
       "title": "Three stable kernels for Tuesday",
       "url": "https://lwn.net/Articles/1108142/",
@@ -163,11 +227,27 @@
     },
     {
       "title": "[Sponsor] Ivy: The To-do List That Ends",
+      "url": "https://semantical.com/?utm_campaign=df-2026-12",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-16T23:18:35.000Z"
+    },
+    {
+      "title": "[Sponsor] Ivy: The To-do List That Ends",
       "url": "https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-16T23:18:35.000Z"
+    },
+    {
+      "title": "Developers Continue to Optimize iPhone Apps for the Duo",
+      "url": "https://x.com/gregjoz/status/2122393925080252469",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-16T23:09:05.000Z"
     },
     {
       "title": "Developers Continue to Optimize iPhone Apps for the Duo",
@@ -314,38 +394,6 @@
       "date": "2026-11-16T14:39:24.000Z"
     },
     {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1107811/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-16T14:17:41.000Z"
-    },
-    {
-      "title": "GNU's Gawk 5.4.2 Released With Big Performance Improvement",
-      "url": "https://www.phoronix.com/news/GNU-Gawk-5.4.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T13:41:16.000Z"
-    },
-    {
-      "title": "LLVM's Old AMD R600 Compiler Backend Slated For Removal",
-      "url": "https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T13:04:01.000Z"
-    },
-    {
-      "title": "NoisyTCP",
-      "url": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-16T12:50:29.000Z"
-    },
-    {
       "title": "Hero or hooligan: Aeneas and Dido",
       "url": "https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/",
       "source": "Eclectic Light",
@@ -362,28 +410,12 @@
       "date": "2026-11-16T12:00:36.000Z"
     },
     {
-      "title": "GCC 17 Might Land Native AArch64 Darwin/macOS Support",
-      "url": "https://www.phoronix.com/news/GCC-Native-AArch64-Darwin-Patch",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T11:25:16.000Z"
-    },
-    {
       "title": "Solutions to Saturday Mac riddles 386",
       "url": "https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-16T09:00:00.000Z"
-    },
-    {
-      "title": "When deleting files may disappoint",
-      "url": "https://eclecticlight.co/2026/11/16/when-deleting-files-may-disappoint/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-16T07:30:00.000Z"
     },
     {
       "title": "Lenovo's first detachable Googlebook tipped to debut in January 2027",
@@ -408,38 +440,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-15T21:36:43.000Z"
-    },
-    {
-      "title": "The Legion of PCAST",
-      "url": "https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-15T17:14:42.000Z"
-    },
-    {
-      "title": "WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein",
-      "url": "https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-15T15:52:01.000Z"
-    },
-    {
-      "title": "British Impressionists on the beach 2",
-      "url": "https://eclecticlight.co/2026/11/15/british-impressionists-on-the-beach-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-15T12:30:00.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: Eggs, baskets and resilience",
-      "url": "https://eclecticlight.co/2026/11/15/last-week-on-my-mac-eggs-baskets-and-resilience/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-15T08:00:00.000Z"
     },
     {
       "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
