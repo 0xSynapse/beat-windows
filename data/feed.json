@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-18T04:30:01.392Z",
+  "generated": "2026-11-18T14:10:12.721Z",
   "items": [
+    {
+      "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
+      "url": "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T13:11:00.000Z"
+    },
+    {
+      "title": "Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released",
+      "url": "https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T13:02:12.000Z"
+    },
+    {
+      "title": "Painting a good story: Puzzles",
+      "url": "https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-18T12:30:00.000Z"
+    },
+    {
+      "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
+      "url": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T11:13:06.000Z"
+    },
+    {
+      "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
+      "url": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T11:00:02.000Z"
+    },
+    {
+      "title": "Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware",
+      "url": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T10:40:00.000Z"
+    },
+    {
+      "title": "SDL Ready For Linux's New Nintendo Switch 2 Controller Driver",
+      "url": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T10:22:22.000Z"
+    },
+    {
+      "title": "Privacy protected folders in macOS 27.3",
+      "url": "https://eclecticlight.co/2026/11/18/privacy-protected-folders-in-macos-27-3/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-18T07:30:00.000Z"
+    },
     {
       "title": "FreeBSD GUS",
       "url": "https://gregoire.dev/writing/gus/",
@@ -210,14 +274,6 @@
       "date": "2026-11-17T02:00:11.000Z"
     },
     {
-      "title": "AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting",
-      "url": "https://www.phoronix.com/news/HRX-Loom-0.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T01:37:15.000Z"
-    },
-    {
       "title": "Googlebook gets a much-needed desktop polish with Chrome 157",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5",
       "source": "Android Central",
@@ -298,14 +354,6 @@
       "date": "2026-11-16T22:55:38.000Z"
     },
     {
-      "title": "AlmaLinux 10.3 Released With ModSecurity Restored, Various Updates",
-      "url": "https://www.phoronix.com/news/AlmaLinux-10.3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T22:35:41.000Z"
-    },
-    {
       "title": "Maybe Googlebooks Will Make More Sense if They’re Basically Tablets",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5",
       "source": "Gizmodo",
@@ -327,7 +375,7 @@
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-16T20:19:11.000Z"
+      "date": "2026-11-16T20:17:28.000Z"
     },
     {
       "title": "‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2",
@@ -378,38 +426,6 @@
       "date": "2026-11-16T15:15:00.000Z"
     },
     {
-      "title": "MRDIMM 8800 MT/s vs. 12800 MT/s Memory Performance With AMD EPYC Venice",
-      "url": "https://www.phoronix.com/review/mrdimm-8800-12800-amd-epyc",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T15:10:00.000Z"
-    },
-    {
-      "title": "[$] A new generation of futexes",
-      "url": "https://lwn.net/Articles/1102988/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-16T15:06:04.000Z"
-    },
-    {
-      "title": "Intel Talks Up GPU D270 Performance & Open-Source Software Support",
-      "url": "https://www.phoronix.com/news/Intel-GPU-270-Open-Performance",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T15:00:40.000Z"
-    },
-    {
-      "title": "Manjaro Project e.V. non-profit organization created",
-      "url": "https://lwn.net/Articles/1107814/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-16T14:52:12.000Z"
-    },
-    {
       "title": "Local Mirror for FreeBSD pkgbase",
       "url": "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/",
       "source": "Lobsters · freebsd",
@@ -418,28 +434,12 @@
       "date": "2026-11-16T14:47:48.000Z"
     },
     {
-      "title": "Hero or hooligan: Aeneas and Dido",
-      "url": "https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-16T12:30:00.000Z"
-    },
-    {
       "title": "Acer Googlebook 14 Review: Promising, but Unfinished",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tYNnV6TDR0emNDQlUzOW5vSTMwVUtUMzVDMDNfNU02QlBpUERVaEVWQkR6SVBjRTRmZmlWQWpzN0Vad2w4TXVrSlNCTzRNZDJ3eFhITnNMUnJKS2N2MmVTUjEyUzlZZ2tPVExGaVZoLU5BYnlZWTFDU2JUVzJ2bFE5Q2lNV0d5?oc=5",
       "source": "Gizmodo",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-16T12:00:36.000Z"
-    },
-    {
-      "title": "Solutions to Saturday Mac riddles 386",
-      "url": "https://eclecticlight.co/2026/11/16/solutions-to-saturday-mac-riddles-386/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-16T09:00:00.000Z"
     },
     {
       "title": "Lenovo's first detachable Googlebook tipped to debut in January 2027",
