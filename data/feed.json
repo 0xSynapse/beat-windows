@@ -1,6 +1,78 @@
 {
-  "generated": "2026-11-18T14:10:12.721Z",
+  "generated": "2026-11-18T22:03:28.425Z",
   "items": [
+    {
+      "title": "Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience",
+      "url": "https://www.phoronix.com/review/dell-xps-14-panther-lake",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T21:37:15.000Z"
+    },
+    {
+      "title": "★ The 50-Yard Line",
+      "url": "https://daringfireball.net/2026/11/the_50-yard_line",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-18T20:42:23.000Z"
+    },
+    {
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-18T17:52:22.000Z"
+    },
+    {
+      "title": "NVIDIA 620.73.04 Linux Driver Released With Bug FIxes",
+      "url": "https://www.phoronix.com/news/NVIDIA-620.73.04-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T17:10:40.000Z"
+    },
+    {
+      "title": "A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-18T16:32:56.000Z"
+    },
+    {
+      "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
+      "url": "https://lwn.net/Articles/1108362/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-18T16:13:34.000Z"
+    },
+    {
+      "title": "[$] Julia 1.13 brings REPL improvements and more",
+      "url": "https://lwn.net/Articles/1108153/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-18T15:56:18.000Z"
+    },
+    {
+      "title": "Jensen Huang Tweets",
+      "url": "https://x.com/JensenHuang/status/2122726005219737649",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-18T15:39:16.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1108354/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-18T14:17:35.000Z"
+    },
     {
       "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
       "url": "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render",
@@ -178,60 +250,12 @@
       "date": "2026-11-17T14:15:33.000Z"
     },
     {
-      "title": "New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games",
-      "url": "https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T14:05:20.000Z"
-    },
-    {
-      "title": "Btrfs Seeks To Deal With AI & \"Newbies Without Common Senses\" Doing More Harm Than Good",
-      "url": "https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T12:55:56.000Z"
-    },
-    {
       "title": "Portraits of trees: Tom Thomson",
       "url": "https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-17T12:30:00.000Z"
-    },
-    {
-      "title": "AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux",
-      "url": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T11:34:00.000Z"
-    },
-    {
-      "title": "NVIDIA Engineer Works On New User-Space Linux Control For Preferred CPU Cores",
-      "url": "https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T11:16:30.000Z"
-    },
-    {
-      "title": "Xfce 4.22 Working Toward Early 2027 Release",
-      "url": "https://www.phoronix.com/news/Xfce-4.22-Roadmap",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T10:50:41.000Z"
-    },
-    {
-      "title": "REAPER Digital Audio Workstation Sees Native Wayland Port",
-      "url": "https://www.phoronix.com/news/REAPER-DAW-Wayland",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T10:42:54.000Z"
     },
     {
       "title": "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
@@ -402,22 +426,6 @@
       "date": "2026-11-16T17:37:48.000Z"
     },
     {
-      "title": "Oprah Gives Everyone in Her Audience a ‘Duo iPhone’",
-      "url": "https://youtu.be/j0Rsv1U3Q7A",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T16:05:18.000Z"
-    },
-    {
-      "title": "Robert Pattinson Is the Next James Bond",
-      "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T15:36:52.000Z"
-    },
-    {
       "title": "Googlebook Goes Detachable As Lenovo Duet 13 Leaks With Slick 2-In-1 Design",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUs2VW13dndjMXJQQjktNGZfQ1pyclFsYUNIVzcxcGpEVEJBRFMtb2pkSzFzZGVKVnFfRWpGNzBfLWFPX2RTX210WUZwanRRTUFTanJTT3V6ZUx6OHFrRVd0dVhQNm5wd1pKMFo3ZkV5LUpsZ1Brbm5BUXpYd1JWS2VDSGZTV1l0SmdkZHFqVUxHeFA0UUQxcUxOWTNtWVpqYzhkU0QtOA?oc=5",
       "source": "HotHardware",
@@ -506,14 +514,6 @@
       "date": "2026-11-13T21:27:13.000Z"
     },
     {
-      "title": "I put Googlebook OS up against Phone Link in Windows 11, and this one's better for Android",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56b1NMUU5ZaWJVeU9ZRUFtbHpoS2dnUlJVNlJLMUM2UHBBdUdNREFaUGRfNUZpbUR2eWpmbGotVFgtWjlYWnRNYWtFREZlQk9DRTBtMzJYRTZieGdqQkdwc1A1a0owcjJQeDU5Q01RMmhwRm5PVGdFTGoxQQ?oc=5",
-      "source": "MakeUseOf",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-13T21:00:17.000Z"
-    },
-    {
       "title": "FreeBSD Status Report Third Quarter 2026",
       "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
       "source": "Lobsters · freebsd",
@@ -560,22 +560,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-20T01:46:00.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "source": "HN · OpenBSD",
-      "tag": "bsd",
-      "site": "https://news.ycombinator.com/",
-      "date": "2026-10-19T21:11:45.000Z"
-    },
-    {
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-19T14:44:02.000Z"
     }
   ]
 }

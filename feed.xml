@@ -5,8 +5,80 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:03:28 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience</title>
+      <link>https://www.phoronix.com/review/dell-xps-14-panther-lake</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/dell-xps-14-panther-lake</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 18 Nov 2026 21:37:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ The 50-Yard Line</title>
+      <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 18 Nov 2026 20:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPv6 delegation, an unusually subtle failure mode</title>
+      <link>https://savyasacheejha.com/posts/why-odhcpd/</link>
+      <guid isPermaLink="true">https://savyasacheejha.com/posts/why-odhcpd/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 18 Nov 2026 17:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 620.73.04 Linux Driver Released With Bug FIxes</title>
+      <link>https://www.phoronix.com/news/NVIDIA-620.73.04-Linux</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-620.73.04-Linux</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 18 Nov 2026 17:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Wed, 18 Nov 2026 16:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>NGINX2Root: Remote Code Execution vulnerabilities in nginx</title>
+      <link>https://lwn.net/Articles/1108362/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108362/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 18 Nov 2026 16:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Julia 1.13 brings REPL improvements and more</title>
+      <link>https://lwn.net/Articles/1108153/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108153/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 18 Nov 2026 15:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Tweets</title>
+      <link>https://x.com/JensenHuang/status/2122726005219737649</link>
+      <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 18 Nov 2026 15:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1108354/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108354/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 18 Nov 2026 14:17:35 GMT</pubDate>
+    </item>
     <item>
       <title>Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland</title>
       <link>https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render</link>
@@ -184,60 +256,12 @@
       <pubDate>Tue, 17 Nov 2026 14:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>New AMDGPU Linux Patches From Valve Aim To Reduce Stuttering With Steam Play Games</title>
-      <link>https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-Sparse-Gaming-Valve</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 14:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Btrfs Seeks To Deal With AI &amp; &quot;Newbies Without Common Senses&quot; Doing More Harm Than Good</title>
-      <link>https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Btrfs-LLM-Newbies-Guidelines</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 12:55:56 GMT</pubDate>
-    </item>
-    <item>
       <title>Portraits of trees: Tom Thomson</title>
       <link>https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 17 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Gets Its Firmware Ready For Upcoming RDNA 4m iGPUs On Linux</title>
-      <link>https://www.phoronix.com/news/AMD-RDNA-4m-Firmware</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-RDNA-4m-Firmware</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 11:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Engineer Works On New User-Space Linux Control For Preferred CPU Cores</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-Linux-Prefer-CPU-Cores</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 11:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xfce 4.22 Working Toward Early 2027 Release</title>
-      <link>https://www.phoronix.com/news/Xfce-4.22-Roadmap</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Xfce-4.22-Roadmap</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 10:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>REAPER Digital Audio Workstation Sees Native Wayland Port</title>
-      <link>https://www.phoronix.com/news/REAPER-DAW-Wayland</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/REAPER-DAW-Wayland</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 10:42:54 GMT</pubDate>
     </item>
     <item>
       <title>Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more</title>
@@ -382,30 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Mon, 16 Nov 2026 20:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2</title>
-      <link>https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 19:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ben Thompson on Nvidia</title>
-      <link>https://stratechery.com/2026/obituaries/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 18:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’</title>
-      <link>https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 17:37:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
