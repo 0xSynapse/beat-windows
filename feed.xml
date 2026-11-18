@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:30:01 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FreeBSD GUS</title>
+      <link>https://gregoire.dev/writing/gus/</link>
+      <guid isPermaLink="true">https://gregoire.dev/writing/gus/</guid>
+      <category>bsd</category>
+      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
+      <pubDate>Wed, 18 Nov 2026 02:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance</title>
+      <link>https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 18 Nov 2026 02:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution</title>
       <link>https://www.phoronix.com/news/Java4Shell-Vulnerability</link>
@@ -22,6 +38,14 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 17 Nov 2026 18:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Googlebook just got a Chrome update – 5 new features</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">ZDNET</source>
+      <pubDate>Tue, 17 Nov 2026 18:21:55 GMT</pubDate>
     </item>
     <item>
       <title>Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page</title>
@@ -70,6 +94,14 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Tue, 17 Nov 2026 15:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 157 on Googlebook actually packs way more desktop upgrades than we thought</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Tue, 17 Nov 2026 15:20:15 GMT</pubDate>
     </item>
     <item>
       <title>Three stable kernels for Tuesday</title>
@@ -197,7 +229,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Tue, 17 Nov 2026 00:47:48 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 00:47:08 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook Duet 13 Leak Points to January Launch; Home Screen Still Locked to Landscape</title>
@@ -374,38 +406,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Mon, 16 Nov 2026 15:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manjaro Project e.V. non-profit organization created</title>
-      <link>https://lwn.net/Articles/1107814/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107814/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 16 Nov 2026 14:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Local Mirror for FreeBSD pkgbase</title>
-      <link>https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/</link>
-      <guid isPermaLink="true">https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
-      <pubDate>Mon, 16 Nov 2026 14:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust Nightly To Begin Enabling Parallel Frontend By Default</title>
-      <link>https://www.phoronix.com/news/Rust-Nightly-Parallel-Frontend</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Rust-Nightly-Parallel-Frontend</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 16 Nov 2026 14:39:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hero or hooligan: Aeneas and Dido</title>
-      <link>https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 16 Nov 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-17T22:57:13.169Z",
+  "generated": "2026-11-18T04:30:01.392Z",
   "items": [
+    {
+      "title": "FreeBSD GUS",
+      "url": "https://gregoire.dev/writing/gus/",
+      "source": "Lobsters · freebsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/freebsd",
+      "date": "2026-11-18T02:54:59.000Z"
+    },
+    {
+      "title": "RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance",
+      "url": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-18T02:04:05.000Z"
+    },
     {
       "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
       "url": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
@@ -16,6 +32,14 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-17T18:41:12.000Z"
+    },
+    {
+      "title": "Your Googlebook just got a Chrome update – 5 new features",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5",
+      "source": "ZDNET",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T18:21:55.000Z"
     },
     {
       "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
@@ -64,6 +88,14 @@
       "tag": "macos",
       "site": "https://lobste.rs/t/mac",
       "date": "2026-11-17T15:23:20.000Z"
+    },
+    {
+      "title": "Chrome 157 on Googlebook actually packs way more desktop upgrades than we thought",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-17T15:20:15.000Z"
     },
     {
       "title": "Three stable kernels for Tuesday",
@@ -191,7 +223,7 @@
       "source": "Android Central",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-17T00:47:48.000Z"
+      "date": "2026-11-17T00:47:08.000Z"
     },
     {
       "title": "Lenovo Googlebook Duet 13 Leak Points to January Launch; Home Screen Still Locked to Landscape",
@@ -386,14 +418,6 @@
       "date": "2026-11-16T14:47:48.000Z"
     },
     {
-      "title": "Rust Nightly To Begin Enabling Parallel Frontend By Default",
-      "url": "https://www.phoronix.com/news/Rust-Nightly-Parallel-Frontend",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-16T14:39:24.000Z"
-    },
-    {
       "title": "Hero or hooligan: Aeneas and Dido",
       "url": "https://eclecticlight.co/2026/11/16/hero-or-hooligan-aeneas-and-dido/",
       "source": "Eclectic Light",
@@ -471,7 +495,7 @@
       "source": "Tom's Guide",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-14T05:43:34.000Z"
+      "date": "2026-11-14T05:30:00.000Z"
     },
     {
       "title": "Fitbit Air, Pixel and Galaxy Watches will double as a controllers for Android XR glasses",
@@ -488,22 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-13T21:00:17.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15 deal at Best Buy: Gemini, OLED, and your Android apps in one laptop",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUk1GUnFuMTNOX1ljMXZQN2IzUDR2SFlLdkVHWExCMkZRbmgwQTZoWXBWMElHaEhKSG52UmszbHcxQkZKNGJQX3FSSEhOejlWcnpJZmgxOFZ5VVh0MUEzcGFhV2hTaWpIUlZGMHVsUVlRMWRoYW9aQ2VYbw?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-13T09:06:00.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook 15 Review Says Skip It Over The Software",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3VITmlGZlIzOUw4bDVLNW9ZaHpLQW4tTFNfSjB2eUhkdHFVR1R1NGVBM2FPdmxKY0lONUpkU28yNU44emdubS1xY1FkOUdBb1M3eURzelViVjU5SW9MSmxyRDRQZ3M4RDB2WHRWeXpRTl9PdGpLQ1BYMjNqRmZDMklKY1dMOWlCMlM1TzZDQ3g3UFM3M3RB?oc=5",
-      "source": "About Chromebooks",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-13T07:24:52.000Z"
     },
     {
       "title": "FreeBSD Status Report Third Quarter 2026",
