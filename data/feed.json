@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-19T03:37:12.819Z",
+  "generated": "2026-11-19T13:23:25.393Z",
   "items": [
+    {
+      "title": "LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility",
+      "url": "https://www.phoronix.com/news/LiberNT",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T12:56:46.000Z"
+    },
+    {
+      "title": "Painting with impaired vision: Rembrandt",
+      "url": "https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-19T12:30:00.000Z"
+    },
+    {
+      "title": "Exclusive: Samsung’s upcoming 14-inch and 16-inch Android laptops are codenamed ‘Origin’",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlUbjk5SUJxMC1ieExodlN3LTd2cGpDRl96WGxFWXE1SktpY2RDSmtRMjdFTE42M041bm1DbjA4aE45S1Z6NXJHS1k4MGx5RnF2QlRPaWVwSF8tb1hFV0JwNnhQYVdadWpnNXMtSHAtMTJyc3JFc3hBWklFT0tqOWotWGRQa0ladDlEY0gwZlZfc3dlWVpCdHU4Qkg?oc=5",
+      "source": "Android Authority",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-19T11:27:00.000Z"
+    },
+    {
+      "title": "More ASUS & ASRock Motherboards Seeing Sensor Monitoring Support With Linux 7.5",
+      "url": "https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T11:14:23.000Z"
+    },
+    {
+      "title": "AMD AI Engine \"AIE\" Driver Posted For Mainline Linux Kernel Review",
+      "url": "https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T11:00:00.000Z"
+    },
+    {
+      "title": "Valkey 9.2 Delivers More Performance, Zstd Compression & Lower Memory Overhead",
+      "url": "https://www.phoronix.com/news/Valkey-9.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T10:41:47.000Z"
+    },
+    {
+      "title": "Mesa 26.3.1 Ships Fixes For Intel Jay Compiler & RADV Driver",
+      "url": "https://www.phoronix.com/news/Mesa-26.3.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T10:32:08.000Z"
+    },
+    {
+      "title": "Free up space quickly on your startup volume",
+      "url": "https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-19T07:30:00.000Z"
+    },
     {
       "title": "AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support",
       "url": "https://www.phoronix.com/news/AMD-ROCm-10.2",
@@ -178,22 +242,6 @@
       "date": "2026-11-18T02:54:59.000Z"
     },
     {
-      "title": "RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance",
-      "url": "https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T02:04:05.000Z"
-    },
-    {
-      "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
-      "url": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T21:35:01.000Z"
-    },
-    {
       "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
       "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/",
       "source": "Daring Fireball",
@@ -216,30 +264,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-17T18:21:23.000Z"
-    },
-    {
-      "title": "FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3",
-      "url": "https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T17:40:51.000Z"
-    },
-    {
-      "title": "Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1",
-      "url": "https://www.phoronix.com/news/Framework-Wireless-Keyboard",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-17T16:40:51.000Z"
-    },
-    {
-      "title": "Redict deprecated in favor of Valkey",
-      "url": "https://lwn.net/Articles/1108155/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-17T16:20:44.000Z"
     },
     {
       "title": "Steve Jobs Core Animation demo from WWDC 2007",
@@ -418,22 +442,6 @@
       "date": "2026-11-16T19:22:38.000Z"
     },
     {
-      "title": "Ben Thompson on Nvidia",
-      "url": "https://stratechery.com/2026/obituaries/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T18:44:02.000Z"
-    },
-    {
-      "title": "WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’",
-      "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T17:37:48.000Z"
-    },
-    {
       "title": "Googlebook Goes Detachable As Lenovo Duet 13 Leaks With Slick 2-In-1 Design",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUs2VW13dndjMXJQQjktNGZfQ1pyclFsYUNIVzcxcGpEVEJBRFMtb2pkSzFzZGVKVnFfRWpGNzBfLWFPX2RTX210WUZwanRRTUFTanJTT3V6ZUx6OHFrRVd0dVhQNm5wd1pKMFo3ZkV5LUpsZ1Brbm5BUXpYd1JWS2VDSGZTV1l0SmdkZHFqVUxHeFA0UUQxcUxOWTNtWVpqYzhkU0QtOA?oc=5",
       "source": "HotHardware",
@@ -504,14 +512,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-14T08:00:00.000Z"
-    },
-    {
-      "title": "I’ve spent three weeks with a Googlebook — is it better than my Android phone with desktop mode?",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3pFaEZXOGJHQm40S3JuWVJRbmpGb3hGWWo0SWJSclJ5RHlQNGNSM3E1cEVpT09ocFBRbGR4SDhtR1Z6dFpXSmgwSjNZT05NV1NPaXZBcmpvLXItRVZQOEJTWG10VXcxTDRla250YmM0WE1nbktzVm0tUDNRMThUd1pnOTF4VVFidHZBdEF4QzdsczU4bVkzT28wZl8xRnFvY1UwRm1yakNIeTY3RlA3aVFzd0pTRHN4WFJxZ1NhYXo5Szl2c09DdHZPV2FZMmM4VUE?oc=5",
-      "source": "Tom's Guide",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-14T05:30:00.000Z"
     },
     {
       "title": "FreeBSD Status Report Third Quarter 2026",

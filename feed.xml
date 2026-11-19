@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:37:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:23:25 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility</title>
+      <link>https://www.phoronix.com/news/LiberNT</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/LiberNT</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 12:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting with impaired vision: Rembrandt</title>
+      <link>https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Samsung’s upcoming 14-inch and 16-inch Android laptops are codenamed ‘Origin’</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlUbjk5SUJxMC1ieExodlN3LTd2cGpDRl96WGxFWXE1SktpY2RDSmtRMjdFTE42M041bm1DbjA4aE45S1Z6NXJHS1k4MGx5RnF2QlRPaWVwSF8tb1hFV0JwNnhQYVdadWpnNXMtSHAtMTJyc3JFc3hBWklFT0tqOWotWGRQa0ladDlEY0gwZlZfc3dlWVpCdHU4Qkg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlUbjk5SUJxMC1ieExodlN3LTd2cGpDRl96WGxFWXE1SktpY2RDSmtRMjdFTE42M041bm1DbjA4aE45S1Z6NXJHS1k4MGx5RnF2QlRPaWVwSF8tb1hFV0JwNnhQYVdadWpnNXMtSHAtMTJyc3JFc3hBWklFT0tqOWotWGRQa0ladDlEY0gwZlZfc3dlWVpCdHU4Qkg?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Thu, 19 Nov 2026 11:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>More ASUS &amp; ASRock Motherboards Seeing Sensor Monitoring Support With Linux 7.5</title>
+      <link>https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 11:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD AI Engine &quot;AIE&quot; Driver Posted For Mainline Linux Kernel Review</title>
+      <link>https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkey 9.2 Delivers More Performance, Zstd Compression &amp; Lower Memory Overhead</title>
+      <link>https://www.phoronix.com/news/Valkey-9.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Valkey-9.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 10:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa 26.3.1 Ships Fixes For Intel Jay Compiler &amp; RADV Driver</title>
+      <link>https://www.phoronix.com/news/Mesa-26.3.1-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.3.1-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 10:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Free up space quickly on your startup volume</title>
+      <link>https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Thu, 19 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support</title>
       <link>https://www.phoronix.com/news/AMD-ROCm-10.2</link>
@@ -184,22 +248,6 @@
       <pubDate>Wed, 18 Nov 2026 02:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>RBRD: RAM-Backed Linux Block Driver Written In Rust For Better Safety But Slower Performance</title>
-      <link>https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/RBRD-Rust-Linux-RAM-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 02:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution</title>
-      <link>https://www.phoronix.com/news/Java4Shell-Vulnerability</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Java4Shell-Vulnerability</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 21:35:01 GMT</pubDate>
-    </item>
-    <item>
       <title>SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)</title>
       <link>https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</link>
       <guid isPermaLink="true">https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</guid>
@@ -222,30 +270,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 17 Nov 2026 18:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD Desktop Install Option Pushed Back To Next Year With FreeBSD 15.3</title>
-      <link>https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-Desktop-Install-15.3</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 17:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework Wireless Touchpad Keyboard To Sell For $99 USD, Begins Shipping In Q1</title>
-      <link>https://www.phoronix.com/news/Framework-Wireless-Keyboard</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Framework-Wireless-Keyboard</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 17 Nov 2026 16:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redict deprecated in favor of Valkey</title>
-      <link>https://lwn.net/Articles/1108155/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108155/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 17 Nov 2026 16:20:44 GMT</pubDate>
     </item>
     <item>
       <title>Steve Jobs Core Animation demo from WWDC 2007</title>
@@ -382,30 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 16 Nov 2026 23:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Irish Goodbye / French Leave / Leave the English Way</title>
-      <link>https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</link>
-      <guid isPermaLink="true">https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 22:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maybe Googlebooks Will Make More Sense if They’re Basically Tablets</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Gizmodo</source>
-      <pubDate>Mon, 16 Nov 2026 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)</title>
-      <link>https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 20:27:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
