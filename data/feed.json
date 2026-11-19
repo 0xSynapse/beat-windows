@@ -1,6 +1,38 @@
 {
-  "generated": "2026-11-18T22:03:28.425Z",
+  "generated": "2026-11-19T03:37:12.819Z",
   "items": [
+    {
+      "title": "AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support",
+      "url": "https://www.phoronix.com/news/AMD-ROCm-10.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T02:06:39.000Z"
+    },
+    {
+      "title": "Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-19T01:43:02.000Z"
+    },
+    {
+      "title": "[$] LWN.net Weekly Edition for November 19, 2026",
+      "url": "https://lwn.net/Articles/1107147/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T01:05:03.000Z"
+    },
+    {
+      "title": "sysdeck: Raycast for Linux & BSD",
+      "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-18T23:26:59.000Z"
+    },
     {
       "title": "Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience",
       "url": "https://www.phoronix.com/review/dell-xps-14-panther-lake",
@@ -210,14 +242,6 @@
       "date": "2026-11-17T16:20:44.000Z"
     },
     {
-      "title": "[$] Zellij manages terminal workspaces with style",
-      "url": "https://lwn.net/Articles/1106913/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-17T15:27:38.000Z"
-    },
-    {
       "title": "Steve Jobs Core Animation demo from WWDC 2007",
       "url": "https://lucas.love/100/058",
       "source": "Lobsters · mac",
@@ -232,22 +256,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T15:20:15.000Z"
-    },
-    {
-      "title": "Three stable kernels for Tuesday",
-      "url": "https://lwn.net/Articles/1108142/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-17T14:25:10.000Z"
-    },
-    {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1108140/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-17T14:15:33.000Z"
     },
     {
       "title": "Portraits of trees: Tom Thomson",
@@ -506,14 +514,6 @@
       "date": "2026-11-14T05:30:00.000Z"
     },
     {
-      "title": "Fitbit Air, Pixel and Galaxy Watches will double as a controllers for Android XR glasses",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUZfVXp5RzhuRzE2YlRxb2t4em44ZDJXVXlIRENsbW80NC10Q1ZtMWRjaXh3UG5mLXpUTWsyamtkekNCMWZWbU1ZRWxYbVNabFg1YjhXbnpIOFBodm9mS256LXFRSHpsMHU5MjZxejVjWGxUQzNHdF9pQ0JEWFU3c1RnNHdkcnFyenhSakgxU0ZMWnhyQWJEM0oyVjdYZXBHU3dxNlJqRzhOeXJoRTlRa3p5RF8?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-13T21:27:13.000Z"
-    },
-    {
       "title": "FreeBSD Status Report Third Quarter 2026",
       "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
       "source": "Lobsters · freebsd",
@@ -552,14 +552,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/openbsd",
       "date": "2026-10-28T18:34:16.000Z"
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-20T01:46:00.000Z"
     }
   ]
 }

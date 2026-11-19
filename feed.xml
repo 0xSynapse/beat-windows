@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:37:12 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support</title>
+      <link>https://www.phoronix.com/news/AMD-ROCm-10.2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ROCm-10.2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 02:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Thu, 19 Nov 2026 01:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] LWN.net Weekly Edition for November 19, 2026</title>
+      <link>https://lwn.net/Articles/1107147/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1107147/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 01:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>sysdeck: Raycast for Linux &amp; BSD</title>
+      <link>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/</link>
+      <guid isPermaLink="true">https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 18 Nov 2026 23:26:59 GMT</pubDate>
+    </item>
     <item>
       <title>Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience</title>
       <link>https://www.phoronix.com/review/dell-xps-14-panther-lake</link>
@@ -216,14 +248,6 @@
       <pubDate>Tue, 17 Nov 2026 16:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Zellij manages terminal workspaces with style</title>
-      <link>https://lwn.net/Articles/1106913/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106913/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 17 Nov 2026 15:27:38 GMT</pubDate>
-    </item>
-    <item>
       <title>Steve Jobs Core Animation demo from WWDC 2007</title>
       <link>https://lucas.love/100/058</link>
       <guid isPermaLink="true">https://lucas.love/100/058</guid>
@@ -238,22 +262,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Tue, 17 Nov 2026 15:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three stable kernels for Tuesday</title>
-      <link>https://lwn.net/Articles/1108142/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108142/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 17 Nov 2026 14:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1108140/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108140/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 17 Nov 2026 14:15:33 GMT</pubDate>
     </item>
     <item>
       <title>Portraits of trees: Tom Thomson</title>
@@ -398,14 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 16 Nov 2026 20:27:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google has less than 8 weeks to fix Googlebook OS tablet mode before the Duet 13 arrives</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPeldlY01vMzUyeGcxU2ZVSzZYTnVyeDdMLXhoMWZnRnNNOUExbE1NOXBWVVVTd1Z2NVdOcDlhcnB2YWlHQm81eGxOWG1jcTZFVHE3TVhiZkNjTzk3dHhXMkhJSXlob1pQQ1VYVXlqX2ZfQkJmQk1sVTl3SVR3S1pzZHNwczlEdjlSNEZMeWtFdFoxZVhCMGZ1MGlEM3FGYWNpSnNhd1psVDhZcjRGMmRmVDRRQmM0UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxPeldlY01vMzUyeGcxU2ZVSzZYTnVyeDdMLXhoMWZnRnNNOUExbE1NOXBWVVVTd1Z2NVdOcDlhcnB2YWlHQm81eGxOWG1jcTZFVHE3TVhiZkNjTzk3dHhXMkhJSXlob1pQQ1VYVXlqX2ZfQkJmQk1sVTl3SVR3S1pzZHNwczlEdjlSNEZMeWtFdFoxZVhCMGZ1MGlEM3FGYWNpSnNhd1psVDhZcjRGMmRmVDRRQmM0UQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 16 Nov 2026 20:17:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
