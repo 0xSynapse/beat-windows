@@ -5,8 +5,160 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:13:37 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Linux 7.5 To Optionally Block /proc/kcore Access For Better Security</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 22:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work</title>
+      <link>https://www.phoronix.com/news/LLVM-Re-Licensing-Complete</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/LLVM-Re-Licensing-Complete</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 21:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Thu, 19 Nov 2026 21:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google’s Spark AI Agent Becomes ‘Tasks’</title>
+      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&amp;utm_medium=gift-link</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&amp;utm_medium=gift-link</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 19 Nov 2026 20:54:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grand Theft Auto 6</title>
+      <link>https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&amp;utm_medium=gift-link</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&amp;utm_medium=gift-link</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 19 Nov 2026 20:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Added indirection allows for larger BPF programs</title>
+      <link>https://lwn.net/Articles/1106537/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1106537/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 17:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 19 released</title>
+      <link>https://lwn.net/Articles/1108561/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108561/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 16:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic IPOs, Topping SpaceX for the Largest Ever</title>
+      <link>https://www.techmeme.com/261118/p34#a261118p34</link>
+      <guid isPermaLink="true">https://www.techmeme.com/261118/p34#a261118p34</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 19 Nov 2026 16:33:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+</title>
+      <link>https://www.phoronix.com/review/windows-ubuntu2610-strix-halo</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/windows-ubuntu2610-strix-halo</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 19 Released With More Performance Improvements</title>
+      <link>https://www.phoronix.com/news/PostgreSQL-19-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/PostgreSQL-19-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 15:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 8.6 Released With Partial Function Application, Other New Features</title>
+      <link>https://www.phoronix.com/news/PHP-8.6-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/PHP-8.6-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 15:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 8.6.0 released</title>
+      <link>https://lwn.net/Articles/1108555/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108555/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 14:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acer Googlebook 14 (2026) Review</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">RTINGS.com</source>
+      <pubDate>Thu, 19 Nov 2026 14:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Googlebook discount takes $300 off HP flagship for Black Friday</title>
+      <link>https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/</guid>
+      <category>android</category>
+      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
+      <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Four PHP security releases including fixes for critical vulnerabilities</title>
+      <link>https://lwn.net/Articles/1108552/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108552/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 14:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux</title>
+      <link>https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 14:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries</title>
+      <link>https://www.phoronix.com/news/Debian-APT-Removing-Features</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-APT-Removing-Features</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 14:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Thursday</title>
+      <link>https://lwn.net/Articles/1108551/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108551/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 19 Nov 2026 14:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM</title>
+      <link>https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 19 Nov 2026 13:49:27 GMT</pubDate>
+    </item>
     <item>
       <title>LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility</title>
       <link>https://www.phoronix.com/news/LiberNT</link>
@@ -96,44 +248,12 @@
       <pubDate>Thu, 19 Nov 2026 01:05:03 GMT</pubDate>
     </item>
     <item>
-      <title>sysdeck: Raycast for Linux &amp; BSD</title>
-      <link>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/</link>
-      <guid isPermaLink="true">https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 18 Nov 2026 23:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience</title>
-      <link>https://www.phoronix.com/review/dell-xps-14-panther-lake</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/dell-xps-14-panther-lake</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 21:37:15 GMT</pubDate>
-    </item>
-    <item>
       <title>★ The 50-Yard Line</title>
       <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 18 Nov 2026 20:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPv6 delegation, an unusually subtle failure mode</title>
-      <link>https://savyasacheejha.com/posts/why-odhcpd/</link>
-      <guid isPermaLink="true">https://savyasacheejha.com/posts/why-odhcpd/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 18 Nov 2026 17:52:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 620.73.04 Linux Driver Released With Bug FIxes</title>
-      <link>https://www.phoronix.com/news/NVIDIA-620.73.04-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/NVIDIA-620.73.04-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 17:10:40 GMT</pubDate>
     </item>
     <item>
       <title>A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware</title>
@@ -144,22 +264,6 @@
       <pubDate>Wed, 18 Nov 2026 16:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>NGINX2Root: Remote Code Execution vulnerabilities in nginx</title>
-      <link>https://lwn.net/Articles/1108362/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108362/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 18 Nov 2026 16:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Julia 1.13 brings REPL improvements and more</title>
-      <link>https://lwn.net/Articles/1108153/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108153/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 18 Nov 2026 15:56:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Jensen Huang Tweets</title>
       <link>https://x.com/JensenHuang/status/2122726005219737649</link>
       <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
@@ -168,68 +272,12 @@
       <pubDate>Wed, 18 Nov 2026 15:39:16 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Wednesday</title>
-      <link>https://lwn.net/Articles/1108354/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108354/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Wed, 18 Nov 2026 14:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland</title>
-      <link>https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 13:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released</title>
-      <link>https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 13:02:12 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting a good story: Puzzles</title>
       <link>https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 18 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment</title>
-      <link>https://www.phoronix.com/news/Sashiko-0.9.4-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Sashiko-0.9.4-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 11:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2</title>
-      <link>https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 11:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware</title>
-      <link>https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 10:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SDL Ready For Linux's New Nintendo Switch 2 Controller Driver</title>
-      <link>https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Wed, 18 Nov 2026 10:22:22 GMT</pubDate>
     </item>
     <item>
       <title>Privacy protected folders in macOS 27.3</title>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 16 Nov 2026 23:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 157 for Googlebook rolling out with 27 new features, improvements</title>
-      <link>https://9to5google.com/2026/11/16/chrome-157-googlebook/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/11/16/chrome-157-googlebook/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Mon, 16 Nov 2026 23:46:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 157 for Googlebook rolling out with 27 new features, improvements</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nc1RnbFFNeVhfeHZpX2lsRFhNcVpaMzR4RnlqNzBDMzhlNWdoT0QwYy1GYlFRVEhTWXZBTUs4azYwYjVlekNtV1hFMmUtN3MwMTNxWW1YMUF3SlNkWGZ3bjFqZ3pLX1k?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nc1RnbFFNeVhfeHZpX2lsRFhNcVpaMzR4RnlqNzBDMzhlNWdoT0QwYy1GYlFRVEhTWXZBTUs4azYwYjVlekNtV1hFMmUtN3MwMTNxWW1YMUF3SlNkWGZ3bjFqZ3pLX1k?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">9to5Google</source>
-      <pubDate>Mon, 16 Nov 2026 23:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] Ivy: The To-do List That Ends</title>
-      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
-      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 23:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Sponsor] Ivy: The To-do List That Ends</title>
-      <link>https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</link>
-      <guid isPermaLink="true">https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 23:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
-      <link>https://x.com/gregjoz/status/2122393925080252469</link>
-      <guid isPermaLink="true">https://x.com/gregjoz/status/2122393925080252469</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 23:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
-      <link>https://x.com/arinwaichulis/status/2122397676767522942</link>
-      <guid isPermaLink="true">https://x.com/arinwaichulis/status/2122397676767522942</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 16 Nov 2026 23:09:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

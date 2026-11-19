@@ -1,6 +1,158 @@
 {
-  "generated": "2026-11-19T13:23:25.393Z",
+  "generated": "2026-11-19T22:13:37.392Z",
   "items": [
+    {
+      "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
+      "url": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T22:03:06.000Z"
+    },
+    {
+      "title": "LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work",
+      "url": "https://www.phoronix.com/news/LLVM-Re-Licensing-Complete",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T21:02:56.000Z"
+    },
+    {
+      "title": "A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-19T21:00:36.000Z"
+    },
+    {
+      "title": "Google’s Spark AI Agent Becomes ‘Tasks’",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-19T20:54:10.000Z"
+    },
+    {
+      "title": "Grand Theft Auto 6",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-19T20:30:10.000Z"
+    },
+    {
+      "title": "[$] Added indirection allows for larger BPF programs",
+      "url": "https://lwn.net/Articles/1106537/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T17:32:42.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 released",
+      "url": "https://lwn.net/Articles/1108561/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T16:39:16.000Z"
+    },
+    {
+      "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
+      "url": "https://www.techmeme.com/261118/p34#a261118p34",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-19T16:33:16.000Z"
+    },
+    {
+      "title": "Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+",
+      "url": "https://www.phoronix.com/review/windows-ubuntu2610-strix-halo",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T16:00:00.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 Released With More Performance Improvements",
+      "url": "https://www.phoronix.com/news/PostgreSQL-19-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T15:57:57.000Z"
+    },
+    {
+      "title": "PHP 8.6 Released With Partial Function Application, Other New Features",
+      "url": "https://www.phoronix.com/news/PHP-8.6-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T15:16:52.000Z"
+    },
+    {
+      "title": "PHP 8.6.0 released",
+      "url": "https://lwn.net/Articles/1108555/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T14:43:09.000Z"
+    },
+    {
+      "title": "Acer Googlebook 14 (2026) Review",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5",
+      "source": "RTINGS.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-19T14:31:37.000Z"
+    },
+    {
+      "title": "First Googlebook discount takes $300 off HP flagship for Black Friday",
+      "url": "https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/",
+      "source": "9to5Google · Googlebook",
+      "tag": "android",
+      "site": "https://9to5google.com/guides/googlebook/",
+      "date": "2026-11-19T14:30:00.000Z"
+    },
+    {
+      "title": "Four PHP security releases including fixes for critical vulnerabilities",
+      "url": "https://lwn.net/Articles/1108552/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T14:29:04.000Z"
+    },
+    {
+      "title": "Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux",
+      "url": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T14:25:27.000Z"
+    },
+    {
+      "title": "Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries",
+      "url": "https://www.phoronix.com/news/Debian-APT-Removing-Features",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T14:15:04.000Z"
+    },
+    {
+      "title": "Security updates for Thursday",
+      "url": "https://lwn.net/Articles/1108551/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-19T14:05:42.000Z"
+    },
+    {
+      "title": "TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM",
+      "url": "https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-19T13:49:27.000Z"
+    },
     {
       "title": "LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility",
       "url": "https://www.phoronix.com/news/LiberNT",
@@ -90,44 +242,12 @@
       "date": "2026-11-19T01:05:03.000Z"
     },
     {
-      "title": "sysdeck: Raycast for Linux & BSD",
-      "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-18T23:26:59.000Z"
-    },
-    {
-      "title": "Dell XPS 14 DA14260 Powered By Intel Panther Lake Delivers Nice Linux Experience",
-      "url": "https://www.phoronix.com/review/dell-xps-14-panther-lake",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T21:37:15.000Z"
-    },
-    {
       "title": "★ The 50-Yard Line",
       "url": "https://daringfireball.net/2026/11/the_50-yard_line",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-18T20:42:23.000Z"
-    },
-    {
-      "title": "IPv6 delegation, an unusually subtle failure mode",
-      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-18T17:52:22.000Z"
-    },
-    {
-      "title": "NVIDIA 620.73.04 Linux Driver Released With Bug FIxes",
-      "url": "https://www.phoronix.com/news/NVIDIA-620.73.04-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T17:10:40.000Z"
     },
     {
       "title": "A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware",
@@ -138,22 +258,6 @@
       "date": "2026-11-18T16:32:56.000Z"
     },
     {
-      "title": "NGINX2Root: Remote Code Execution vulnerabilities in nginx",
-      "url": "https://lwn.net/Articles/1108362/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-18T16:13:34.000Z"
-    },
-    {
-      "title": "[$] Julia 1.13 brings REPL improvements and more",
-      "url": "https://lwn.net/Articles/1108153/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-18T15:56:18.000Z"
-    },
-    {
       "title": "Jensen Huang Tweets",
       "url": "https://x.com/JensenHuang/status/2122726005219737649",
       "source": "Daring Fireball",
@@ -162,68 +266,12 @@
       "date": "2026-11-18T15:39:16.000Z"
     },
     {
-      "title": "Security updates for Wednesday",
-      "url": "https://lwn.net/Articles/1108354/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-18T14:17:35.000Z"
-    },
-    {
-      "title": "Wine Merges Remote OpenGL Swapchain Image Presentation, CEF Now Works With Wayland",
-      "url": "https://www.phoronix.com/news/Wine-OpenGL-Cross-Proc-Render",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T13:11:00.000Z"
-    },
-    {
-      "title": "Multikernel Linux Comes To ARM64, mklinux 7.0-mk5 Released",
-      "url": "https://www.phoronix.com/news/Multi-Kernel-mklinux-7.0-mk5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T13:02:12.000Z"
-    },
-    {
       "title": "Painting a good story: Puzzles",
       "url": "https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-18T12:30:00.000Z"
-    },
-    {
-      "title": "AI-Powered Sashiko Introduces Experimental Patch Series Design Assessment",
-      "url": "https://www.phoronix.com/news/Sashiko-0.9.4-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T11:13:06.000Z"
-    },
-    {
-      "title": "3mdeb Updates The Open-Source Firmware For Aging AMD Jaguar Powered PC Engines APU2",
-      "url": "https://www.phoronix.com/news/3mdeb-2026-Firmware-APU2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T11:00:02.000Z"
-    },
-    {
-      "title": "Qualcomm Ath12k Linux Driver Preparing For New WiFi 8 Hardware",
-      "url": "https://www.phoronix.com/news/Qualcomm-Ath12k-Linux-WiFi-8",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T10:40:00.000Z"
-    },
-    {
-      "title": "SDL Ready For Linux's New Nintendo Switch 2 Controller Driver",
-      "url": "https://www.phoronix.com/news/SDL-Nintendo-Switch-2-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-18T10:22:22.000Z"
     },
     {
       "title": "Privacy protected folders in macOS 27.3",
@@ -402,14 +450,6 @@
       "date": "2026-11-16T23:09:05.000Z"
     },
     {
-      "title": "Irish Goodbye / French Leave / Leave the English Way",
-      "url": "https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T22:55:38.000Z"
-    },
-    {
       "title": "Maybe Googlebooks Will Make More Sense if They’re Basically Tablets",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5",
       "source": "Gizmodo",
@@ -418,28 +458,12 @@
       "date": "2026-11-16T20:30:51.000Z"
     },
     {
-      "title": "MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)",
-      "url": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T20:27:34.000Z"
-    },
-    {
       "title": "Google has less than 8 weeks to fix Googlebook OS tablet mode before the Duet 13 arrives",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeldlY01vMzUyeGcxU2ZVSzZYTnVyeDdMLXhoMWZnRnNNOUExbE1NOXBWVVVTd1Z2NVdOcDlhcnB2YWlHQm81eGxOWG1jcTZFVHE3TVhiZkNjTzk3dHhXMkhJSXlob1pQQ1VYVXlqX2ZfQkJmQk1sVTl3SVR3S1pzZHNwczlEdjlSNEZMeWtFdFoxZVhCMGZ1MGlEM3FGYWNpSnNhd1psVDhZcjRGMmRmVDRRQmM0UQ?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-16T20:17:28.000Z"
-    },
-    {
-      "title": "‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2",
-      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T19:22:38.000Z"
     },
     {
       "title": "Googlebook Goes Detachable As Lenovo Duet 13 Leaks With Slick 2-In-1 Design",
@@ -474,22 +498,6 @@
       "date": "2026-11-16T05:27:00.000Z"
     },
     {
-      "title": "Fresh Lenovo Googlebook Duet 13 leak points to January launch with a new name",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXRqdm1pZHhzdU45VmJ1cmlyLXhEMWlrU3g1X282MW44ZF9wM25FcUZrZ1RkaWxqN0M4ejFMLVJteXlSR3RlTzNRMHlNampHTEMtZEpuUWE0QmlGVkxYcVNMMU00R25jcEdKX0V4Z1VtTDRjTjdzYU5XX0tiT3RtaUI2djhSeEFxRlZFOVVKV1MzOXJlZHZPMGE4WWZQY0NPT2Zza3pjMA?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-15T22:28:46.000Z"
-    },
-    {
-      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
-      "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-15T21:36:43.000Z"
-    },
-    {
       "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
       "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
       "source": "Lobsters · freebsd",
@@ -504,14 +512,6 @@
       "tag": "bsd",
       "site": "https://undeadly.org/",
       "date": "2026-11-14T08:24:22.000Z"
-    },
-    {
-      "title": "Dell XPS Googlebook [2026]: $999, But the OS Hurts",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3d1QjM0Zl81X0ljZWJPVTBLMTNpMDZPWjZUWVlOOUtuQmZWcnIxb1BiSC1BM1E5RmE3WHlaUkRIeXZhTm1Rb05pVTVPWWNSMHlCZ0dGaW5JMUFJODlMdnhEaG5yQmNaaDJRdEo3anFSOHRnRG82eWZzeFpJZVgzUGw0VV9qSzQ?oc=5",
-      "source": "shattered.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-14T08:00:00.000Z"
     },
     {
       "title": "FreeBSD Status Report Third Quarter 2026",
