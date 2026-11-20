@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-19T22:13:37.392Z",
+  "generated": "2026-11-20T03:29:06.301Z",
   "items": [
+    {
+      "title": "Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5",
+      "source": "GSMArena.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-20T02:31:02.000Z"
+    },
+    {
+      "title": "★ Jon McCormack Retires From Apple",
+      "url": "https://daringfireball.net/2026/11/mccormack_retires_from_apple",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-19T22:25:12.000Z"
+    },
     {
       "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
       "url": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
@@ -442,14 +458,6 @@
       "date": "2026-11-16T23:09:05.000Z"
     },
     {
-      "title": "Developers Continue to Optimize iPhone Apps for the Duo",
-      "url": "https://x.com/arinwaichulis/status/2122397676767522942",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T23:09:05.000Z"
-    },
-    {
       "title": "Maybe Googlebooks Will Make More Sense if They’re Basically Tablets",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEeHc4UFF3TFZCeVRfV1ZPcmo0aUlQUVlFanFtbldkSmtmblNDM1pZVXlpUEt1ZzNWMDlCaTNDU214S0IwZmRFOVUyUkY5amU1bTdTbUI1M2kzYk5qWDFJRjFjYnNKUzYwdjBsNFJR?oc=5",
       "source": "Gizmodo",
@@ -488,14 +496,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-16T12:00:36.000Z"
-    },
-    {
-      "title": "Lenovo's first detachable Googlebook tipped to debut in January 2027",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTkt6aG1qVjNsTUFKcHpLZXJzZ3BkbVc5Nm16TWotOGZOVENnV2RwRnlDa3RDWjY5Q1NCVHZPanBIUDJpS1dJQ2lwQU1OSWZGUTdTZ3N5UlBFNHRMTERuUzR6b3BTNW5maTZCVHYzQjhDMXhudnloWHd2cEZ3a095S2ItWnh4UnZpNGgwbA?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-16T05:27:00.000Z"
     },
     {
       "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
