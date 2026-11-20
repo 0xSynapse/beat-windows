@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-20T03:29:06.301Z",
+  "generated": "2026-11-20T13:03:28.192Z",
   "items": [
+    {
+      "title": "Claude Monet: Series",
+      "url": "https://eclecticlight.co/2026/11/20/claude-monet-series/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-20T12:30:00.000Z"
+    },
+    {
+      "title": "Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility",
+      "url": "https://www.phoronix.com/news/Rust-Coreutils-0.13",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T11:16:03.000Z"
+    },
+    {
+      "title": "Vulkan 1.4.369 Introduces New AMD Extension For Improving Ray-Tracing Performance",
+      "url": "https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T11:05:08.000Z"
+    },
+    {
+      "title": "Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs",
+      "url": "https://www.phoronix.com/news/Cloud-Hypervisor-55",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T10:51:22.000Z"
+    },
+    {
+      "title": "Kwi Sees First Release As KDE's New Terminal Emulator",
+      "url": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T10:41:17.000Z"
+    },
+    {
+      "title": "Removing binder.c",
+      "url": "https://lwn.net/Articles/1102982/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-20T10:33:36.000Z"
+    },
+    {
+      "title": "FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder",
+      "url": "https://www.phoronix.com/news/FFmpeg-9.1-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T10:30:05.000Z"
+    },
+    {
+      "title": "Trackpad gestures could return to normal by Christmas",
+      "url": "https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-20T07:30:00.000Z"
+    },
     {
       "title": "Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5",
@@ -194,38 +258,6 @@
       "date": "2026-11-19T11:27:00.000Z"
     },
     {
-      "title": "More ASUS & ASRock Motherboards Seeing Sensor Monitoring Support With Linux 7.5",
-      "url": "https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T11:14:23.000Z"
-    },
-    {
-      "title": "AMD AI Engine \"AIE\" Driver Posted For Mainline Linux Kernel Review",
-      "url": "https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T11:00:00.000Z"
-    },
-    {
-      "title": "Valkey 9.2 Delivers More Performance, Zstd Compression & Lower Memory Overhead",
-      "url": "https://www.phoronix.com/news/Valkey-9.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T10:41:47.000Z"
-    },
-    {
-      "title": "Mesa 26.3.1 Ships Fixes For Intel Jay Compiler & RADV Driver",
-      "url": "https://www.phoronix.com/news/Mesa-26.3.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T10:32:08.000Z"
-    },
-    {
       "title": "Free up space quickly on your startup volume",
       "url": "https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/",
       "source": "Eclectic Light",
@@ -234,28 +266,12 @@
       "date": "2026-11-19T07:30:00.000Z"
     },
     {
-      "title": "AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support",
-      "url": "https://www.phoronix.com/news/AMD-ROCm-10.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T02:06:39.000Z"
-    },
-    {
       "title": "Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5",
       "source": "gbookhub.io",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-19T01:43:02.000Z"
-    },
-    {
-      "title": "[$] LWN.net Weekly Edition for November 19, 2026",
-      "url": "https://lwn.net/Articles/1107147/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-19T01:05:03.000Z"
     },
     {
       "title": "★ The 50-Yard Line",
@@ -440,22 +456,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-16T23:18:35.000Z"
-    },
-    {
-      "title": "[Sponsor] Ivy: The To-do List That Ends",
-      "url": "https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T23:18:35.000Z"
-    },
-    {
-      "title": "Developers Continue to Optimize iPhone Apps for the Duo",
-      "url": "https://x.com/gregjoz/status/2122393925080252469",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T23:09:05.000Z"
     },
     {
       "title": "Maybe Googlebooks Will Make More Sense if They’re Basically Tablets",

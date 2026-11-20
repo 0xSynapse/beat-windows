@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:03:28 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Monet: Series</title>
+      <link>https://eclecticlight.co/2026/11/20/claude-monet-series/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/claude-monet-series/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 20 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility</title>
+      <link>https://www.phoronix.com/news/Rust-Coreutils-0.13</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Rust-Coreutils-0.13</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 11:16:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vulkan 1.4.369 Introduces New AMD Extension For Improving Ray-Tracing Performance</title>
+      <link>https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 11:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs</title>
+      <link>https://www.phoronix.com/news/Cloud-Hypervisor-55</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Cloud-Hypervisor-55</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 10:51:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kwi Sees First Release As KDE's New Terminal Emulator</title>
+      <link>https://www.phoronix.com/news/Kwi-Terminal-First-Release</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Kwi-Terminal-First-Release</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 10:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Removing binder.c</title>
+      <link>https://lwn.net/Articles/1102982/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1102982/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 20 Nov 2026 10:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder</title>
+      <link>https://www.phoronix.com/news/FFmpeg-9.1-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FFmpeg-9.1-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 10:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trackpad gestures could return to normal by Christmas</title>
+      <link>https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5</link>
@@ -200,38 +264,6 @@
       <pubDate>Thu, 19 Nov 2026 11:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>More ASUS &amp; ASRock Motherboards Seeing Sensor Monitoring Support With Linux 7.5</title>
-      <link>https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-75-More-ASUS-ASRock-HWMON</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 11:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD AI Engine &quot;AIE&quot; Driver Posted For Mainline Linux Kernel Review</title>
-      <link>https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-AI-Engine-Linux-Driver</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valkey 9.2 Delivers More Performance, Zstd Compression &amp; Lower Memory Overhead</title>
-      <link>https://www.phoronix.com/news/Valkey-9.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Valkey-9.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 10:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa 26.3.1 Ships Fixes For Intel Jay Compiler &amp; RADV Driver</title>
-      <link>https://www.phoronix.com/news/Mesa-26.3.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-26.3.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 10:32:08 GMT</pubDate>
-    </item>
-    <item>
       <title>Free up space quickly on your startup volume</title>
       <link>https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</guid>
@@ -240,28 +272,12 @@
       <pubDate>Thu, 19 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>AMD ROCm 10.2 Released With Latest Optimizations, Expanded Ryzen Laptop Support</title>
-      <link>https://www.phoronix.com/news/AMD-ROCm-10.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-ROCm-10.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 02:06:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Thu, 19 Nov 2026 01:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] LWN.net Weekly Edition for November 19, 2026</title>
-      <link>https://lwn.net/Articles/1107147/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107147/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 19 Nov 2026 01:05:03 GMT</pubDate>
     </item>
     <item>
       <title>★ The 50-Yard Line</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">shattered.io</source>
       <pubDate>Tue, 17 Nov 2026 07:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Support Document on the New ‘Full Disk Access’ and ‘System &amp; App Protection Override’ Settings in MacOS 27.3 Beta 2</title>
-      <link>https://support.apple.com/en-us/149699</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/149699</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 17 Nov 2026 02:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook gets a much-needed desktop polish with Chrome 157</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Central</source>
-      <pubDate>Tue, 17 Nov 2026 00:47:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
