@@ -5,8 +5,128 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:13:42 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak</title>
+      <link>https://www.phoronix.com/news/GnuPG-GPGME-Critical</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GnuPG-GPGME-Critical</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 20:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 19:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple has just released updates to XProtect and XProtect Remediator for all macOS</title>
+      <link>https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 20 Nov 2026 19:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Contributes Integration For Content-Adaptive / Adaptive Backlight Modulation To GNOME</title>
+      <link>https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 17:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung is skipping Googlebook OS to build its own One UI-powered Android laptops</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1kdVd1M3lIeWY5RktsNjllUUVGOVU4Y2EyUUljeTFLWlRnSUl4YktmdmRNb3hva0R2ZTZGN21COEV5ajNYaFIzSlpQZ2hybkh1TUc4VElseWlPRlF3ZHI4eUpXV1p0ZUxUZDJEQzQ2MDhReE9FeHFKNTBXSGhIRDRQSXpFWjk0S2RCY2dHOHZEZzIzR0NUdGNydE1EcXpMZGNSZ3VYMk1udGN1?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1kdVd1M3lIeWY5RktsNjllUUVGOVU4Y2EyUUljeTFLWlRnSUl4YktmdmRNb3hva0R2ZTZGN21COEV5ajNYaFIzSlpQZ2hybkh1TUc4VElseWlPRlF3ZHI4eUpXV1p0ZUxUZDJEQzQ2MDhReE9FeHFKNTBXSGhIRDRQSXpFWjk0S2RCY2dHOHZEZzIzR0NUdGNydE1EcXpMZGNSZ3VYMk1udGN1?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Fri, 20 Nov 2026 16:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>System76 Thelio Prime: A Petite But Performant AMD-Powered Linux PC</title>
+      <link>https://www.phoronix.com/review/system76-thelio-prime</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/system76-thelio-prime</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 16:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>I tested PocketBar to run my favorite Android apps straight from my Mac's menu bar</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5uRVlNTjl5enVPbkx3SWhGMWs0Umd5aHlETmxsVklEMm9JMTFZWTZiOTZ6VU8tVllfY1ZTV2VKRUN4ZklFVWgtRjQtUmliUjlvMUprUGJ6RFJzcFJ5ZVQ1bmIzVWVFYnE5NVhCRA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE5uRVlNTjl5enVPbkx3SWhGMWs0Umd5aHlETmxsVklEMm9JMTFZWTZiOTZ6VU8tVllfY1ZTV2VKRUN4ZklFVWgtRjQtUmliUjlvMUprUGJ6RFJzcFJ5ZVQ1bmIzVWVFYnE5NVhCRA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Fri, 20 Nov 2026 16:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Bringing the Agama installer to openSUSE Tumbleweed</title>
+      <link>https://lwn.net/Articles/1107830/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1107830/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 20 Nov 2026 14:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora Incident Response Policy Drafted For Improving Workflow &amp; Security Disclosures</title>
+      <link>https://www.phoronix.com/news/Fedora-Incident-Response-Policy</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-Incident-Response-Policy</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 14:47:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beyls: Wrapping up LLVM's relicensing effort</title>
+      <link>https://lwn.net/Articles/1108818/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108818/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 20 Nov 2026 14:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell XPS Googlebook 13 (2026) Review</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">RTINGS.com</source>
+      <pubDate>Fri, 20 Nov 2026 14:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vim Classic 8.3.1 released</title>
+      <link>https://lwn.net/Articles/1108817/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108817/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 20 Nov 2026 14:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1108811/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108811/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 20 Nov 2026 13:52:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>One UI 9.5 beta reveals Samsung will distribute own firmware updates to Googlebook laptops</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRGdEYtUS0xa09aT3hYTFJ5MzlIcldrYjNNRU9OX3NqMmFLY1I4QmU4dldZb3NpRlFyTFdOWGxlSnZrRWNZUzloZVVvdkxzVGJzTXNlVlBieEpxb2FyWjFaVzI4SnFVT3huc1A4VUh4TlRQbVViNnBOZ0tLMk1Gbm4yRnZCQlhldjJXcVBxSHdFeXNqSnBSYnE2RFpCWUJrRDZwOFRkazFtZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRGdEYtUS0xa09aT3hYTFJ5MzlIcldrYjNNRU9OX3NqMmFLY1I4QmU4dldZb3NpRlFyTFdOWGxlSnZrRWNZUzloZVVvdkxzVGJzTXNlVlBieEpxb2FyWjFaVzI4SnFVT3huc1A4VUh4TlRQbVViNnBOZ0tLMk1Gbm4yRnZCQlhldjJXcVBxSHdFeXNqSnBSYnE2RFpCWUJrRDZwOFRkazFtZw?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">SamMobile</source>
+      <pubDate>Fri, 20 Nov 2026 13:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMDXDNA Driver Reaches Version 1.0, Ryzen AI NPU10 &amp; NPU11 Coming To Linux 7.5</title>
+      <link>https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 20 Nov 2026 13:16:40 GMT</pubDate>
+    </item>
     <item>
       <title>Claude Monet: Series</title>
       <link>https://eclecticlight.co/2026/11/20/claude-monet-series/</link>
@@ -14,6 +134,14 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Fri, 20 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>One UI 9.5 code hints Samsung will push its own updates to its Android laptops</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Authority</source>
+      <pubDate>Fri, 20 Nov 2026 12:26:00 GMT</pubDate>
     </item>
     <item>
       <title>Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility</title>
@@ -152,38 +280,6 @@
       <pubDate>Thu, 19 Nov 2026 16:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 vs. Ubuntu 26.10 Linux Performance On AMD Ryzen AI Max+</title>
-      <link>https://www.phoronix.com/review/windows-ubuntu2610-strix-halo</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/windows-ubuntu2610-strix-halo</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 19 Released With More Performance Improvements</title>
-      <link>https://www.phoronix.com/news/PostgreSQL-19-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/PostgreSQL-19-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 15:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 8.6 Released With Partial Function Application, Other New Features</title>
-      <link>https://www.phoronix.com/news/PHP-8.6-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/PHP-8.6-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 15:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 8.6.0 released</title>
-      <link>https://lwn.net/Articles/1108555/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108555/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 19 Nov 2026 14:43:09 GMT</pubDate>
-    </item>
-    <item>
       <title>Acer Googlebook 14 (2026) Review</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5</guid>
@@ -198,54 +294,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Four PHP security releases including fixes for critical vulnerabilities</title>
-      <link>https://lwn.net/Articles/1108552/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108552/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 19 Nov 2026 14:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux</title>
-      <link>https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 14:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries</title>
-      <link>https://www.phoronix.com/news/Debian-APT-Removing-Features</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-APT-Removing-Features</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 14:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1108551/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1108551/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 19 Nov 2026 14:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>TUXEDO InfinityBook Pro 15 Gen11 AMD Pairs Ryzen AI 9 HX 470 With Up To 128GB Of RAM</title>
-      <link>https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/InfinityBook-Pro-15-Gen11</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 13:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>LiberNT: An AI-Fueled Fork Of ReactOS Focused On Windows 11 Compatibility</title>
-      <link>https://www.phoronix.com/news/LiberNT</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LiberNT</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 12:56:46 GMT</pubDate>
     </item>
     <item>
       <title>Painting with impaired vision: Rembrandt</title>
@@ -358,54 +406,6 @@
       <category>macos</category>
       <source url="https://lobste.rs/t/mac">Lobsters · mac</source>
       <pubDate>Tue, 17 Nov 2026 15:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 157 on Googlebook actually packs way more desktop upgrades than we thought</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Tue, 17 Nov 2026 15:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portraits of trees: Tom Thomson</title>
-      <link>https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 17 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU40bjFxT2tNdGxjc3JHTzlBWnctT1FpUklQdmNLLWlxYnQ2dHFmeDVROGVFUW80UXJmVVYzVXJUZF9RMU9qd09YTF9XZjd0VXlpZ2F5MGphc1RVSDkyUnAyUlYzZWIxeExQTXpqZWJJNUctWXg5U2ZfWlBTZ281VjVfeFU?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU40bjFxT2tNdGxjc3JHTzlBWnctT1FpUklQdmNLLWlxYnQ2dHFmeDVROGVFUW80UXJmVVYzVXJUZF9RMU9qd09YTF9XZjd0VXlpZ2F5MGphc1RVSDkyUnAyUlYzZWIxeExQTXpqZWJJNUctWXg5U2ZfWlBTZ281VjVfeFU?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Tue, 17 Nov 2026 09:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer Googlebook 14 review: What rotates in tablet mode</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWFlWDVLcW1pUkZwQktkYVNiWmdjODM2RVdxQUY2X1VadkJZaHlLM3d5bU5MN3VZOWNKQzBCNDdhZDFyM0pEbnp0QWVIeVdzeFQxWjM1SmdoTVRRbVNPc3hPd1lYcjhCSU85VDEySG00NVVVY0ZIMnY2c0M1VmlzUkJZZ3ZMQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWFlWDVLcW1pUkZwQktkYVNiWmdjODM2RVdxQUY2X1VadkJZaHlLM3d5bU5MN3VZOWNKQzBCNDdhZDFyM0pEbnp0QWVIeVdzeFQxWjM1SmdoTVRRbVNPc3hPd1lYcjhCSU85VDEySG00NVVVY0ZIMnY2c0M1VmlzUkJZZ3ZMQQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">NeoTeo</source>
-      <pubDate>Tue, 17 Nov 2026 08:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why was that backup so large?</title>
-      <link>https://eclecticlight.co/2026/11/17/why-was-that-backup-so-large/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/17/why-was-that-backup-so-large/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Tue, 17 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook Tablet Mode Bugs: 4 Issues, Duet 13 Leak</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGowRnJXbnNNSjhkT29kZ05RNGp5bTVMMDFsekxhb28xV3Awb0VoZjhQSU5TNm5UQ2tKREdjbG9qMHBrQVVtTm9tTnY0dUtabE94T3J1NUVOSFJwbWhzN0h5X3YyaE84M0JUakVCUmNiRzRmVFFhd3BOQ2M3aVhXUGRDeThZNGt6UmU4?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGowRnJXbnNNSjhkT29kZ05RNGp5bTVMMDFsekxhb28xV3Awb0VoZjhQSU5TNm5UQ2tKREdjbG9qMHBrQVVtTm9tTnY0dUtabE94T3J1NUVOSFJwbWhzN0h5X3YyaE84M0JUakVCUmNiRzRmVFFhd3BOQ2M3aVhXUGRDeThZNGt6UmU4?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">shattered.io</source>
-      <pubDate>Tue, 17 Nov 2026 07:08:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
