@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-21T11:17:47.575Z",
+  "generated": "2026-11-21T19:23:59.248Z",
   "items": [
+    {
+      "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
+      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-21T18:28:22.000Z"
+    },
+    {
+      "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
+      "url": "https://support.apple.com/en-us/127901",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-21T18:02:51.000Z"
+    },
+    {
+      "title": "Sashiko AI Introducing Linux Performance Specialist Review Stage",
+      "url": "https://www.phoronix.com/news/Sashiko-AI-Performance-Review",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T17:49:14.000Z"
+    },
+    {
+      "title": "Samsung Appears To Be Building One UI Android Laptops Outside Googlebook OS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5",
+      "source": "About Chromebooks",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-21T17:00:18.000Z"
+    },
+    {
+      "title": "Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support",
+      "url": "https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T15:51:35.000Z"
+    },
+    {
+      "title": "From family to Fantin-Latour: group portraits go weird 1",
+      "url": "https://eclecticlight.co/2026/11/21/from-family-to-fantin-latour-group-portraits-go-weird-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-21T12:30:00.000Z"
+    },
+    {
+      "title": "Debian 13.8 Released With 150+ Security Updates",
+      "url": "https://www.phoronix.com/news/Debian-13.8-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T11:20:00.000Z"
+    },
     {
       "title": "KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements",
       "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking",
@@ -226,30 +282,6 @@
       "date": "2026-11-20T10:51:22.000Z"
     },
     {
-      "title": "Kwi Sees First Release As KDE's New Terminal Emulator",
-      "url": "https://www.phoronix.com/news/Kwi-Terminal-First-Release",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T10:41:17.000Z"
-    },
-    {
-      "title": "Removing binder.c",
-      "url": "https://lwn.net/Articles/1102982/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-20T10:33:36.000Z"
-    },
-    {
-      "title": "FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder",
-      "url": "https://www.phoronix.com/news/FFmpeg-9.1-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T10:30:05.000Z"
-    },
-    {
       "title": "Trackpad gestures could return to normal by Christmas",
       "url": "https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/",
       "source": "Eclectic Light",
@@ -418,36 +450,12 @@
       "date": "2026-11-17T18:21:55.000Z"
     },
     {
-      "title": "Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page",
-      "url": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-17T18:21:23.000Z"
-    },
-    {
-      "title": "Steve Jobs Core Animation demo from WWDC 2007",
-      "url": "https://lucas.love/100/058",
-      "source": "Lobsters · mac",
-      "tag": "macos",
-      "site": "https://lobste.rs/t/mac",
-      "date": "2026-11-17T15:23:20.000Z"
-    },
-    {
       "title": "Chrome 157 on Googlebook actually packs way more desktop upgrades than we thought",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T15:20:15.000Z"
-    },
-    {
-      "title": "Portraits of trees: Tom Thomson",
-      "url": "https://eclecticlight.co/2026/11/17/portraits-of-trees-tom-thomson/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-17T12:30:00.000Z"
     },
     {
       "title": "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T00:47:08.000Z"
-    },
-    {
-      "title": "Lenovo Googlebook Duet 13 Leak Points to January Launch; Home Screen Still Locked to Landscape",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXU1MkhPa1M4MHJXUVdrUGxMa01qUFZzVE0xbjhkdDRjQWhMa25TdXVBMVFjTVpzdnAzdURrZ1lNeWp0b1hBdUo1X05MN2tMUHZsb0Y1U0JER0E4cW0zV0V5UEV4WFJMd2QxblhQNGhGSUYxcGZteVZRYkZCazA5OV95aElWLW1aQ00xS1JTQk1ZRjZMSlZBdlphZFZlV3hubnAwemU2RTQyU2plb0hia2JkQnpodjBoU296MTA4NV9IUVM5U3pWU3hBZG9UaEs5UFJoQmU3d0V4UQ?oc=5",
-      "source": "Tech Times",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T00:39:00.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",

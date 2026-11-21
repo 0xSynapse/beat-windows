@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:23:59 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.</title>
+      <link>https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E</link>
+      <guid isPermaLink="true">https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 21 Nov 2026 18:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier</title>
+      <link>https://support.apple.com/en-us/127901</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/127901</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 21 Nov 2026 18:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sashiko AI Introducing Linux Performance Specialist Review Stage</title>
+      <link>https://www.phoronix.com/news/Sashiko-AI-Performance-Review</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Sashiko-AI-Performance-Review</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 17:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung Appears To Be Building One UI Android Laptops Outside Googlebook OS</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">About Chromebooks</source>
+      <pubDate>Sat, 21 Nov 2026 17:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support</title>
+      <link>https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 15:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>From family to Fantin-Latour: group portraits go weird 1</title>
+      <link>https://eclecticlight.co/2026/11/21/from-family-to-fantin-latour-group-portraits-go-weird-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/21/from-family-to-fantin-latour-group-portraits-go-weird-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 21 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debian 13.8 Released With 150+ Security Updates</title>
+      <link>https://www.phoronix.com/news/Debian-13.8-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Debian-13.8-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 11:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements</title>
       <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking</link>
@@ -232,30 +288,6 @@
       <pubDate>Fri, 20 Nov 2026 10:51:22 GMT</pubDate>
     </item>
     <item>
-      <title>Kwi Sees First Release As KDE's New Terminal Emulator</title>
-      <link>https://www.phoronix.com/news/Kwi-Terminal-First-Release</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Kwi-Terminal-First-Release</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 10:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Removing binder.c</title>
-      <link>https://lwn.net/Articles/1102982/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1102982/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Fri, 20 Nov 2026 10:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>FFmpeg 9.1 Released With NVIDIA Optical Flow FRUC, APV Vulkan Encoder</title>
-      <link>https://www.phoronix.com/news/FFmpeg-9.1-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/FFmpeg-9.1-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 10:30:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Trackpad gestures could return to normal by Christmas</title>
       <link>https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</guid>
@@ -374,38 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Wed, 18 Nov 2026 16:32:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang Tweets</title>
-      <link>https://x.com/JensenHuang/status/2122726005219737649</link>
-      <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 18 Nov 2026 15:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting a good story: Puzzles</title>
-      <link>https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 18 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Privacy protected folders in macOS 27.3</title>
-      <link>https://eclecticlight.co/2026/11/18/privacy-protected-folders-in-macos-27-3/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/18/privacy-protected-folders-in-macos-27-3/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Wed, 18 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD GUS</title>
-      <link>https://gregoire.dev/writing/gus/</link>
-      <guid isPermaLink="true">https://gregoire.dev/writing/gus/</guid>
-      <category>bsd</category>
-      <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
-      <pubDate>Wed, 18 Nov 2026 02:54:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
