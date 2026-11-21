@@ -5,8 +5,48 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:17:47 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 10:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeDesktop.org Launches Redesigned Website</title>
+      <link>https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 10:38:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories</title>
+      <link>https://www.phoronix.com/news/FreeBSD-15.2-Beta-3</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FreeBSD-15.2-Beta-3</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 21 Nov 2026 10:26:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 387</title>
+      <link>https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How much space is taken up by document versions?</title>
+      <link>https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>The Talk Show: ‘A Whoopsie Treason’</title>
       <link>https://daringfireball.net/thetalkshow/2026/11/20/ep-457</link>
@@ -240,22 +280,6 @@
       <pubDate>Thu, 19 Nov 2026 22:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.5 To Optionally Block /proc/kcore Access For Better Security</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 22:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work</title>
-      <link>https://www.phoronix.com/news/LLVM-Re-Licensing-Complete</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/LLVM-Re-Licensing-Complete</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 19 Nov 2026 21:02:56 GMT</pubDate>
-    </item>
-    <item>
       <title>A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</guid>
@@ -278,14 +302,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Thu, 19 Nov 2026 20:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[$] Added indirection allows for larger BPF programs</title>
-      <link>https://lwn.net/Articles/1106537/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1106537/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 19 Nov 2026 17:32:42 GMT</pubDate>
     </item>
     <item>
       <title>Anthropic IPOs, Topping SpaceX for the Largest Ever</title>
@@ -390,22 +406,6 @@
       <category>bsd</category>
       <source url="https://lobste.rs/t/freebsd">Lobsters · freebsd</source>
       <pubDate>Wed, 18 Nov 2026 02:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)</title>
-      <link>https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</link>
-      <guid isPermaLink="true">https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 17 Nov 2026 18:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Googlebook just got a Chrome update – 5 new features</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">ZDNET</source>
-      <pubDate>Tue, 17 Nov 2026 18:21:55 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,46 @@
 {
-  "generated": "2026-11-21T02:28:33.324Z",
+  "generated": "2026-11-21T11:17:47.575Z",
   "items": [
+    {
+      "title": "KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T10:51:46.000Z"
+    },
+    {
+      "title": "FreeDesktop.org Launches Redesigned Website",
+      "url": "https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T10:38:39.000Z"
+    },
+    {
+      "title": "FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories",
+      "url": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-3",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-21T10:26:22.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 387",
+      "url": "https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-21T09:00:00.000Z"
+    },
+    {
+      "title": "How much space is taken up by document versions?",
+      "url": "https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-21T08:00:00.000Z"
+    },
     {
       "title": "The Talk Show: ‘A Whoopsie Treason’",
       "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457",
@@ -234,22 +274,6 @@
       "date": "2026-11-19T22:25:12.000Z"
     },
     {
-      "title": "Linux 7.5 To Optionally Block /proc/kcore Access For Better Security",
-      "url": "https://www.phoronix.com/news/Linux-7.5-Restrict-proc-kcore",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T22:03:06.000Z"
-    },
-    {
-      "title": "LLVM Effectively Completes Its Relicensing After Nearly A Decade Of Work",
-      "url": "https://www.phoronix.com/news/LLVM-Re-Licensing-Complete",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-19T21:02:56.000Z"
-    },
-    {
       "title": "A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5",
       "source": "Chrome Unboxed",
@@ -272,14 +296,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-19T20:30:10.000Z"
-    },
-    {
-      "title": "[$] Added indirection allows for larger BPF programs",
-      "url": "https://lwn.net/Articles/1106537/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-19T17:32:42.000Z"
     },
     {
       "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
@@ -450,28 +466,12 @@
       "date": "2026-11-17T08:08:26.000Z"
     },
     {
-      "title": "Why was that backup so large?",
-      "url": "https://eclecticlight.co/2026/11/17/why-was-that-backup-so-large/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-17T07:30:00.000Z"
-    },
-    {
       "title": "Googlebook Tablet Mode Bugs: 4 Issues, Duet 13 Leak",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGowRnJXbnNNSjhkT29kZ05RNGp5bTVMMDFsekxhb28xV3Awb0VoZjhQSU5TNm5UQ2tKREdjbG9qMHBrQVVtTm9tTnY0dUtabE94T3J1NUVOSFJwbWhzN0h5X3YyaE84M0JUakVCUmNiRzRmVFFhd3BOQ2M3aVhXUGRDeThZNGt6UmU4?oc=5",
       "source": "shattered.io",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T07:08:46.000Z"
-    },
-    {
-      "title": "Apple Support Document on the New ‘Full Disk Access’ and ‘System & App Protection Override’ Settings in MacOS 27.3 Beta 2",
-      "url": "https://support.apple.com/en-us/149699",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-17T02:00:11.000Z"
     },
     {
       "title": "Googlebook gets a much-needed desktop polish with Chrome 157",
