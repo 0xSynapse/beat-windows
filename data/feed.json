@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-20T21:13:42.819Z",
+  "generated": "2026-11-21T02:28:33.324Z",
   "items": [
+    {
+      "title": "The Talk Show: ‘A Whoopsie Treason’",
+      "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-20T23:28:51.000Z"
+    },
+    {
+      "title": "Libreboot Abandons Anti-AI Policy After One Month",
+      "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-20T22:23:41.000Z"
+    },
     {
       "title": "GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak",
       "url": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
@@ -8,6 +24,14 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-20T20:46:51.000Z"
+    },
+    {
+      "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5",
+      "source": "TechRepublic",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-20T20:11:16.000Z"
     },
     {
       "title": "Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM",
@@ -258,14 +282,6 @@
       "date": "2026-11-19T17:32:42.000Z"
     },
     {
-      "title": "PostgreSQL 19 released",
-      "url": "https://lwn.net/Articles/1108561/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-19T16:39:16.000Z"
-    },
-    {
       "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
       "url": "https://www.techmeme.com/261118/p34#a261118p34",
       "source": "Daring Fireball",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T00:39:00.000Z"
-    },
-    {
-      "title": "‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’",
-      "url": "https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-16T23:51:54.000Z"
-    },
-    {
-      "title": "Chrome 157 for Googlebook rolling out with 27 new features, improvements",
-      "url": "https://9to5google.com/2026/11/16/chrome-157-googlebook/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-16T23:46:42.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
