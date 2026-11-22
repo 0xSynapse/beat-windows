@@ -5,8 +5,24 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 19:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:23:03 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Sat, 21 Nov 2026 20:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2</title>
+      <link>https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sat, 21 Nov 2026 20:09:57 GMT</pubDate>
+    </item>
     <item>
       <title>The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.</title>
       <link>https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E</link>
@@ -37,7 +53,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">About Chromebooks</source>
-      <pubDate>Sat, 21 Nov 2026 17:00:18 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 15:56:12 GMT</pubDate>
     </item>
     <item>
       <title>Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Thu, 19 Nov 2026 01:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ The 50-Yard Line</title>
-      <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Wed, 18 Nov 2026 20:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Wed, 18 Nov 2026 16:32:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

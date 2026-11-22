@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-21T19:23:59.248Z",
+  "generated": "2026-11-22T00:23:03.695Z",
   "items": [
+    {
+      "title": "Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-21T20:11:18.000Z"
+    },
+    {
+      "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-21T20:09:57.000Z"
+    },
     {
       "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
       "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
@@ -31,7 +47,7 @@
       "source": "About Chromebooks",
       "tag": "android",
       "site": "https://news.google.com/",
-      "date": "2026-11-21T17:00:18.000Z"
+      "date": "2026-11-21T15:56:12.000Z"
     },
     {
       "title": "Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support",
@@ -434,14 +450,6 @@
       "date": "2026-11-18T02:54:59.000Z"
     },
     {
-      "title": "SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)",
-      "url": "https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-17T18:41:12.000Z"
-    },
-    {
       "title": "Your Googlebook just got a Chrome update – 5 new features",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5",
       "source": "ZDNET",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T07:08:46.000Z"
-    },
-    {
-      "title": "Googlebook gets a much-needed desktop polish with Chrome 157",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbm85Y0o3eDRVblUtYjdMYmpLY3dDTHpzV2NNNVRSTXpXRGZmWElTS3BONEpKNG9VSXdPeGcwcVVxbHR6RjBlNEdmaTV1dGdtb1lOckxuNWV2eDZBMU9fRlg5VFBiS3VKZkdsNEo3djlMcXctZ1B6dkg2LU5PaV9wXzEwR1dHZEEzemxjVDVwY3lDVjY0akYyRlR0WHdqS1docUdkdQ?oc=5",
-      "source": "Android Central",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T00:47:08.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
