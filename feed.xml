@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:29:34 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Compromised eMudhra certificates, an update</title>
+      <link>https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 22 Nov 2026 21:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gliver completes the Guix desktop</title>
+      <link>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</link>
+      <guid isPermaLink="true">https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Sun, 22 Nov 2026 20:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement</title>
+      <link>https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 22 Nov 2026 17:40:25 GMT</pubDate>
+    </item>
     <item>
       <title>CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool</title>
       <link>https://www.phoronix.com/news/CachyOS-November-2026</link>
@@ -280,22 +304,6 @@
       <pubDate>Fri, 20 Nov 2026 16:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>[$] Bringing the Agama installer to openSUSE Tumbleweed</title>
-      <link>https://lwn.net/Articles/1107830/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1107830/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Fri, 20 Nov 2026 14:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora Incident Response Policy Drafted For Improving Workflow &amp; Security Disclosures</title>
-      <link>https://www.phoronix.com/news/Fedora-Incident-Response-Policy</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Fedora-Incident-Response-Policy</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 14:47:51 GMT</pubDate>
-    </item>
-    <item>
       <title>Dell XPS Googlebook 13 (2026) Review</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
       <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Painting with impaired vision: Rembrandt</title>
-      <link>https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

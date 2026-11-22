@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-22T16:20:34.029Z",
+  "generated": "2026-11-22T22:29:34.889Z",
   "items": [
+    {
+      "title": "Compromised eMudhra certificates, an update",
+      "url": "https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-22T21:30:00.000Z"
+    },
+    {
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-22T20:10:15.000Z"
+    },
+    {
+      "title": "AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement",
+      "url": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T17:40:25.000Z"
+    },
     {
       "title": "CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool",
       "url": "https://www.phoronix.com/news/CachyOS-November-2026",
@@ -274,22 +298,6 @@
       "date": "2026-11-20T16:00:10.000Z"
     },
     {
-      "title": "[$] Bringing the Agama installer to openSUSE Tumbleweed",
-      "url": "https://lwn.net/Articles/1107830/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-20T14:49:13.000Z"
-    },
-    {
-      "title": "Fedora Incident Response Policy Drafted For Improving Workflow & Security Disclosures",
-      "url": "https://www.phoronix.com/news/Fedora-Incident-Response-Policy",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T14:47:51.000Z"
-    },
-    {
       "title": "Dell XPS Googlebook 13 (2026) Review",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5",
       "source": "RTINGS.com",
@@ -440,14 +448,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-18T16:32:56.000Z"
-    },
-    {
-      "title": "Jensen Huang Tweets",
-      "url": "https://x.com/JensenHuang/status/2122726005219737649",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-18T15:39:16.000Z"
     },
     {
       "title": "FreeBSD GUS",
