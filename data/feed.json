@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-22T08:03:49.619Z",
+  "generated": "2026-11-22T16:20:34.029Z",
   "items": [
+    {
+      "title": "CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool",
+      "url": "https://www.phoronix.com/news/CachyOS-November-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T13:15:03.000Z"
+    },
+    {
+      "title": "Intel Coral Rapids & Razor Lake Model IDs Submitted For Linux 7.4-rc4",
+      "url": "https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T13:06:26.000Z"
+    },
+    {
+      "title": "From family to Fantin-Latour: group portraits go weird 2",
+      "url": "https://eclecticlight.co/2026/11/22/from-family-to-fantin-latour-group-portraits-go-weird-2/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-22T12:30:00.000Z"
+    },
+    {
+      "title": "CachyOS Releases Package Installer 2.0 With Convenient AUR / Flatpak / AppImage Support",
+      "url": "https://www.phoronix.com/news/CachyOS-Package-Installer-2.0",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T11:55:29.000Z"
+    },
+    {
+      "title": "Linux 7.5 To Introduce Initial Mainline Support For Ambarella SoCs",
+      "url": "https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T11:35:20.000Z"
+    },
+    {
+      "title": "PSR2 & Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5",
+      "url": "https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T11:14:00.000Z"
+    },
+    {
+      "title": "The First Rust WMI Linux Driver Being Developed Is For Clevo Laptops",
+      "url": "https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T10:56:26.000Z"
+    },
     {
       "title": "Last Week on My Mac: The resistible rise of onboarding controls",
       "url": "https://eclecticlight.co/2026/11/22/last-week-on-my-mac-the-resistible-rise-of-onboarding-controls/",
@@ -234,14 +290,6 @@
       "date": "2026-11-20T14:47:51.000Z"
     },
     {
-      "title": "Beyls: Wrapping up LLVM's relicensing effort",
-      "url": "https://lwn.net/Articles/1108818/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-20T14:35:24.000Z"
-    },
-    {
       "title": "Dell XPS Googlebook 13 (2026) Review",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TOW9lUk5OY3JWMGNjdTQ0eFJ1X1BGakliZXp1RlVmU2xOVXAyYXYzejlxMzVGWks3cDBVbWNlNndJX3lMZWhuMzJrZi1pbk1acENMUTNQY1Q3YTBOaXJMazlId25pZHgzWG1JUG5uLUJKUDA?oc=5",
       "source": "RTINGS.com",
@@ -250,36 +298,12 @@
       "date": "2026-11-20T14:33:55.000Z"
     },
     {
-      "title": "Vim Classic 8.3.1 released",
-      "url": "https://lwn.net/Articles/1108817/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-20T14:17:33.000Z"
-    },
-    {
-      "title": "Security updates for Friday",
-      "url": "https://lwn.net/Articles/1108811/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-20T13:52:40.000Z"
-    },
-    {
       "title": "One UI 9.5 beta reveals Samsung will distribute own firmware updates to Googlebook laptops",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRGdEYtUS0xa09aT3hYTFJ5MzlIcldrYjNNRU9OX3NqMmFLY1I4QmU4dldZb3NpRlFyTFdOWGxlSnZrRWNZUzloZVVvdkxzVGJzTXNlVlBieEpxb2FyWjFaVzI4SnFVT3huc1A4VUh4TlRQbVViNnBOZ0tLMk1Gbm4yRnZCQlhldjJXcVBxSHdFeXNqSnBSYnE2RFpCWUJrRDZwOFRkazFtZw?oc=5",
       "source": "SamMobile",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T13:35:00.000Z"
-    },
-    {
-      "title": "AMDXDNA Driver Reaches Version 1.0, Ryzen AI NPU10 & NPU11 Coming To Linux 7.5",
-      "url": "https://www.phoronix.com/news/AMDXDNA-1.0-Linux-Driver",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T13:16:40.000Z"
     },
     {
       "title": "Claude Monet: Series",
@@ -296,22 +320,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T12:26:00.000Z"
-    },
-    {
-      "title": "Rust Coreutils 0.13 Release Delivers More Performance, Better Compatibility",
-      "url": "https://www.phoronix.com/news/Rust-Coreutils-0.13",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T11:16:03.000Z"
-    },
-    {
-      "title": "Vulkan 1.4.369 Introduces New AMD Extension For Improving Ray-Tracing Performance",
-      "url": "https://www.phoronix.com/news/Vulkan-AMDX-Ray-Tracing-Struct",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T11:05:08.000Z"
     },
     {
       "title": "Trackpad gestures could return to normal by Christmas",
@@ -440,14 +448,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-18T15:39:16.000Z"
-    },
-    {
-      "title": "Painting a good story: Puzzles",
-      "url": "https://eclecticlight.co/2026/11/18/painting-a-good-story-puzzles/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-18T12:30:00.000Z"
     },
     {
       "title": "FreeBSD GUS",
