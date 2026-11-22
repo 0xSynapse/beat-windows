@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:23:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:03:49 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Last Week on My Mac: The resistible rise of onboarding controls</title>
+      <link>https://eclecticlight.co/2026/11/22/last-week-on-my-mac-the-resistible-rise-of-onboarding-controls/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/22/last-week-on-my-mac-the-resistible-rise-of-onboarding-controls/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Weekly News Recap: November 16 – 22, 2026</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Sun, 22 Nov 2026 06:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 22 Nov 2026 01:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5</link>
@@ -296,14 +320,6 @@
       <pubDate>Fri, 20 Nov 2026 11:05:08 GMT</pubDate>
     </item>
     <item>
-      <title>Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs</title>
-      <link>https://www.phoronix.com/news/Cloud-Hypervisor-55</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Cloud-Hypervisor-55</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 10:51:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Trackpad gestures could return to normal by Christmas</title>
       <link>https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</guid>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Android Authority</source>
       <pubDate>Thu, 19 Nov 2026 11:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Free up space quickly on your startup volume</title>
-      <link>https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Thu, 19 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">gbookhub.io</source>
-      <pubDate>Thu, 19 Nov 2026 01:43:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

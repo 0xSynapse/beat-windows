@@ -1,6 +1,30 @@
 {
-  "generated": "2026-11-22T00:23:03.695Z",
+  "generated": "2026-11-22T08:03:49.619Z",
   "items": [
+    {
+      "title": "Last Week on My Mac: The resistible rise of onboarding controls",
+      "url": "https://eclecticlight.co/2026/11/22/last-week-on-my-mac-the-resistible-rise-of-onboarding-controls/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-22T08:00:00.000Z"
+    },
+    {
+      "title": "Googlebook Weekly News Recap: November 16 – 22, 2026",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-22T06:01:20.000Z"
+    },
+    {
+      "title": "Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results",
+      "url": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T01:24:33.000Z"
+    },
     {
       "title": "Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5",
@@ -290,14 +314,6 @@
       "date": "2026-11-20T11:05:08.000Z"
     },
     {
-      "title": "Cloud Hypervisor 55 Released With AArch64 Nested Virtualization, Up To 990 ARM vCPUs",
-      "url": "https://www.phoronix.com/news/Cloud-Hypervisor-55",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T10:51:22.000Z"
-    },
-    {
       "title": "Trackpad gestures could return to normal by Christmas",
       "url": "https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/",
       "source": "Eclectic Light",
@@ -434,14 +450,6 @@
       "date": "2026-11-18T12:30:00.000Z"
     },
     {
-      "title": "Privacy protected folders in macOS 27.3",
-      "url": "https://eclecticlight.co/2026/11/18/privacy-protected-folders-in-macos-27-3/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-18T07:30:00.000Z"
-    },
-    {
       "title": "FreeBSD GUS",
       "url": "https://gregoire.dev/writing/gus/",
       "source": "Lobsters · freebsd",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T08:08:26.000Z"
-    },
-    {
-      "title": "Googlebook Tablet Mode Bugs: 4 Issues, Duet 13 Leak",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGowRnJXbnNNSjhkT29kZ05RNGp5bTVMMDFsekxhb28xV3Awb0VoZjhQSU5TNm5UQ2tKREdjbG9qMHBrQVVtTm9tTnY0dUtabE94T3J1NUVOSFJwbWhzN0h5X3YyaE84M0JUakVCUmNiRzRmVFFhd3BOQ2M3aVhXUGRDeThZNGt6UmU4?oc=5",
-      "source": "shattered.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T07:08:46.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
