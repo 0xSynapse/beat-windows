@@ -1,13 +1,117 @@
 {
-  "generated": "2026-11-23T03:44:26.056Z",
+  "generated": "2026-11-23T14:49:17.083Z",
   "items": [
+    {
+      "title": "Nvidia Board Reinstates Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T14:43:27.000Z"
+    },
+    {
+      "title": "CachyOS November 2026 release",
+      "url": "https://lwn.net/Articles/1109269/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-23T14:21:41.000Z"
+    },
+    {
+      "title": "Jensen Huang Reinstated As NVIDIA CEO & Board Director",
+      "url": "https://www.phoronix.com/news/Jensen-Back-NVIDIA-CEO",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T14:20:05.000Z"
+    },
+    {
+      "title": "Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section",
+      "url": "https://www.phoronix.com/news/Firefox-161",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T14:11:54.000Z"
+    },
+    {
+      "title": "Security updates for Monday",
+      "url": "https://lwn.net/Articles/1109268/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-23T14:10:48.000Z"
+    },
+    {
+      "title": "Seven stable kernels for Monday",
+      "url": "https://lwn.net/Articles/1108909/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-23T13:23:43.000Z"
+    },
+    {
+      "title": "XNU Linux Lets macOS Userspace Processes Run On Linux",
+      "url": "https://www.phoronix.com/news/XNU-Linux",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T13:14:13.000Z"
+    },
+    {
+      "title": "LibreOffice 27.2 Alpha 1 Released For Testing",
+      "url": "https://www.phoronix.com/news/LibreOffice-27.2-Alpha-1",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T13:04:56.000Z"
+    },
+    {
+      "title": "Hero or hooligan: Aeneas in the Underworld",
+      "url": "https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-23T12:30:00.000Z"
+    },
+    {
+      "title": "VKD3D 2.2 Released With More Improvements For Direct3D 12 On Vulkan",
+      "url": "https://www.phoronix.com/news/VKD3D-2.2-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T11:36:58.000Z"
+    },
+    {
+      "title": "Mesa 27.0 Merges LLVMpipe AVX-512 Support",
+      "url": "https://www.phoronix.com/news/Mesa-27.0-AVX-512-LLVMpipe",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T11:24:55.000Z"
+    },
+    {
+      "title": "Solutions to Saturday Mac riddles 387",
+      "url": "https://eclecticlight.co/2026/11/23/solutions-to-saturday-mac-riddles-387/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-23T09:00:00.000Z"
+    },
+    {
+      "title": "Deversion locates, checks and deletes saved versions",
+      "url": "https://eclecticlight.co/2026/11/23/deversion-locates-checks-and-deletes-saved-versions/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-23T07:30:00.000Z"
+    },
     {
       "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
       "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
       "source": "Phoronix",
       "tag": "linux",
       "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T02:45:00.000Z"
+      "date": "2026-11-23T05:00:00.000Z"
     },
     {
       "title": "Kernel prepatch 7.4-rc4",
@@ -130,14 +234,6 @@
       "date": "2026-11-22T06:01:20.000Z"
     },
     {
-      "title": "Linux 7.4 To Remove NVMe Namespaces In Parallel For Faster Results",
-      "url": "https://www.phoronix.com/news/Linux-7.4-NVMe-NS-Parallel",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T01:24:33.000Z"
-    },
-    {
       "title": "Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5",
       "source": "Chrome Unboxed",
@@ -170,14 +266,6 @@
       "date": "2026-11-21T18:02:51.000Z"
     },
     {
-      "title": "Sashiko AI Introducing Linux Performance Specialist Review Stage",
-      "url": "https://www.phoronix.com/news/Sashiko-AI-Performance-Review",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T17:49:14.000Z"
-    },
-    {
       "title": "Samsung Appears To Be Building One UI Android Laptops Outside Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5",
       "source": "About Chromebooks",
@@ -186,52 +274,12 @@
       "date": "2026-11-21T15:56:12.000Z"
     },
     {
-      "title": "Intel Linux NPU Driver 1.39.1 Released With Nova Lake Support",
-      "url": "https://www.phoronix.com/news/Intel-LInux-NPU-Driver-1.39.1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T15:51:35.000Z"
-    },
-    {
       "title": "From family to Fantin-Latour: group portraits go weird 1",
       "url": "https://eclecticlight.co/2026/11/21/from-family-to-fantin-latour-group-portraits-go-weird-1/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-21T12:30:00.000Z"
-    },
-    {
-      "title": "Debian 13.8 Released With 150+ Security Updates",
-      "url": "https://www.phoronix.com/news/Debian-13.8-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T11:20:00.000Z"
-    },
-    {
-      "title": "KDE Plasma 6.9 Allows Adjusting The Text Cursor Blinking Rate, Other Improvements",
-      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-Cursor-Blinking",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T10:51:46.000Z"
-    },
-    {
-      "title": "FreeDesktop.org Launches Redesigned Website",
-      "url": "https://www.phoronix.com/news/FreeDesktop.org-Redesigned-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T10:38:39.000Z"
-    },
-    {
-      "title": "FreeBSD 15.2 Beta 3 Released Following 17 Security Advisories",
-      "url": "https://www.phoronix.com/news/FreeBSD-15.2-Beta-3",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-21T10:26:22.000Z"
     },
     {
       "title": "Saturday Mac riddles 387",
@@ -256,22 +304,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-20T23:28:51.000Z"
-    },
-    {
-      "title": "Libreboot Abandons Anti-AI Policy After One Month",
-      "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T22:23:41.000Z"
-    },
-    {
-      "title": "GnuPG's GPGME Affected By Critical Security Bug In Turn Affecting Mail Clients, Flatpak",
-      "url": "https://www.phoronix.com/news/GnuPG-GPGME-Critical",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T20:46:51.000Z"
     },
     {
       "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
@@ -378,22 +410,6 @@
       "date": "2026-11-19T20:54:10.000Z"
     },
     {
-      "title": "Grand Theft Auto 6",
-      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-19T20:30:10.000Z"
-    },
-    {
-      "title": "Anthropic IPOs, Topping SpaceX for the Largest Ever",
-      "url": "https://www.techmeme.com/261118/p34#a261118p34",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-19T16:33:16.000Z"
-    },
-    {
       "title": "Acer Googlebook 14 (2026) Review",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxTDJXaUlUV2hpbmhxdlJ4blZZZXpkNFEwUVpuWS1FbTlpRzhyVzBLWFZJbzktYXptR0dOV3BBLVAtY0NMVDBCcTR3ejFJTDBGcDYxZmM3eEhoSm9SVG1uQ1Q5QUtOcEVBdENXUUVn?oc=5",
       "source": "RTINGS.com",
@@ -410,28 +426,12 @@
       "date": "2026-11-19T14:30:00.000Z"
     },
     {
-      "title": "Painting with impaired vision: Rembrandt",
-      "url": "https://eclecticlight.co/2026/11/19/painting-with-impaired-vision-rembrandt/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-19T12:30:00.000Z"
-    },
-    {
       "title": "Exclusive: Samsung’s upcoming 14-inch and 16-inch Android laptops are codenamed ‘Origin’",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlUbjk5SUJxMC1ieExodlN3LTd2cGpDRl96WGxFWXE1SktpY2RDSmtRMjdFTE42M041bm1DbjA4aE45S1Z6NXJHS1k4MGx5RnF2QlRPaWVwSF8tb1hFV0JwNnhQYVdadWpnNXMtSHAtMTJyc3JFc3hBWklFT0tqOWotWGRQa0ladDlEY0gwZlZfc3dlWVpCdHU4Qkg?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-19T11:27:00.000Z"
-    },
-    {
-      "title": "Free up space quickly on your startup volume",
-      "url": "https://eclecticlight.co/2026/11/19/free-up-space-quickly-on-your-startup-volume/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-19T07:30:00.000Z"
     },
     {
       "title": "Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta",
