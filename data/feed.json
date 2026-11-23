@@ -1,6 +1,38 @@
 {
-  "generated": "2026-11-22T22:29:34.889Z",
+  "generated": "2026-11-23T03:44:26.056Z",
   "items": [
+    {
+      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
+      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T02:45:00.000Z"
+    },
+    {
+      "title": "Kernel prepatch 7.4-rc4",
+      "url": "https://lwn.net/Articles/1108900/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-23T00:32:07.000Z"
+    },
+    {
+      "title": "Linux 7.4-rc4 Released: \"It's Huge. What A Surprise.\"",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-22T23:13:30.000Z"
+    },
+    {
+      "title": "Ivy",
+      "url": "https://semantical.com/?utm_campaign=df-2026-12",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-22T23:04:30.000Z"
+    },
     {
       "title": "Compromised eMudhra certificates, an update",
       "url": "https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/",
@@ -250,14 +282,6 @@
       "date": "2026-11-20T20:11:16.000Z"
     },
     {
-      "title": "Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM",
-      "url": "https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T19:41:29.000Z"
-    },
-    {
       "title": "Apple has just released updates to XProtect and XProtect Remediator for all macOS",
       "url": "https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/",
       "source": "Eclectic Light",
@@ -266,28 +290,12 @@
       "date": "2026-11-20T19:30:24.000Z"
     },
     {
-      "title": "AMD Contributes Integration For Content-Adaptive / Adaptive Backlight Modulation To GNOME",
-      "url": "https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T17:52:31.000Z"
-    },
-    {
       "title": "Samsung is skipping Googlebook OS to build its own One UI-powered Android laptops",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1kdVd1M3lIeWY5RktsNjllUUVGOVU4Y2EyUUljeTFLWlRnSUl4YktmdmRNb3hva0R2ZTZGN21COEV5ajNYaFIzSlpQZ2hybkh1TUc4VElseWlPRlF3ZHI4eUpXV1p0ZUxUZDJEQzQ2MDhReE9FeHFKNTBXSGhIRDRQSXpFWjk0S2RCY2dHOHZEZzIzR0NUdGNydE1EcXpMZGNSZ3VYMk1udGN1?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T16:49:38.000Z"
-    },
-    {
-      "title": "System76 Thelio Prime: A Petite But Performant AMD-Powered Linux PC",
-      "url": "https://www.phoronix.com/review/system76-thelio-prime",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-20T16:38:02.000Z"
     },
     {
       "title": "I tested PocketBar to run my favorite Android apps straight from my Mac's menu bar",
@@ -432,14 +440,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-19T01:43:02.000Z"
-    },
-    {
-      "title": "★ The 50-Yard Line",
-      "url": "https://daringfireball.net/2026/11/the_50-yard_line",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-18T20:42:23.000Z"
     },
     {
       "title": "A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware",

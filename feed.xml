@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 22:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:44:26 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
+      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 02:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernel prepatch 7.4-rc4</title>
+      <link>https://lwn.net/Articles/1108900/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1108900/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Mon, 23 Nov 2026 00:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4-rc4 Released: &quot;It's Huge. What A Surprise.&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc4-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc4-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sun, 22 Nov 2026 23:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ivy</title>
+      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
+      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Sun, 22 Nov 2026 23:04:30 GMT</pubDate>
+    </item>
     <item>
       <title>Compromised eMudhra certificates, an update</title>
       <link>https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/</link>
@@ -256,14 +288,6 @@
       <pubDate>Fri, 20 Nov 2026 20:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Preps Linux 7.5 Change To Better Handle Multiple GPUs With Lots Of VRAM</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-DRM-8TB-mmap</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 19:41:29 GMT</pubDate>
-    </item>
-    <item>
       <title>Apple has just released updates to XProtect and XProtect Remediator for all macOS</title>
       <link>https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</guid>
@@ -272,28 +296,12 @@
       <pubDate>Fri, 20 Nov 2026 19:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>AMD Contributes Integration For Content-Adaptive / Adaptive Backlight Modulation To GNOME</title>
-      <link>https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/GNOME-AMD-Content-Adaptive</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 17:52:31 GMT</pubDate>
-    </item>
-    <item>
       <title>Samsung is skipping Googlebook OS to build its own One UI-powered Android laptops</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1kdVd1M3lIeWY5RktsNjllUUVGOVU4Y2EyUUljeTFLWlRnSUl4YktmdmRNb3hva0R2ZTZGN21COEV5ajNYaFIzSlpQZ2hybkh1TUc4VElseWlPRlF3ZHI4eUpXV1p0ZUxUZDJEQzQ2MDhReE9FeHFKNTBXSGhIRDRQSXpFWjk0S2RCY2dHOHZEZzIzR0NUdGNydE1EcXpMZGNSZ3VYMk1udGN1?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE1kdVd1M3lIeWY5RktsNjllUUVGOVU4Y2EyUUljeTFLWlRnSUl4YktmdmRNb3hva0R2ZTZGN21COEV5ajNYaFIzSlpQZ2hybkh1TUc4VElseWlPRlF3ZHI4eUpXV1p0ZUxUZDJEQzQ2MDhReE9FeHFKNTBXSGhIRDRQSXpFWjk0S2RCY2dHOHZEZzIzR0NUdGNydE1EcXpMZGNSZ3VYMk1udGN1?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Fri, 20 Nov 2026 16:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>System76 Thelio Prime: A Petite But Performant AMD-Powered Linux PC</title>
-      <link>https://www.phoronix.com/review/system76-thelio-prime</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/system76-thelio-prime</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Fri, 20 Nov 2026 16:38:02 GMT</pubDate>
     </item>
     <item>
       <title>I tested PocketBar to run my favorite Android apps straight from my Mac's menu bar</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">RTINGS.com</source>
       <pubDate>Thu, 19 Nov 2026 14:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>First Googlebook discount takes $300 off HP flagship for Black Friday</title>
-      <link>https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/</guid>
-      <category>android</category>
-      <source url="https://9to5google.com/guides/googlebook/">9to5Google · Googlebook</source>
-      <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
