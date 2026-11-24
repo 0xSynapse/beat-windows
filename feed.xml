@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:39:32 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Portraits of trees: Barren</title>
+      <link>https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 24 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware</title>
+      <link>https://www.phoronix.com/news/Linux-7.4-rc5-HID</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc5-HID</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 24 Nov 2026 12:08:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>zlib-rs 0.6.9 Released With Performance Improvements</title>
+      <link>https://www.phoronix.com/news/zlib-rs-0.6.9</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/zlib-rs-0.6.9</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 24 Nov 2026 11:11:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUSE Rolling Out &quot;The First AI-Ready OS Installer&quot;</title>
+      <link>https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 24 Nov 2026 10:58:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proton 11.0-3 Released For Valve's Steam Play With More Games Now Playable</title>
+      <link>https://www.phoronix.com/news/Proton-11.0-3-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Proton-11.0-3-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 24 Nov 2026 10:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How normalisation and case folding in APFS led to vulnerabilities</title>
+      <link>https://eclecticlight.co/2026/11/24/how-normalisation-and-case-folding-in-apfs-led-to-vulnerabilities/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/24/how-normalisation-and-case-folding-in-apfs-led-to-vulnerabilities/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Tue, 24 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samsung’s One UI code hints at laptops, not their OS</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">NeoTeo</source>
+      <pubDate>Tue, 24 Nov 2026 05:55:31 GMT</pubDate>
+    </item>
     <item>
       <title>Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing</title>
       <link>https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions</link>
@@ -232,14 +288,6 @@
       <pubDate>Mon, 23 Nov 2026 00:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 7.4-rc4 Released: &quot;It's Huge. What A Surprise.&quot;</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc4-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc4-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 23:13:30 GMT</pubDate>
-    </item>
-    <item>
       <title>Ivy</title>
       <link>https://semantical.com/?utm_campaign=df-2026-12</link>
       <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
@@ -254,30 +302,6 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 22 Nov 2026 21:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gliver completes the Guix desktop</title>
-      <link>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</link>
-      <guid isPermaLink="true">https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Sun, 22 Nov 2026 20:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement</title>
-      <link>https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 17:40:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool</title>
-      <link>https://www.phoronix.com/news/CachyOS-November-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/CachyOS-November-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 13:15:03 GMT</pubDate>
     </item>
     <item>
       <title>From family to Fantin-Latour: group portraits go weird 2</title>
@@ -352,22 +376,6 @@
       <pubDate>Sat, 21 Nov 2026 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Saturday Mac riddles 387</title>
-      <link>https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How much space is taken up by document versions?</title>
-      <link>https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">RTINGS.com</source>
       <pubDate>Fri, 20 Nov 2026 14:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>One UI 9.5 beta reveals Samsung will distribute own firmware updates to Googlebook laptops</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRGdEYtUS0xa09aT3hYTFJ5MzlIcldrYjNNRU9OX3NqMmFLY1I4QmU4dldZb3NpRlFyTFdOWGxlSnZrRWNZUzloZVVvdkxzVGJzTXNlVlBieEpxb2FyWjFaVzI4SnFVT3huc1A4VUh4TlRQbVViNnBOZ0tLMk1Gbm4yRnZCQlhldjJXcVBxSHdFeXNqSnBSYnE2RFpCWUJrRDZwOFRkazFtZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFRGdEYtUS0xa09aT3hYTFJ5MzlIcldrYjNNRU9OX3NqMmFLY1I4QmU4dldZb3NpRlFyTFdOWGxlSnZrRWNZUzloZVVvdkxzVGJzTXNlVlBieEpxb2FyWjFaVzI4SnFVT3huc1A4VUh4TlRQbVViNnBOZ0tLMk1Gbm4yRnZCQlhldjJXcVBxSHdFeXNqSnBSYnE2RFpCWUJrRDZwOFRkazFtZw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">SamMobile</source>
-      <pubDate>Fri, 20 Nov 2026 13:35:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

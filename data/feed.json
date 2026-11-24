@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-24T02:16:19.395Z",
+  "generated": "2026-11-24T12:39:32.027Z",
   "items": [
+    {
+      "title": "Portraits of trees: Barren",
+      "url": "https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-24T12:30:00.000Z"
+    },
+    {
+      "title": "HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware",
+      "url": "https://www.phoronix.com/news/Linux-7.4-rc5-HID",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T12:08:19.000Z"
+    },
+    {
+      "title": "zlib-rs 0.6.9 Released With Performance Improvements",
+      "url": "https://www.phoronix.com/news/zlib-rs-0.6.9",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T11:11:56.000Z"
+    },
+    {
+      "title": "SUSE Rolling Out \"The First AI-Ready OS Installer\"",
+      "url": "https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T10:58:14.000Z"
+    },
+    {
+      "title": "Proton 11.0-3 Released For Valve's Steam Play With More Games Now Playable",
+      "url": "https://www.phoronix.com/news/Proton-11.0-3-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T10:23:41.000Z"
+    },
+    {
+      "title": "How normalisation and case folding in APFS led to vulnerabilities",
+      "url": "https://eclecticlight.co/2026/11/24/how-normalisation-and-case-folding-in-apfs-led-to-vulnerabilities/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-24T07:30:00.000Z"
+    },
+    {
+      "title": "Samsung’s One UI code hints at laptops, not their OS",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5",
+      "source": "NeoTeo",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-24T05:55:31.000Z"
+    },
     {
       "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
       "url": "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions",
@@ -226,14 +282,6 @@
       "date": "2026-11-23T00:32:07.000Z"
     },
     {
-      "title": "Linux 7.4-rc4 Released: \"It's Huge. What A Surprise.\"",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc4-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T23:13:30.000Z"
-    },
-    {
       "title": "Ivy",
       "url": "https://semantical.com/?utm_campaign=df-2026-12",
       "source": "Daring Fireball",
@@ -248,30 +296,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-22T21:30:00.000Z"
-    },
-    {
-      "title": "Gliver completes the Guix desktop",
-      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-22T20:10:15.000Z"
-    },
-    {
-      "title": "AMD Preps More Graphics Driver Fixes For Linux 7.5, More DCN6 Enablement",
-      "url": "https://www.phoronix.com/news/AMDGPU-More-DCN6-Linux-7.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T17:40:25.000Z"
-    },
-    {
-      "title": "CachyOS November 2026 Released With EAC Linux v2 Support, New Recovery Tool",
-      "url": "https://www.phoronix.com/news/CachyOS-November-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T13:15:03.000Z"
     },
     {
       "title": "From family to Fantin-Latour: group portraits go weird 2",
@@ -344,22 +368,6 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-21T12:30:00.000Z"
-    },
-    {
-      "title": "Saturday Mac riddles 387",
-      "url": "https://eclecticlight.co/2026/11/21/saturday-mac-riddles-387/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-21T09:00:00.000Z"
-    },
-    {
-      "title": "How much space is taken up by document versions?",
-      "url": "https://eclecticlight.co/2026/11/21/how-much-space-is-taken-up-by-document-versions/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-21T08:00:00.000Z"
     },
     {
       "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T18:21:55.000Z"
-    },
-    {
-      "title": "Chrome 157 on Googlebook actually packs way more desktop upgrades than we thought",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQU5CcG4xRVA1VE83bGg4Y044c0JQNy1lMWpPanNlZ1FGUmxoUGhneldnTFcwTXFqbExvZlRrbUFuUS1UZ1F2ZDQwY3VuNUdGeWxWWkh0ZU1aRjNzVDA3X1dMVldvYzMtbndaZ0s0LWVTcjY0VDl0ZmVRN3g3Q3FWWkxzUEYzQnVPMlJMNDJLd1FBQmxxRl9hYVI1R3ZsRjQ2blBsRGJzZi1paTk2?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T15:20:15.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
