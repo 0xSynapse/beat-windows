@@ -1,6 +1,166 @@
 {
-  "generated": "2026-11-24T12:39:32.027Z",
+  "generated": "2026-11-24T23:03:26.909Z",
   "items": [
+    {
+      "title": "Nvidia and Trump’s State Capitalism",
+      "url": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T22:15:54.000Z"
+    },
+    {
+      "title": "Patriotism, Trump-Style",
+      "url": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T22:06:56.000Z"
+    },
+    {
+      "title": "Googlebook: Better Now? No. ⭐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJUUZ4anp6OXBJNk15d3lqbEEtd2Q3d0ktTWd6ZDNseS1aRFQxSU9zX2dtV0NUV0IwazhWTlllRDUzZkFxWnY1MjRiU01WTjFnN1c0YlNWU084MzAxblQwZGRyVFZjLWd0dFFvdU1jRjJkLWhNZ1ZHTFU1dXNjcVczdG1TUEJWbHh2Wg?oc=5",
+      "source": "Thurrott.com",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-24T21:59:40.000Z"
+    },
+    {
+      "title": "Linus Torvalds: \"Tell Your AI Companion To Get Its Act Together\"",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T21:01:36.000Z"
+    },
+    {
+      "title": "Pop!_OS 26.04 LTS Released With More COSMIC Apps, Remote Desktop & More",
+      "url": "https://www.phoronix.com/news/Pop-OS-26.04-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T21:00:00.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 Review: Gorgeous Screen, Tough Sell",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkhxT3cyNWhwOWhWMkhFdk9rMmZhcVhzUnpyTmVQM3JaY3QzMVpuYTRuUjh1Vi1kaVFUUVVCSlBKTEE0MWVUSE80ai1xYVlobm41Tl82dnBiTmN5RTlrLW51SnFkZGw0OTdwaEVwbnJyMnhMNENnS29JUHZWLXEzWDk1MlByX19Ka2RWclRHQWcwWEdv?oc=5",
+      "source": "PCMag Australia",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-24T20:49:01.000Z"
+    },
+    {
+      "title": "‘The Economy Is a Hostage Situation’",
+      "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T19:16:24.000Z"
+    },
+    {
+      "title": "I Told You to Bet the Over",
+      "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T19:12:09.000Z"
+    },
+    {
+      "title": "When I need to get technical work done, I still reach for a Chromebook over a Googlebook",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3BQWTUybkViRmNJT2hCX3ViRkN2MnN4QnFSXzl1dmJ1YzYwaXMzNkZOUXkyWFVtaFdUc2FMNUNNb1pXSzNBVGhWd0JiNWNxdmszTkNFbldkd1R3NTJHRlE3eTc2YjJXN0tnOHVYTW5jVHdVVFZfdnRBc25udFRyUTliUnV0VERNa2tiV00xR3liWXMyYXJIcTZrajBFbjB4OHJfY2FTMGZ4dWRfWkJFajlueU8?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-24T18:26:57.000Z"
+    },
+    {
+      "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+      "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+      "source": "Lobsters · openbsd",
+      "tag": "bsd",
+      "site": "https://lobste.rs/t/openbsd",
+      "date": "2026-11-24T17:45:29.000Z"
+    },
+    {
+      "title": "Restoring a 1982 ‘Star Wars’ Poster From Japan",
+      "url": "https://www.instagram.com/p/DcUk0WjBwVI/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T17:29:01.000Z"
+    },
+    {
+      "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001",
+      "url": "https://www.threads.com/@meidastouch/post/DgGKhbTAka5",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T17:00:41.000Z"
+    },
+    {
+      "title": "David Sacks’s Pool Boy Is Cocky",
+      "url": "https://www.threads.com/@karaswisher/post/DgGBe_XI147",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T16:30:58.000Z"
+    },
+    {
+      "title": "Firefox 161.0 released",
+      "url": "https://lwn.net/Articles/1109478/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-24T16:18:02.000Z"
+    },
+    {
+      "title": "Ubuntu Outlines Plans For Its AI-Powered New Way To Interact With The Ubuntu Desktop",
+      "url": "https://www.phoronix.com/news/Ubuntu-AI-Desktop-Interact",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T16:12:00.000Z"
+    },
+    {
+      "title": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T15:43:21.000Z"
+    },
+    {
+      "title": "Ubuntu 26.10 Provides Some Performance Gains For Intel Panther Lake On The Dell XPS 14",
+      "url": "https://www.phoronix.com/review/ubuntu-2610-dell-xps-14",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T15:35:30.000Z"
+    },
+    {
+      "title": "Collabora Online Sharply Reduces Server Memory Use With New Optimization",
+      "url": "https://www.phoronix.com/news/Collabora-Online-Half-Memory",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T14:50:00.000Z"
+    },
+    {
+      "title": "Security updates for Tuesday",
+      "url": "https://lwn.net/Articles/1109472/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-24T14:03:12.000Z"
+    },
+    {
+      "title": "TornadoVM 8.2 Released With ROCm HIP Backend For AMD GPUs",
+      "url": "https://www.phoronix.com/news/TornadoVM-8.2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T13:24:22.000Z"
+    },
     {
       "title": "Portraits of trees: Barren",
       "url": "https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/",
@@ -56,6 +216,14 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-24T05:55:31.000Z"
+    },
+    {
+      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
+      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T02:00:00.000Z"
     },
     {
       "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
@@ -138,14 +306,6 @@
       "date": "2026-11-23T16:00:29.000Z"
     },
     {
-      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
-      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T16:00:00.000Z"
-    },
-    {
       "title": "Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5",
       "source": "Dawan Africa",
@@ -194,68 +354,12 @@
       "date": "2026-11-23T14:20:05.000Z"
     },
     {
-      "title": "Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section",
-      "url": "https://www.phoronix.com/news/Firefox-161",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T14:11:54.000Z"
-    },
-    {
-      "title": "Security updates for Monday",
-      "url": "https://lwn.net/Articles/1109268/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-23T14:10:48.000Z"
-    },
-    {
-      "title": "Seven stable kernels for Monday",
-      "url": "https://lwn.net/Articles/1108909/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-23T13:23:43.000Z"
-    },
-    {
-      "title": "XNU Linux Lets macOS Userspace Processes Run On Linux",
-      "url": "https://www.phoronix.com/news/XNU-Linux",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T13:14:13.000Z"
-    },
-    {
-      "title": "LibreOffice 27.2 Alpha 1 Released For Testing",
-      "url": "https://www.phoronix.com/news/LibreOffice-27.2-Alpha-1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T13:04:56.000Z"
-    },
-    {
       "title": "Hero or hooligan: Aeneas in the Underworld",
       "url": "https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-23T12:30:00.000Z"
-    },
-    {
-      "title": "VKD3D 2.2 Released With More Improvements For Direct3D 12 On Vulkan",
-      "url": "https://www.phoronix.com/news/VKD3D-2.2-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T11:36:58.000Z"
-    },
-    {
-      "title": "Mesa 27.0 Merges LLVMpipe AVX-512 Support",
-      "url": "https://www.phoronix.com/news/Mesa-27.0-AVX-512-LLVMpipe",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T11:24:55.000Z"
     },
     {
       "title": "Solutions to Saturday Mac riddles 387",
@@ -274,46 +378,6 @@
       "date": "2026-11-23T07:30:00.000Z"
     },
     {
-      "title": "Kernel prepatch 7.4-rc4",
-      "url": "https://lwn.net/Articles/1108900/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-23T00:32:07.000Z"
-    },
-    {
-      "title": "Ivy",
-      "url": "https://semantical.com/?utm_campaign=df-2026-12",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-22T23:04:30.000Z"
-    },
-    {
-      "title": "Compromised eMudhra certificates, an update",
-      "url": "https://eclecticlight.co/2026/11/22/compromised-emudhra-certificates-an-update/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-22T21:30:00.000Z"
-    },
-    {
-      "title": "From family to Fantin-Latour: group portraits go weird 2",
-      "url": "https://eclecticlight.co/2026/11/22/from-family-to-fantin-latour-group-portraits-go-weird-2/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-22T12:30:00.000Z"
-    },
-    {
-      "title": "Last Week on My Mac: The resistible rise of onboarding controls",
-      "url": "https://eclecticlight.co/2026/11/22/last-week-on-my-mac-the-resistible-rise-of-onboarding-controls/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-22T08:00:00.000Z"
-    },
-    {
       "title": "Googlebook Weekly News Recap: November 16 – 22, 2026",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5",
       "source": "gbookhub.io",
@@ -330,44 +394,12 @@
       "date": "2026-11-21T20:11:18.000Z"
     },
     {
-      "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
-      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-21T20:09:57.000Z"
-    },
-    {
-      "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
-      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-21T18:28:22.000Z"
-    },
-    {
-      "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
-      "url": "https://support.apple.com/en-us/127901",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-21T18:02:51.000Z"
-    },
-    {
       "title": "Samsung Appears To Be Building One UI Android Laptops Outside Googlebook OS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5",
       "source": "About Chromebooks",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-21T15:56:12.000Z"
-    },
-    {
-      "title": "From family to Fantin-Latour: group portraits go weird 1",
-      "url": "https://eclecticlight.co/2026/11/21/from-family-to-fantin-latour-group-portraits-go-weird-1/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-21T12:30:00.000Z"
     },
     {
       "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
@@ -458,36 +490,12 @@
       "date": "2026-11-19T11:27:00.000Z"
     },
     {
-      "title": "Gemini in Chrome Now Works on Googlebook in Chrome 159 Beta",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UV0d0ZW5xeklQNjFKNmRvY0VjaGlBVGY2RTRMNmVvWkNsVzNmY25Gd2tsQ3JtNTlvUmZrY2tEc1BuTkk4R015VkVrcWc2WU5keVhlaU9oYUJSYW01ellUX1RhejI4dDdjcDlncHpISjFoVTQ?oc=5",
-      "source": "gbookhub.io",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-19T01:43:02.000Z"
-    },
-    {
-      "title": "A 10th Wildcat Lake Googlebook just appeared, hinting at cheaper hardware",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndtSDV0WDhLalRuMTl4YnFsUlJCQ3pDeGlJSWpuV25WUTlsZTBqM3RaSk9feUdMODZPb25aYjlUcGx6aUZPc0NxX2tYbzdLeDRxRDVvRXdIUkQ0Q3g4NFlMdzR0cldZS0ZfWlAwSlBITF9NQWFZM1A2ZW9iX3pCRnFhTHpNWnY2WkNQLXpMbFNOUUdBVHFmYXVQeGtjUVlw?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-18T16:32:56.000Z"
-    },
-    {
       "title": "FreeBSD GUS",
       "url": "https://gregoire.dev/writing/gus/",
       "source": "Lobsters · freebsd",
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-18T02:54:59.000Z"
-    },
-    {
-      "title": "Your Googlebook just got a Chrome update – 5 new features",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0taTlLcHFCeGdseWZ1SXAyWUxDdEJfaHk4YWpLTmdLVlhOYjAtMHJ1OWZzZGpOTm5vQXI3VHl0cHhsQWFiTGdlYWJ4MS1yN3ZUYWlZWF9fQl85eFNzemRWaGl3amhhMk5OZ2J3UHpqN2RyZTRqSjZB?oc=5",
-      "source": "ZDNET",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T18:21:55.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
