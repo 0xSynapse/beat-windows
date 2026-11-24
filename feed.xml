@@ -5,8 +5,120 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:16:19 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing</title>
+      <link>https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Tue, 24 Nov 2026 01:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sponsor] Finalist Daily Planner Meets iPhone Duo</title>
+      <link>https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</link>
+      <guid isPermaLink="true">https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 24 Nov 2026 00:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Returns to Work</title>
+      <link>https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 23 Nov 2026 23:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zstd 1.6 Released With Many Fixes, New Performance Optimizations</title>
+      <link>https://www.phoronix.com/news/Zstandard-Zstd-1.6</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Zstandard-Zstd-1.6</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 23:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ladybird Web Browser/Engine Reaches Alpha</title>
+      <link>https://www.phoronix.com/news/Ladybird-Browser-Alpha</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Ladybird-Browser-Alpha</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 21:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mesa 27.0 RadeonSI Gallium3D Disables Radeon Kernel Driver Support By Default</title>
+      <link>https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 19:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Mon, 23 Nov 2026 17:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump on Jensen Huang’s Reinstatement at Nvidia</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 23 Nov 2026 17:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI</title>
+      <link>https://www.phoronix.com/review/amd-epyc-9006-7601</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9006-7601</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 16:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’</title>
+      <link>https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 23 Nov 2026 16:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
+      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Dawan Africa</source>
+      <pubDate>Mon, 23 Nov 2026 15:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Government Regulation and Demand</title>
+      <link>https://stratechery.com/2026/obituaries/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 23 Nov 2026 15:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk Claims to Be Unfamiliar With MAGA</title>
+      <link>https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Mon, 23 Nov 2026 15:16:35 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia Board Reinstates Jensen Huang</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</link>
@@ -112,14 +224,6 @@
       <pubDate>Mon, 23 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
-      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 05:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Kernel prepatch 7.4-rc4</title>
       <link>https://lwn.net/Articles/1108900/</link>
       <guid isPermaLink="true">https://lwn.net/Articles/1108900/</guid>
@@ -176,52 +280,12 @@
       <pubDate>Sun, 22 Nov 2026 13:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>Intel Coral Rapids &amp; Razor Lake Model IDs Submitted For Linux 7.4-rc4</title>
-      <link>https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 13:06:26 GMT</pubDate>
-    </item>
-    <item>
       <title>From family to Fantin-Latour: group portraits go weird 2</title>
       <link>https://eclecticlight.co/2026/11/22/from-family-to-fantin-latour-group-portraits-go-weird-2/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/22/from-family-to-fantin-latour-group-portraits-go-weird-2/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Sun, 22 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CachyOS Releases Package Installer 2.0 With Convenient AUR / Flatpak / AppImage Support</title>
-      <link>https://www.phoronix.com/news/CachyOS-Package-Installer-2.0</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/CachyOS-Package-Installer-2.0</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 11:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.5 To Introduce Initial Mainline Support For Ambarella SoCs</title>
-      <link>https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 11:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSR2 &amp; Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5</title>
-      <link>https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 11:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The First Rust WMI Linux Driver Being Developed Is For Clevo Laptops</title>
-      <link>https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Sun, 22 Nov 2026 10:56:26 GMT</pubDate>
     </item>
     <item>
       <title>Last Week on My Mac: The resistible rise of onboarding controls</title>
@@ -304,28 +368,12 @@
       <pubDate>Sat, 21 Nov 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Talk Show: ‘A Whoopsie Treason’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/11/20/ep-457</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/11/20/ep-457</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Fri, 20 Nov 2026 23:28:51 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">TechRepublic</source>
       <pubDate>Fri, 20 Nov 2026 20:11:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple has just released updates to XProtect and XProtect Remediator for all macOS</title>
-      <link>https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 20 Nov 2026 19:30:24 GMT</pubDate>
     </item>
     <item>
       <title>Samsung is skipping Googlebook OS to build its own One UI-powered Android laptops</title>
@@ -358,54 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">SamMobile</source>
       <pubDate>Fri, 20 Nov 2026 13:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Monet: Series</title>
-      <link>https://eclecticlight.co/2026/11/20/claude-monet-series/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/claude-monet-series/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 20 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>One UI 9.5 code hints Samsung will push its own updates to its Android laptops</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Android Authority</source>
-      <pubDate>Fri, 20 Nov 2026 12:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trackpad gestures could return to normal by Christmas</title>
-      <link>https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Fri, 20 Nov 2026 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">GSMArena.com</source>
-      <pubDate>Fri, 20 Nov 2026 02:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>★ Jon McCormack Retires From Apple</title>
-      <link>https://daringfireball.net/2026/11/mccormack_retires_from_apple</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/mccormack_retires_from_apple</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Thu, 19 Nov 2026 22:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Thu, 19 Nov 2026 21:00:36 GMT</pubDate>
     </item>
   </channel>
 </rss>

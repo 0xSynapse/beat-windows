@@ -1,6 +1,118 @@
 {
-  "generated": "2026-11-23T14:49:17.083Z",
+  "generated": "2026-11-24T02:16:19.395Z",
   "items": [
+    {
+      "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
+      "url": "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-24T01:52:24.000Z"
+    },
+    {
+      "title": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
+      "url": "https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-24T00:03:56.000Z"
+    },
+    {
+      "title": "Jensen Huang Returns to Work",
+      "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T23:53:25.000Z"
+    },
+    {
+      "title": "Zstd 1.6 Released With Many Fixes, New Performance Optimizations",
+      "url": "https://www.phoronix.com/news/Zstandard-Zstd-1.6",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T23:00:32.000Z"
+    },
+    {
+      "title": "Ladybird Web Browser/Engine Reaches Alpha",
+      "url": "https://www.phoronix.com/news/Ladybird-Browser-Alpha",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T21:00:14.000Z"
+    },
+    {
+      "title": "Mesa 27.0 RadeonSI Gallium3D Disables Radeon Kernel Driver Support By Default",
+      "url": "https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T19:11:36.000Z"
+    },
+    {
+      "title": "Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-23T17:34:02.000Z"
+    },
+    {
+      "title": "Donald Trump on Jensen Huang’s Reinstatement at Nvidia",
+      "url": "https://truthsocial.com/@realDonaldTrump/posts/117666713950631493",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T17:22:03.000Z"
+    },
+    {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T16:35:50.000Z"
+    },
+    {
+      "title": "Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’",
+      "url": "https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T16:00:29.000Z"
+    },
+    {
+      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
+      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-23T16:00:00.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5",
+      "source": "Dawan Africa",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-23T15:35:39.000Z"
+    },
+    {
+      "title": "Government Regulation and Demand",
+      "url": "https://stratechery.com/2026/obituaries/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T15:31:50.000Z"
+    },
+    {
+      "title": "Elon Musk Claims to Be Unfamiliar With MAGA",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-23T15:16:35.000Z"
+    },
     {
       "title": "Nvidia Board Reinstates Jensen Huang",
       "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
@@ -106,14 +218,6 @@
       "date": "2026-11-23T07:30:00.000Z"
     },
     {
-      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
-      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T05:00:00.000Z"
-    },
-    {
       "title": "Kernel prepatch 7.4-rc4",
       "url": "https://lwn.net/Articles/1108900/",
       "source": "LWN",
@@ -170,52 +274,12 @@
       "date": "2026-11-22T13:15:03.000Z"
     },
     {
-      "title": "Intel Coral Rapids & Razor Lake Model IDs Submitted For Linux 7.4-rc4",
-      "url": "https://www.phoronix.com/news/Coral-Rapids-Razor-Lake-7.4",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T13:06:26.000Z"
-    },
-    {
       "title": "From family to Fantin-Latour: group portraits go weird 2",
       "url": "https://eclecticlight.co/2026/11/22/from-family-to-fantin-latour-group-portraits-go-weird-2/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-22T12:30:00.000Z"
-    },
-    {
-      "title": "CachyOS Releases Package Installer 2.0 With Convenient AUR / Flatpak / AppImage Support",
-      "url": "https://www.phoronix.com/news/CachyOS-Package-Installer-2.0",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T11:55:29.000Z"
-    },
-    {
-      "title": "Linux 7.5 To Introduce Initial Mainline Support For Ambarella SoCs",
-      "url": "https://www.phoronix.com/news/Linux-7.5-Ambarella-SoCs",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T11:35:20.000Z"
-    },
-    {
-      "title": "PSR2 & Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5",
-      "url": "https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T11:14:00.000Z"
-    },
-    {
-      "title": "The First Rust WMI Linux Driver Being Developed Is For Clevo Laptops",
-      "url": "https://www.phoronix.com/news/Rust-WMI-Driver-Clevo-Laptops",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-22T10:56:26.000Z"
     },
     {
       "title": "Last Week on My Mac: The resistible rise of onboarding controls",
@@ -298,28 +362,12 @@
       "date": "2026-11-21T08:00:00.000Z"
     },
     {
-      "title": "The Talk Show: ‘A Whoopsie Treason’",
-      "url": "https://daringfireball.net/thetalkshow/2026/11/20/ep-457",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-20T23:28:51.000Z"
-    },
-    {
       "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oN1R6MldKdDJ3VVlBckZNZmgyazhsYkM4czd5WVJHV1VPZWRNaE9hOFJfajJQNVI4X1JpZ1ZoLU9IWXktd1lOX1B3NjdxY29qYTlLdS0xaWZxSzFiMDBtODhOLTlOMndXRXR4OTVxNDFfOTBWYXFLMG5IeHg?oc=5",
       "source": "TechRepublic",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T20:11:16.000Z"
-    },
-    {
-      "title": "Apple has just released updates to XProtect and XProtect Remediator for all macOS",
-      "url": "https://eclecticlight.co/2026/11/20/apple-has-just-released-updates-to-xprotect-and-xprotect-remediator-for-all-macos/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-20T19:30:24.000Z"
     },
     {
       "title": "Samsung is skipping Googlebook OS to build its own One UI-powered Android laptops",
@@ -354,28 +402,12 @@
       "date": "2026-11-20T13:35:00.000Z"
     },
     {
-      "title": "Claude Monet: Series",
-      "url": "https://eclecticlight.co/2026/11/20/claude-monet-series/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-20T12:30:00.000Z"
-    },
-    {
       "title": "One UI 9.5 code hints Samsung will push its own updates to its Android laptops",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5",
       "source": "Android Authority",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T12:26:00.000Z"
-    },
-    {
-      "title": "Trackpad gestures could return to normal by Christmas",
-      "url": "https://eclecticlight.co/2026/11/20/trackpad-gestures-could-return-to-normal-by-christmas/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-20T07:30:00.000Z"
     },
     {
       "title": "Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news",
@@ -386,28 +418,12 @@
       "date": "2026-11-20T02:31:02.000Z"
     },
     {
-      "title": "★ Jon McCormack Retires From Apple",
-      "url": "https://daringfireball.net/2026/11/mccormack_retires_from_apple",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-19T22:25:12.000Z"
-    },
-    {
       "title": "A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-19T21:00:36.000Z"
-    },
-    {
-      "title": "Google’s Spark AI Agent Becomes ‘Tasks’",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-19T20:54:10.000Z"
     },
     {
       "title": "Acer Googlebook 14 (2026) Review",
@@ -472,22 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-17T15:20:15.000Z"
-    },
-    {
-      "title": "Chrome on Googlebook gets proper desktop-style vertical tabs stacking and more",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU40bjFxT2tNdGxjc3JHTzlBWnctT1FpUklQdmNLLWlxYnQ2dHFmeDVROGVFUW80UXJmVVYzVXJUZF9RMU9qd09YTF9XZjd0VXlpZ2F5MGphc1RVSDkyUnAyUlYzZWIxeExQTXpqZWJJNUctWXg5U2ZfWlBTZ281VjVfeFU?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T09:05:00.000Z"
-    },
-    {
-      "title": "Acer Googlebook 14 review: What rotates in tablet mode",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWFlWDVLcW1pUkZwQktkYVNiWmdjODM2RVdxQUY2X1VadkJZaHlLM3d5bU5MN3VZOWNKQzBCNDdhZDFyM0pEbnp0QWVIeVdzeFQxWjM1SmdoTVRRbVNPc3hPd1lYcjhCSU85VDEySG00NVVVY0ZIMnY2c0M1VmlzUkJZZ3ZMQQ?oc=5",
-      "source": "NeoTeo",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-17T08:08:26.000Z"
     },
     {
       "title": "Local Mirror for FreeBSD pkgbase",
