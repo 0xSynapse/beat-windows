@@ -5,8 +5,32 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:27:50 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Benchmarking The Performance Benefit Of FRED On AMD Zen 6</title>
+      <link>https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 01:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau</title>
+      <link>https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/</link>
+      <guid isPermaLink="true">https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 24 Nov 2026 23:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Made Up to $15M on Nvidia Stock After Huang’s Return</title>
+      <link>https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Tue, 24 Nov 2026 23:07:02 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia and Trump’s State Capitalism</title>
       <link>https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c</link>
@@ -29,7 +53,7 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJUUZ4anp6OXBJNk15d3lqbEEtd2Q3d0ktTWd6ZDNseS1aRFQxSU9zX2dtV0NUV0IwazhWTlllRDUzZkFxWnY1MjRiU01WTjFnN1c0YlNWU084MzAxblQwZGRyVFZjLWd0dFFvdU1jRjJkLWhNZ1ZHTFU1dXNjcVczdG1TUEJWbHh2Wg?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Thurrott.com</source>
-      <pubDate>Tue, 24 Nov 2026 21:59:40 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 21:59:48 GMT</pubDate>
     </item>
     <item>
       <title>Linus Torvalds: &quot;Tell Your AI Companion To Get Its Act Together&quot;</title>
@@ -352,36 +376,12 @@
       <pubDate>Mon, 23 Nov 2026 14:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>Jensen Huang Reinstated As NVIDIA CEO &amp; Board Director</title>
-      <link>https://www.phoronix.com/news/Jensen-Back-NVIDIA-CEO</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Jensen-Back-NVIDIA-CEO</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 14:20:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Hero or hooligan: Aeneas in the Underworld</title>
       <link>https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Mon, 23 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solutions to Saturday Mac riddles 387</title>
-      <link>https://eclecticlight.co/2026/11/23/solutions-to-saturday-mac-riddles-387/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/23/solutions-to-saturday-mac-riddles-387/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deversion locates, checks and deletes saved versions</title>
-      <link>https://eclecticlight.co/2026/11/23/deversion-locates-checks-and-deletes-saved-versions/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/23/deversion-locates-checks-and-deletes-saved-versions/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 23 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook Weekly News Recap: November 16 – 22, 2026</title>
