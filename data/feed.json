@@ -1,6 +1,142 @@
 {
-  "generated": "2026-11-25T05:27:50.766Z",
+  "generated": "2026-11-25T17:20:29.263Z",
   "items": [
+    {
+      "title": "‘The Life of a Composer’",
+      "url": "https://composer.pablostanley.com/#1",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-25T17:04:06.000Z"
+    },
+    {
+      "title": "PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice",
+      "url": "https://www.phoronix.com/review/postgresql-19-benchmarks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T16:31:14.000Z"
+    },
+    {
+      "title": "20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain",
+      "url": "https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-25T16:22:27.000Z"
+    },
+    {
+      "title": "Pop!_OS 26.04 LTS vs. Pop!_OS 24.04 LTS Benchmarks",
+      "url": "https://www.phoronix.com/review/pop-os-2604-benchmarks",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T14:38:32.000Z"
+    },
+    {
+      "title": "[$] Tainting (or not) on manual driver binding",
+      "url": "https://lwn.net/Articles/1103714/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-25T14:36:07.000Z"
+    },
+    {
+      "title": "Pop!_OS 26.04 LTS released",
+      "url": "https://lwn.net/Articles/1109662/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-25T14:34:00.000Z"
+    },
+    {
+      "title": "Security updates for Wednesday",
+      "url": "https://lwn.net/Articles/1109650/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-25T14:06:22.000Z"
+    },
+    {
+      "title": "Servo Now Supports HTML Video Captions, Flutter Web Content Working",
+      "url": "https://www.phoronix.com/news/Servo-0.8-October-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T13:58:00.000Z"
+    },
+    {
+      "title": "GNU Linux-Libre Celebrates Reverse Engineered Firmware For Old 802.11 b/g WiFi Chipset",
+      "url": "https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T13:35:59.000Z"
+    },
+    {
+      "title": "Painting a good story: Popularity",
+      "url": "https://eclecticlight.co/2026/11/25/painting-a-good-story-popularity/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-25T12:30:00.000Z"
+    },
+    {
+      "title": "Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA \"P2PDMA\"",
+      "url": "https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T11:38:18.000Z"
+    },
+    {
+      "title": "Linux 7.4 Disables LLVM Profi Usage To Avoid Performance Hit, Pathological Build Times",
+      "url": "https://www.phoronix.com/news/Linux-Kernel-Disable-Profi",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T11:27:04.000Z"
+    },
+    {
+      "title": "Googlebook Play/Pause Keyboard Shortcuts in the Works, With a Workaround",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9IV1Q0NWxURzdGMkw0S0dMTUdsblQ4VlFfOEZXWnN5d1dDQXE0ejNHMEt0d0VseEVmVVRYSjRVd0U2a3AwMGszc3dMakM0dDBrUXRRU0RiTklJel9nUEJkZVFUZWZqeEpZV05YdDBxaFNxNHlneHc5dDN1dzVjSEVtdk5XZFMycWc?oc=5",
+      "source": "gbookhub.io",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-25T11:20:19.000Z"
+    },
+    {
+      "title": "3mdeb Updates Their Open-Source Coreboot-Based Firmware For MSI PRO Z690-A/Z790-P",
+      "url": "https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T11:10:02.000Z"
+    },
+    {
+      "title": "Alien Arena Comes To Flathub, Rolls Out Many Optimizations",
+      "url": "https://www.phoronix.com/news/Alien-Arena-Flathub",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T10:52:52.000Z"
+    },
+    {
+      "title": "What space is purgeable, and how to purge it?",
+      "url": "https://eclecticlight.co/2026/11/25/what-space-is-purgeable-and-how-to-purge-it/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-25T07:30:00.000Z"
+    },
+    {
+      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
+      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-25T02:00:00.000Z"
+    },
     {
       "title": "Benchmarking The Performance Benefit Of FRED On AMD Zen 6",
       "url": "https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits",
@@ -178,52 +314,12 @@
       "date": "2026-11-24T14:03:12.000Z"
     },
     {
-      "title": "TornadoVM 8.2 Released With ROCm HIP Backend For AMD GPUs",
-      "url": "https://www.phoronix.com/news/TornadoVM-8.2",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T13:24:22.000Z"
-    },
-    {
       "title": "Portraits of trees: Barren",
       "url": "https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-24T12:30:00.000Z"
-    },
-    {
-      "title": "HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware",
-      "url": "https://www.phoronix.com/news/Linux-7.4-rc5-HID",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T12:08:19.000Z"
-    },
-    {
-      "title": "zlib-rs 0.6.9 Released With Performance Improvements",
-      "url": "https://www.phoronix.com/news/zlib-rs-0.6.9",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T11:11:56.000Z"
-    },
-    {
-      "title": "SUSE Rolling Out \"The First AI-Ready OS Installer\"",
-      "url": "https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T10:58:14.000Z"
-    },
-    {
-      "title": "Proton 11.0-3 Released For Valve's Steam Play With More Games Now Playable",
-      "url": "https://www.phoronix.com/news/Proton-11.0-3-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T10:23:41.000Z"
     },
     {
       "title": "How normalisation and case folding in APFS led to vulnerabilities",
@@ -242,22 +338,6 @@
       "date": "2026-11-24T05:55:31.000Z"
     },
     {
-      "title": "Black Friday / End Of Year Special & The Unfortunate Ad Network Situation This Year",
-      "url": "https://www.phoronix.com/news/Black-Friday-Week-2026",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T02:00:00.000Z"
-    },
-    {
-      "title": "Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing",
-      "url": "https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T01:52:24.000Z"
-    },
-    {
       "title": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
       "url": "https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026",
       "source": "Daring Fireball",
@@ -272,30 +352,6 @@
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-23T23:53:25.000Z"
-    },
-    {
-      "title": "Zstd 1.6 Released With Many Fixes, New Performance Optimizations",
-      "url": "https://www.phoronix.com/news/Zstandard-Zstd-1.6",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T23:00:32.000Z"
-    },
-    {
-      "title": "Ladybird Web Browser/Engine Reaches Alpha",
-      "url": "https://www.phoronix.com/news/Ladybird-Browser-Alpha",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T21:00:14.000Z"
-    },
-    {
-      "title": "Mesa 27.0 RadeonSI Gallium3D Disables Radeon Kernel Driver Support By Default",
-      "url": "https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T19:11:36.000Z"
     },
     {
       "title": "Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’",
@@ -314,14 +370,6 @@
       "date": "2026-11-23T17:22:03.000Z"
     },
     {
-      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI",
-      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-23T16:35:50.000Z"
-    },
-    {
       "title": "Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’",
       "url": "https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo",
       "source": "Daring Fireball",
@@ -336,46 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-23T15:35:39.000Z"
-    },
-    {
-      "title": "Government Regulation and Demand",
-      "url": "https://stratechery.com/2026/obituaries/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T15:31:50.000Z"
-    },
-    {
-      "title": "Elon Musk Claims to Be Unfamiliar With MAGA",
-      "url": "https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T15:16:35.000Z"
-    },
-    {
-      "title": "Nvidia Board Reinstates Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T14:43:27.000Z"
-    },
-    {
-      "title": "CachyOS November 2026 release",
-      "url": "https://lwn.net/Articles/1109269/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-23T14:21:41.000Z"
-    },
-    {
-      "title": "Hero or hooligan: Aeneas in the Underworld",
-      "url": "https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/",
-      "source": "Eclectic Light",
-      "tag": "macos",
-      "site": "https://eclecticlight.co/",
-      "date": "2026-11-23T12:30:00.000Z"
     },
     {
       "title": "Googlebook Weekly News Recap: November 16 – 22, 2026",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://9to5google.com/guides/googlebook/",
       "date": "2026-11-19T14:30:00.000Z"
-    },
-    {
-      "title": "Exclusive: Samsung’s upcoming 14-inch and 16-inch Android laptops are codenamed ‘Origin’",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlUbjk5SUJxMC1ieExodlN3LTd2cGpDRl96WGxFWXE1SktpY2RDSmtRMjdFTE42M041bm1DbjA4aE45S1Z6NXJHS1k4MGx5RnF2QlRPaWVwSF8tb1hFV0JwNnhQYVdadWpnNXMtSHAtMTJyc3JFc3hBWklFT0tqOWotWGRQa0ladDlEY0gwZlZfc3dlWVpCdHU4Qkg?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-19T11:27:00.000Z"
     },
     {
       "title": "FreeBSD GUS",

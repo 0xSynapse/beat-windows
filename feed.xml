@@ -5,8 +5,144 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:20:29 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The Life of a Composer’</title>
+      <link>https://composer.pablostanley.com/#1</link>
+      <guid isPermaLink="true">https://composer.pablostanley.com/#1</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 25 Nov 2026 17:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice</title>
+      <link>https://www.phoronix.com/review/postgresql-19-benchmarks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/postgresql-19-benchmarks</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 16:31:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain</title>
+      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 25 Nov 2026 16:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pop!_OS 26.04 LTS vs. Pop!_OS 24.04 LTS Benchmarks</title>
+      <link>https://www.phoronix.com/review/pop-os-2604-benchmarks</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/pop-os-2604-benchmarks</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 14:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[$] Tainting (or not) on manual driver binding</title>
+      <link>https://lwn.net/Articles/1103714/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1103714/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 25 Nov 2026 14:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pop!_OS 26.04 LTS released</title>
+      <link>https://lwn.net/Articles/1109662/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1109662/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 25 Nov 2026 14:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Wednesday</title>
+      <link>https://lwn.net/Articles/1109650/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1109650/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 25 Nov 2026 14:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Servo Now Supports HTML Video Captions, Flutter Web Content Working</title>
+      <link>https://www.phoronix.com/news/Servo-0.8-October-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Servo-0.8-October-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 13:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNU Linux-Libre Celebrates Reverse Engineered Firmware For Old 802.11 b/g WiFi Chipset</title>
+      <link>https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/GNU-Linux-Libre-VIA-VT6656</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 13:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Painting a good story: Popularity</title>
+      <link>https://eclecticlight.co/2026/11/25/painting-a-good-story-popularity/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/25/painting-a-good-story-popularity/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 25 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA &quot;P2PDMA&quot;</title>
+      <link>https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.5-Intel-Xeon-P2PDMA</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 11:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 7.4 Disables LLVM Profi Usage To Avoid Performance Hit, Pathological Build Times</title>
+      <link>https://www.phoronix.com/news/Linux-Kernel-Disable-Profi</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Kernel-Disable-Profi</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 11:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebook Play/Pause Keyboard Shortcuts in the Works, With a Workaround</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9IV1Q0NWxURzdGMkw0S0dMTUdsblQ4VlFfOEZXWnN5d1dDQXE0ejNHMEt0d0VseEVmVVRYSjRVd0U2a3AwMGszc3dMakM0dDBrUXRRU0RiTklJel9nUEJkZVFUZWZqeEpZV05YdDBxaFNxNHlneHc5dDN1dzVjSEVtdk5XZFMycWc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9IV1Q0NWxURzdGMkw0S0dMTUdsblQ4VlFfOEZXWnN5d1dDQXE0ejNHMEt0d0VseEVmVVRYSjRVd0U2a3AwMGszc3dMakM0dDBrUXRRU0RiTklJel9nUEJkZVFUZWZqeEpZV05YdDBxaFNxNHlneHc5dDN1dzVjSEVtdk5XZFMycWc?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">gbookhub.io</source>
+      <pubDate>Wed, 25 Nov 2026 11:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>3mdeb Updates Their Open-Source Coreboot-Based Firmware For MSI PRO Z690-A/Z790-P</title>
+      <link>https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/2026-Firmware-MSI-PRO-Z690-Z790</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 11:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alien Arena Comes To Flathub, Rolls Out Many Optimizations</title>
+      <link>https://www.phoronix.com/news/Alien-Arena-Flathub</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Alien-Arena-Flathub</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 10:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>What space is purgeable, and how to purge it?</title>
+      <link>https://eclecticlight.co/2026/11/25/what-space-is-purgeable-and-how-to-purge-it/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/25/what-space-is-purgeable-and-how-to-purge-it/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Wed, 25 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
+      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Wed, 25 Nov 2026 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Benchmarking The Performance Benefit Of FRED On AMD Zen 6</title>
       <link>https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits</link>
@@ -184,52 +320,12 @@
       <pubDate>Tue, 24 Nov 2026 14:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>TornadoVM 8.2 Released With ROCm HIP Backend For AMD GPUs</title>
-      <link>https://www.phoronix.com/news/TornadoVM-8.2</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/TornadoVM-8.2</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 13:24:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Portraits of trees: Barren</title>
       <link>https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/24/portraits-of-trees-barren/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Tue, 24 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-rc5-HID</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-rc5-HID</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 12:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>zlib-rs 0.6.9 Released With Performance Improvements</title>
-      <link>https://www.phoronix.com/news/zlib-rs-0.6.9</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/zlib-rs-0.6.9</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 11:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>SUSE Rolling Out &quot;The First AI-Ready OS Installer&quot;</title>
-      <link>https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/SUSE-Agama-Adding-AI-MCP</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 10:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 11.0-3 Released For Valve's Steam Play With More Games Now Playable</title>
-      <link>https://www.phoronix.com/news/Proton-11.0-3-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Proton-11.0-3-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 10:23:41 GMT</pubDate>
     </item>
     <item>
       <title>How normalisation and case folding in APFS led to vulnerabilities</title>
@@ -248,22 +344,6 @@
       <pubDate>Tue, 24 Nov 2026 05:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
-      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa's NVK NVIDIA Driver Another Step Closer To Vulkan Ray-Tracing</title>
-      <link>https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Mesa-NVK-TTU-Instructions</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 01:52:24 GMT</pubDate>
-    </item>
-    <item>
       <title>[Sponsor] Finalist Daily Planner Meets iPhone Duo</title>
       <link>https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</link>
       <guid isPermaLink="true">https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</guid>
@@ -278,30 +358,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Mon, 23 Nov 2026 23:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zstd 1.6 Released With Many Fixes, New Performance Optimizations</title>
-      <link>https://www.phoronix.com/news/Zstandard-Zstd-1.6</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Zstandard-Zstd-1.6</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 23:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ladybird Web Browser/Engine Reaches Alpha</title>
-      <link>https://www.phoronix.com/news/Ladybird-Browser-Alpha</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ladybird-Browser-Alpha</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 21:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mesa 27.0 RadeonSI Gallium3D Disables Radeon Kernel Driver Support By Default</title>
-      <link>https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/RadeonSI-Radeon-Disable-Default</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 19:11:36 GMT</pubDate>
     </item>
     <item>
       <title>Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’</title>
@@ -320,14 +376,6 @@
       <pubDate>Mon, 23 Nov 2026 17:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean In Less Than 10 Years, Up To 133x In AI</title>
-      <link>https://www.phoronix.com/review/amd-epyc-9006-7601</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/amd-epyc-9006-7601</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Mon, 23 Nov 2026 16:35:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’</title>
       <link>https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</link>
       <guid isPermaLink="true">https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</guid>
@@ -344,46 +392,6 @@
       <pubDate>Mon, 23 Nov 2026 15:35:39 GMT</pubDate>
     </item>
     <item>
-      <title>Government Regulation and Demand</title>
-      <link>https://stratechery.com/2026/obituaries/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 15:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk Claims to Be Unfamiliar With MAGA</title>
-      <link>https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</link>
-      <guid isPermaLink="true">https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 15:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Board Reinstates Jensen Huang</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</link>
-      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 14:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>CachyOS November 2026 release</title>
-      <link>https://lwn.net/Articles/1109269/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1109269/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Mon, 23 Nov 2026 14:21:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hero or hooligan: Aeneas in the Underworld</title>
-      <link>https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/</link>
-      <guid isPermaLink="true">https://eclecticlight.co/2026/11/23/hero-or-hooligan-aeneas-in-the-underworld/</guid>
-      <category>macos</category>
-      <source url="https://eclecticlight.co/">Eclectic Light</source>
-      <pubDate>Mon, 23 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook Weekly News Recap: November 16 – 22, 2026</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE94N201RFhzQXZHQkQyQzFOVjM1RlE4a3l1TU00RFFacklvV3RNUU1FZmMxWHJlUVRzNVFpOWtERXJwVDZkUVFIaGlFc3A1am5rRTZSZ25MR29CQk9ad29LNmRlNnlUc0wxOXQ1SGNqTkNzaFBrNkJ3?oc=5</guid>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Sat, 21 Nov 2026 20:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung Appears To Be Building One UI Android Laptops Outside Googlebook OS</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWY2V2pRaVdrUktkUElyaW94YXJCbDZmMFd3cW1TNkdNVzdadDhobnZMdHphLUh1SVVEeGxfN0dGZnVTWWtOam1hWktCWGFFMllvbE5zdWhSVVA5YU5VQWtkUGtsTWM5YmJPdC1KZHQxc0tZVy1QVVdwRGlrNUdGRksxTDNtNFZZTEU5b3R2clRHaW9Cc0VEUUp6ZE1YRU0wNHhaWmF3R0dTdWItdUE?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">About Chromebooks</source>
-      <pubDate>Sat, 21 Nov 2026 15:56:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
