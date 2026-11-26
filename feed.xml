@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:48:40 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK</title>
+      <link>https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Thu, 26 Nov 2026 01:39:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term</title>
+      <link>https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Thu, 26 Nov 2026 00:16:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <guid isPermaLink="true">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 25 Nov 2026 22:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’</title>
+      <link>https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Wed, 25 Nov 2026 22:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>SENix: Towards SELinux on NixOS</title>
+      <link>https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418</link>
+      <guid isPermaLink="true">https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 25 Nov 2026 20:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slow Ubuntu security response times</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
+      <guid isPermaLink="true">https://www.openwall.com/lists/oss-security/2026/11/25/9</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Wed, 25 Nov 2026 20:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flagships, tablets, or budget laptops: why the Googlebook launch was always going to be a gamble</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Y2QlphRnZMZlNyQktMTjEwN243Vk5CdGI3YnAxekF0ZnN0QTZPMk1oUnVHYmtnb2Z3TElrZlNVeVVHVGVTcUc5OW5RbmJXbDBqMVZfR0NTTTFyWHBza080WlJNQXhIenFVY0JqbElnbzhXYjZZVFJjWlBqS1dYdkRqbFFXTGRnNGNpdmFlVEstRDR4N193MlVYTnVSejZTbjY5Nk1heDhrdElmZ0VTeXNpTXRfQzRFQ1pOZQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Y2QlphRnZMZlNyQktMTjEwN243Vk5CdGI3YnAxekF0ZnN0QTZPMk1oUnVHYmtnb2Z3TElrZlNVeVVHVGVTcUc5OW5RbmJXbDBqMVZfR0NTTTFyWHBza080WlJNQXhIenFVY0JqbElnbzhXYjZZVFJjWlBqS1dYdkRqbFFXTGRnNGNpdmFlVEstRDR4N193MlVYTnVSejZTbjY5Nk1heDhrdElmZ0VTeXNpTXRfQzRFQ1pOZQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Chrome Unboxed</source>
+      <pubDate>Wed, 25 Nov 2026 18:24:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dave Täht given the Jonathan B. Postel Service Award</title>
+      <link>https://lwn.net/Articles/1109691/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1109691/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Wed, 25 Nov 2026 18:16:51 GMT</pubDate>
+    </item>
     <item>
       <title>‘The Life of a Composer’</title>
       <link>https://composer.pablostanley.com/#1</link>
@@ -25,8 +89,8 @@
     </item>
     <item>
       <title>20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain</title>
-      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</guid>
+      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 25 Nov 2026 16:22:27 GMT</pubDate>
@@ -280,44 +344,12 @@
       <pubDate>Tue, 24 Nov 2026 16:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Outlines Plans For Its AI-Powered New Way To Interact With The Ubuntu Desktop</title>
-      <link>https://www.phoronix.com/news/Ubuntu-AI-Desktop-Interact</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-AI-Desktop-Interact</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 16:12:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker</title>
       <link>https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</link>
       <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</guid>
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 24 Nov 2026 15:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 Provides Some Performance Gains For Intel Panther Lake On The Dell XPS 14</title>
-      <link>https://www.phoronix.com/review/ubuntu-2610-dell-xps-14</link>
-      <guid isPermaLink="true">https://www.phoronix.com/review/ubuntu-2610-dell-xps-14</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 15:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collabora Online Sharply Reduces Server Memory Use With New Optimization</title>
-      <link>https://www.phoronix.com/news/Collabora-Online-Half-Memory</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Collabora-Online-Half-Memory</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Tue, 24 Nov 2026 14:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security updates for Tuesday</title>
-      <link>https://lwn.net/Articles/1109472/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1109472/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Tue, 24 Nov 2026 14:03:12 GMT</pubDate>
     </item>
     <item>
       <title>Portraits of trees: Barren</title>
@@ -352,36 +384,12 @@
       <pubDate>Tue, 24 Nov 2026 00:03:56 GMT</pubDate>
     </item>
     <item>
-      <title>Jensen Huang Returns to Work</title>
-      <link>https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 23:53:25 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</guid>
       <category>android</category>
       <source url="https://news.google.com/">Chrome Unboxed</source>
       <pubDate>Mon, 23 Nov 2026 17:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump on Jensen Huang’s Reinstatement at Nvidia</title>
-      <link>https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</link>
-      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 17:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’</title>
-      <link>https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</link>
-      <guid isPermaLink="true">https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Mon, 23 Nov 2026 16:00:29 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System</title>
@@ -398,14 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">gbookhub.io</source>
       <pubDate>Sun, 22 Nov 2026 06:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gboard is testing a paste shortcut that could fix a huge Googlebook annoyance</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlJOQ1BGUEVwMExmYmdidDJ6WTdsX2VYY3NtbWVmOEQxbnJfRXpLRF9rMkJUYTUwYXdLM2J0YV8zT3A5X3doNE51RlhMMHRSalducDNGQWJtUkJkT3lCcGlOZlVzUWVmbWgxUzVjWnlSVEkyMW56NG5pVmNQOGhGU0pSUHFtbzFfd2FsTlVYeFZyN2p5b1hESGx2bEJWeklHYmtWUmdDOA?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Sat, 21 Nov 2026 20:11:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,70 @@
 {
-  "generated": "2026-11-25T17:20:29.263Z",
+  "generated": "2026-11-26T01:48:40.756Z",
   "items": [
+    {
+      "title": "KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK",
+      "url": "https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-26T01:39:26.000Z"
+    },
+    {
+      "title": "Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term",
+      "url": "https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-26T00:16:54.000Z"
+    },
+    {
+      "title": "1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-25T22:52:37.000Z"
+    },
+    {
+      "title": "‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-25T22:31:10.000Z"
+    },
+    {
+      "title": "SENix: Towards SELinux on NixOS",
+      "url": "https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-25T20:31:21.000Z"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-25T20:10:24.000Z"
+    },
+    {
+      "title": "Flagships, tablets, or budget laptops: why the Googlebook launch was always going to be a gamble",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1Y2QlphRnZMZlNyQktMTjEwN243Vk5CdGI3YnAxekF0ZnN0QTZPMk1oUnVHYmtnb2Z3TElrZlNVeVVHVGVTcUc5OW5RbmJXbDBqMVZfR0NTTTFyWHBza080WlJNQXhIenFVY0JqbElnbzhXYjZZVFJjWlBqS1dYdkRqbFFXTGRnNGNpdmFlVEstRDR4N193MlVYTnVSejZTbjY5Nk1heDhrdElmZ0VTeXNpTXRfQzRFQ1pOZQ?oc=5",
+      "source": "Chrome Unboxed",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-25T18:24:48.000Z"
+    },
+    {
+      "title": "Dave Täht given the Jonathan B. Postel Service Award",
+      "url": "https://lwn.net/Articles/1109691/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-25T18:16:51.000Z"
+    },
     {
       "title": "‘The Life of a Composer’",
       "url": "https://composer.pablostanley.com/#1",
@@ -19,7 +83,7 @@
     },
     {
       "title": "20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain",
-      "url": "https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda",
+      "url": "https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
@@ -274,44 +338,12 @@
       "date": "2026-11-24T16:18:02.000Z"
     },
     {
-      "title": "Ubuntu Outlines Plans For Its AI-Powered New Way To Interact With The Ubuntu Desktop",
-      "url": "https://www.phoronix.com/news/Ubuntu-AI-Desktop-Interact",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T16:12:00.000Z"
-    },
-    {
       "title": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
       "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-24T15:43:21.000Z"
-    },
-    {
-      "title": "Ubuntu 26.10 Provides Some Performance Gains For Intel Panther Lake On The Dell XPS 14",
-      "url": "https://www.phoronix.com/review/ubuntu-2610-dell-xps-14",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T15:35:30.000Z"
-    },
-    {
-      "title": "Collabora Online Sharply Reduces Server Memory Use With New Optimization",
-      "url": "https://www.phoronix.com/news/Collabora-Online-Half-Memory",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T14:50:00.000Z"
-    },
-    {
-      "title": "Security updates for Tuesday",
-      "url": "https://lwn.net/Articles/1109472/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-24T14:03:12.000Z"
     },
     {
       "title": "Portraits of trees: Barren",
@@ -346,36 +378,12 @@
       "date": "2026-11-24T00:03:56.000Z"
     },
     {
-      "title": "Jensen Huang Returns to Work",
-      "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T23:53:25.000Z"
-    },
-    {
       "title": "Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5",
       "source": "Chrome Unboxed",
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-23T17:34:02.000Z"
-    },
-    {
-      "title": "Donald Trump on Jensen Huang’s Reinstatement at Nvidia",
-      "url": "https://truthsocial.com/@realDonaldTrump/posts/117666713950631493",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T17:22:03.000Z"
-    },
-    {
-      "title": "Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’",
-      "url": "https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-23T16:00:29.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-19T14:31:37.000Z"
-    },
-    {
-      "title": "First Googlebook discount takes $300 off HP flagship for Black Friday",
-      "url": "https://9to5google.com/2026/11/19/first-googlebook-discount-black-friday/",
-      "source": "9to5Google · Googlebook",
-      "tag": "android",
-      "site": "https://9to5google.com/guides/googlebook/",
-      "date": "2026-11-19T14:30:00.000Z"
     },
     {
       "title": "FreeBSD GUS",
