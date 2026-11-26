@@ -1,6 +1,46 @@
 {
-  "generated": "2026-11-26T01:48:40.756Z",
+  "generated": "2026-11-26T10:59:41.220Z",
   "items": [
+    {
+      "title": "Confiscating the Commons, part 1: The invention of proprietary software",
+      "url": "https://ploum.net/2026-11-23-invention_proprietary_software.html",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-26T10:07:43.000Z"
+    },
+    {
+      "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+      "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-26T09:45:42.000Z"
+    },
+    {
+      "title": "Spotlight has problems with case in text search",
+      "url": "https://eclecticlight.co/2026/11/26/spotlight-has-problems-with-case-in-text-search/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-26T07:30:00.000Z"
+    },
+    {
+      "title": "Browser tabs as a container runtime",
+      "url": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-26T04:57:04.000Z"
+    },
+    {
+      "title": "I Booted From My Tape Backup From 2002",
+      "url": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-26T03:56:07.000Z"
+    },
     {
       "title": "KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK",
       "url": "https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp",
@@ -202,14 +242,6 @@
       "date": "2026-11-25T02:00:00.000Z"
     },
     {
-      "title": "Benchmarking The Performance Benefit Of FRED On AMD Zen 6",
-      "url": "https://www.phoronix.com/news/AMD-Zen-6-FRED-Benefits",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-25T01:55:19.000Z"
-    },
-    {
       "title": "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
       "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
       "source": "Daring Fireball",
@@ -248,22 +280,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-24T21:59:48.000Z"
-    },
-    {
-      "title": "Linus Torvalds: \"Tell Your AI Companion To Get Its Act Together\"",
-      "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T21:01:36.000Z"
-    },
-    {
-      "title": "Pop!_OS 26.04 LTS Released With More COSMIC Apps, Remote Desktop & More",
-      "url": "https://www.phoronix.com/news/Pop-OS-26.04-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-24T21:00:00.000Z"
     },
     {
       "title": "Lenovo Googlebook 15 Review: Gorgeous Screen, Tough Sell",
@@ -330,14 +346,6 @@
       "date": "2026-11-24T16:30:58.000Z"
     },
     {
-      "title": "Firefox 161.0 released",
-      "url": "https://lwn.net/Articles/1109478/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-24T16:18:02.000Z"
-    },
-    {
       "title": "Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker",
       "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
       "source": "Daring Fireball",
@@ -368,14 +376,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-24T05:55:31.000Z"
-    },
-    {
-      "title": "[Sponsor] Finalist Daily Planner Meets iPhone Duo",
-      "url": "https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T00:03:56.000Z"
     },
     {
       "title": "Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’",
