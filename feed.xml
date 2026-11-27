@@ -5,8 +5,64 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:03:34 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC</title>
+      <link>https://www.phoronix.com/review/gmktec-evo-x2</link>
+      <guid isPermaLink="true">https://www.phoronix.com/review/gmktec-evo-x2</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 21:33:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>New &quot;Earthqaic&quot; Gallium3D Driver Merged For Mesa 27.0</title>
+      <link>https://www.phoronix.com/news/Earthqaic-Gallium3D-Mesa-27.0</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Earthqaic-Gallium3D-Mesa-27.0</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 20:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Connect made my PC and MacBook feel like a Googlebook with my Android phone</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFB2ZExDWE5ZR1hPVjZfNFI0aDhneDY5aGNwTFJQTWhnU0ZLZVNRUXBIV0R5NEVReEUzLXVCcUc3NTlIWGVzc01DaDR4VEhUcWo3bWdxSGlObVdHLTRhQ2ZuWGk3blZfM0tYUDlLQVZVRDg0UQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMickFVX3lxTFB2ZExDWE5ZR1hPVjZfNFI0aDhneDY5aGNwTFJQTWhnU0ZLZVNRUXBIV0R5NEVReEUzLXVCcUc3NTlIWGVzc01DaDR4VEhUcWo3bWdxSGlObVdHLTRhQ2ZuWGk3blZfM0tYUDlLQVZVRDg0UQ?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">Android Police</source>
+      <pubDate>Fri, 27 Nov 2026 20:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pop!_OS 26.04 LTS Has Landed</title>
+      <link>https://system76.com/blog/post/pop_os-26-04-lts-has-landed</link>
+      <guid isPermaLink="true">https://system76.com/blog/post/pop_os-26-04-lts-has-landed</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 27 Nov 2026 16:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Dropping Last Of The 1980's VersaModular Eurocard &quot;VME&quot; vme_user Code Over AI/LLM Noise</title>
+      <link>https://www.phoronix.com/news/Linux-Drops-VME-Bus-User</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Drops-VME-Bus-User</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 15:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Mint 27 Beta Released With New Apps, Full Wayland Support</title>
+      <link>https://www.phoronix.com/news/Linux-Mint-27-Beta</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-Mint-27-Beta</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 15:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security updates for Friday</title>
+      <link>https://lwn.net/Articles/1110189/</link>
+      <guid isPermaLink="true">https://lwn.net/Articles/1110189/</guid>
+      <category>linux</category>
+      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 27 Nov 2026 14:22:47 GMT</pubDate>
+    </item>
     <item>
       <title>Claude Monet: River Thames</title>
       <link>https://eclecticlight.co/2026/11/27/claude-monet-river-thames/</link>
@@ -152,60 +208,12 @@
       <pubDate>Thu, 26 Nov 2026 14:19:10 GMT</pubDate>
     </item>
     <item>
-      <title>Security updates for Thursday</title>
-      <link>https://lwn.net/Articles/1109990/</link>
-      <guid isPermaLink="true">https://lwn.net/Articles/1109990/</guid>
-      <category>linux</category>
-      <source url="https://lwn.net/">LWN</source>
-      <pubDate>Thu, 26 Nov 2026 14:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brush 0.5 Passing 96+% Of Upstream Test Suite For Bash Shell Written In Rust</title>
-      <link>https://www.phoronix.com/news/Brush-0.5-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Brush-0.5-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 13:21:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Painting with impaired vision: Henri Harpignies</title>
       <link>https://eclecticlight.co/2026/11/26/painting-with-impaired-vision-henri-harpignies/</link>
       <guid isPermaLink="true">https://eclecticlight.co/2026/11/26/painting-with-impaired-vision-henri-harpignies/</guid>
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Thu, 26 Nov 2026 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>F2FS Getting Ready With Its Large Folios Support</title>
-      <link>https://www.phoronix.com/news/F2FS-Large-Folios-Coming</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/F2FS-Large-Folios-Coming</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 11:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel Xe Driver Gaining PCIe Function Level Reset &quot;FLR&quot; With Linux 7.5</title>
-      <link>https://www.phoronix.com/news/Intel-Xe-PCIe-FLR-Linux-7.5</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Xe-PCIe-FLR-Linux-7.5</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 10:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Confiscating the Commons, part 1: The invention of proprietary software</title>
-      <link>https://ploum.net/2026-11-23-invention_proprietary_software.html</link>
-      <guid isPermaLink="true">https://ploum.net/2026-11-23-invention_proprietary_software.html</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 26 Nov 2026 10:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ansible Fails waiting for privilege escalation on Ubuntu 26</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 26 Nov 2026 09:45:42 GMT</pubDate>
     </item>
     <item>
       <title>Spotlight has problems with case in text search</title>
@@ -286,6 +294,14 @@
       <category>macos</category>
       <source url="https://eclecticlight.co/">Eclectic Light</source>
       <pubDate>Wed, 25 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenovo Googlebook 15 Review: Gorgeous Screen, Tough Sell</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3VNX1M1WlJnMHhBYmdrTTRlMDZhRi1TYXVJeFBQb09lUWVKcG1VNnJfS2tqTEMtb3hYMWVBcDJLUm0zZV9vT2ZsRE55VjlQTGhZZkV0T2R5UHB1dTBFN3ZiMk1RZ1hnTmJyWW11TEVUOUNtZnZQUXRiNFR6eTgxYU5YaW12LTNQZWJnaVNjdWRQWm40Q2lN?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3VNX1M1WlJnMHhBYmdrTTRlMDZhRi1TYXVJeFBQb09lUWVKcG1VNnJfS2tqTEMtb3hYMWVBcDJLUm0zZV9vT2ZsRE55VjlQTGhZZkV0T2R5UHB1dTBFN3ZiMk1RZ1hnTmJyWW11TEVUOUNtZnZQUXRiNFR6eTgxYU5YaW12LTNQZWJnaVNjdWRQWm40Q2lN?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">PCMag Middle East</source>
+      <pubDate>Wed, 25 Nov 2026 04:16:27 GMT</pubDate>
     </item>
     <item>
       <title>Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau</title>
@@ -390,22 +406,6 @@
       <category>android</category>
       <source url="https://news.google.com/">NeoTeo</source>
       <pubDate>Tue, 24 Nov 2026 05:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Googlebook’s Chrome browser is still missing desktop basics like ‘Cast Tab’</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMioAFBVV95cUxPVlZUYVYzcWtnaHVLazNvTVctLWRnbUZMaXdtVm1MWkprMXNsbjJ5MG1xcGZ0am1jNTc4ZFpzeWthaE5ySjhxVThOX3k1bFB2YlJsYmFxbklEd00tS1VLbjh4UzVxQWJmdk5oaVNiSzhDVzAxNk9nR2JTdWNXVFZBWXBxQ2pYSHpDeV9sREtLREZJeVplOF9nQmpvRFNLZkd2?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Chrome Unboxed</source>
-      <pubDate>Mon, 23 Nov 2026 17:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lenovo Googlebook 15 Review: Excellent Hardware Searching for an Operating System</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXJ1XzlWUWd4VDBHV3BsRE1mbktsbl9hSmJVMXluTk1ZTVp6clBoWFFSYWxWR2dXdGs5WXFfRzBtRnY4QWt6VlFfVnNNaDhoZWlXWEtmOUFKOHpNNy1HZ1FreGVuYlAzek1uOTgwN3RLd1poZFZScUFSMzBFYlBDOGVUSmN5SVlsVkVGYXdiQWFXODR2a3gtUkdtcnZNb0t5ZU5EQ05sWUdxV2pXZ2Fr?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">Dawan Africa</source>
-      <pubDate>Mon, 23 Nov 2026 15:35:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

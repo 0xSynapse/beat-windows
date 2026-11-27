@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-27T12:39:02.087Z",
+  "generated": "2026-11-27T22:03:34.988Z",
   "items": [
+    {
+      "title": "GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC",
+      "url": "https://www.phoronix.com/review/gmktec-evo-x2",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T21:33:54.000Z"
+    },
+    {
+      "title": "New \"Earthqaic\" Gallium3D Driver Merged For Mesa 27.0",
+      "url": "https://www.phoronix.com/news/Earthqaic-Gallium3D-Mesa-27.0",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T20:21:00.000Z"
+    },
+    {
+      "title": "KDE Connect made my PC and MacBook feel like a Googlebook with my Android phone",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2ZExDWE5ZR1hPVjZfNFI0aDhneDY5aGNwTFJQTWhnU0ZLZVNRUXBIV0R5NEVReEUzLXVCcUc3NTlIWGVzc01DaDR4VEhUcWo3bWdxSGlObVdHLTRhQ2ZuWGk3blZfM0tYUDlLQVZVRDg0UQ?oc=5",
+      "source": "Android Police",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-27T20:00:10.000Z"
+    },
+    {
+      "title": "Pop!_OS 26.04 LTS Has Landed",
+      "url": "https://system76.com/blog/post/pop_os-26-04-lts-has-landed",
+      "source": "Lobsters · linux",
+      "tag": "linux",
+      "site": "https://lobste.rs/t/linux",
+      "date": "2026-11-27T16:42:50.000Z"
+    },
+    {
+      "title": "Linux Dropping Last Of The 1980's VersaModular Eurocard \"VME\" vme_user Code Over AI/LLM Noise",
+      "url": "https://www.phoronix.com/news/Linux-Drops-VME-Bus-User",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T15:50:44.000Z"
+    },
+    {
+      "title": "Linux Mint 27 Beta Released With New Apps, Full Wayland Support",
+      "url": "https://www.phoronix.com/news/Linux-Mint-27-Beta",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T15:37:29.000Z"
+    },
+    {
+      "title": "Security updates for Friday",
+      "url": "https://lwn.net/Articles/1110189/",
+      "source": "LWN",
+      "tag": "linux",
+      "site": "https://lwn.net/",
+      "date": "2026-11-27T14:22:47.000Z"
+    },
     {
       "title": "Claude Monet: River Thames",
       "url": "https://eclecticlight.co/2026/11/27/claude-monet-river-thames/",
@@ -146,60 +202,12 @@
       "date": "2026-11-26T14:19:10.000Z"
     },
     {
-      "title": "Security updates for Thursday",
-      "url": "https://lwn.net/Articles/1109990/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-26T14:06:22.000Z"
-    },
-    {
-      "title": "Brush 0.5 Passing 96+% Of Upstream Test Suite For Bash Shell Written In Rust",
-      "url": "https://www.phoronix.com/news/Brush-0.5-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T13:21:50.000Z"
-    },
-    {
       "title": "Painting with impaired vision: Henri Harpignies",
       "url": "https://eclecticlight.co/2026/11/26/painting-with-impaired-vision-henri-harpignies/",
       "source": "Eclectic Light",
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-26T12:30:00.000Z"
-    },
-    {
-      "title": "F2FS Getting Ready With Its Large Folios Support",
-      "url": "https://www.phoronix.com/news/F2FS-Large-Folios-Coming",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T11:37:14.000Z"
-    },
-    {
-      "title": "Intel Xe Driver Gaining PCIe Function Level Reset \"FLR\" With Linux 7.5",
-      "url": "https://www.phoronix.com/news/Intel-Xe-PCIe-FLR-Linux-7.5",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T10:56:20.000Z"
-    },
-    {
-      "title": "Confiscating the Commons, part 1: The invention of proprietary software",
-      "url": "https://ploum.net/2026-11-23-invention_proprietary_software.html",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-26T10:07:43.000Z"
-    },
-    {
-      "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
-      "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-26T09:45:42.000Z"
     },
     {
       "title": "Spotlight has problems with case in text search",
@@ -280,6 +288,14 @@
       "tag": "macos",
       "site": "https://eclecticlight.co/",
       "date": "2026-11-25T07:30:00.000Z"
+    },
+    {
+      "title": "Lenovo Googlebook 15 Review: Gorgeous Screen, Tough Sell",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3VNX1M1WlJnMHhBYmdrTTRlMDZhRi1TYXVJeFBQb09lUWVKcG1VNnJfS2tqTEMtb3hYMWVBcDJLUm0zZV9vT2ZsRE55VjlQTGhZZkV0T2R5UHB1dTBFN3ZiMk1RZ1hnTmJyWW11TEVUOUNtZnZQUXRiNFR6eTgxYU5YaW12LTNQZWJnaVNjdWRQWm40Q2lN?oc=5",
+      "source": "PCMag Middle East",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-25T04:16:27.000Z"
     },
     {
       "title": "Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau",
@@ -474,22 +490,6 @@
       "date": "2026-11-20T12:26:00.000Z"
     },
     {
-      "title": "Samsung's Googlebooks are codenamed Origin, here's what we know - GSMArena.com news",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGJzdzZ6X1RtNjFQeDJpX3k2ak9EaDJ6UWN5SUhHTFlTQ05ET0RqNl9zNHozZVF0QkxDcTd3VzNUbmhSajBYQ0ZRbEJkcC1tSUREczQ2RlNubDB1TW54TEJJakxmTU5hNl90ZmdjVExsZjRwTmpyWGFTcG15YkFjZUhDTnBkeFk3Y0xQQ3h6QjBfbHNtWXpIaG92NEg4Ym8yMDZJdXZfWdIBowFBVV95cUxPTy1uN0JqNVVHQTBTTWZCb2E4dFFhdktXV21rc1hFano2a0ZaZXk4M1daVWd5S3hjLXlVcnJ1ajgwYzFuWjI5aWwzM0R4d2h2WlJ0YkY5bmVRU0tBSGQ3WWRBSGtXM1hWVUtsZWFnaWJmcXNRaXgyUVcwVGZHNlhGYlg1UVBMRndRQVF2Y2R4Y2d0TnJ5eGhDSUhYUnNhMjN4SDU0?oc=5",
-      "source": "GSMArena.com",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-20T02:31:02.000Z"
-    },
-    {
-      "title": "A new, affordable Lenovo Googlebook codenamed ‘Bianco’ begins development",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU3B1dktoeDlNZlJvRTEwV3JwMnpsU3RGdmJiZk9CbVdHcU1ETzFTcDVfemJqX24yZjF4U0l3Q0owZ2NTQzFzeUFsejJreWlEd0xpbXg3NFo4OU1MNndhYzdkZGdDUWZWMmZMUkdvY2Fqc290aURrZ2ZGNDdfZkFSdHA0WTgweFlBOU5TSTBSOGV1bHNMWEZ6SGF3NjluZw?oc=5",
-      "source": "Chrome Unboxed",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-19T21:00:36.000Z"
-    },
-    {
       "title": "FreeBSD GUS",
       "url": "https://gregoire.dev/writing/gus/",
       "source": "Lobsters · freebsd",
@@ -552,14 +552,6 @@
       "tag": "bsd",
       "site": "https://lobste.rs/t/freebsd",
       "date": "2026-11-01T00:46:07.000Z"
-    },
-    {
-      "title": "OpenBSD Jumpstart 8.0: Quick Start Guide for New Users",
-      "url": "https://openbsdjumpstart.org",
-      "source": "Lobsters · openbsd",
-      "tag": "bsd",
-      "site": "https://lobste.rs/t/openbsd",
-      "date": "2026-10-28T18:34:16.000Z"
     }
   ]
 }
