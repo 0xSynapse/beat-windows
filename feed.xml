@@ -5,8 +5,72 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:39:02 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Claude Monet: River Thames</title>
+      <link>https://eclecticlight.co/2026/11/27/claude-monet-river-thames/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/27/claude-monet-river-thames/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 27 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>systemd 263-rc1 Ships Initial Rust Code, Experimental Pseudo TTY Broker &amp; Manifest</title>
+      <link>https://www.phoronix.com/news/systemd-263-rc1</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/systemd-263-rc1</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 11:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel's Vulkan Linux Driver Now Enables Efficient 64-bit Mode &quot;e64&quot; By Default</title>
+      <link>https://www.phoronix.com/news/Intel-Efficient-64-bit-e64-ANV</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Efficient-64-bit-e64-ANV</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 11:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZenSMU Provides A Rust CLI/TUI &amp; GUI For AMD Ryzen Monitoring/Tweaking</title>
+      <link>https://www.phoronix.com/news/ZenSMU-Linux-TUI-GUI</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/ZenSMU-Linux-TUI-GUI</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 11:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Compute Runtime 26.44.40734.8 Had OpenCL 3.1 But Reverted, More Performance</title>
+      <link>https://www.phoronix.com/news/Intel-Compute-26.44.40734.8</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Intel-Compute-26.44.40734.8</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 10:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reminder: Black Friday Deal &amp; The Unfortunate Ad Network Situation This Year</title>
+      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Fri, 27 Nov 2026 10:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiny Hat: a new Linux distro dedicated to retro gamedev</title>
+      <link>https://roboticoverlords.org/tinyhat</link>
+      <guid isPermaLink="true">https://roboticoverlords.org/tinyhat</guid>
+      <category>linux</category>
+      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
+      <pubDate>Fri, 27 Nov 2026 09:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to keep your Apple silicon Mac secure</title>
+      <link>https://eclecticlight.co/2026/11/27/how-to-keep-your-apple-silicon-mac-secure/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/27/how-to-keep-your-apple-silicon-mac-secure/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Fri, 27 Nov 2026 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Initial AMD RDNA5 Support To Appear In Linux 7.5</title>
       <link>https://www.phoronix.com/news/AMD-RDNA5-Linux-7.5-Initial</link>
@@ -152,38 +216,6 @@
       <pubDate>Thu, 26 Nov 2026 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Browser tabs as a container runtime</title>
-      <link>https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime</link>
-      <guid isPermaLink="true">https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 26 Nov 2026 04:57:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Booted From My Tape Backup From 2002</title>
-      <link>https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002</link>
-      <guid isPermaLink="true">https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 26 Nov 2026 03:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black Friday / End Of Year Special &amp; The Unfortunate Ad Network Situation This Year</title>
-      <link>https://www.phoronix.com/news/Black-Friday-Week-2026</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Black-Friday-Week-2026</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KosmicKrisp Now The Go-To Solution For Vulkan On Macs In Place Of MoltenVK</title>
-      <link>https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Vulkan-Macs-Go-KosmicKrisp</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 01:39:26 GMT</pubDate>
-    </item>
-    <item>
       <title>Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term</title>
       <link>https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</link>
       <guid isPermaLink="true">https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</guid>
@@ -206,22 +238,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Wed, 25 Nov 2026 22:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SENix: Towards SELinux on NixOS</title>
-      <link>https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418</link>
-      <guid isPermaLink="true">https://discourse.nixos.org/t/senix-towards-selinux-on-nixos/81418</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 25 Nov 2026 20:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slow Ubuntu security response times</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/11/25/9</link>
-      <guid isPermaLink="true">https://www.openwall.com/lists/oss-security/2026/11/25/9</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Wed, 25 Nov 2026 20:10:24 GMT</pubDate>
     </item>
     <item>
       <title>Flagships, tablets, or budget laptops: why the Googlebook launch was always going to be a gamble</title>
@@ -366,22 +382,6 @@
       <category>macos</category>
       <source url="https://daringfireball.net/">Daring Fireball</source>
       <pubDate>Tue, 24 Nov 2026 17:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>David Sacks’s Pool Boy Is Cocky</title>
-      <link>https://www.threads.com/@karaswisher/post/DgGBe_XI147</link>
-      <guid isPermaLink="true">https://www.threads.com/@karaswisher/post/DgGBe_XI147</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 16:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker</title>
-      <link>https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</link>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 15:43:21 GMT</pubDate>
     </item>
     <item>
       <title>Samsung’s One UI code hints at laptops, not their OS</title>
