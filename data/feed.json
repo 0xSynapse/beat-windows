@@ -1,6 +1,38 @@
 {
-  "generated": "2026-11-26T20:13:19.935Z",
+  "generated": "2026-11-27T02:55:48.689Z",
   "items": [
+    {
+      "title": "Initial AMD RDNA5 Support To Appear In Linux 7.5",
+      "url": "https://www.phoronix.com/news/AMD-RDNA5-Linux-7.5-Initial",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T01:55:30.000Z"
+    },
+    {
+      "title": "Omarchy 4.6-RC1 Released With More Local AI Integration, Its Own File Manager",
+      "url": "https://www.phoronix.com/news/Omarchy-4.6-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-27T01:33:14.000Z"
+    },
+    {
+      "title": "It Looks Like AI Agent Skills Will Be Submitted For Linux 7.5",
+      "url": "https://www.phoronix.com/news/Linux-AI-Agent-Skills-Ready",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-26T20:55:02.000Z"
+    },
+    {
+      "title": "Amid All The AI Generated Patches & Bug Reports, Linux Gains Another Network Maintainer",
+      "url": "https://www.phoronix.com/news/Linux-Another-Net-Maintainer",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-26T20:31:14.000Z"
+    },
     {
       "title": "Ubuntu 27.04 Snapshot 1 Released For Testing",
       "url": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
@@ -194,14 +226,6 @@
       "date": "2026-11-25T18:24:48.000Z"
     },
     {
-      "title": "Dave Täht given the Jonathan B. Postel Service Award",
-      "url": "https://lwn.net/Articles/1109691/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-25T18:16:51.000Z"
-    },
-    {
       "title": "‘The Life of a Composer’",
       "url": "https://composer.pablostanley.com/#1",
       "source": "Daring Fireball",
@@ -210,36 +234,12 @@
       "date": "2026-11-25T17:04:06.000Z"
     },
     {
-      "title": "PostgreSQL 19 Delivering Nice Performance Gains, Benchmarks On 6th Gen AMD EPYC Venice",
-      "url": "https://www.phoronix.com/review/postgresql-19-benchmarks",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-25T16:31:14.000Z"
-    },
-    {
       "title": "20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain",
       "url": "https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP",
       "source": "Daring Fireball",
       "tag": "macos",
       "site": "https://daringfireball.net/",
       "date": "2026-11-25T16:22:27.000Z"
-    },
-    {
-      "title": "Pop!_OS 26.04 LTS vs. Pop!_OS 24.04 LTS Benchmarks",
-      "url": "https://www.phoronix.com/review/pop-os-2604-benchmarks",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-25T14:38:32.000Z"
-    },
-    {
-      "title": "[$] Tainting (or not) on manual driver binding",
-      "url": "https://lwn.net/Articles/1103714/",
-      "source": "LWN",
-      "tag": "linux",
-      "site": "https://lwn.net/",
-      "date": "2026-11-25T14:36:07.000Z"
     },
     {
       "title": "Painting a good story: Popularity",
