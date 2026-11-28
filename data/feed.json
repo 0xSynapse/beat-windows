@@ -1,6 +1,54 @@
 {
-  "generated": "2026-11-28T03:58:12.695Z",
+  "generated": "2026-11-28T13:10:54.843Z",
   "items": [
+    {
+      "title": "Landscapes in cameo 1",
+      "url": "https://eclecticlight.co/2026/11/28/landscapes-in-cameo-1/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-28T12:30:00.000Z"
+    },
+    {
+      "title": "Intel Contributes oneVPL AI Super Resolution Integration To FFmpeg",
+      "url": "https://www.phoronix.com/news/FFmpeg-oneVPL-Super-Resolution",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-28T11:35:39.000Z"
+    },
+    {
+      "title": "AI & Reverse Engineering Lead To New Linux Driver For Microsoft's ReFS",
+      "url": "https://www.phoronix.com/news/New-ReFS-FUSE-Driver-2026",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-28T11:20:34.000Z"
+    },
+    {
+      "title": "KDE Plasma 6.9 Lands More Improvements Ahead Of The Holidays",
+      "url": "https://www.phoronix.com/news/KDE-Plasma-6.9-End-November",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-28T10:54:07.000Z"
+    },
+    {
+      "title": "Saturday Mac riddles 388",
+      "url": "https://eclecticlight.co/2026/11/28/saturday-mac-riddles-388/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-28T09:00:00.000Z"
+    },
+    {
+      "title": "Disk Utility needs loving care and attention",
+      "url": "https://eclecticlight.co/2026/11/28/disk-utility-needs-loving-care-and-attention/",
+      "source": "Eclectic Light",
+      "tag": "macos",
+      "site": "https://eclecticlight.co/",
+      "date": "2026-11-28T08:00:00.000Z"
+    },
     {
       "title": "Wine 11.23 Released With Support For ARM64 macOS, AVX In 32-bit Emulation On ARM64",
       "url": "https://www.phoronix.com/news/Wine-11.23-Released",
@@ -186,30 +234,6 @@
       "date": "2026-11-26T20:31:14.000Z"
     },
     {
-      "title": "Ubuntu 27.04 Snapshot 1 Released For Testing",
-      "url": "https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T17:21:13.000Z"
-    },
-    {
-      "title": "Linux 7.4 Delivers Some Performance Gains For Intel Panther Lake's Arc B390 Graphics",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T16:40:04.000Z"
-    },
-    {
-      "title": "DXVK 3.2 Released With Present Timing Support",
-      "url": "https://www.phoronix.com/news/DXVK-3.2-Released",
-      "source": "Phoronix",
-      "tag": "linux",
-      "site": "https://www.phoronix.com/",
-      "date": "2026-11-26T16:07:07.000Z"
-    },
-    {
       "title": "★ Obvious Affordances Are Due for a Comeback",
       "url": "https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback",
       "source": "Daring Fireball",
@@ -346,14 +370,6 @@
       "date": "2026-11-24T22:15:54.000Z"
     },
     {
-      "title": "Patriotism, Trump-Style",
-      "url": "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T22:06:56.000Z"
-    },
-    {
       "title": "Googlebook: Better Now? No. ⭐",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJUUZ4anp6OXBJNk15d3lqbEEtd2Q3d0ktTWd6ZDNseS1aRFQxSU9zX2dtV0NUV0IwazhWTlllRDUzZkFxWnY1MjRiU01WTjFnN1c0YlNWU084MzAxblQwZGRyVFZjLWd0dFFvdU1jRjJkLWhNZ1ZHTFU1dXNjcVczdG1TUEJWbHh2Wg?oc=5",
       "source": "Thurrott.com",
@@ -368,22 +384,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-24T20:49:01.000Z"
-    },
-    {
-      "title": "‘The Economy Is a Hostage Situation’",
-      "url": "https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T19:16:24.000Z"
-    },
-    {
-      "title": "I Told You to Bet the Over",
-      "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T19:12:09.000Z"
     },
     {
       "title": "When I need to get technical work done, I still reach for a Chromebook over a Googlebook",

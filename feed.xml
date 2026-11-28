@@ -5,8 +5,56 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:10:54 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Landscapes in cameo 1</title>
+      <link>https://eclecticlight.co/2026/11/28/landscapes-in-cameo-1/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/28/landscapes-in-cameo-1/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 28 Nov 2026 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel Contributes oneVPL AI Super Resolution Integration To FFmpeg</title>
+      <link>https://www.phoronix.com/news/FFmpeg-oneVPL-Super-Resolution</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/FFmpeg-oneVPL-Super-Resolution</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 28 Nov 2026 11:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI &amp; Reverse Engineering Lead To New Linux Driver For Microsoft's ReFS</title>
+      <link>https://www.phoronix.com/news/New-ReFS-FUSE-Driver-2026</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/New-ReFS-FUSE-Driver-2026</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 28 Nov 2026 11:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.9 Lands More Improvements Ahead Of The Holidays</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-6.9-End-November</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/KDE-Plasma-6.9-End-November</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 28 Nov 2026 10:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saturday Mac riddles 388</title>
+      <link>https://eclecticlight.co/2026/11/28/saturday-mac-riddles-388/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/28/saturday-mac-riddles-388/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disk Utility needs loving care and attention</title>
+      <link>https://eclecticlight.co/2026/11/28/disk-utility-needs-loving-care-and-attention/</link>
+      <guid isPermaLink="true">https://eclecticlight.co/2026/11/28/disk-utility-needs-loving-care-and-attention/</guid>
+      <category>macos</category>
+      <source url="https://eclecticlight.co/">Eclectic Light</source>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Wine 11.23 Released With Support For ARM64 macOS, AVX In 32-bit Emulation On ARM64</title>
       <link>https://www.phoronix.com/news/Wine-11.23-Released</link>
@@ -192,30 +240,6 @@
       <pubDate>Thu, 26 Nov 2026 20:31:14 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 27.04 Snapshot 1 Released For Testing</title>
-      <link>https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Ubuntu-27.04-Snapshot-1</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 17:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 7.4 Delivers Some Performance Gains For Intel Panther Lake's Arc B390 Graphics</title>
-      <link>https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/Linux-7.4-Arc-B390-Performance</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 16:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>DXVK 3.2 Released With Present Timing Support</title>
-      <link>https://www.phoronix.com/news/DXVK-3.2-Released</link>
-      <guid isPermaLink="true">https://www.phoronix.com/news/DXVK-3.2-Released</guid>
-      <category>linux</category>
-      <source url="https://www.phoronix.com/">Phoronix</source>
-      <pubDate>Thu, 26 Nov 2026 16:07:07 GMT</pubDate>
-    </item>
-    <item>
       <title>★ Obvious Affordances Are Due for a Comeback</title>
       <link>https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback</guid>
@@ -352,14 +376,6 @@
       <pubDate>Tue, 24 Nov 2026 22:15:54 GMT</pubDate>
     </item>
     <item>
-      <title>Patriotism, Trump-Style</title>
-      <link>https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/</link>
-      <guid isPermaLink="true">https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 22:06:56 GMT</pubDate>
-    </item>
-    <item>
       <title>Googlebook: Better Now? No. ⭐</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJUUZ4anp6OXBJNk15d3lqbEEtd2Q3d0ktTWd6ZDNseS1aRFQxSU9zX2dtV0NUV0IwazhWTlllRDUzZkFxWnY1MjRiU01WTjFnN1c0YlNWU084MzAxblQwZGRyVFZjLWd0dFFvdU1jRjJkLWhNZ1ZHTFU1dXNjcVczdG1TUEJWbHh2Wg?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijAFBVV95cUxObGxJUUZ4anp6OXBJNk15d3lqbEEtd2Q3d0ktTWd6ZDNseS1aRFQxSU9zX2dtV0NUV0IwazhWTlllRDUzZkFxWnY1MjRiU01WTjFnN1c0YlNWU084MzAxblQwZGRyVFZjLWd0dFFvdU1jRjJkLWhNZ1ZHTFU1dXNjcVczdG1TUEJWbHh2Wg?oc=5</guid>
@@ -374,22 +390,6 @@
       <category>android</category>
       <source url="https://news.google.com/">PCMag Australia</source>
       <pubDate>Tue, 24 Nov 2026 20:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘The Economy Is a Hostage Situation’</title>
-      <link>https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&amp;</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&amp;</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 19:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Told You to Bet the Over</title>
-      <link>https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV</link>
-      <guid isPermaLink="true">https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961?st=HzeUyV</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 19:12:09 GMT</pubDate>
     </item>
     <item>
       <title>When I need to get technical work done, I still reach for a Chromebook over a Googlebook</title>
