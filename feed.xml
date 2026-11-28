@@ -5,8 +5,40 @@
     <link>https://beatwindows.org/</link>
     <description>Latest from Linux, the BSDs and macOS — the OSes that never blue-screen.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 22:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:58:12 GMT</lastBuildDate>
     <atom:link href="https://beatwindows.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wine 11.23 Released With Support For ARM64 macOS, AVX In 32-bit Emulation On ARM64</title>
+      <link>https://www.phoronix.com/news/Wine-11.23-Released</link>
+      <guid isPermaLink="true">https://www.phoronix.com/news/Wine-11.23-Released</guid>
+      <category>linux</category>
+      <source url="https://www.phoronix.com/">Phoronix</source>
+      <pubDate>Sat, 28 Nov 2026 01:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Googlebooks Vs. Samsung Galaxy Tablets: Which Device Should You Buy?</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOY21WWGNYWUdXaWx5aElfc0xvS0k1NTlzWUl0VmFTd3ItajRKV0tUcHRZM3BFZG91bE5iNFdqVWV3QklrdDAxWUpqdlo2bkdUTHVBU3c1LWN3S0s0aTdfNUJCbjVFTXQxRHZhM1dzRGdTRUU0ekdTTkZBa0MtVktKczV6M0R1cUNyWVJkNUR5Rk02X3pV?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilAFBVV95cUxOY21WWGNYWUdXaWx5aElfc0xvS0k1NTlzWUl0VmFTd3ItajRKV0tUcHRZM3BFZG91bE5iNFdqVWV3QklrdDAxWUpqdlo2bkdUTHVBU3c1LWN3S0s0aTdfNUJCbjVFTXQxRHZhM1dzRGdTRUU0ekdTTkZBa0MtVktKczV6M0R1cUNyWVJkNUR5Rk02X3pV?oc=5</guid>
+      <category>android</category>
+      <source url="https://news.google.com/">BGR</source>
+      <pubDate>Sat, 28 Nov 2026 00:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Countersues Apple for Stealing Trade Secrets</title>
+      <link>https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 27 Nov 2026 23:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&amp;leadSource=article-gifting</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&amp;leadSource=article-gifting</guid>
+      <category>macos</category>
+      <source url="https://daringfireball.net/">Daring Fireball</source>
+      <pubDate>Fri, 27 Nov 2026 23:41:26 GMT</pubDate>
+    </item>
     <item>
       <title>GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC</title>
       <link>https://www.phoronix.com/review/gmktec-evo-x2</link>
@@ -182,14 +214,6 @@
       <category>linux</category>
       <source url="https://www.phoronix.com/">Phoronix</source>
       <pubDate>Thu, 26 Nov 2026 16:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jiffies : The Heartbeat of the Linux Operating System (2024)</title>
-      <link>https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system</link>
-      <guid isPermaLink="true">https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system</guid>
-      <category>linux</category>
-      <source url="https://lobste.rs/t/linux">Lobsters · linux</source>
-      <pubDate>Thu, 26 Nov 2026 15:14:06 GMT</pubDate>
     </item>
     <item>
       <title>★ Obvious Affordances Are Due for a Comeback</title>
@@ -382,30 +406,6 @@
       <category>bsd</category>
       <source url="https://lobste.rs/t/openbsd">Lobsters · openbsd</source>
       <pubDate>Tue, 24 Nov 2026 17:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restoring a 1982 ‘Star Wars’ Poster From Japan</title>
-      <link>https://www.instagram.com/p/DcUk0WjBwVI/</link>
-      <guid isPermaLink="true">https://www.instagram.com/p/DcUk0WjBwVI/</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 17:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001</title>
-      <link>https://www.threads.com/@meidastouch/post/DgGKhbTAka5</link>
-      <guid isPermaLink="true">https://www.threads.com/@meidastouch/post/DgGKhbTAka5</guid>
-      <category>macos</category>
-      <source url="https://daringfireball.net/">Daring Fireball</source>
-      <pubDate>Tue, 24 Nov 2026 17:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samsung’s One UI code hints at laptops, not their OS</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5</guid>
-      <category>android</category>
-      <source url="https://news.google.com/">NeoTeo</source>
-      <pubDate>Tue, 24 Nov 2026 05:55:31 GMT</pubDate>
     </item>
   </channel>
 </rss>

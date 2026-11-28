@@ -1,6 +1,38 @@
 {
-  "generated": "2026-11-27T22:03:34.988Z",
+  "generated": "2026-11-28T03:58:12.695Z",
   "items": [
+    {
+      "title": "Wine 11.23 Released With Support For ARM64 macOS, AVX In 32-bit Emulation On ARM64",
+      "url": "https://www.phoronix.com/news/Wine-11.23-Released",
+      "source": "Phoronix",
+      "tag": "linux",
+      "site": "https://www.phoronix.com/",
+      "date": "2026-11-28T01:31:43.000Z"
+    },
+    {
+      "title": "Googlebooks Vs. Samsung Galaxy Tablets: Which Device Should You Buy?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY21WWGNYWUdXaWx5aElfc0xvS0k1NTlzWUl0VmFTd3ItajRKV0tUcHRZM3BFZG91bE5iNFdqVWV3QklrdDAxWUpqdlo2bkdUTHVBU3c1LWN3S0s0aTdfNUJCbjVFTXQxRHZhM1dzRGdTRUU0ekdTTkZBa0MtVktKczV6M0R1cUNyWVJkNUR5Rk02X3pV?oc=5",
+      "source": "BGR",
+      "tag": "android",
+      "site": "https://news.google.com/",
+      "date": "2026-11-28T00:47:00.000Z"
+    },
+    {
+      "title": "OpenAI Countersues Apple for Stealing Trade Secrets",
+      "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-27T23:50:13.000Z"
+    },
+    {
+      "title": "Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&leadSource=article-gifting",
+      "source": "Daring Fireball",
+      "tag": "macos",
+      "site": "https://daringfireball.net/",
+      "date": "2026-11-27T23:41:26.000Z"
+    },
     {
       "title": "GMKtec EVO-X2 AMD Ryzen AI Max+ Strix Halo Mini PC",
       "url": "https://www.phoronix.com/review/gmktec-evo-x2",
@@ -176,14 +208,6 @@
       "tag": "linux",
       "site": "https://www.phoronix.com/",
       "date": "2026-11-26T16:07:07.000Z"
-    },
-    {
-      "title": "Jiffies : The Heartbeat of the Linux Operating System (2024)",
-      "url": "https://blogs.oracle.com/linux/jiffies-the-heartbeat-of-the-linux-operating-system",
-      "source": "Lobsters · linux",
-      "tag": "linux",
-      "site": "https://lobste.rs/t/linux",
-      "date": "2026-11-26T15:14:06.000Z"
     },
     {
       "title": "★ Obvious Affordances Are Due for a Comeback",
@@ -378,22 +402,6 @@
       "date": "2026-11-24T17:45:29.000Z"
     },
     {
-      "title": "Restoring a 1982 ‘Star Wars’ Poster From Japan",
-      "url": "https://www.instagram.com/p/DcUk0WjBwVI/",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T17:29:01.000Z"
-    },
-    {
-      "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 2001",
-      "url": "https://www.threads.com/@meidastouch/post/DgGKhbTAka5",
-      "source": "Daring Fireball",
-      "tag": "macos",
-      "site": "https://daringfireball.net/",
-      "date": "2026-11-24T17:00:41.000Z"
-    },
-    {
       "title": "Samsung’s One UI code hints at laptops, not their OS",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHZiZ3hReVdteWpKdU1wNUpJWXFxc2I0RlFNN1B3WVB3dHQ4N21hdFkyb3J3TEFKNFFqVFYtY29BVVVDVV9BeFo3OEl6VFdDMlIxVHBwS0lEUlpoenQ1U0tHaUJLa2xyVElNWV9VZFAwc01Ia0pjUmdXOU1lem1Na2ZR?oc=5",
       "source": "NeoTeo",
@@ -480,14 +488,6 @@
       "tag": "android",
       "site": "https://news.google.com/",
       "date": "2026-11-20T13:35:00.000Z"
-    },
-    {
-      "title": "One UI 9.5 code hints Samsung will push its own updates to its Android laptops",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczU2cEVIeGxnVXVncDhKTHdPdXhoVjlzdXJJMmZKbGZwM1dnWnNLNVFKYUJYb3k4ejZoYmdaS09meW9HNDBOLVQxQUhEbXJCMHZySUdMMzBFaUN6aWlQenI3RTRaNVV2REJCZjJuNWIwLTdQVXVsY0FlbDhSS1pacUloZ244cHg3MGRVamVYeHlBWFdUS3hz?oc=5",
-      "source": "Android Authority",
-      "tag": "android",
-      "site": "https://news.google.com/",
-      "date": "2026-11-20T12:26:00.000Z"
     },
     {
       "title": "FreeBSD GUS",
